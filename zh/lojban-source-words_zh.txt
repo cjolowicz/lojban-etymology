@@ -116,7 +116,7 @@ cfila	flaw	cia	瑕		xiá	blemish; flaw in jade	cf. 瑕疵 [xiá cī] ``blemish; 
 cfine	wedge	cie	楔		xiē	to wedge; wedge	
 cfipu	confuse	ciau	淆		xiáo	confused	source: zhongwen.com; cf. 混淆 [hùn xiáo] ``obscure; confuse; mix up; blur'' (compound)
 ciblu	blood	ciue	血		xuè	blood	
-cicna	cyan	cian	酰		xiān	chem.) -acyl; acid radical	FIXIT missing
+cicna	cyan	cian	酰		xiān	(chem.) -acyl; acid radical	FIXIT missing
 cidja	food	ci	食		shí	animal feed; eat; food	cf. 饎 [chì] ``food; to cook'' (variant)
 cidni	knee	ci	膝		xī	knee	
 cidro	hydrogen	cin	氫	氢	qīng	hydrogen	
@@ -201,7 +201,7 @@ cpina	pungent	cin	辛		xīn	8th heavenly stem; tired	FIXIT dubious; ``scharf (= 
 cradi	radio	uuciandian	無線電	无线电	wú xiàn diàn	wireless	
 crane	front	cian	前		qián	before; in front; ago; former; previous; earlier; front	
 creka	shirt	cencan	襯衫	衬衫	chèn shān	shirt; blouse	
-crepu	harvest	ceu	收		shōu	to receive; to accept; to collect; in care of (used on address line after name)	`` Ernte, ernten (= harvest)'' (source: chinaboard.de); cf. 收成 [shōu cheng] ``harvest'' (compound)
+crepu	harvest	ceu	收		shōu	to receive; to accept; to collect; in care of (used on address line after name)	``Ernte, ernten (= harvest)'' (source: chinaboard.de); cf. 收成 [shōu cheng] ``harvest'' (compound)
 cribe	bear	cien	熊		xióng	bear; to scold; to rebuke	
 crida	fairy	cian	僊	仙	xiān	immortal	cf. 仙女 [xiān nǚ] ``fairy'' (compound); ``fairy; god; divine'' (source: zhongwen.com)
 crino	green	cin	青		qīng	green (blue, black); Qinghai province (abbrev.)	
@@ -278,7 +278,7 @@ dilnu	cloud	iun	雲	云	yún	cloud; (abbr.) for Yunnan; surname
 dimna	fate	iun	運	运	yùn	to move; to transport; to use; to apply; fortune; luck; fate	
 dinju	building	jianju	建築	建筑	jiàn zhù	building; construct	
 dinko	nail	din	釘	钉	dīng	nail	
-dinri	daytime	ri	日		rì	day; sun; date; day of the month; Japan (abbrev.)	
+donri	daytime	ri	日		rì	day; sun; date; day of the month; Japan (abbrev.)	
 dirba	dear	bau	寶	宝	bǎo	a jewel or gem; a treasure; precious	
 dirce	radiate	ce	射		shè	radio- (chem.); shoot	cf. 幅射 [fú shè] ``radiation; radiate'' (compound)
 dirgo	drop	di	滴		dī	a drop; to drip	
