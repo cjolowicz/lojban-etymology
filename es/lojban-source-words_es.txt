@@ -303,6 +303,16 @@ dilnu	cloud	nub	nube	a cloud; a multitude, or crowd, of people
 dimna	fate	destin	destino	destiny, fate; destination; position, post; first-person singular indicative present of destinar	
 dinju	building	edifisi	edificio	building	
 dinko	nail	klav	clavo	nail, spike; clove	
+dirba	dear	kerid	querido	dear; sweatheart; past participle of querer	
+dirce	radiate	radi	radiar	radiate	
+dirgo	drop	got	gota	a drop	
+dizlo	low	baxo	bajo	under, in both literal and figurative senses; low, in both literal and figurative senses	
+djacu	water	agu	agua	water	
+djedi	day	di	día	period of daylight: day; period of rotation of a planet: day (especially Earth's 24 hours day)	
+djica	desire	dese	desear	to wish	
+djica	desire	ker	querer	to desire; to want; to love; to be fond of; (an indication of a request)	
+djine	ring	ar	aro		
+djuno	know	konos	conocer	to know (a person), to be familiar with	
 donri	daytime	di	día	period of daylight: day; period of rotation of a planet: day (especially	
 draci	drama	dram	drama	drama	
 drani	correct	korekt	correcto	correct; well-behaved	
