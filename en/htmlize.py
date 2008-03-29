@@ -34,10 +34,6 @@ dt { margin-top: 1em; }
   font-style: italic;
   font-size: smaller; 
 }
-#notes {
-  font-family: serif;
-  font-size: smaller;
-}
 
 /*]]>*/
   </style>
@@ -46,7 +42,7 @@ dt { margin-top: 1em; }
 </head>
 
 <body>
-<h1>English etymology of Lojban<br/><span id="version">Version 1.0, March 2008</span></h1>
+<h1>English etymology of Lojban<br/><span id="version">Version 1.1, March 2008</span></h1>
 
 <hr/>
 <div class="index">

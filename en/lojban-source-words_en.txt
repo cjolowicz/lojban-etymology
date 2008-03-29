@@ -287,6 +287,16 @@ dilnu	cloud	klaud	cloud
 dimna	fate	dum	doom	
 dinju	building	bildin	building	
 dinko	nail	neil	nail	
+dirba	dear	dir	dear	
+dirce	radiate	reidieit	radiate	
+dirgo	drop	drop	drop	
+dizlo	low	lo	low	
+djacu	water	akua	aqua-	
+djacu	water	akui	aqueous	
+djedi	day	dei	day	
+djica	desire	dizair	desire	
+djine	ring	rin	ring	
+djuno	know	no	know	
 donri	daytime	deilait	daylight	
 donri	daytime	deitaim	daytime	
 draci	drama	drama	drama	
@@ -596,7 +606,7 @@ kumte	camel	kaml	camel
 kunra	mineral	minrl	mineral	
 kunti	empty	vaiknt	vacant	
 kurfa	square	skuar	square	
-kurji	take	ker	care	
+kurji	take care	ker	care	
 kurki	bitter	akrid	bitter	
 kuspe	range	span	span	
 kusru	cruel	krul	cruel	
