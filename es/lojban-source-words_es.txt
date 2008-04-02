@@ -28,7 +28,7 @@ bargu	arch	arke	arquear	to arch
 bargu	arch	bras	brazo	arm; branch	
 barja	bar	bar	bar	bar, pub	
 barna	mark	mark	marca	brand; mark	
-bartu	out	for	fuera	outside; see also afuera; first-person singular (yo) imperfect subjunctive form of ir; formal second-person singular (usted) imperfect subjunctive form of ir; third-person singular (él, ella, also used with usted) imperfect; first-person singular (yo) imperfect subjunctive form of ser; formal second-person singular (usted) imperfect subjunctive form of ser; third-person singular (él, ella, also used with usted) imperfect	
+bartu	out	for	fuera	outside	
 basna	emphasize	asent	acentuar	to accentuate, emphasize, distinguish, elevate	
 basti	replace	sustitu	sustituir	to replace	
 batci	bite	mord	morder	to bite, to nip; to gnaw; to grasp, to clutch; to wear away, to wear down; to eat into (as acid on metal); to criticize, to run down, to gossip about, to find fault with	
@@ -55,11 +55,11 @@ binxo	become	konvertirs	convertirse
 birje	beer	serves	cerveza	beer	
 birka	arm	bras	brazo	arm; branch	
 birti	certain	siert	cierto	certain; sure; true	
-bisli	ice	ial	hielo	ice; first-person singular indicative present of helar	
+bisli	ice	ial	hielo	ice	
 bitmu	wall	mur	muro	wall	
 blabi	white	blank	blanco	white; target	
 blaci	glass	kristal	cristal	crystal; glass, glasseware	
-blaci	glass	vidri	vidrio	the first-person singular of vidriar in the present indicative	
+blaci	glass	vidri	vidrio	glass	
 blanu	blue	asul	azul	blue; blue	
 bliku	block	blok	bloque	bloc; block (street block or a piece of something)	
 bloti	boat	bot	bote	boat; vessel, container	
@@ -89,15 +89,15 @@ cafne	often	frekont	frecuente	frequent
 cakla	chocolate	cokolat	chocolate	chocolate (food made from cocoa beans; confectionery); (slang) hash	
 calku	shell	kask	cáscara		
 canci	vanish	desvanes	desvanecer	to vanish	
-cando	idle	osio	ocioso		
-cando	idle	repos	reposo	the first-person singular of reposar in the present indicative	
+cando	idle	osio	ocio	leisure	
+cando	idle	repos	reposo	repose	
 cange	farm	granx	granja	a farm	
 canja	exchange	kanxe	canjear	to exchange	
 canko	window	ventan	ventana	window; nostril; a small gap or opening	
 canlu	space	lugar	lugar	place	
 canpa	shovel	pal	pala	shovel, spade	
 canre	sand	aren	arena	sand, gravel; bullfight arena; boxing ring	
-canti	gut	entran	entraña		FIXIT dubious ``core''
+canti	gut	entran	entrañas	entrails; insides; bowels	
 carce	cart	car	carro	a cart; an automobile (Latin America); a train car (Latin America); (uncountable) the Big Dipper constellation	
 carmi	intense	brii	brillar	to shine	
 carna	turn	gir	girar	to turn	
@@ -113,7 +113,7 @@ catra	kill	mat	matar	to put out; to kill; to butcher; to dull; to round off; to 
 caxno	shallow	bax	bajo	under, in both literal and figurative senses; low, in both literal and figurative senses	
 cecla	launcher	ec	echar	to throw; to pour; to let out; to emit; to kick out; to miss someone or something	
 cecmu	community	komunidad	comunidad	community	
-cedra	era	era	era	first-person singular (yo) imperfect indicative form of ser; formal second-person singular (usted) imperfect indicative form of ser; third-person singular (él, ella, also used with usted) imperfect; era	
+cedra	era	era	era	era	
 cenba	vary	kambi	cambiar	to change or modify	
 cenba	vary	mud	mudar	to change, to alter, to vary; to convert; to move, to relocate, to move to a new house; to shed, to molt; to change clothes	
 censa	holy	sak	sacro		
@@ -186,20 +186,20 @@ claxu	without	sin	sin	without
 clika	mossy	liken	liquen		
 clira	early	tempraner	temprano	early; early	
 clite	polite	kortes	cortés	politely, with courtesy	
-cliva	leave	va	va	formal second-person singular (usted) present indicative form of ir; third-person singular (él, ella, also used with usted) present indicative	FIXIT dubious
+cliva	leave	va	va	he/she/it goes	third-person singular present indicative of ir (to go); cf. ``irse'' (to go away; to leave; to depart); if endings are removed from ``irse'' nothing remains
 clupa	loop	las	lazo	ribbon; lasso; bow (type of knot); link; bond	
 cmaci	mathematics	matematik	matemáticas	mathematics (study of numbers, shapes, structure and change and the; plural form of matemática; plural form of matemática	
 cmalu	small	peken	pequeño	small; little	
 cmalu	small	poko	poco	little; little, not much; little, not much	
 cmana	mountain	mont	monte	mountain, mount	
 cmana	mountain	montan	montaña	mountain	
-cmene	name	monbre	nombre	name	FIXIT correct transcription ``nombre''
+cmene	name	monbre	nombre	name	correct transcription ``nombre''
 cmene	name	nombre	nombre	name	
 cmila	laugh	re	reír	to laugh	
 cmima	member	miembr	miembro	member, limb	
 cmoni	moan	gem	gemir	to groan	
 cmoni	moan	kex	queja	complaint	
-cnano	norm	noral	normal	normal, standard, regular	FIXIT correct transcription ``normal''
+cnano	norm	noral	normal	normal, standard, regular	correct transcription ``normal''
 cnebo	neck	koi	cuello	neck	
 cnemu	reward	premi	premiar	to reward	
 cnici	orderly	ase	aseado	past participle of asear	
@@ -277,14 +277,14 @@ dasni	wear	iev	llevar	(transitive) take, carry; (transitive) to take; to lead; t
 dasni	wear	vest	vestir	to dress, to clothe, to attire; to wear; to adorn, to bedeck, to embellish; to disguise, to cover up; to make clothes for, to dress	
 daspo	destroy	destru	destruir	to destroy	
 dasri	ribbon	sint	cinta	ribbon, worn by girls in the hair; tape	
-dasri	ribbon	xiron	jirón	rag; shred	FIXIT dubious
+dasri	ribbon	xiron	jirón	rag; shred	
 datka	duck	pat	pato	duck, drake; (vulgar, slang) homosexual, faggot	
 datni	data	estadistik	estadística	statistics (the mathematical science)	
 degji	finger	ded	dedo	finger, toe, digit	
 dejni	owe	deb	deber	(transitive) to owe; (transitive) should; (transitive) must	
-dekpu	gallon	arob	arroba	an ancient unit of measure of weight or volume, still used in some contexts;1 liters as measure of wine; the @ symbol, used to signify this unit	``An arroba was a Spanish and Portuguese unit of weight, mass or volume. In weight it is equal to about 25 pounds. The word arroba has its origin in Arabic ar-rubʿ (الربع), the fourth part (of a quintal).'' (source: en.wikipedia.org)
+dekpu	gallon	arob	arroba	an ancient unit of measure of weight or volume, still used in some contexts;1 liters as measure of wine; the @ symbol, used to signify this unit	``An arroba was a Spanish and Portuguese unit of weight, mass or volume. In weight it is equal to about 25 pounds. The word arroba has its origin in Arabic ar-rubʿ, the fourth part (of a quintal).'' (source: en.wikipedia.org)
 dekpu	gallon	faneg	fanega		source: http://www.unc.edu/~rowlett/units/
-dekpu	gallon	kantar	cantar	to sing	FIXIT dubious; possibly a derivation of the Arab form of ``quintal'', see http://www.unc.edu/~rowlett/units/
+dekpu	gallon	kantar	cántara	old Spanish volume unit equivalant to 16.13 liters	see http://www.zingzang.org/historiaviva/cocina/medidas_v2-ing.shtml
 dekpu	gallon	kuartii	cuartillo		source: http://www.unc.edu/~rowlett/units/
 dembi	bean	abicol	habichuela	bean (plant or seed)	
 denci	tooth	dient	diente	tooth; clove (of garlic)	
@@ -300,7 +300,7 @@ diklo	local	lokal	local	the premises
 dikni	regular	siklik	cíclico		
 dilcu	quotient	division	división	division	
 dilnu	cloud	nub	nube	a cloud; a multitude, or crowd, of people	
-dimna	fate	destin	destino	destiny, fate; destination; position, post; first-person singular indicative present of destinar	
+dimna	fate	destin	destino	destiny, fate; destination; position, post	
 dinju	building	edifisi	edificio	building	
 dinko	nail	klav	clavo	nail, spike; clove	
 dirba	dear	kerid	querido	dear; sweatheart; past participle of querer	
@@ -318,8 +318,8 @@ draci	drama	dram	drama	drama
 drani	correct	korekt	correcto	correct; well-behaved	
 drani	correct	xust	justo	right; exactly; tightly; just	
 drata	other	otr	otro	other, another; not again! or What, again?	
-drudi	roof	tec	techo	ceiling; the first-person singular of techar in the present indicative	
-drudi	roof	texod	tejado		FIXIT correct transcription ``tex''
+drudi	roof	tec	techo	ceiling	
+drudi	roof	texod	tejado		correct transcription ``texad''
 dugri	logarithm	logaritmik	logaritmica		
 dukse	excess	ekses	exceso	excess	
 dukti	opposite	kontrari	contrario	contrary, opposite; opposed, against	
@@ -327,7 +327,7 @@ dunda	give	dar	dar	(transitive) to give; (transitive) to hand over; (transitive)
 dunda	give	don	donar		
 dunja	freeze	el	helar	to freeze	
 dunja	freeze	konxel	congelar	to freeze	
-dunku	anguish	angusti	angustia	the third-person singular of angustiar in the present indicative; the second-person singular of angustiar in the imperative	
+dunku	anguish	angusti	angustia	anguish	
 dunli	equal	igual	igual	equal	
 dunra	winter	inviern	invierno	winter	
 dzena	ancestor	abol	abolengo	ancestry	
@@ -401,7 +401,7 @@ galxe	throat	gasnat	gaznate
 ganlo	closed	ser	cerrado	Shut; closed	
 ganra	broad	anc	ancho	wide; broad; width	
 ganse	sense	sentid	sentido	deeply felt, heartfelt; sense; meaning; direction; feeling; past participle of sentir	
-ganti	testicle	test	test-		FIXIT dubious
+ganti	testicle	test	testículo	(anatomy) testicle	
 ganti	testicle	testikul	testículo	(anatomy) testicle	
 ganxo	anus	an	ano	anus	
 ganzu	organize	organis	organizar	to organize	
@@ -426,11 +426,11 @@ gleki	happy	felis	feliz	happy; pleased; innocent
 gletu	copulate	koit	coito	sexual intercourse	
 gletu	copulate	kopul	copular	to copulate	
 gluta	glove	guant	guante	Glove (hand-wear)	
-gradu	unit	grad	grado	degree; grade; step; the first-person singular of gradar in the present indicative	
+gradu	unit	grad	grado	degree; grade; step	
 grake	gram	gram	gramo	gram	
 grana	rod	vara	vara	a stick or pole or rod; a staff of office; (obsolete) a unit of length, about;836 metre; half a braza	
 grasu	grease	gras	grasa	fat or grease used in cooking; nutritional fat	
-greku	frame	estruktur	estructura	structure; the third-person singular of estructurar in the present indicative; the second-person singular of estructurar in the imperative	
+greku	frame	estruktur	estructura	structure	
 grusi	gray	gris	gris	grey, gray	
 grute	fruit	frut	fruta	an edible fruit	
 gubni	public	publik	público	public; audience; public	
@@ -451,7 +451,7 @@ gutci	cubit	var	vara	a stick or pole or rod; a staff of office; (obsolete) a uni
 gutra	womb	uter	útero	uterus; womb	
 guzme	melon	melon	melón	melon	
 jabre	brake	fren	frenar	to restrain	
-jadni	adorn	adorn	adorno	first-person singular (yo) present indicative form of adornar	
+jadni	adorn	adorn	adornar	to adorn	
 jakne	rocket	koet	cohete	a rocket; (San Antonio) a pistol	
 jalge	result	result	resultado	result	
 jalna	starch	almidon	almidón	starch	
@@ -466,16 +466,16 @@ jansu	diplomat	konsul	cónsul	consul
 janta	account	kont	cuenta	bill; account; report; third person singular present indicative form of contar	
 jarbu	suburb	arrabal	arrabal		
 jarco	show	eksib	exhibir	to show	
-jarki	narrow	angost	angosto	first-person singular (yo) present indicative form of angostar	
+jarki	narrow	angost	angosto	narrow	
 jaspu	passport	pasaport	pasaporte	passport	
 jatna	captain	kapitan	capitán	captain	
 javni	rule	regl	regla	rule; ruler; menstruation	
 jbama	bomb	bomb	bomba	bomb; pump	
 jbari	berry	bai	baya	berry (a small fruit)	
 jbena	born	nas	nacer	to be born	
-jbera	borrow				FIXIT Spanish source word missing in the original gismu etymology file
+jbera	borrow				Spanish source word missing in the original gismu etymology file
 jbini	between	entr	entre	between, among	
-jdari	firm	dur	duro	hard; firm, solid; tough, resilient, strong; cruel, severe, harsh; unbearable, offensive; mean, stingy, ungenerous; rough, uncouth; (Mexico) drunk, tipsy; I last, I endure, I remain (first-person singular indicative present of durar)	
+jdari	firm	dur	duro	hard; firm, solid; tough, resilient, strong; cruel, severe, harsh; unbearable, offensive; mean, stingy, ungenerous; rough, uncouth	
 jdice	decide	desid	decidir	to decide	
 jdika	decrease	dekres	decrecer	to decrease	
 jdima	price	kost	costo	cost	
@@ -503,7 +503,7 @@ jgira	pride	enorguies	enorgullecerse
 jgira	pride	orgui	orgullo	pride	
 jgita	guitar	gitarist	guitarrista	guitarist, guitar player	
 jibni	near	serk	cerca	close; near; around; fence	
-jibri	job	emple	empleo	the first-person singular of emplear in the present indicative	
+jibri	job	emple	empleo	employment	
 jibri	job	trabax	trabajo	work	
 jicla	stir	atis	atizar		
 jicla	stir	axit	agitar	to shake; to wave	
@@ -513,7 +513,7 @@ jijnu	intuit	intu	intuir
 jikca	socialize	sosial	social	social	
 jikru	liquor	likor	licor	liqueur	
 jilka	alkali	alkalin	alcalino	alkaline	
-jilra	jealous	envidi	envidioso		
+jilra	jealous	envidi	envidiar	to envy	
 jimca	branch	ram	rama	branch	
 jimpe	understand	komprend	comprender	to understand, to comprehend	
 jimte	limit	limit	límite	limit	
@@ -527,7 +527,7 @@ jinto	well	font	fuente	spring(water), fountain; source
 jinvi	opine	opin	opinar	to think; to be of the opinion; to express	
 jinzi	innate	inat	innato		
 jipci	chicken	poi	pollo	chicken; a Mexican paying to be smuggled illegally into the United States of	
-jipno	tip	ekstrem	extremo	the first-person singular of extremar in the present indicative	
+jipno	tip	ekstrem	extremo	butt; end; extreme; outermost; tip	
 jipno	tip	konter	contera		
 jipno	tip	punt	punta	end	
 jirna	horn	korn	cuerno	horn; croissant; (usually in plural, colloquial) sexual or marital infidelity	
@@ -537,7 +537,7 @@ jitfa	false	fals	falso	false; untrue; fake; counterfeit
 jitro	control	kontrol	controlar	to control	
 jivbu	weave	tex	tejer	to knit; to weave; to spin (a web, a tale)	
 jivna	compete	kompet	competir	(intransitive) to compete	
-jmaji	gather	amas			FIXIT missing; confusion with ``amass'' != ``amasar''?
+jmaji	gather	amas			missing; possible confusion with ``amass'' != ``amasar''; cf. ``juntarse, reunirse, congregarse''
 jmifa	shoal	bax	bajo	under, in both literal and figurative senses; low, in both literal and figurative senses	FIXIT dubious
 jmifa	shoal	baxi	bajío		
 jmina	add	anad	añadir	augment; add	
@@ -551,9 +551,9 @@ jukpa	cook	kos	cocer	to boil
 jukpa	cook	kosin	cocinar	to cook	
 julne	net	red	red	web, mesh; trap, snare; net, network; (computing) web, Internet	
 jundi	attentive	atend	atender	(transitive) to pay attention to (something); to attend to (something); (transitive) to care for (someone, especially the ill); (transitive) to comply with (some rule); (intransitive) to pay attention; to mind	
-junla	clock	relo	reloj	a clock; a watch, wristwatch	FIXIT correct transcription ``relox''
+junla	clock	relo	reloj	a clock; a watch, wristwatch	correct transcription ``relox''
 junri	serious	seri	serio	serious; true	
-junta	weight	pesantes	peso	weight; currency of some countries: peso	FIXIT correct transcription ``pes''; confusion with ``pesadez'' /pesades/ or Italian ``pesante'' /pezante/?
+junta	weight	pesantes	pesantez	heaviness	correct transcription ``pesant''
 jurme	germ	xermen	germen		
 jursa	severe	rigures	riguroso		FIXIT correct transcription ``riguros''
 jutsi	species	espesi	especie	species; type, sort, kind	
@@ -614,7 +614,7 @@ klesi	class	klas	clase	class; kind
 klina	clear	klar	claro	light, bright; clear	
 kliru	chlorine	klor	cloro	chlorine	
 kliti	clay	arsii	arcilla	clay	
-kliti	clay	bar	barro	first-person singular (yo) present indicative form of barrer; mud; clay	
+kliti	clay	bar	barro	mud; clay	
 klupe	screw	tornii	tornillo		
 kluza	loose	blus	blusa		
 kobli	cabbage	kol	col	cabbage	
@@ -622,7 +622,7 @@ kojna	corner	rinkon	rincón	corner (inside), angle; nook, cosy corner; haven, re
 kolme	coal	karbon	carbón	coal; charcoal	
 komcu	comb	pein	peine	comb	
 konju	cone	kon	cono	cone	
-korbi	edge	orii	orilla	shore; the third-person singular of orillar in the present indicative; the second-person singular of orillar in the imperative	
+korbi	edge	orii	orilla	edge; shore	
 korcu	bent	torsid	torcido	torqued; twisted; winding	
 korka	cork	korc	corcho	cork	
 kosta	coat	kasak	casaca		
@@ -677,7 +677,7 @@ latna	lotus	lot	loto	lotus
 lazni	lazy	peres	perezoso		
 lebna	take	tom	tomar	to take; to drink, esp; an alcoholic beverage; to travel by means of	
 lenjo	lens	lent	lente	lens	
-lenku	cold	fir	frío	cold, coldness; cold; first-person singular indicative present of freír	FIXIT correct transcription ``fri''
+lenku	cold	fir	frío	cold, coldness; cold	correct transcription ``fri''
 lerci	late	avans	avanzado	advanced; past participle of avanzar	
 lerci	late	tard	tarde	afternoon; evening	
 lerfu	letteral	letr	letra	a letter (symbol); handwriting; (plural) lyrics	
@@ -706,13 +706,13 @@ lunsa	condense	kondens	condensar	to condense
 mabla	derogative	mal	mal	(before the noun) apocopic form of malo; bad; evil; badly; poorly; evil; harm; a bad thing or situation	
 mabru	mammal	mamifer	mamífero	mammalian; mammal	
 macnu	manual	manual	manual	manual	
-makcu	mature	madur	maduro	ripe; (said of people) of relatively old age; the first-person singular of madurar in the present indicative	
+makcu	mature	madur	maduro	ripe; (said of people) of relatively old age	
 makfa	magic	maxi	magia	magic; spell, charm, conjuration	
 maksi	magnet	iman	imán	magnet; attraction, charm; imam	
 malsi	temple	iglesi	iglesia	church	
 mamta	mother	mam	mamá	mum, mom (USA)	
-manci	wonder	maravii	maravilla	wonder, marvel; the third-person singular of maravillar in the present indicative; the second-person singular of maravillar in the imperative	
-manfo	uniform	uniform	uniforme	uniform, even; uniform, dress uniform; the first-person singular of uniformar in the present subjunctive; the third-person singular of uniformar in the present subjunctive; the third-person singular of uniformar in the imperative	
+manci	wonder	maravii	maravilla	wonder, marvel	
+manfo	uniform	uniform	uniforme	uniform, even; uniform, dress uniform	
 manku	dark	oskur	oscuro	dark	
 manri	reference	kriteri	criterio		
 mansa	satisfy	satisfas	satisfacer	to satisfy, fulfil / fulfill	
@@ -721,7 +721,7 @@ mapku	cap	gor	gorra	baseball cap
 mapku	cap	sombrer	sombrero	hat	
 mapni	cotton	algodon	algodón	cotton	
 mapti	fit	apt	apto		
-marbi	shelter	ampar	amparo	shelter, sanctuary; protection; aid, relief; exemption, pardon; first-person singular (yo) present indicative form of amparar	
+marbi	shelter	ampar	amparo	shelter, sanctuary; protection; aid, relief; exemption, pardon	
 marce	vehicle	veikul	vehículo	vehicle	
 marde	morals	moral	moral		
 margu	mercury	merkuri	mercurio	mercury	
@@ -740,7 +740,7 @@ maxri	wheat	trig	trigo	wheat
 mebri	brow	frent	frente	forehead; front	
 melbi	beautiful	bel	bello	beautiful	
 menli	mind	ment	mente	mind, intellect	
-mensi	sister	erman	hermana	feminine form of hermano; sister; the third-person singular of hermanar in the present indicative; the second-person singular of hermanar in the imperative	
+mensi	sister	erman	hermana	feminine form of hermano; sister	
 mentu	minute	minut	minuto	minute (60 seconds)	
 merli	measure	med	medir	to measure	
 midju	middle	medi	medio	half, half a/an; middle, mid; mid, in the middle of; mean, average; a bit of a, somewhat of a; middle, center; half; medium (spiritualism); method, way; (plural) means; channel, vehicle, medium; (plural) media; (plural) resources, funds, means; environment, surroundings, medium, milieu; society; habitat; (soccer) halfback; middle course; (Mexico) medio (an ancient coin); (Peru, Cuba) five cents; half, partly; I get halfway, I am halfway, I am in the middle, I am half-finished; I intervene, I intercede, I come between	
@@ -781,7 +781,7 @@ mrilu	mail	kore	correo	mail
 mruli	hammer	martii	martillo	hammer; (anatomy) malleus; auction house	
 mucti	immaterial	inmaterial	inmaterial		
 mudri	wood	mader	madera	wood	
-mukti	purpose	motiv	motivo	the first-person singular of motivar in the present indicative; reason, ground, motive	
+mukti	purpose	motiv	motivo	reason, ground, motive	
 mulno	complete	komplet	completo	full, complete; completed; (Chile) hot dog	
 munje	universe	univers	universo	universe	
 mupli	example	exempl	ejemplo	example; instance	
@@ -801,7 +801,7 @@ nanla	boy	nin	niño	Boy; child
 nanmu	man	ombr	hombre	man; (colloquial) husband; a top in male-male sex; man!	
 narge	nut	nos	nuez	walnut (nut)	
 narju	orange	naranx	naranja	orange (fruit of an orange tree); orange (colour of a ripe orange fruit)	
-natfe	deny	net	negar	to deny	FIXIT correct transcription ``nex''
+natfe	deny	net	negar	to deny	correct transcription ``neg''
 natmi	nation	nasion	nación	nation	
 navni	neon	neon	neón	neon	
 naxle	canal	kanal	canal	canal (waterway); channel (of television); (communication) channel; (chemistry) channel; cleavage	
@@ -827,7 +827,7 @@ nurma	rural	rural	rural	rural
 nutli	neutral	neutral	neutral		
 nuzba	news	novas	nuevas		
 pacna	hope	esper	esperar	to hope to (with subjunctive verb form); to wait to	
-pagbu	part	part	parte	part, section, portion; message, report, dispatch; traffic ticket, sticker; third-person singular present tense of partir	
+pagbu	part	part	parte	part, section, portion; message, report, dispatch; traffic ticket, sticker	
 pagre	pass	pas	pasar	to pass; (intransitive) to happen; (transitive) to spend time; (intransitive) to enter a room; (reflexive) to go too far, to exaggerate; (reflexive) to ripen too much, to become rotten, off (food); (transitive) to pass (filter); to have a good time;	
 pajni	judge	xusg	juzgar	(transitive) to judge; (transitive) to try (a case); (transitive) to consider; (transitive) to pass judgment	
 palci	evil	mal	mal	(before the noun) apocopic form of malo; bad; evil; badly; poorly; evil; harm; a bad thing or situation	
@@ -872,7 +872,7 @@ pinca	urine	orin	orina	urine
 pindi	poor	indixent	indigente		
 pinfu	prisoner	prisioner	prisionero	prisoner	
 pinji	penis	pen	pene	penis	
-pinka	comment	glos	glosa	the third-person singular of glosar in the present indicative; the second-person singular of glosar in the imperative	
+pinka	comment	glos	glosa	gloss	
 pinka	comment	koment	comentar	to comment	
 pinsi	pencil	lapis	lápiz	pencil	
 pinta	level	orizontal	horizontal		
@@ -903,7 +903,7 @@ prami	love	am	amar	to love, have great affection for, care about
 prane	perfect	perfekt	perfecto	perfect	
 preja	spread	propag	propagar	to propagate	
 prenu	person	person	persona	person	
-preti	question	pregunt	pregunta	the third-person singular of preguntar in the present indicative; the second-person singular of preguntar in the imperative; question	
+preti	question	pregunt	pregunta	question	
 prije	wise	sabi	sabio	learned; prudent; wise; learned person; wise person	
 prije	wise	sagas	sagaz		
 prina	print	imprim	imprimir	to print	
@@ -950,17 +950,17 @@ renvi	survive	sobreviv	sobrevivir	to survive
 respa	reptile	reptil	reptil		
 ricfu	rich	rik	rico	rich; luxurious; tasty	
 rigni	disgust	repugnansi	repugnancia		
-rijno	silver	arxentos	argento	silver	FIXIT correct transcription ``arxent''
+rijno	silver	arxentos	argentoso	containing silver	
 rilti	rhythm	ritm	ritmo	rhythm	
-rimni	rhyme	rim	rima	rhyme; consonance; (plural) poems, poetry; heap, pile; you/he/she/it rhymes (2nd/3rd-person singular indicative of rimar); you/he/she/it writes poetry	
+rimni	rhyme	rim	rima	rhyme; consonance; (plural) poems, poetry; heap, pile	
 rinci	drain	desagu	desaguar		
 rinci	drain	eskur	escurrir	to wring	
 rinju	restrain	refren	refrenar	to rein in	
-rinka	cause	kaus	causa	cause; lawsuit; first-person singular indicative present of causar; second-person singular imperative of causar	
+rinka	cause	kaus	causa	cause; lawsuit	
 rinsa	greet	salud	saludar	to greet	
 rirci	rare	rar	raro	strange or odd; rare	
 rirni	parent	kri	criar	to raise	
-rirxe	river	ri	río	river; first-person singular indicative present of reír	
+rirxe	river	ri	río	river	
 rismi	rice	aros	arroz	rice	
 risna	heart	korason	corazón	heart	
 ritli	rite	rit	rito	rite, ritual	
@@ -991,7 +991,7 @@ salpo	slope	sesg	sesga
 salta	salad	ensalad	ensalada	salad	
 samcu	cassava	niam	ñame	yam	
 sampu	simple	simpl	simple	simple; mere, uncomplicated, easy; single; insipid; simpleton, fool; (pharmacology, masculine) simple	
-sance	sound	son	son	an Afro-Cuban musical form; a musical composition in this form; second-person plural (ustedes) present indicative form of ser; third-person plural (ellos, ellas, also used with ustedes) present	
+sance	sound	son	son	sound; rumour	
 sanga	sing	kant	cantar	to sing	
 sanji	conscious	konsient	consciente	conscious	
 sanli	stand	levant	levantado	past participle of levantar	
@@ -1024,12 +1024,12 @@ sfasa	punish	kastig	castigar	to punish, castigate
 sfofa	sofa	sof	sofá	sofa	
 sfubu	dive	buse	bucear	to dive, to swim under water; to snorkel; to work as a diver; (figuratively) to delve into	
 siclu	whistle	silb	silbar		
-sicni	coin	fic	ficha	the third-person singular of fichar in the present indicative; the second-person singular of fichar in the imperative	
+sicni	coin	fic	ficha	file; chip; record; token	
 sidbo	idea	ide	idea	idea	
 sidju	help	aiud	ayuda	help; third person present of ayudar, to help (he/she/it helps)	
 sigja	cigar	sigar	cigarro	cigar	
 silka	silk	sed	seda	silk	
-silna	salt	sal	sal	salt; informal second-person singular (“tú”) affirmative imperative form of salir	
+silna	salt	sal	sal	salt	
 simlu	seem	pares	parecer	to seem; to believe (pronominal use); to think (pronominal use); appearance, seem	
 simsa	similar	similar	similar		
 simxu	mutual	resiprok	recíproco		
@@ -1061,7 +1061,7 @@ sligu	solid	solid	sólido	solid; strong, firm
 slilu	oscillate	osil	oscilar	to oscillate	
 sliri	sulfur	sulfur	sulfuro		
 sluji	muscle	muskul	músculo	(uncountable) muscle tissue; (countable) muscle (organ)	
-sluni	onion	por			FIXIT missing
+sluni	onion	por	puerro	leek	
 sluni	onion	seboi	cebolla	onion	
 smacu	mouse	raton	ratón	mouse	
 smadi	guess	adivin	adivinar	to divine or foretell	
@@ -1075,12 +1075,12 @@ snada	succeed	konseg	conseguir	to achieve; to get or acquire
 snanu	south	sud	sud		
 snanu	south	sur	sur	south	
 snidu	second	segund	segundo	second (after the first); a second (time)	
-snime	snow	niev	nieve	snow; third-person singular subjunctive present of nevar	
+snime	snow	niev	nieve	snow	
 snipa	sticky	pegadiso	pegadizo		
 snuji	sandwich	sanduic	sandwich		
 snura	secure	segur	seguro	secure, safe (free from danger); certain (correct); certain (firm)	
 snuti	accidental	aksidental	accidental		
-sobde	soya	soi	soy	first-person singular (yo) present indicative form of ser; I am	
+sobde	soya	soi	soya	soya	
 sobde	soya	sox	soja	soya, soybean; soy (soy sauce)	
 sodna	sodium	sod	sodio	sodium	FIXIT correct transcription ``sodi''
 sodva	soda	sod	soda		
@@ -1094,11 +1094,11 @@ sovda	egg	ov	huevo	egg; spawn
 spaji	surprise	sorprend	sorprender	to surprise	
 spali	polish	pul	pulir	to polish	
 spati	plant	plant	planta	plant	
-speni	married	espos	esposo	husband; first-person singular indicative present of esposar	
+speni	married	espos	esposo	husband	
 spisa	piece	pies	pieza	piece, part	
 spita	hospital	ospital	hospital	hospital	
-spofu	broken	rot	roto	past participle of romper, broken; broken; corrupt, rotten; first-person singular indicative present of rotar	
-spoja	explode	eksplo	explotar	to exploit	FIXIT correct transcription ``eksplot''
+spofu	broken	rot	roto	broken; corrupt, rotten	
+spoja	explode	eksplo	explotar	to explode	correct transcription ``eksplot''
 spuda	reply	respond	responder	to answer	
 sputu	spit	esput	esputar	to expectorate; to spit	
 sraji	vertical	derec	derecho	right, right-hand; straight, upright; correct, appropriate; right (direction, entitlement); law; path, road; right side; duties, taxes, fees, charges	
@@ -1106,7 +1106,7 @@ sraji	vertical	vertikal	vertical
 sraku	scratch	rask	rascar	to scratch	
 srana	pertain	konsern	concernir	to concern	
 srasu	grass	ierb	hierba	herb; grass; (slang) marijuana	
-srera	err	ier	yerro	error; blunder; first-person singular (yo) present indicative form of errar	
+srera	err	ier	yerro	error; blunder	
 sruma	assume	asum	asumir	(said of a duty or position) to assume	
 sruri	surround	sirkund	circundar	to surround	
 stace	honest	onest	honesto	honest	
@@ -1126,17 +1126,17 @@ stidi	suggest	indik	indicar	to indicate
 stika	adjust	axust	ajustar	to adjust	
 stizu	chair	sii	silla	chair	
 stodi	constant	konstant	constante		
-stuna	east	est	este	east; this	
-stura	structure	estruktur	estructura	structure; the third-person singular of estructurar in the present indicative; the second-person singular of estructurar in the imperative	
+stuna	east	est	este	east	
+stura	structure	estruktur	estructura	structure	
 stuzi	site	siti	sitio	place	
 sucta	abstract	apstrakt	abstracto	abstract	
 sudga	dry	sek	seco	dry	
 sufti	hoof	pesuni	pezuña		
 suksa	sudden	subit	súbito	suddenly	
-sumji	sum	sum	suma	the third-person singular of sumar in the present indicative; the second-person singular of sumar in the imperative	
+sumji	sum	sum	suma	addition; summation	
 sumne	smell	ol	oler	to smell	
 sumne	smell	olfate	olfatear	to sniff	
-sumti	argument	suxet	sujeto	the first-person singular of sujetar in the present indicative	
+sumti	argument	suxet	sujeto	subject of a sentence	
 sunga	garlic	axo	ajo	garlic	
 sunla	wool	lan	lana	wool; (slang) cash, money	
 surla	relax	relax	relajar	to relax	
@@ -1163,13 +1163,13 @@ tapla	tile	tex	teja	tile; type of noodle; a type of chocolate from Peru
 tarbi	embryo	fet	feto	fetus	
 tarci	star	estrei	estrella	star	
 tarla	tar	brea	brea	tar, pitch; tarpaulin	
-tarmi	shape	form	forma	shape; form; third-person singular indicative present of formar; second-person singular imperative of formar	
+tarmi	shape	form	forma	shape; form	
 tarti	behave	komport	comportarse		
-taske	thirst	sed	sed	thirst; informal second-person plural (“vosotros” or “vosotras”) affirmative	
+taske	thirst	sed	sed	thirst	
 tatpi	tired	fatig	fatigado		
 tatru	breast	tet	teta	breast	
 tavla	talk	abl	hablar	(intransitive) to talk; to speak; to communicate using words; (transitive) to speak (a language)	
-taxfu	garment	trax	traje	suit, dress; first-person singular (yo) preterite indicative form of traer	
+taxfu	garment	trax	traje	suit, dress	
 tcaci	custom	kostumbr	costumbre	habit	
 tcaci	custom	us	uso	use; usage; habit; wear (degradation)	
 tcadu	city	siudad	ciudad	city, large town	
@@ -1206,9 +1206,9 @@ tixnu	daughter	ix	hija	daughter; feminine form of hijo
 toknu	oven	orn	horno	oven; furnace	
 toldi	butterfly	polii	polilla	moth	
 tonga	tone	ton	tono	tone	
-tordu	short	kort	corto	short (length)	
+tordu	short	kort	corto	short (length)	cf. cortar ``to cut'' (variant)
 torni	twist	tors	torcer	to twist; to bend	
-traji	superlative	ekstrem	extremo	the first-person singular of extremar in the present indicative	
+traji	superlative	ekstrem	extremo	butt; end; extreme; outermost; tip	
 trano	nitrogen	nitr	nitro-		
 trati	taut	tirant	tirante	strap	
 trene	train	tren	tren	train	
@@ -1244,7 +1244,7 @@ vamji	value	valu	valuar
 vamtu	vomit	vomit	vomitar	to vomit, to be sick	
 vanbi	environment	ambient	ambiente	atmosphere; environment	
 vanci	evening	anoceser	anochecer	dusk, nightfall; to become night, get dark, be somewhere by dark	
-vanju	wine	vin	vino	wine; formal second-person singular (usted) preterite indicative form of venir; third-person singular (él, ella, also used with usted) preterite	
+vanju	wine	vin	vino	wine	
 vasru	contain	vasix	vasija	vessel	
 vasxu	breathe	respir	respirar	to breathe	
 vecnu	sell	vend	vender	(transitive) to sell	
@@ -1267,11 +1267,11 @@ virnu	brave	valient	valiente	valiant, brave, courageous
 viska	see	vist	vista	sight; view	
 vitci	irregular	intermitent	intermitente	intermittent	
 vitke	guest	visit	visitar	to visit	
-vitno	permanent	eterno	eterno	eternal	FIXIT correct transcription ``etern''
+vitno	permanent	eterno	eterno	eternal	correct transcription ``etern''
 vlagi	vulva	vulva	vulva		
-vlile	violent	violent	violento	the first-person singular of violentar in the present indicative	
+vlile	violent	violent	violento	violent	
 vlina	alternation	alternativ	alternativa	an alternative, option; alternation	
-vlipa	powerful	poder	poder	power, reign; authorization; to be able, can	FIXIT correct transcription ``pod''
+vlipa	powerful	poder	poder	power, reign; authorization; to be able, can	correct transcription ``pod''
 vlipa	powerful	potensi	potencia	power	
 vofli	flight	vol	vuelo	flight; first person singular present tense form of volar	
 voksa	voice	vos	voz	voice	

@@ -14,7 +14,7 @@ header = '''\
   <meta name="author" content="mublin" />
   <meta name="description" content="Spanish source words for Lojban gismu" />
   <meta name="keywords" content="Spanish, etymology, Lojban, gismu" />
-  <meta name="date" content="2008-03-25" />
+  <meta name="date" content="2008-04-02" />
   <link rel="copyright" href="README.html" title="Public domain" />
   <link rev="made" href="mailto:mublin@dealloc.org" title="Feedback" />
   <style type="text/css">
@@ -43,7 +43,7 @@ dt { margin-top: 1em; }
 </head>
 
 <body>
-<h1>Spanish etymology of Lojban<br/><span id="version">Version 1.2, March 2008</span></h1>
+<h1>Spanish etymology of Lojban<br/><span id="version">Version 1.3, April 2008</span></h1>
 
 <hr/>
 <div class="index">
