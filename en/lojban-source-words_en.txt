@@ -21,7 +21,7 @@ banzu	suffice	safaiz	suffice
 bapli	force	kampel	compell	
 barda	big	larj	large	
 bargu	arch	arc	arch	
-bargu	arch	arm	arch	
+bargu	arch	arm	arm	
 barja	bar	bar	bar	
 barna	mark	mark	mark	
 bartu	out	aut	out	
@@ -77,7 +77,6 @@ bumru	fog	mist	mist
 bunda	pound	paund	pound	
 bunre	brown	braun	brown	
 burcu	brush	brac	brush	
-burna	embarrassed	dimencn	embarrassed	
 burna	embarrassed	imberast	embarrassed	
 cabna	now	nau	now	
 cabra	apparatus	aparatas	apparatus	
@@ -154,7 +153,7 @@ cipni	bird	brd	bird
 cipra	test	pruf	proof	
 cirko	lose	luz	lose	
 cirla	cheese	ciz	cheese	
-ciska	write	skraib	sribe	
+ciska	write	skraib	scribe	
 cisma	smile	smail	smile	
 ciste	system	sistm	system	
 citka	eat	it	eat	
