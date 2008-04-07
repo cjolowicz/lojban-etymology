@@ -29,11 +29,18 @@ dt { margin-top: 1em; }
 #version { font-size: medium; }
 .index { text-align: center; }
 .gismu { font-weight: bold; }
-.russian { font-style: italic; }
-.comment { 
+.russian { font-weight: bold; color: red; }
+.korolev, .wiktionary, .comment { 
   font-family: monospace;
   font-style: italic;
   font-size: smaller; 
+}
+.dictionary {
+  font-family: monospace;
+  font-style: italic;
+  font-size: smaller; 
+  font-variant: small-caps;
+  text-transform: lowercase;
 }
 
 /*]]>*/
@@ -43,7 +50,7 @@ dt { margin-top: 1em; }
 </head>
 
 <body>
-<h1>Russian etymology of Lojban<br/><span id="version">Version 1.0, April 2008</span></h1>
+<h1>Russian etymology of Lojban<br/><span id="version">Version 1.1, April 2008</span></h1>
 
 <hr/>
 <div class="index">
@@ -88,6 +95,11 @@ entry = '''\
   %s
 </dd>'''
 
+entry_translation = '''\
+<dd class="entry_translation">
+  %s
+</dd>'''
+
 extra = '''\
 <dd class="extra">
   %s
@@ -115,6 +127,8 @@ for line in sys.stdin:
     gismu, keyword, lojbanisation, \
            russian, \
            iso9, \
+           korolev, \
+           wiktionary, \
            comment = line.split('\t')
 
     if gismu and gismu[0] != initial:
@@ -131,15 +145,27 @@ for line in sys.stdin:
     lojbanisation = span("jbo", "lojbanisation", lojbanisation)
     russian       = span("ru", "russian", russian)
     iso9          = span("ru", "iso9", iso9)
+    korolev       = span("en", "korolev", korolev)
+    wiktionary    = span("en", "wiktionary", wiktionary)
     comment       = span("en", "comment", comment)
 
     lojbanisation = wrap("[]", lojbanisation)
     iso9          = wrap("[]", iso9)
+    korolev       = wrap("&ldquo; &rdquo;".split(), korolev)
+    wiktionary    = wrap("&ldquo; &rdquo;".split(), wiktionary)
 
     print entry % (
         gismu, keyword, lojbanisation, 
         russian, iso9)
 
+    if korolev:
+        korolev += ' ' + span('en', 'dictionary', '(Korolev)')
+        print entry_translation % korolev
+    
+    if wiktionary:
+        wiktionary += ' ' + span('en', 'dictionary', '(Wiktionary)')
+        print entry_translation % wiktionary
+    
     if comment:
         print extra % comment
 
