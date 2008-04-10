@@ -42,7 +42,7 @@ dt { margin-top: 1em; }
 </head>
 
 <body>
-<h1>Russian etymology of Lojban<br/><span id="version">Version 1.3, April 2008</span></h1>
+<h1>Russian etymology of Lojban<br/><span id="version">Version 1.4, April 2008</span></h1>
 
 <hr/>
 <div class="index">
