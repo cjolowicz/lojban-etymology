@@ -28,7 +28,7 @@ barda	big	balcoi	большой	bolʹšoj	big; large; great
 bargu	arch	ruka	рука	ruka	hand; arm; handwriting	
 bargu	arch	vigibat	выгибать	vygibatʹ	bend; curve	
 barja	bar	bar	бар	bar	bar; snack bar	
-barna	mark	piitna	пятно	pâtno	spot; stain; blot; blur; blotch; slur; stigma pl. -mas; -mata	correct transcription ``piitno''
+barna	mark	piitna	пятно	pâtno	spot; stain; blot; blur; blotch; slur; stigma	correct transcription ``piitno''
 bartu	out	naruju	наружу	naružu	out; outside; on the outside; in the open	
 basna	emphasize	aksintirav	акцентировать	akcentirovatʹ	accent; accentuate	source: http://www.rambler.ru/dict/
 basti	replace	smin	сменять	smenâtʹ	change; replace; relieve; take over; supersede	
@@ -45,13 +45,13 @@ berti	north	sievir	север	sever	the north
 besna	brain	mosk	мозг	mozg	brain; marrow; brains	
 betfu	abdomen	jivot	живот	život	belly; stomach; abdomen; life	
 betri	tragedy	tragicn	трагичный	tragičnyj	tragic	source: http://dictionary.reverso.net/russian-english/
-bevri	carry	nisti	нести	nesti	lay eggs; carry; bring; carry swiftly; bear; swiftly; sweep; drive; bolt; perform; burble	
-bidju	bead	bisir	бисер	biser	beads pl.	
+bevri	carry	nisti	нести	nesti	carry; bring; carry swiftly; bear swiftly; sweep; drive; bolt; perform; burble	
+bidju	bead	bisir	бисер	biser	beads	
 bifce	bee	pcel	пчела	pčela	bee	
 bikla	whip	bic	бич	bič	whip; lash; scourge	
 bilga	obliged	dolg	долг	dolg	duty; debt	
 bilma	ill	balno	больной	bolʹnoj	ill; sick; sore; bad; invalid; sick person; sick man; patient; case	
-bilni	military	vaien	военный	voennyj	war attr. martial; military; military man; serviceman	
+bilni	military	vaien	военный	voennyj	war (attr.); martial; military; military man; serviceman	
 binra	insure	straxav	страховать	strahovatʹ	insure; provide safety measures; ensure to safety	
 binxo	become	dien	денется	denetsâ		FIXIT dubious
 binxo	become	stanav	становиться	stanovitʹsâ	become; get; grow; stand; take up one`s position	
@@ -60,13 +60,13 @@ birka	arm	ruka	рука	ruka	hand; arm; handwriting
 birti	certain	uvierin	уверенный	uverennyj	confident; sure	
 bisli	ice	liot	лёд	lëd	ice	
 bitmu	wall	stina	стена	stena	wall	
-blabi	white	biel	белый	belyj	white; White; White sg.	
+blabi	white	biel	белый	belyj	white; White	
 blaci	glass	stiklo	стекло	steklo	glass; glassware	
 blanu	blue	galuboi	голубой	goluboj	light-blue; sky-blue; idealized; gay; homosexual	
 bliku	block	glib	глыба	glyba	great lump; block	
 bloti	boat	lotk	лодка	lodka	boat	
 bolci	ball	car	шар	šar	ball; sphere; globe	
-bongu	bone	kost	кость	kostʹ	bone; tusks pl.; dice; bones; bead	
+bongu	bone	kost	кость	kostʹ	bone; tusks; dice; bones; bead	
 botpi	bottle	butilk	бутылка	butylka	bottle	
 boxfo	sheet	folg	фольга	folʹga	foil	
 boxna	wave	valna	волна	volna	wave; breaker	
@@ -84,9 +84,9 @@ bunre	brown	bur	бурый	buryj	greyish-brown
 burcu	brush	ciotka	щётка	ŝëtka	brush; fetlock	
 burna	embarrassed	smuc	смущать	smuŝatʹ	upset; disturb; embarrass; confuse; disconcert; worry	
 cabna	now	seicas	сейчас	sejčas	now; at present; at the present moment; just now; a moment ago; in a moment; just; directly; at once	
-cabra	apparatus	aparat	аппарат	apparat	apparatus; system; machinery; bodies pl.; personnel	
+cabra	apparatus	aparat	аппарат	apparat	apparatus; system; machinery; bodies; personnel	
 cacra	hour	cas	час	čas	time; hour; period	
-cadzu	walk	xad	ходить	hoditʹ	no walk throuth the town; go walk; wear; go; attend; visit; go to see; run; move; play; lead; look	
+cadzu	walk	xad	ходить	hoditʹ	go; walk; wear; attend; visit; go to see; run; move; play; lead; look	
 cafne	often	cast	часто	často	favour; honour; be favoured; have the good fortune to; often; frequently; thickly; densely; closely	
 cakla	chocolate	cakalat	шоколад	šokolad	chocolate	
 calku	shell	abalock	оболочка	oboločka	envelope; outer skin; shell; form; appearance; capsule	
@@ -107,9 +107,9 @@ cartu	chart	kart	карта	karta	map; chart; card
 carvi	rain	doct	дождь	doždʹ	rain	
 casnu	discuss	absujd	обсуждать	obsuždatʹ	discuss; debate	
 catke	shove	talk	толкать	tolkatʹ	push; shove; give; a push/shove; instigate; put	
-catlu	look	smatr	смотреть	smotretʹ	look; gase; use; regard; take notice; treat; take care; look over; have a look; see; examine; look out; look on; overlook	
+catlu	look	smatr	смотреть	smotretʹ	look; gaze; regard; take notice; treat as; take care; look over; have a look; see; examine; look out; look on; overlook	
 catni	authority	vlastn	властный	vlastnyj	powerful; strong; imperious; masterful; commanding	
-catra	kill	trav	травить	travitʹ	ease out; slacken out; slack away; poison; make; sore; torment; etch; damage; hunt; hound; victimize; persecute	
+catra	kill	trav	травить	travitʹ	poison; make; sore; torment; etch; damage; hunt; hound; victimize; persecute; ease out; slacken out; slack away	
 caxno	shallow	mielk	мелкий	melkij	small; fine; petty; shallow; narrow; little; mean-spirited	
 cecla	launcher	pusk	пускать	puskatʹ	let; go; set; free; let in; start; set going; put/set in motion; start off; send off; throw; toss; put; spread; put out	
 cecla	launcher	stril	стрелять	strelâtʹ	shoot; fire	
@@ -117,7 +117,7 @@ cecmu	community	obcin	община	obŝina	community; commune
 cecmu	community	raion	район	rajon	area; region; district; locality	
 cedra	era	era	эра	èra	era	
 cenba	vary	menia	меняться	menâtʹsâ	exchange; change; relieve one another; be changed	
-censa	holy	sviit	святой	svâtoj	holy; Saint; sacred; saint	
+censa	holy	sviit	святой	svâtoj	holy; saint; sacred	
 cerda	heir	naslied	наследовать	nasledovatʹ	inherit; be heir; succeed	
 cerni	morning	utr	утро	utro	morning	
 certu	expert	ikspiert	эксперт	èkspert	expert; expert witness; consultant; specialist; examiner	
@@ -125,13 +125,13 @@ cevni	god	bajestvo	божество	božestvo	divinity; deity
 cevni	god	bok	бог	bog	god	source: http://www.rambler.ru/dict/
 cfari	initiate	nacin	начинать	načinatʹ	begin; start; commence	
 cfika	fiction	fiksi	фикция	fikciâ	fiction; illusion	
-cfila	flaw	nidastat	недостаток	nedostatok	deficiency; lack; shortage; shortcoming; defect; want sg. poverty sg	
+cfila	flaw	nidastat	недостаток	nedostatok	deficiency; lack; shortage; shortcoming; defect; want; poverty	
 cfine	wedge	klin	клин	klin	wedge; field; gusset	
 cfipu	confuse	put	путать	putatʹ	tangle; muddle up; mix up; confuse; get mixed up; mix things up; take for; implicate in; involve in; hobble	
 ciblu	blood	krof	кровь	krovʹ	blood; gore; breed; strain; descent; bloodshed	
-cicna	cyan	sian	циан	cian	cyanogen	source: http://ru.wikipedia.org/
+cicna	cyan	sian	циан	cian	cyan; cyanogen	source: http://ru.wikipedia.org/
 cidja	food	pic	пища	piŝa	food nourishment	
-cidni	knee	kaliena	колено	koleno	knee; knees; lap sg; length; section; elbow; generation; phrase; figure	
+cidni	knee	kaliena	колено	koleno	knee; knees; lap; length; section; elbow; generation; phrase; figure	
 cidro	hydrogen	vadarod	водород	vodorod	hydrogen	
 cifnu	infant	rebion	ребёнок	rebënok	child	
 cigla	gland	jiliza	железа	železa	gland	
@@ -158,9 +158,9 @@ cinla	thin	xud	худой	hudoj	bad; holey; thin; lean
 cinmo	emotion	cufstvav	чувствовать	čuvstvovatʹ	feel; sense; be aware	
 cinri	interesting	intiries	интересный	interesnyj	interesting; attractive; good-looking	
 cinse	sexual	siksualn	сексуальный	seksualʹnyj	sexual; sexy	
-cinta	paint	krask	краска	kraska	dyeing; colour; paint; pigment; colouring sg. tints; colours; flush	
+cinta	paint	krask	краска	kraska	dyeing; colour; paint; pigment; colouring; tints; colours; flush	
 cinza	tongs	cipsi	щипцы	ŝipcy	pincers; tongs; wavers; curling tongs/irons	
-cipni	bird	ptis	птица	ptica	bird; birds pl. fowl	
+cipni	bird	ptis	птица	ptica	bird; fowl	
 cipra	test	prob	проба	proba	trial; test; sample; carat; hallmark	
 cirko	lose	tiriat	терять	terâtʹ	lose; shed; lose one`s sight; hearing	
 cirla	cheese	sir	сыр	syr	cheese	
@@ -183,7 +183,7 @@ ckasu	ridicule	nasmix	насмехаться	nasmehatʹsâ	mock; jeer; taunt; gi
 ckeji	ashamed	stidn	стыдный	stydnyj	shameful	source: http://www.rambler.ru/dict/
 ckiku	key	kliuc	ключ	klûč	spring; key; clue; clef	
 ckilu	scale	ckala	шкала	škala	scale; dial; indicator panel; escalation	
-ckini	related	radnia	родня	rodnâ	relatives pl. relations pl.; relative; relation	
+ckini	related	radnia	родня	rodnâ	relatives; relations; relative; relation	
 ckire	grateful	blagadarn	благодарный	blagodarnyj	grateful; thankful; gratifying; rewarding	
 ckire	grateful	priznatiln	признательный	priznatelʹnyj	grateful; thankful	
 ckule	school	ckol	школа	škola	school; school building; schoolhouse	
@@ -196,20 +196,20 @@ clira	early	ran	ранний	rannij	early
 clite	polite	viejliv	вежливый	vežlivyj	polite; civil; courteous	
 cliva	leave	it	идти	idti	go; move; travel; leave; come; approach; march; advance; attack; join; enter; progress; head; follow; go round; be on; flow; sell; run; stretch; work; fall; go by; pass; be; be in progress; proceed; agree; be used; be spent; suit; go right; play	cf. уйти [ujti] ``to leave''
 cliva	leave	uxad	уход	uhod	care; maintenance; departure; leaving; retiring; resignation	
-clupa	loop	lieli	петля	petlâ	loop; stitch; meander; somersault; winding/meandering track sg.; buttonhole; eye; hinge	correct transcription ``pietli''
+clupa	loop	lieli	петля	petlâ	loop; stitch; meander; somersault; winding/meandering track; buttonhole; eye; hinge	correct transcription ``pietli''
 cmaci	mathematics	matimatik	математика	matematika	mathematics	
 cmalu	small	mal	малый	malyj	small; slight; light; a little; fellow; boy; lad; kid	
 cmana	mountain	gara	гора	gora	mountain; hill; heap; pile	
 cmene	name	imen	именовать	imenovatʹ	name	
 cmila	laugh	smi	смеяться	smeâtʹsâ	laugh; make fun; joke	
 cmima	member	clien	член	člen	limb; part; member: fellow; article	
-cmoni	moan	ston	стонать	stonatʹ	moan; groan; groan under the yoke	
+cmoni	moan	ston	стонать	stonatʹ	moan; groan	
 cnano	norm	narmaln	нормальный	normalʹnyj	normal; sane	
 cnebo	neck	ciei	шея	šeâ	neck	
 cnemu	reward	nagrajd	награждать	nagraždatʹ	reward; confer; endow; bestow upon	
 cnici	orderly	akuratn	аккуратный	akkuratnyj	neat; tidy; thorough; accurate; exact; punctual; reliable; conscientious	
 cnici	orderly	apriatn	опрятный	oprâtnyj	tidy; neat; clean	
-cnino	new	nov	новый	novyj	new; modern; the new; what is new; news	
+cnino	new	nov	новый	novyj	new; modern; the new, what is new; news	
 cnisa	lead	svinies	свинец	svinec	lead	
 cnita	beneath	vnis	внизу	vnizu	below; downstairs	
 cokcu	soak	fsasiv	всасывать	vsasyvatʹ	soak; suck; absorb	
@@ -217,12 +217,12 @@ cokcu	soak	paglac	поглощать	pogloŝatʹ	absorb; soak up; swallow up; en
 condi	deep	glubok	глубокий	glubokij	deep; profound; late	
 cortu	pain	bol	боль	bolʹ	pain; ache	
 cpacu	get	paluc	получать	polučatʹ	receive; get; obtain	
-cpana	upon	na	на	na	here; on; in; at; to; for; by; during; upon; with; worth; into; keen; having an urge; speculate; gamble; take advantage; exploit; cash in; please	
-cpare	climb	liest	лезть	leztʹ	get in; put one`s hand; push; butt in; come out; fall out; wear thin; go on	
+cpana	upon	na	на	na	on; in; at; to; for; by; here	
+cpare	climb	liest	лезть	leztʹ	climb	
 cpedu	request	pros	просить	prositʹ	ask; intercede; invite; beg	cf. просьба [prosʹba] ``request''
 cpedu	request	spracib	спрашивать	sprašivatʹ	ask; inquire; question; charge; make; answer	
 cpina	pungent	pikantn	пикантный	pikantnyj	piquant; savoury; spicy; fascinating; fetching	
-cradi	radio	radio	радио	radio	fading; valve; tube; valve attr.; directional; radio; wireless; frame aerial; bias; amplifier; amplifying	
+cradi	radio	radio	радио	radio	radio; wireless	
 crane	front	piriedn	передний	perednij	front	
 creka	shirt	ruback	рубашка	rubaška	shirt; slip; chemise; jacket	
 crepu	harvest	jat	жатва	žatva	reaping; harvest-time; harvest	
@@ -235,9 +235,9 @@ crisa	summer	pet	лето	leto	summer	correct transcription ``liet''
 critu	autumn	osin	осень	osenʹ	autumn; fall	
 ctaru	tide	atliv	отлив	otliv	ebb; falling tide; falling off; withdrawal; tinge	
 ctaru	tide	priliv	прилив	priliv	rising tide; flood tide; influx; rush; afflux; surge; upsurge	
-ctebi	lip	guba	губа	guba	bay; birth; lip	
+ctebi	lip	guba	губа	guba	lip	
 cteki	tax	nalok	налог	nalog	due; duty; levy; imposition; tax	
-cteki	tax	sbor	сбор	sbor	collection; harvest; gathering; picking; yield: gross grain yield; charge; fee; tax; levy; duty; dues pl.; box-office takings pl. gatemoney; assemlbly; meeting; preparations; training	
+cteki	tax	sbor	сбор	sbor	collection; harvest; gathering; picking; yield: gross grain yield; charge; fee; tax; levy; duty; dues; box-office takings; gatemoney; assembly; meeting; preparations; training	
 ctile	petroleum	nieft	нефть	neftʹ	oil; petroleum	
 ctino	shadow	tien	тень	tenʹ	shade; shadow; figure; shape; ghost; suspicion	
 ctuca	teach	uc	учить	učitʹ	teach; learn; study	
@@ -251,7 +251,7 @@ cunmi	millet	pcino	пшено	pšeno	millet
 cunso	random	cans	шанс	šans	chance	
 cuntu	affair	diel	дело	delo	affair; work; business; matter	
 cupra	produce	praizvad	производить	proizvoditʹ	make; carry out; produce; bring forth; bear	
-curmi	let	pazval	позволять	pozvolâtʹ	allow to permit to; make it possible	
+curmi	let	pazval	позволять	pozvolâtʹ	allow to; permit to; make it possible	
 curmi	let	razrec	разрешать	razrešatʹ	allow; permit; let; pass; solve; settle	
 curnu	worm	cerf	червь	červʹ	worm; maggot; bug; virus; germ	
 curnu	worm	cerv	червяк	červâk	worm	source: http://dictionary.reverso.net/russian-english/
@@ -287,10 +287,10 @@ dasni	wear	nas	носить	nositʹ	carry; bear; bear along; drive; wear; have o
 daspo	destroy	razruc	разрушать	razrušatʹ	destroy; demolish; wreck; ruin	
 dasri	ribbon	palasa	полоса	polosa	strip; stripe; stretch; zone; belt; period; page	
 datka	duck	utk	утка	utka	duck; canard; false report	
-datni	data	dani	данные	dannye	data; facts; information sg.; makings; qualities	
+datni	data	dani	данные	dannye	data; facts; information; makings; qualities	
 degji	finger	palis	палец	palec	finger; toe; digit; pin; cam	
 dejni	owe	doljn	должный	dolžnyj	due; proper	
-dekpu	gallon	boutilk	бутылка	butylka	bottle	correct transcription ``butilk''; cf. винная бутылка [vinnaâ butylka] ``winebottle (volume measure equivalent to 768.75 millilitres)''; cf. водочная бутылка [vodočnaâ butylka] ``vodkabottle (volume measure equivalent to 615 millilitres)''
+dekpu	gallon	boutilk	бутылка	butylka	bottle	correct transcription ``butilk''; cf. винная бутылка [vinnaâ butylka] ``winebottle (volume measure equivalent to 768.75 millilitres)''; cf. водочная бутылка [vodočnaâ butylka] ``vodkabottle (volume measure equivalent to 615 millilitres)'' (source: http://www.lajzar.co.uk/dokuwiki/doku.php?id=unit:russian_units)
 dekpu	gallon	garnetz	гарнец	garnec	volume measure equivalent to 3.28 litres = 1/8 chetverik	source: http://www.lajzar.co.uk/dokuwiki/doku.php?id=unit:russian_units
 dekpu	gallon	vedro	ведро	vedro	pail; bucket	volume measure equivalent to 12.3 litres = 10 shtoff, or 16 vinebottles, or 20 vodkabottles (source: http://www.lajzar.co.uk/dokuwiki/doku.php?id=unit:russian_units)
 dembi	bean	bob	боб	bob	bean; beans	
@@ -299,7 +299,7 @@ denci	tooth	zup	зуб	zub	tooth; cog
 denmi	dense	gust	густой	gustoj	thick; dense; deep; rich	
 denmi	dense	plotn	плотный	plotnyj	solid; compact; firm; dense; thick; close-woven; strong; thickset; substantial; hearty	
 denpa	wait	pauz	пауза	pauza	pause	
-dertu	dirt	griaz	грязь	grâzʹ	dirt; filth; mud; slush; mire; mud sg.	
+dertu	dirt	griaz	грязь	grâzʹ	dirt; filth; mud; slush; mire; mud	
 derxi	heap	grud	груда	gruda	pile; heap	
 derxi	heap	kip	кипа	kipa	bundle; pile; heap; bale	
 derxi	heap	kuc	куча	kuča	head; pile; a lot; heaps; piles	
@@ -324,7 +324,7 @@ djacu	water	vada	вода	voda	water
 djedi	day	dien	день	denʹ	day	
 djica	desire	jil	желать	želatʹ	wish, desire	
 djine	ring	kalso	кольцо	kolʹco	ring; the rings; circular route; circle; ring road	
-djuno	know	zna	знать	znatʹ	nobility; aristocracy; know	
+djuno	know	zna	знать	znatʹ	know	
 donri	daytime	dien	день	denʹ	day	
 draci	drama	dram	драма	drama	drama; tragedy	
 drani	correct	praviln	правильный	pravilʹnyj	correct; regular; right; proper; real; well-proportioned; symmetrical	
@@ -350,8 +350,8 @@ fange	alien	inastran	иностранный	inostrannyj	foreign
 fanmo	end	kaniets	конец	konec	end; way; rope`s end	
 fanri	factory	fabrik	фабрика	fabrika	factory; mill; plant	
 fanta	prevent	pridatvrac	предотвращать	predotvraŝatʹ	avert; prevent; ward off	
-fanva	translate	pirivad	переводить	perevoditʹ	take; across; transfer; move; translate from into; interpret from... into; put; remit; transmit; convert to; exterminate; waste	
-fanza	annoy	razdraj	раздражать	razdražatʹ	irritate; . be irritated; lose one`s temper	
+fanva	translate	pirivad	переводить	perevoditʹ	take across; transfer; move; translate; interpret; put; remit; transmit; convert to; exterminate; waste	
+fanza	annoy	razdraj	раздражать	razdražatʹ	irritate	
 fapro	oppose	protif	противиться	protivitʹsâ	be opposed; object; resist	
 farlu	fall	pad	падать	padatʹ	fall; drop; be cast; come out; fall out	
 farna	direction	starana	сторона	storona	side; way; land: native land; one`s own country; aspect; party	
@@ -369,7 +369,7 @@ fenki	crazy	umalicion	умалишённый	umališënnyj	mad; lunatic; madman
 fenra	crack	triecin	трещина	treŝina	crack; fissure; rift; defect; something wrong	
 fenso	sew	cit	шить	šitʹ	sew; make	
 fenso	sew	strac	строчить	stročitʹ	stitch; scribble; blaze away	
-fepni	cent	kopek	копейка	kopejka	copeck; funds pl. purse	
+fepni	cent	kopek	копейка	kopejka	copeck; funds; purse	
 fepri	lung	lioxk	лёгкое	lëgkoe	lung; lights pl	
 ferti	fertile	pladarodn	плодородный	plodorodnyj	fertile	
 festi	waste	rastac	расточать	rastočatʹ	waste; squander; lavish; be lavish	
@@ -383,8 +383,8 @@ flani	flute	flieit	флейта	flejta	flute
 flecu	flow	tiec	течь	tečʹ	leak; flow; run; be leaky; be leaking; pass; pass on	
 fliba	fail	niudacn	неудачный	neudačnyj	unsuccessful; poor	
 flira	face	liso	лицо	lico	face; character; person; right side	
-foldi	field	pol	поле	pole	field; ground; margin sg.; brim sg.	
-fonmo	foam	pien	пена	pena	foam; froth; lather; suds pl.	
+foldi	field	pol	поле	pole	field; ground; margin; brim	
+fonmo	foam	pien	пена	pena	foam; froth; lather; suds	
 fonxa	telephone	tilifon	телефон	telefon	telephone; phone	
 forca	fork	vilk	вилка	vilka	fork	
 frati	react	atklik	откликаться	otklikatʹsâ	respond	
@@ -402,7 +402,7 @@ fusra	rotten	gnit	гнить	gnitʹ	rot; decay
 fusra	rotten	tuxn	тухнуть	tuhnutʹ	go bad; spoil; become rotten; go out	
 fuzme	responsible	atvic	отвечать	otvečatʹ	answer; reply; be responsible; correspond	
 fuzme	responsible	atviesven	ответственный	otvetstvennyj	responsible	correct transcription ``atvietstven''
-gacri	cover	kriv	покрывать	pokryvatʹ	cover; roof; coat; paint; drown; pay off; discharge; yкрывать hush up; protect	correct transcription ``pakriv''
+gacri	cover	kriv	покрывать	pokryvatʹ	cover; roof; coat; paint; drown; pay off; discharge; hush up; protect	correct transcription ``pakriv''
 gadri	article	artikl	артикль	artiklʹ	article	source: http://www.rambler.ru/dict/
 galfi	modify	madifisirav	модифицировать	modificirovatʹ	modify	
 galtu	high	visok	высокий	vysokij	high; tall; great; elevated; lofty; high-pitched	
@@ -414,9 +414,9 @@ ganse	sense	custv	чувство	čuvstvo	sense; sensation; feeling; emotion; co
 ganti	testicle	iick	яичко	âičko	testicle	
 ganxo	anus	zadniiproxod	задний проход	zadnij prohod	rectum	source: http://dictionary.reverso.net/russian-english/
 ganzu	organize	arganiz	организовать	organizovatʹ	organize	
-gapci	gas	gas	газ	gaz	gauze; gas; flatulence sg.; wind sg.	
+gapci	gas	gas	газ	gaz	gas; flatulence, wind; gauze	
 gapru	above	navirxu	наверху	naverhu	above; upstairs	
-garna	rail	piril	перила	perila	rail; balustrade sg.; banisters	
+garna	rail	piril	перила	perila	rail; balustrade; banisters	
 gasnu	do	diel	делать	delatʹ	do; make	
 gasta	steel	stal	сталь	stalʹ	steel	
 genja	root	korin	корень	korenʹ	root	
@@ -429,8 +429,8 @@ ginka	camp	lagir	лагерь	lagerʹ	camp
 girzu	group	grup	группа	gruppa	group	
 gismu	primitive	korin	корень	korenʹ	root	
 gismu	primitive	pirvabitn	первобытный	pervobytnyj	primitive; primeval; savage; fossil	
-glare	hot	gariac	горячий	gorâčij	hot; fiery; keen; eager; ardent; fervent; hot-tempered; spirited; heat attr.; busy	
-gleki	happy	radav	радовать	radovatʹ	gladden; make; happy	
+glare	hot	gariac	горячий	gorâčij	hot; fiery; keen; eager; ardent; fervent; hot-tempered; spirited; heat; busy	
+gleki	happy	radav	радовать	radovatʹ	gladden; make happy	
 gleki	happy	scasfliv	счастливый	sčastlivyj	happy; fortunate; lucky	correct transcription ``scastliv''
 gletu	copulate	savakupl	совокупляться	sovokuplâtʹsâ	copulate	source: http://www.rambler.ru/dict/
 gluta	glove	percat	перчатка	perčatka	glove	
@@ -440,7 +440,7 @@ grana	rod	palk	палка	palka	stick; walking-stick; staff
 grana	rod	prut	прут	prut	twig; switch; rod	
 grasu	grease	maslo	масло	maslo	oil; butter	
 greku	frame	struktur	структура	struktura	structure	
-grusi	gray	sier	серый	seryj	grey; dull; drab colourless; ignorant	
+grusi	gray	sier	серый	seryj	grey; dull; drab; colourless; ignorant	
 grute	fruit	frukt	фрукт	frukt	fruit	
 gubni	public	publicn	публичный	publičnyj	public	
 gugde	country	rodin	родина	rodina	native land; motherland; mother country; homeland; birth-place; land; home	
@@ -448,13 +448,13 @@ gugde	country	strana	страна	strana	country; land
 gundi	industry	industri	индустрия	industriâ	industry	
 gunka	work	rabot	работать	rabotatʹ	work; be; teach; train; work for the benefit; be on smb.`s side; be working in smb.`s favour; use; operate; run; go; function; be open	
 gunka	work	trudis	трудиться	truditʹsâ	work; toil; labour; be working; bother; take the trouble	FIXIT correct transcription ``trud''
-gunma	jointly	mas	масса	massa	mass; dough; pulp; substance; the bulk; a lot; heaps; pl	
+gunma	jointly	mas	масса	massa	mass; dough; pulp; substance; the bulk; a lot; heaps	
 gunro	roll	kat	катиться	katitʹsâ	roll; slide; move; echo	
 gunse	goose	gus	гусь	gusʹ	goose	
 gunta	attack	napad	нападать	napadatʹ	attack; assault; come across; come upon; come over; jump on; a lot of snow has fallen	
 gurni	grain	zirno	зерно	zerno	grain; kernel; core	
 guska	scrape	skabl	скоблить	skoblitʹ	scrape; scour	
-gusni	illumine	sviet	свет	svet	the world: no ~y all the world over; all over the world; society; world; light	
+gusni	illumine	sviet	свет	svet	light; world, society	
 gusta	restaurant	ristaran	ресторан	restoran	restaurant	
 gutci	cubit	fut	фут	fut	foot	
 gutra	womb	matka	матка	matka	female; queen; womb; uterus	
@@ -468,10 +468,10 @@ jalra	cockroach	tarakan	таракан	tarakan	cockroach; black-beetle
 jamfu	foot	naga	нога	noga	leg; foot	
 jamna	war	voina	война	vojna	war; warfare	
 janbe	bell	zvanok	звонок	zvonok	bell; ring	
-janco	shoulder	plico	плечо	plečo	shoulder; humerus pl. -ri; arm	
+janco	shoulder	plico	плечо	plečo	shoulder; humerus; arm	
 janli	collide	stalkiv	сталкиваться	stalkivatʹsâ	collide; run into; clash; come across; be confronted; be faced	
 jansu	diplomat	konsul	консул	konsul	consul	
-janta	account	sciot	счёт	sčët	calculation; reckoning; result; total; score; bill; the account sg.; accounts; scores	
+janta	account	sciot	счёт	sčët	calculation; reckoning; result; total; score; bill; the account; accounts; scores	
 jarbu	suburb	prigared	пригород	prigorod	suburb	
 jarco	show	ekspanirav	экспонировать	èksponirovatʹ	exhibit	
 jarco	show	vistavl	выставлять	vystavlâtʹ	take out; remove; put out; turn out; put; forward; stick out; propose; bring up; mount; post; set; display; exhibit; show; present	
@@ -486,15 +486,15 @@ jbera	borrow	brat	брать	bratʹ	take; charge; exact; borrow; capture; overco
 jbini	between	miejd	между	meždu	between; among	
 jdari	firm	jiostk	жёсткий	žëstkij	hard; harsh; wiry; coarse; tough; rigid; strict	
 jdari	firm	tviord	твёрдый	tvërdyj	solid; hard; steadfast; firm; well-balanced; steady; strong; stable; established; fixed; sound	
-jdice	decide	ric	решать	rešatʹ	decide to inf make up one`s mind to inf rosolve to inf; decide; solve; work out; tackle; work on	
+jdice	decide	ric	решать	rešatʹ	decide to; make up one`s mind to; resolve to; decide; solve; work out; tackle; work on	
 jdika	decrease	uminc	уменьшаться	umenʹšatʹsâ	diminish; decrease; drop; abate; go down	
 jdima	price	tsina	цена	cena	price; cost; charge; worth; value	
-jdini	money	dieng	деньги	denʹgi	money sg.	
+jdini	money	dieng	деньги	denʹgi	money	
 jduli	jelly	jilie	желе	žele	jelly	
 jecta	polity	ctat	штат	štat	staff; personnel/establishment; list of staff; state	
 jeftu	week	nidial	неделя	nedelâ	week	
 jelca	burn	jec	жечь	žečʹ	burn; burn down; be fierce; sear; sting	
-jemna	gem	dragasien	драгоценность	dragocennostʹ	jewel; jewels; jewelry sg.; precious thing/object; precious	
+jemna	gem	dragasien	драгоценность	dragocennostʹ	jewel; jewels; jewelry; precious thing/object; precious	
 jenca	shock	cakir	шокировать	šokirovatʹ	shock	
 jendu	axle	cpindil	шпиндель	špindelʹ	spindle	source: http://www.rambler.ru/dict/
 jenmi	army	armii	армия	armiâ	army; forces pl	
@@ -513,9 +513,9 @@ jgira	pride	gordast	гордость	gordostʹ	pride
 jgita	guitar	gitar	гитара	gitara	guitar	
 jibni	near	blisk	близкий	blizkij	near; close; near-by; neighbouring; impending; nearly ing; dear; intimate; similar	
 jibri	job	profies	профессия	professiâ	profession; trade	
-jibri	job	rabota	работа	rabota	work; labour; working; functioning; to go to work; job; work sg. operations; labour sg. building; building operations; craftsmanship; quality	
+jibri	job	rabota	работа	rabota	work; labour; working; functioning; to go to work; job; work; operations; labour; building; building operations; craftsmanship; quality	
 jicla	stir	mic	мешать	mešatʹ	stir; mix; prevent; interfere; hinder; be in the way	
-jicmu	basis	asnov	основа	osnova	base; frame; core; basis pl. -ses; principles; foundations; fundamentals; warp; stem	
+jicmu	basis	asnov	основа	osnova	base; frame; core; basis; principles; foundations; fundamentals; warp; stem	
 jijnu	intuit	intuisii	интуиция	intuiciâ	intuition	
 jikca	socialize	apcats	общаться	obŝatʹsâ	associate; be associated	
 jikru	liquor	likior	ликёр	likër	liqueur	
@@ -523,9 +523,9 @@ jilka	alkali	cilacn	щелочной	ŝeločnoj	alkaline
 jilra	jealous	rivniv	ревнивый	revnivyj	jealous	
 jimca	branch	suk	сук	suk	branch; bough; knot	
 jimpe	understand	panim	понимать	ponimatʹ	understand; comprehend; realize; be good judge	
-jimte	limit	granis	граница	granica	border; boundary; frontier; limit sg. bound sg. end sg.	
-jimte	limit	pridiel	предел	predel	limit; bounds pl.; height; acme; summit	
-jinci	shears	nojnis	ножницы	nožnicy	scissors; a pair of scissors sg.; shears; cutters; clippers; sharp divergence; discrepancy; split; leg scissors	
+jimte	limit	granis	граница	granica	border; boundary; frontier; limit; bound; end	
+jimte	limit	pridiel	предел	predel	limit; bounds; height; acme; summit	
+jinci	shears	nojnis	ножницы	nožnicy	scissors; a pair of scissors; shears; cutters; clippers; sharp divergence; discrepancy; split; leg scissors	
 jinga	win	viigr	выигрывать	vyigryvatʹ	win; gain; acquire	
 jinku	vaccine	privifka	прививка	privivka	inoculation; vaccination	
 jinme	metal	mital	металл	metall	metal	
@@ -546,7 +546,7 @@ jivna	compete	sarivnav	соревноваться	sorevnovatʹsâ	compete; conte
 jmaji	gather	sabir	собираться	sobiratʹsâ	gather, get together; get ready; be coming/approaching	
 jmifa	shoal	miel	мель	melʹ	shoal	
 jmina	add	pribavl	прибавлять	pribavlâtʹ	add; increase	
-jmive	live	jiv	живой	živoj	living; live; alive predic.; animate; natural; lively; agile; spritely; mobile; real; vital; intense; vivid	
+jmive	live	jiv	живой	živoj	living; live; alive; animate; natural; lively; agile; spritely; mobile; real; vital; intense; vivid	
 jorne	joined	sfiaziv	связывать	svâzyvatʹ	tie together; knot; tie up; bind; tie down; restrict; link up; connect; put in touch; together; unite; combine with; link	
 jorne	joined	soidin	соединять	soedinâtʹ	join/connect; couple; link; bind; connect; link up; put through; combine	
 jubme	table	stol	стол	stol	table; meal; board; diet; department; desk	
@@ -557,16 +557,16 @@ jukpa	cook	gatov	готовить	gotovitʹ	prepare; train; cook; make
 jukpa	cook	striap	стряпать	strâpatʹ	cook; concoct; fabricate	
 julne	net	siet	сеть	setʹ	net; network; system	
 jundi	attentive	vnimatiln	внимательный	vnimatelʹnyj	attentive; considerate; polite; courteous	
-junla	clock	casi	часы	časy	clock sg. watch sg.	
+junla	clock	casi	часы	časy	clock; watch	
 junri	serious	siriozn	серьёзный	serʹëznyj	serious; grave	
 junta	weight	vies	вес	ves	hold suspended; weight; influence	
-jurme	germ	baktierii	бактерия	bakteriâ	bacterium pl -la	
+jurme	germ	baktierii	бактерия	bakteriâ	bacterium	
 jurme	germ	mikrop	микроб	mikrob	microbe	
 jursa	severe	surov	суровый	surovyj	severe; austere; sombre; grim; rigorous; harsh; cruel; tough; unbleached; brown	
-jutsi	species	vit	вид	vid	residence permit; identity card; form; type; class; species; aspect; appearance; look; air; state; condition; view; sight; prospect; outlook sg.	
+jutsi	species	vit	вид	vid	residence permit; identity card; form; type; class; species; aspect; appearance; look; air; state; condition; view; sight; prospect; outlook	
 juxre	clumsy	nilofk	неловкий	nelovkij	clumsy; awkward; uncomfortable; embarrassing	
 juxre	clumsy	niukliuj	неуклюжий	neuklûžij	clumsy; awkward	
-jvinu	view	vid	вид	vid	residence permit; identity card; form; type; class; species; aspect; appearance; look; air; state; condition; view; sight; prospect; outlook sg.	
+jvinu	view	vid	вид	vid	residence permit; identity card; form; type; class; species; aspect; appearance; look; air; state; condition; view; sight; prospect; outlook	
 kabri	cup	kubak	кубок	kubok	goblet; cup	
 kacma	camera	kamira	камера	kamera	chamber	
 kafke	cough	kacil	кашель	kašelʹ	coughing; cough	
@@ -590,11 +590,11 @@ kanji	calculate	vicisl	вычислять	vyčislâtʹ	calculate; compute; recko
 kanla	eye	glas	глаз	glaz	eye; glance; look; sight; watching	
 kanro	healthy	zdarov	здоровый	zdorovyj	healthy; sound; wholesome; strapping; husky	
 kansa	with	sapravajd	сопровождать	soprovoždatʹ	accompany; escort	
-kantu	quantum	kvant	квант	kvant	quantum pl. -ta	
+kantu	quantum	kvant	квант	kvant	quantum	
 kanxe	conjunction	sacitan	сочетание	sočetanie	combination	
 karbi	compare	sravniv	сравнивать	sravnivatʹ	compare; equal; level	
 karce	car	aftamabil	автомобиль	avtomobilʹ	car; automobile; lorry; truck	
-karce	car	macin	машина	mašina	machine; engine; machinery sg.; car; lorry	
+karce	car	macin	машина	mašina	machine; engine; machinery; car; lorry	
 karda	card	kartack	карточка	kartočka	card; photo	
 kargu	costly	darag	дорогой	dorogoj	dear; expensive; costly; precious; darling; on the way	
 karli	collar	varatnik	воротник	vorotnik	collar	
@@ -605,14 +605,14 @@ kecti	pity	jal	жалеть	žaletʹ	pity; be sorry; feel sorry; regret; wish on
 kelci	play	igr	играть	igratʹ	play; act; perform; toy; sparkle	
 kenra	cancer	rak	рак	rak	cancer; canker; crayfish; crawfish	
 kensa	outer space	kosmas	космос	kosmos	space; the cosmos	
-kerfa	hair	volas	волос	volos	hair; hair sg.	
+kerfa	hair	volas	волос	volos	hair; hair	
 kerlo	ear	ux	ухо	uho	ear	
-kevna	cavity	picier	пещера	peŝera	cave; cavern; grotto pl. -oes; -os	
+kevna	cavity	picier	пещера	peŝera	cave; cavern; grotto	
 kicne	cushion	poduck	подушка	poduška	pillow; cushion	
 kijno	oxygen	kislarot	кислород	kislorod	oxygen	
 kinli	sharp	ostr	острый	ostryj	sharp; poignant; acute; keen; pungent; strong	
-klaji	street	aviniu	авеню	avenû	avenue	source: en.wiktionary.org (Bulgarian); as in Evgeny's list
-klaku	weep	plak	плакать	plakatʹ	cry; weep; пp. weep	
+klaji	street	aviniu	авеню	avenû	avenue	source: en.wiktionary.org (Bulgarian)
+klaku	weep	plak	плакать	plakatʹ	cry; weep	
 klama	come	it	идти	idti	go; move; travel; leave; come; approach; march; advance; attack; join; enter; progress; head; follow; go round; be on; flow; sell; run; stretch; work; fall; go by; pass; be; be in progress; proceed; agree; be used; be spent; suit; go right; play	
 klama	come	prixod	приходить	prihoditʹ	come; arrive; аррear	
 klani	quantity	kalicestv	количество	količestvo	quantity; amount; number	
@@ -635,13 +635,13 @@ kosta	coat	palto	пальто	palʹto	coat; overcoat
 kramu	acre	deklatin	десятина	desâtina	tithe; dessiatina	``measure of land = 2,7 acres'' (source: http://www.rambler.ru/dict/); FIXIT correct transcription ``desiatin''
 krasi	source	nacin	начинать	načinatʹ	begin; start; commence	
 krati	represent	pritstavl	представлять	predstavlâtʹ	present; hand in; produce; introduce; present; recommend; represent; act; show; imitate; imagine; fancy; offer	
-krefu	recur	pere	пере-	pere-	trans-, across, over, over again (verb prefix)	source: en.wiktionary.org; as in Evgeny's list
+krefu	recur	pere	пере-	pere-	trans-, across, over, over again (verb prefix)	source: en.wiktionary.org
 krici	believe	vierit	верить	veritʹ	believe; trust	
 krili	crystal	kristal	кристалл	kristall	crystal; chip	
 krinu	reason	rizon	резон	rezon	reason	source: http://www.rambler.ru/dict/
 krixa	cry	kric	кричать	kričatʹ	cry; shout; bawl; cry out; scream; shriek; yell; bray; call; stick out; proclaim; raise a clamour	
 kruca	intersect	kriest	крест	krest	cross	
-kruji	cream	slifk	сливки	slivki	cream sg.	
+kruji	cream	slifk	сливки	slivki	cream	
 kruvi	curve	kriva	кривая	krivaâ	curve	
 kubli	cube	kubik	кубик	kubik	cube; cubic centimetre; bricks	
 kucli	curious	liubapitn	любопытный	lûbopytnyj	inquisitive; curious; interesting; curious person	
@@ -649,7 +649,7 @@ kufra	comfort	kamfartabil	комфортабельный	komfortabelʹnyj	comfor
 kukte	delicious	vkusn	вкусный	vkusnyj	nice; good; delicious; palatable	
 kulnu	culture	kultur	культура	kulʹtura	culture; cultivation; growing; tilling; crop	
 kumfa	room	komnat	комната	komnata	room	
-kumte	camel	virbliut	верблюд	verblûd	camel; УsuitcaseФ trader	
+kumte	camel	virbliut	верблюд	verblûd	camel	
 kunra	mineral	miniral	минерал	mineral	mineral	
 kunti	empty	pusto	пустой	pustoj	empty; hollow; vacant; deserted; free; shallow; unfounded; trivial; slight; nothing; a mere nothing; rubbish	
 kurfa	square	kuadrat	квадрат	kvadrat	square	
@@ -672,7 +672,7 @@ lanci	flag	flak	флаг	flag	flag
 lanka	basket	karzin	корзина	korzina	basket; hamper	
 lanli	analyze	analizirav	анализировать	analizirovatʹ	analyse	
 lanme	sheep	baran	баран	baran	ram; sheep	
-lante	can	bank	банка	banka	bank; shoal; thwart; jar; pot; tin; can; cupping glass sg. suction cup sg.	
+lante	can	bank	банка	banka	bank; shoal; thwart; jar; pot; tin; can; cupping glass; suction cup	
 lanxe	balance	ravnoxesi	равновесие	ravnovesie	balance; equilibrium; poise; composure	correct transcription ``ravnovesi''
 lanzu	family	klan	клан	klan	clan	
 larcu	art	iskustv	искусство	iskusstvo	art; skill	
@@ -711,7 +711,7 @@ lunra	lunar	luna	луна	luna	moon
 lunsa	condense	kandinsirav	конденсировать	kondensirovatʹ	condense	source: http://www.rambler.ru/dict/
 mabla	derogative	umal	умалять	umalâtʹ	belittle; decrease; lessen; disparage	
 mabru	mammal	mlikapitaiuc	млекопитающее	mlekopitaûŝee	mammals, mammalia	source: http://www.rambler.ru/dict/
-macnu	manual	rucn	ручной	ručnoj	hand attr.; manual; hand-operated; tame	
+macnu	manual	rucn	ручной	ručnoj	hand (attr.); manual; hand-operated; tame	
 makcu	mature	matior	матёрый	matëryj	adult/full-grown wolf; veteran; experienced; inveterate	
 makfa	magic	magii	магия	magiâ	magic	
 maksi	magnet	magnit	магнит	magnit	magnet	
@@ -727,8 +727,8 @@ mapku	cap	cliap	шляпа	šlâpa	hat; duffer; booby
 mapni	cotton	bumajnai	бумажная	bumažnaâ	paper; cotton (feminine adjective)	
 mapti	fit	saatvietstv	соответствие	sootvetstvie	conformity; correspondence; harmony; accord	
 marbi	shelter	priiut	приют	priût	shelter; asylum; refuge	
-marce	vehicle	macin	машина	mašina	machine; engine; machinery sg.; car; lorry	
-marde	morals	maral	мораль	moralʹ	morals pl. morality; moral; moral instruction	
+marce	vehicle	macin	машина	mašina	machine; engine; machinery; car; lorry	
+marde	morals	maral	мораль	moralʹ	morals; morality; moral; moral instruction	
 margu	mercury	rtut	ртуть	rtutʹ	mercury; quicksilver	
 marji	material	matier	материя	materiâ	matter; fabric; stuff; subject	
 marna	hemp	marixuan	марихуана	marihuana	marijuana; pot	
@@ -752,7 +752,7 @@ mifra	code	cifr	шифр	šifr	code; cipher; press-mark
 mikce	doctor	izliec	излечить	izlečitʹ	cure	source: http://dictionary.reverso.net/russian-english/
 milxe	mild	miak	мягкий	mâgkij	soft; malleable; fresh; gentle; mellow; mild; pliable; adaptable; kind; responsive; lenient; clement	
 minde	command	prikaziv	приказывать	prikazyvatʹ	order to command to	
-minji	machine	macin	машина	mašina	machine; engine; machinery sg.; car; lorry	
+minji	machine	macin	машина	mašina	machine; engine; machinery; car; lorry	
 minli	mile	mili	миля	milâ	mile	
 minra	reflect	zierkal	зеркало	zerkalo	looking-glass; mirror	
 mintu	same	adin	один	odin	one; a; an; alone; by one self; the same; no one but; nobody but; nothing but; only; some people; one thing	
@@ -770,9 +770,9 @@ mokca	point	mik	миг	mig	moment; instant
 moklu	mouth	rot	рот	rot	mouth	
 molki	mill	mielnis	мельница	melʹnica	mill	
 morji	remember	pomn	помнить	pomnitʹ	remember; bear/keep in mind	
-morna	pattern	uzor	узор	uzor	pattern; design; tracery sg. pattern sg.	
+morna	pattern	uzor	узор	uzor	pattern; design; tracery; pattern	
 morsi	dead	miort	мёртвый	mërtvyj	dead; lifeless; dead man/person; the dead	
-mosra	friction	trieni	трение	trenie	friction; friction sg.; rubbing	
+mosra	friction	trieni	трение	trenie	friction; rubbing	
 mraji	rye	roj	рожь	rožʹ	rye	
 mrilu	mail	poct	почта	počta	post; post-office; mail	
 mruli	hammer	molot	молот	molot	hammer	
@@ -782,7 +782,7 @@ mukti	purpose	matif	мотив	motiv	motive; reason; theme; tune
 mulno	complete	poln	полный	polnyj	full; packed; complete; stout; plump	
 munje	universe	kosmas	космос	kosmos	space; the cosmos	
 mupli	example	primier	пример	primer	example; instance; model; example of courage	
-murse	glimmering	sumirki	сумерки	sumerki	the twilight sg.	
+murse	glimmering	sumirki	сумерки	sumerki	the twilight	
 murta	curtain	zanaviesk	занавеска	zanaveska	curtain	
 mutce	much	ocen	очень	očenʹ	very; very much	
 muvdu	move	dvig	двигать	dvigatʹ	move; promote	
@@ -792,17 +792,17 @@ nakni	male	mucsk	мужской	mužskoj	masculine; male; men`s
 nalci	wing	krilo	крыло	krylo	wing; arm; sail; mudguard	
 namcu	number	nomir	номер	nomer	number; check; size; issue number; room; item; piece; turn; trick	
 nanba	bread	xlib	хлеб	hleb	bread; loaf; corn; grain	
-nanca	year	got	год	god	year; age sg.	
+nanca	year	got	год	god	year; age	
 nandu	difficult	trudn	трудный	trudnyj	difficult; hard; arduous; painful; dangerous	
 nanla	boy	malcik	мальчик	malʹčik	boy	
 nanmu	man	mucin	мужчина	mužčina	man	
 narge	nut	ariex	орех	oreh	nut; walnut; nut-tree	
 narju	orange	aranjiv	оранжевый	oranževyj	orange	
 natfe	deny	atris	отрицать	otricatʹ	deny	
-natmi	nation	nasian	национальный	nacionalʹnyj	national; State attr.	cf. нация [naciâ] ``nation''
+natmi	nation	nasian	национальный	nacionalʹnyj	national; State (attr.)	cf. нация [naciâ] ``nation''
 navni	neon	nion	неон	neon	neon; neon light	
 naxle	canal	kanal	канал	kanal	canal; channel; duct; channels	
-nazbi	nose	nos	нос	nos	nose; beak; bows pl. bow	
+nazbi	nose	nos	нос	nos	nose; beak; bows; bow	
 nejni	energy	iniergii	энергия	ènergiâ	energy; power	
 nelci	fond	liub	любить	lûbitʹ	love; be fond; like	
 nenri	in	vnutri	внутри	vnutri	inside	
@@ -817,11 +817,11 @@ nitcu	need	nujda	нужда	nužda	need; want; necessity
 nivji	knit	viiz	вязать	vâzatʹ	bind; tie up; together; knit; crochet; be astringent	
 nixli	girl	diebock	девочка	devočka	girl; girlie	correct transcription ``dievock''
 nobli	noble	dvarianin	дворянин	dvorânin	nobleman; noble; member of the gentry	
-notci	message	mimarandum	меморандум	memorandum	memorandum pl. -da	
-notci	message	zapisk	записка	zapiska	note; memorandum pl. -da; memoirs	
+notci	message	mimarandum	меморандум	memorandum	memorandum	
+notci	message	zapisk	записка	zapiska	note; memorandum; memoirs	
 nukni	magenta	fuksin	фуксин	fuksin	fuchsine	source: http://www.rambler.ru/dict/
 nupre	promise	abec	обещать	obeŝatʹ	promise to;	
-nurma	rural	diriviensk	деревенский	derevenskij	village attr.; country attr. rural; rustic	
+nurma	rural	diriviensk	деревенский	derevenskij	village (attr.); country (attr.); rural; rustic	
 nurma	rural	sielsk	сельский	selʹskij	rural	
 nutli	neutral	niitraln	нейтральный	nejtralʹnyj	neutral	
 nuzba	news	novast	новость	novostʹ	news; discovery; novelty	
@@ -836,20 +836,20 @@ palku	pants	briuk	брюки	brûki	trousers
 palne	tray	padnos	поднос	podnos	tray; salver	
 palta	plate	tarielk	тарелка	tarelka	plate; cymbals; disk	
 pambe	pump	pomp	помпа	pompa	pump; pomp; state	
-panci	odor	paxn	пахнуть	pahnutʹ	smell; smack; cильно smell strong; the fragrance of flowers was wafted into the room	
+panci	odor	paxn	пахнуть	pahnutʹ	smell; smack	
 pandi	punctuate	pripinanii	препинание	prepinanie	punctuation marks	
-panje	sponge	gupk	губка	gubka	sponge; fungus pl -gi; -ses	
+panje	sponge	gupk	губка	gubka	sponge; fungus	
 panka	park	park	парк	park	park; depot; garage; fleet	
 panlo	slice	lomtik	ломтик	lomtik	slice	
 panpi	peace	mir	мир	mir	peace; world; universe	
 panra	parallel	paraliel	параллель	parallelʹ	parallel	
 pante	protest	pratiest	протест	protest	protest	
-panzi	offspring	patomak	потомок	potomok	descendant; offspring; descendants; posterity sg.	
+panzi	offspring	patomak	потомок	potomok	descendant; offspring; descendants; posterity	
 papri	page	stranis	страница	stranica	page; leaf; chapter	
 parbi	ratio	praports	пропорция	proporciâ	proportion; ratio	
 pastu	robe	mantii	мантия	mantiâ	cloak	
 patfu	father	pad	папа	papa	dad	FIXIT correct transcription ``pap''; cf. папочка [papočka] ``dad'' (variant)
-patlu	potato	kartofil	картофель	kartofelʹ	potatoes pl.	
+patlu	potato	kartofil	картофель	kartofelʹ	potatoes	
 patxu	pot	katiol	котёл	kotël	large saucepan; boiler; cauldron; pocket	
 pelji	paper	bumag	бумага	bumaga	paper; document; papers	
 pelxu	yellow	jelt	жёлтый	žëltyj	yellow	correct transcription ``jiolt''
@@ -857,7 +857,7 @@ pemci	poem	paem	поэма	poèma	poem
 penbi	pen	piro	перо	pero	feather; plume; pen; nib; leaf	
 penbi	pen	ruck	ручка	ručka	little hand; handle; knob; arm; pen-holder; pen	
 pencu	touch	trog	трогать	trogatʹ	touch; affect; move	
-pendo	friend	druk	друг	drug	~a each other; one another; friend	
+pendo	friend	druk	друг	drug	friend	
 penmi	meet	vstric	встречать	vstrečatʹ	meet; encounter; receive; greet; welcome	
 pensi	think	dum	думать	dumatʹ	think; consider; reflect; ponder; think of; intend to; be concerned; suspect	
 perli	pear	gruc	груша	gruša	pear; pear-tree; bulb	
@@ -870,7 +870,7 @@ pilji	multiply	praizvidien	произведение	proizvedenie	work; product
 pilka	crust	kaj	кожа	koža	skin; hide; leather	
 pilno	use	primin	применять	primenâtʹ	apply; use	
 pimlu	feather	piro	перо	pero	feather; plume; pen; nib; leaf	
-pinca	urine	maca	моча	moča	urine; water	
+pinca	urine	maca	моча	moča	urine	
 pindi	poor	biedn	бедный	bednyj	poor; wretched; insipid; meagre; jejune; wanting; lacking; starved; the poor man; the poor	
 pinfu	prisoner	plien	пленный	plennyj	captured; captive; prisoner	
 pinji	penis	xui	хуй	huj	prick; penis	source: en.wiktionary.org
@@ -891,22 +891,22 @@ plita	plane	slosk	плоский	ploskij	flat; plane; shallow; feeble	correct tr
 plixa	plow	pluk	плуг	plug	plough	
 pluja	complicated	slojn	сложный	složnyj	compound; composite; complex; difficult; involved; complicated; intricate	
 pluka	please	ugajd	угождать	ugoždatʹ	please	
-pluta	route	put	путь	putʹ	way; route; railway track/line; permanent way; journey; course; road; path; means pl.; tract sg. duct sg.	
+pluta	route	put	путь	putʹ	way; route; railway track/line; permanent way; journey; course; road; path; means; tract; duct	
 polje	fold	skladiv	складывать	skladyvatʹ	pile up; put; pack; add; add two and five; assemble; together; build; build stove; fold; fold up; compose; make	
 ponse	possess	ablad	обладать	obladatʹ	have; possess	
 porpi	break	lam	ломать	lomatʹ	break; break up; pull down; demolish; quarry; sweep away; do away; destroy; transform; alter; force into a new mould; wreck	
-porsi	sequence	pariadak	порядок	porâdok	order; regime; custom; manner; rules pl.	
-prali	profit	pribil	прибыль	pribylʹ	profit dividend; drawing; earnings pl.gain; income; overplus; increase; increment	
+porsi	sequence	pariadak	порядок	porâdok	order; regime; custom; manner; rules	
+prali	profit	pribil	прибыль	pribylʹ	profit dividend; drawing; earnings; gain; income; overplus; increase; increment	
 prami	love	liub	любить	lûbitʹ	love; be fond; like	
-prane	perfect	bizupriecn	безупречный	bezuprečnyj	irreproachable; blamelles; faultless; impeccable	
+prane	perfect	bizupriecn	безупречный	bezuprečnyj	irreproachable; blameless; faultless; impeccable	
 preja	spread	rasprastir	распростираться	rasprostiratʹsâ	prostrate oneself; spread; stretch; extend	
 prenu	person	pirson	персона	persona	person; person of distinction; high personage	
 preti	question	vapros	вопрос	vopros	question; problem; issue; point; matter	
 prije	wise	mudri	мудрый	mudryj	wise	
 prina	print	picat	печатать	pečatatʹ	print; type; publish	
-pritu	right	prav	правый	pravyj	right; right-hand; Right-wing attr.; Right-winger; Rightist; just	
+pritu	right	prav	правый	pravyj	right; right-hand; Right-wing (attr.); Right-winger; Rightist; just	
 prosa	prose	proz	проза	proza	prose	
-pruce	process	pratsies	процесс	process	process; legal proceedings pl.; case	
+pruce	process	pratsies	процесс	process	process; legal proceedings; case	
 pruni	elastic	prujin	пружина	pružina	spring	source: http://www.rambler.ru/dict/
 pruxi	spirit	dux	дух	duh	spirit; mind; breath; ghost	
 pulce	dust	pil	пыль	pylʹ	dust; spray	
@@ -922,25 +922,25 @@ purmo	powder	pudr	пудра	pudra	powder
 racli	sane	rasudacn	рассудочный	rassudočnyj	rational	
 ractu	rabbit	krolik	кролик	krolik	rabbit	
 ractu	rabbit	zaiis	заяц	zaâc	hare; stowaway; gate-crasher	
-rafsi	affix	castis	частица	častica	it seems; indeed?; really?; suppose; somehow; kind of; sort of; such as; like; what!; not a; all right; perhaps; as if; as though; nothing; just; so; then; well; now; about; for instance; at least; for example; even; particle; grain	
+rafsi	affix	castis	частица	častica	particle; grain	
 ragve	across	cieris	через	čerez	across; over; through; by way of; via; with; every other; every	
 raktu	trouble	bispako	беспокоить	bespokoitʹ	disturb; trouble; bother; hurt; give; worry; upset	
 ralci	delicate	niejn	нежный	nežnyj	gentle; tender-hearted; tender; pleasant; frail	
 ralci	delicate	xrupk	хрупкий	hrupkij	fragile; brittle; frail	
-ralju	principal	glavn	главный	glavnyj	chief; main; principal; head attr. chief attr.; great/chief thing; what really matters	
+ralju	principal	glavn	главный	glavnyj	chief; main; principal; head (attr.); chief (attr.); great/chief thing; what really matters	
 ralte	retain	astav	оставить	ostavitʹ	leave; abandon; keep; retain; give up; put down; lay down	
-randa	yield	sdav	сдаваться	sdavatʹsâ	surrender; give ones elf up; give up; give in; give way; yield	
+randa	yield	sdav	сдаваться	sdavatʹsâ	surrender; give oneself up; give up; give in; give way; yield	
 rango	organ	organ	орган	organ	organ; body; agency; publication	
 ranji	continue	pradalj	продолжать	prodolžatʹ	continue to; carry on; go on; extend	
 ranmi	myth	mif	миф	mif	myth	
-ransu	bronze	bronz	бронза	bronza	bronze; bronzes pl.	
+ransu	bronze	bronz	бронза	bronza	bronze; bronzes	
 ranti	soft	miaxk	мягкий	mâgkij	soft; malleable; fresh; gentle; mellow; mild; pliable; adaptable; kind; responsive; lenient; clement	
 ranxi	irony	ironi	ирония	ironiâ	irony	
 rapli	repeat	paftar	повторять	povtorâtʹ	repeat; reiterate; revise; go over; copy	
 rarna	natural	prirodn	природный	prirodnyj	natural; native; innate	
 ratcu	rat	kris	крыса	krysa	rat	
 ratni	atom	atam	атом	atom	atom	
-rebla	tail	xvost	хвост	hvost	tail; train; brush; tail-end; queue; line; arrears pl. odds and ends	
+rebla	tail	xvost	хвост	hvost	tail; train; brush; tail-end; queue; line; arrears; odds and ends	
 rectu	meat	mias	мясо	mâso	flesh; meat	
 remna	human	celaviek	человек	čelovek	man; human being; person; woman	
 remna	human	liutsko	людской	lûdskoj	human	
@@ -962,7 +962,7 @@ rirci	rare	rietk	редкий	redkij	thin; sparse; gauzy; loosely-woven; rare; i
 rirni	parent	raditil	родитель	roditelʹ	father	source: http://www.rambler.ru/dict/
 rirxe	river	rika	река	reka	river	
 rismi	rice	ris	рис	ris	rice	
-risna	heart	sierts	сердце	serdce	eго his heart leaped for joy; his heart bounded with joy; heart	
+risna	heart	sierts	сердце	serdce	heart	
 ritli	rite	ritual	ритуал	ritual	ritual	
 rivbi	avoid	izbig	избегать	izbegatʹ	avoid; shun; escape; evade; elude	
 rokci	rock	kamin	камень	kamenʹ	stone; rock; load; gall-stones	
@@ -970,7 +970,7 @@ romge	chrome	xrom	хром	hrom	chromium; boxcalf; chrome
 rorci	procreate	rod	родить	roditʹ	give birth; give rise; yield	
 rotsu	thick	tolst	толстый	tolstyj	thick; heavy; fat; stout	
 rozgu	rose	roz	роза	roza	rose	
-ruble	weak	slab	слабый	slabyj	weak; feeble; delicate; low-power attr.; faint; poor; slack; loose	
+ruble	weak	slab	слабый	slabyj	weak; feeble; delicate; low-power (attr.); faint; poor; slack; loose	
 rufsu	rough	grub	грубый	grubyj	rough; crude; gross; coarse; harsh; gruff; rude; glaring	
 runme	melt	taiit	таять	taâtʹ	melt; thaw; melt away; dwindle; waste away	
 runta	dissolve	rastvar	растворяться	rastvorâtʹsâ	dissolve; melt; open	
@@ -986,10 +986,10 @@ sakta	sugar	saxar	сахар	sahar	sugar
 salci	celebrate	spravl	справлять	spravlâtʹ	celebrate; keep	
 salpo	slope	sklon	склон	sklon	slope	
 salta	salad	salat	салат	salat	lettuce; salad	
-samcu	cassava	iams	ямс	âms	yam	source: http://ru.wikipedia.org/; as in Evgeny's list
+samcu	cassava	iams	ямс	âms	yam	source: http://ru.wikipedia.org/
 sampu	simple	prost	простой	prostoj	simple; easy; unaffected; common; plain; ordinary; stoppage; standing idle; idle time; demurrage	
 sance	sound	zvuk	звук	zvuk	sound	
-sanga	sing	piet	петь	petʹ	sing; be singer; hum; play/sound sweetly; coв. sing; crow; praise	
+sanga	sing	piet	петь	petʹ	sing; be singer; hum; play/sound sweetly; crow; praise	
 sanji	conscious	sazn	сознавать	soznavatʹ	realize; be aware/conscious; be alive; be conscious	
 sanli	stand	stai	стоять	stoâtʹ	stand; be; be at a standstill; stop; be situated; lie; confront; stand up	
 sanmi	meal	eda	еда	eda	meal; food	
@@ -1009,10 +1009,10 @@ selci	cell	iicieik	ячейка	âčejka	cell; foxhole
 selfu	serve	sluj	служить	služitʹ	work; serve; be useful; be used; be; officiate; beg	
 senci	sneeze	cix	чихать	čihatʹ	sneeze	
 senpi	doubt	skieptik	скептик	skeptik	sceptic	
-senta	layer	slo	слой	sloj	layer; coat; stratum pl. -ta	
+senta	layer	slo	слой	sloj	layer; coat; stratum	
 senva	dream	son	сон	son	sleep; slumber; dream	
 sepli	apart	otdielni	отдельный	otdelʹnyj	separate	
-serti	stairs	liestnis	лестница	lestnica	stairs pl. staircase; ladder; steps pl.; order	
+serti	stairs	liestnis	лестница	lestnica	stairs; staircase; ladder; steps; order	
 setca	insert	fstavl	вставлять	vstavlâtʹ	put; in; insert; fit	
 sevzi	self	seb	себя	sebâ	one self	
 sfani	fly	mux	муха	muha	fly	
@@ -1026,10 +1026,10 @@ sidbo	idea	idieia	идея	ideâ	idea; conception; concept; notion
 sidju	help	pamag	помогать	pomogatʹ	help; assist; aid; be effective	
 sigja	cigar	sigar	сигара	sigara	cigar	
 silka	silk	ciak	шёлк	šëlk	silk; velvet; gentleness itself	correct transcription ``ciolk''
-silna	salt	sol	соль	solʹ	soh; sol; G; salt	
+silna	salt	sol	соль	solʹ	salt	
 simlu	seem	kaz	казаться	kazatʹsâ	seem; appear; look	
 simsa	similar	padobn	подобный	podobnyj	similar; like; such; of this/that kind like this/that	
-simsa	similar	paxoj	похожий	pohožij	resembling; like; similar; alike predic.	
+simsa	similar	paxoj	похожий	pohožij	resembling; like; similar; alike	
 simxu	mutual	vzaimn	взаимный	vzaimnyj	mutual; reciprocal	
 since	snake	zmii	змея	zmeâ	snake; serpent	
 sinma	esteem	uvaj	уважать	uvažatʹ	respect; esteem; honour	
@@ -1043,10 +1043,10 @@ sivni	private	castn	частный	častnyj	individual; special; exceptional; pr
 skaci	skirt	iubk	юбка	ûbka	skirt	
 skami	computer	kampiutir	компьютер	kompʹûter	computer	
 skapi	pelt	ckup	шкура	škura	skin; hide; pelt; peel	correct transcription ``ckur''
-skari	color	tsviet	цвет	cvet	blossom sg.; flowers; the flower; bloom; blossom; colour	
+skari	color	tsviet	цвет	cvet	blossom; flowers; the flower; bloom; colour	
 skicu	describe	opic	описывать	opisyvatʹ	describe; depict; circumscribe; make an inventory; arrest; seize; distrain	correct transcription ``opisiv''
 skiji	ski	lij	лыжи	lyži	skis; skiing	
-skina	cinema	kino	кино	kino	viewfinder; dubbing actor; voice; stand-in; dub; take; cinematography; the cinema; films; the movies; film; cinema; overlay; dissolve; location; blur; out of sync.; raw; unexposed; reversal; inversion; waste; shutter; card; timing tape; overlap; parasites; disintegration; decomposition; unwind; dimension; size; allocation; distribute; delamination; distance; space; detune; detuned; divergence; resonator; resonate; coverage; retrospective show; glow; extra; type; tonality; newsreel; news film	
+skina	cinema	kino	кино	kino	cinematography; the cinema; films; the movies; film; cinema	
 skori	cord	veriofk	верёвка	verëvka	rope; string cord; clothes-line	
 skuro	groove	rof	ров	rov	ditch	
 slabu	old	star	старый	staryj	old	
@@ -1055,11 +1055,11 @@ slami	acid	kislata	кислота	kislota	acidity; acid
 slanu	cylinder	silindr	цилиндр	cilindr	cylinder; top hat; silk hat	
 slari	sour	kisl	кислый	kislyj	sour; acid	
 slasi	plastic	plastik	пластики	plastiki	plastics	
-sligu	solid	salidn	солидный	solidnyj	solid; substantial; thorough; extensive; considerable; established; serious; recognized; impressive; imposing; weighty; massive; big; no fair- sized	
+sligu	solid	salidn	солидный	solidnyj	solid; substantial; thorough; extensive; considerable; established; serious; recognized; impressive; imposing; weighty; massive; big	
 slilu	oscillate	kalib	колебаться	kolebatʹsâ	sway; totter; fluctuate; waver, hesitate	cf. поколебаться [pokolebatʹsâ] ``sway; oscillate; swing; vibrate; totter; fluctuate; waver, hesitate; dither; dilly-dally''
 sliri	sulfur	sier	сера	sera	sulphur; ear wax; cerumen	
 sluji	muscle	muskul	мускул	muskul	muscle	
-sluni	onion	luk	лук	luk	bow; onion; onions pl.	
+sluni	onion	luk	лук	luk	bow; onion; onions	
 smacu	mouse	mic	мышь	myšʹ	mouse	
 smadi	guess	gad	гадать	gadatʹ	tell fortunes; guess; surmise; conjecture	
 smaji	quiet	malc	молчать	molčatʹ	be silent; say nothing; keep silent; make no complaint	
@@ -1077,7 +1077,7 @@ snura	secure	bizapasn	безопасный	bezopasnyj	safe; harmless
 snuti	accidental	slucai	случай	slučaj	occurrence; event; incident; case; opporrtunity; chance; occasion	
 sobde	soya	soi	соя	soâ	soybean; soya bean	
 sodna	sodium	natri	натрий	natrij	sodium; natrium	
-sodva	soda	sodava	содовая	sodovaâ	soda (feminine)	
+sodva	soda	sodava	содовая	sodovaâ	soda (feminine adjective)	
 solji	gold	zolat	золото	zoloto	gold	
 solri	solar	solns	солнце	solnce	sun	
 sombo	sow	usajiv	усаживать	usaživatʹ	seat; set smb. to; plant with	
@@ -1085,7 +1085,7 @@ sombo	sow	zasiv	засевать	zasevatʹ	sow
 sonci	soldier	saldat	солдат	soldat	soldier; private; the men	
 sorcu	store	zapas	запасать	zapasatʹ	store; lay in; stockpile	
 sorgu	sorghum					FIXIT Russian source word missing in original gismu etymology file
-sovda	egg	iiso	яйцо	âjco	egg; ovum pl. ova; balls; nuts; bollocks; pills	
+sovda	egg	iiso	яйцо	âjco	egg; ovum; ova; balls; nuts; bollocks; pills	
 spaji	surprise	siurpriz	сюрприз	sûrpriz	surprise	
 spali	polish	palirav	полировать	polirovatʹ	polish; burnish; buff	
 spati	plant	rastien	растение	rastenie	plant	
@@ -1115,7 +1115,7 @@ stasu	soup	sup	суп	sup	soup
 stati	talent	talant	талант	talant	talent; gift; brilliant/gifted person	
 steba	frustration	frustasii	фрустрация	frustraciâ	frustration	source: http://ru.wikipedia.org/
 steci	specific	asoben	особенный	osobennyj	particular; special; especial; peculiar; unusual	
-stedu	head	galav	голова	golova	head pl. head; mind; brains pl.; sugar-loaf	
+stedu	head	galav	голова	golova	head; mind; brains; sugar-loaf	
 stela	lock	zamok	замок	zamok	castle; lock	
 stici	west	zapad	запад	zapad	the west; the West; the Occident	
 stici	west	zapat	запад	zapad	the west; the West; the Occident	
@@ -1125,7 +1125,7 @@ stizu	chair	stul	стул	stul	chair; stool
 stodi	constant	stoik	стойкий	stojkij	stable; firm; persistent; steadfast; staunch	
 stuna	east	vastok	восток	vostok	the east; the East; the Orient	
 stura	structure	struktur	структура	struktura	structure	
-stuzi	site	miest	место	mesto	place; spot; site; scene; seat; locality sg. area sg.; the provinces; provincial organizations; part; position; post; work; piece; bag	
+stuzi	site	miest	место	mesto	place; spot; site; scene; seat; locality; area; the provinces; provincial organizations; part; position; post; work; piece; bag	
 sucta	abstract	apstraktn	абстрактный	abstraktnyj	abstract	
 sudga	dry	sux	сухой	suhoj	dry; dried-up; arid; dried; withered; lean; skinny; aloof; stiff; dull; dreary	
 sufti	hoof	kapit	копыто	kopyto	hoof	
@@ -1135,7 +1135,7 @@ sumne	smell	cu	чуять	čuâtʹ	scent; feel; sense; guess; suspect
 sumti	argument	dapalnieni	дополнение	dopolnenie	addition; addendum; supplement; object	
 sumti	argument	padlijaci	подлежащий	podležaŝij	subject, liable	source: http://www.rambler.ru/dict/
 sunga	garlic	cisnak	чеснок	česnok	garlic	
-sunla	wool	cierst	шерсть	šerstʹ	wool; hair; fur; cloth; woollen material/stuff; worsted	
+sunla	wool	cierst	шерсть	šerstʹ	wool; hair; fur; cloth; woolen material/stuff; worsted	
 surla	relax	aslabl	ослаблять	oslablâtʹ	weaken; make; weak; relax; ease; reduce; loosen	
 sutra	fast	bistr	быстрый	bystryj	rapid; swift; fast; quick	
 tabno	carbon	uglirot	углерод	uglerod	carbon	
@@ -1156,7 +1156,7 @@ tanru	metaphor	mitafar	метафора	metafora	metaphor
 tansi	pan	tas	таз	taz	pelvis; basin; wash-basin; pan	
 tanxe	box	karton	картон	karton	cardboard; millboard	
 tapla	tile	plitk	плитка	plitka	tile; bar; hot plate	
-tarbi	embryo	zarodic	зародыш	zarodyš	embryo pl. -os; foetus; germ	
+tarbi	embryo	zarodic	зародыш	zarodyš	embryo; foetus; germ	
 tarci	star	zvizd	звезда	zvezda	star	
 tarla	tar	smala	смола	smola	resin; tar; pitch	
 tarmi	shape	form	форма	forma	form; shape; uniform; mould; cast	
@@ -1165,7 +1165,7 @@ taske	thirst	jajd	жажда	žažda	thirst
 tatpi	tired	ustali	усталый	ustalyj	tired; weary	
 tatru	breast	sasok	сосок	sosok	nipple	
 tavla	talk	gavar	говорить	govoritʹ	speak; talk; appeal; show; reveal; come out	
-taxfu	garment	adiejd	одежда	odežda	clothes pl.	
+taxfu	garment	adiejd	одежда	odežda	clothes	
 tcaci	custom	obica	обычай	obyčaj	custom; habit; usage	
 tcadu	city	gorat	город	gorod	town; city	
 tcana	station	stansii	станция	stanciâ	station	
@@ -1173,7 +1173,7 @@ tcati	tea	cai	чай	čaj	tea
 tcena	stretch	pratiagiv	протягивать	protâgivatʹ	stretch; stretch out; offer; hold out; sustain; draw out; drawl; рrolong; drag out; last	
 tcena	stretch	rastiagiv	растягивать	rastâgivatʹ	stretch; stretch a pair of gloves; wear out; strain; extend; protract; prolong; spin out; drawl	
 tcena	stretch	vitiagiv	вытягивать	vytâgivatʹ	stretch; pull out; extract; get out; draw out	
-tcica	deceive	abman	обман	obman	deception; trickery; fraud; lies pl.; delusion; illusion; feint	
+tcica	deceive	abman	обман	obman	deception; trickery; fraud; lies; delusion; illusion; feint	
 tcidu	read	cit	читать	čitatʹ	read	
 tcika	time	vriemi	время	vremâ	time; season; age; tense	
 tcila	detail	dital	деталь	detalʹ	detail; part	
@@ -1205,7 +1205,7 @@ toldi	butterfly	mol	моль	molʹ	moth
 tonga	tone	visata	высота	vysota	height; elevation; pitch	
 tordu	short	karotk	короткий	korotkij	short; brief; intimate; quick; sharp	
 torni	twist	krut	крутить	krutitʹ	turn; whirl; twirl; twist; roll up; whip up; swirl; order about; have one`s way; go out; have an affair	
-traji	superlative	krain	крайний	krajnij	extreme; outside; wing attr.	
+traji	superlative	krain	крайний	krajnij	extreme; outside; wing (attr.)	
 trano	nitrogen	azot	азот	azot	nitrogen	
 trati	taut	natianut	натянутый	natânutyj	tight; strained	
 trene	train	paist	поезд	poezd	train	
@@ -1213,9 +1213,9 @@ tricu	tree	dieriv	дерево	derevo	tree; wood
 trina	attract	pritiagiv	притягивать	pritâgivatʹ	draw; pull; attract; call to; summon to	
 trixe	behind	zad	зад	zad	back; rear; behind; backside; rump; hind quarters pl	
 troci	try	pit	пытаться	pytatʹsâ	try, endeavor, attempt	
-troci	try	star	стараться	staratʹsâ	try; do one`s best; try to inf endeavour to inf do one`s best to inf	
+troci	try	star	стараться	staratʹsâ	try; do one`s best; try to; endeavour to; do one`s best to	
 tsali	strong	siln	сильный	silʹnyj	strong; powerful; good	
-tsani	sky	nieb	небо	nebo	the sky; the heavens pl.	
+tsani	sky	nieb	небо	nebo	the sky; the heavens	
 tsapi	seasoning	spietsi	специя	speciâ	spice	
 tsiju	seed	siemi	семя	semâ	seed; semen; sperm	
 tsina	stage	sien	сцена	scena	stage; scene	
@@ -1224,18 +1224,18 @@ tugni	agree	soglacat	соглашаться	soglašatʹsâ	agree; agree with one
 tujli	tulip	tiulipan	тюльпан	tûlʹpan	tulip	
 tumla	land	zemlia	земля	zemlâ	earth; the Earth; land; soil; ground	
 tunba	sibling					FIXIT Russian source word missing in original gismu etymology file
-tunka	copper	miet	медь	medʹ	copper; coppers pl.	
+tunka	copper	miet	медь	medʹ	copper; coppers	
 tunlo	swallow	glot	глотать	glotatʹ	swallow; bolt; gulp down; devour	
 tunta	poke	talk	толкать	tolkatʹ	push; shove; give; a push/shove; instigate; put	
 tuple	leg	naga	нога	noga	leg; foot	
 turni	govern	prav	править	pravitʹ	correct; straighten; sharpen; set; rule; govern; drive; steer	
-tutci	tool	utvar	утварь	utvarʹ	utensils pl. equipment	
+tutci	tool	utvar	утварь	utvarʹ	utensils; equipment	
 tutra	territory	tiritor	территория	territoriâ	territory	
 vacri	air	vozdux	воздух	vozduh	air	
 vajni	important	vajn	важный	važnyj	important; significant; pompous; grand	
 valsi	word	slov	слово	slovo	word; language; tale; story	
 vamji	value	sienast	ценность	cennostʹ	value; valuable	
-vamtu	vomit	rvat	рвать	rvatʹ	he is vomiting; he is puking; pull; pull off; pick; tear; rend; break off	
+vamtu	vomit	rvat	рвать	rvatʹ	vomit; puke	
 vanbi	environment	akrujieni	окружение	okruženie	environment; encirclement	
 vanci	evening	viecir	вечер	večer	evening; party	
 vanju	wine	vino	вино	vino	wine; vodka	
@@ -1247,7 +1247,7 @@ venfu	revenge	mst	мстить	mstitʹ	revenge one self; take/have revenge; pay;
 venfu	revenge	vimie				FIXIT missing
 vensa	spring	visna	весна	vesna	spring; springtime	
 verba	child	pebionak	ребёнок	rebënok	child	correct transcription ``rebionak''
-vibna	vagina	blagalic	влагалище	vlagaliŝe	vagina pl. -ae; -as	
+vibna	vagina	blagalic	влагалище	vlagaliŝe	vagina	
 vidni	video	katodnatrupk	катодная трубка	katodnaâ trubka	cathode-ray tube	cf. катодно-лучевая трубка [katodno-lučevaâ trubka] ``cathod-ray tube''
 vidru	virus	virus	вирус	virus	virus	
 vifne	fresh	sviej	свежий	svežij	fresh; cool; chilly; cold	
@@ -1280,32 +1280,32 @@ xadba	half	pal	пол-	pol-	half-
 xadni	body	tiel	тело	telo	body	
 xagji	hunger	golad	голодать	golodatʹ	starve; go hungry; fast	
 xagji	hunger	golat	голод	golod	hunger; starvation; famine; shortage	
-xagri	reed	sviriel	свирель	svirelʹ	ryed	
+xagri	reed	sviriel	свирель	svirelʹ	pipe; reed(-pipe)	source: http://www.rambler.ru/dict/
 xajmi	funny	kamicn	комичный	komičnyj	comical; funny	
 xaksu	use up	rasxodav	расходовать	rashodovatʹ	spend; expend; outlay; consume; use	
 xaksu	use up	trat	тратить	tratitʹ	spend; expend	
 xalbo	levity	lioxk	лёгкий	lëgkij	light; light-footed; graceful; fleet-footed; easy; slight; light/light-minded; frivolous; nice; easy-going	
 xalka	alcohol	alkagol	алкоголь	alkogolʹ	alcohol	
 xalni	panic	panik	паника	panika	panic; scare	
-xamgu	good	xaroc	хороший	horošij	good; walker; fine; close; lovely; beautiful; good-looking; dear; darling	
+xamgu	good	xaroc	хороший	horošij	good; fine; close; lovely; beautiful; good-looking; dear; darling	
 xamsi	sea	mor	море	more	sea; ocean	
 xance	hand	ruka	рука	ruka	hand; arm; handwriting	
 xanka	nervous	balnav	волноваться	volnovatʹsâ	be/get rough; surge; be/get upset; be/become agitated; be uneasy; be in a ferment	correct transcription ``valnav''
 xanri	imaginary	vaabrajaim	воображаемый	voobražaemyj	imaginary; imagined; fancied; fictitious	
 xanto	elephant	slon	слон	slon	elephant; bishop	
-xarci	weapon	aruj	оружие	oružie	weapon; arms pl. weapons pl.; instrument	
+xarci	weapon	aruj	оружие	oružie	weapon; arms; weapons; instrument	
 xarju	pig	boraf	боров	borov	boar; hog; obese man	
 xarju	pig	svin	свинья	svinʹâ	pig; hot sow; swine	
 xarnu	stubborn	uporn	упорный	upornyj	persistent; determined; stubborn; obstinate	
 xasli	donkey	asiol	осёл	osël	donkey; ass	
 xasne	sweat	pot	пот	pot	sweat; perspiration	
-xatra	letter	pismo	письмо	pisʹmo	letter; writing; script: characters pl.	
+xatra	letter	pismo	письмо	pisʹmo	letter; writing; script: characters	
 xebni	hate	ninavid	ненавидеть	nenavidetʹ	hate; detest	
 xedja	jaw	cielivst	челюсть	čelûstʹ	jaw; jaw-bone	correct transcription ``cieliust''
-xekri	black	ciarn	чёрный	čërnyj	black; dark; back attr.; rough; Black sg.	correct transcription ``ciorn''
+xekri	black	ciarn	чёрный	čërnyj	black; dark; back (attr.); rough; Black	correct transcription ``ciorn''
 xendo	kind	dobr	добрый	dobryj	good; kind	
-xenru	regret	jaliet	жалеть	žaletʹ	pity; be sorry; feel sorry; regret; wish one had; be sorry one didn`t; wish one hadn`t be sorry one did; spare; grudge; be kind/good; care tenderly	
-xinmo	ink	cirnil	чернила	černila	ink sg.	
+xenru	regret	jaliet	жалеть	žaletʹ	pity; be sorry; feel sorry; regret	
+xinmo	ink	cirnil	чернила	černila	ink	
 xirma	horse	kon	конь	konʹ	horse; steed; charger; knight	
 xirma	horse	locad	лошадь	lošadʹ	horse	
 xislu	wheel	kaliso	колесо	koleso	wheel	
@@ -1320,7 +1320,7 @@ xruki	turkey	indiuk	индюк	indûk	turkey
 xrula	flower	svest	цвести	cvesti	bloom; flower; blossom; be in bloom/blossom; flourish; be in blooming health; be covered with duckweed	
 xrula	flower	svet	цветок	cvetok	flower; blossom	
 xruti	return	vazvrac	возвращаться	vozvraŝatʹsâ	go back; come back, return; be back, revert	
-xukmi	chemical	ximicisk	химический	himičeskij	chemical; chemistry attr.	
+xukmi	chemical	ximicisk	химический	himičeskij	chemical; chemistry (attr.)	
 xunre	red	krasn	красный	krasnyj	red; ruddy; rubicund	
 xusra	assert	zaiavl	заявлять	zaâvlâtʹ	state; declare	
 xutla	smooth	glatk	гладкий	gladkij	smooth; facile; fluent; plain; sleek	
@@ -1348,7 +1348,7 @@ zinki	zinc	sink	цинк	cink	zinc
 zirpu	purple	fialietav	фиолетовый	fioletovyj	violet	
 zirpu	purple	lilav	лиловый	lilovyj	purple; mauve; lilac; violet	
 zivle	invest	vlaj	вложить	vložitʹ	invest; insert	source: http://dictionary.reverso.net/russian-english/
-zmadu	more	bolc	больше	bolʹše	bigger; larger; Z; more	
+zmadu	more	bolc	больше	bolʹše	bigger; larger; more	
 zmadu	more	icio	ещё	eŝë	more; another; still; even	
 zmiku	automatic	aftamaticesk	автоматический	avtomatičeskij	automatic	
 zukte	act	diestf	действовать	dejstvovatʹ	act; be in action; operate; work; function; run; be in force; be valid; use; have an effect; effect	
