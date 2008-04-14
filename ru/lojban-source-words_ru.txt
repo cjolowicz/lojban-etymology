@@ -53,7 +53,7 @@ bilga	obliged	dolg	долг	dolg	duty; debt
 bilma	ill	balno	больной	bolʹnoj	ill; sick; sore; bad; invalid; sick person; sick man; patient; case	
 bilni	military	vaien	военный	voennyj	war (attr.); martial; military; military man; serviceman	
 binra	insure	straxav	страховать	strahovatʹ	insure; provide safety measures; ensure to safety	
-binxo	become	dien	денется	denetsâ		FIXIT dubious
+binxo	become	dien	делаться	delatʹsâ	become; get; grow	FIXIT dubious; source: http://www.rambler.ru/dict/; correct transcription ``diel''; cf. денется [denetsâ] ``finite form of the verb деться = to disappear, to go away'' (variant)
 binxo	become	stanav	становиться	stanovitʹsâ	become; get; grow; stand; take up one`s position	
 birje	beer	piv	пиво	pivo	beer	
 birka	arm	ruka	рука	ruka	hand; arm; handwriting	
@@ -136,7 +136,7 @@ cidro	hydrogen	vadarod	водород	vodorod	hydrogen
 cifnu	infant	rebion	ребёнок	rebënok	child	
 cigla	gland	jiliza	железа	železa	gland	
 cikna	awake	bodrstvav	бодрствовать	bodrstvovatʹ	be/stay awake	
-cikna	awake	nispat				FIXIT missing
+cikna	awake	nispat	не спать	ne spatʹ	not to sleep	
 cikre	repair	cin	чинить	činitʹ	repair; mend	source: http://www.rambler.ru/dict/
 ciksi	explain	abiisn	объяснять	obʺâsnâtʹ	explain; make; clear; attribute to; put down	
 cilce	wild	dik	дикий	dikij	wild; savage; absurd; independent	
@@ -329,10 +329,10 @@ donri	daytime	dien	день	denʹ	day
 draci	drama	dram	драма	drama	drama; tragedy	
 drani	correct	praviln	правильный	pravilʹnyj	correct; regular; right; proper; real; well-proportioned; symmetrical	
 drata	other	drug	другой	drugoj	other; another; different; next; another person; a different person; the other; another thing; other people; the rest; the others	
-drudi	roof	dric	крыша	kryša	roof	correct transcription ``kric''; FIXIT dubious
+drudi	roof	dric	крыша	kryša	roof	correct transcription ``kric''
 dugri	logarithm	lagarifm	логарифм	logarifm	logarithm	
 dukse	excess	izbitak	избыток	izbytok	surplus; abundance	
-dukse	excess	lic				FIXIT missing
+dukse	excess	lic	лишний	lišnij	excessive	
 dukti	opposite	abratna	обратно	obratno	back; the other way round	
 dunda	give	dav	давать	davatʹ	give; yield	
 dunja	freeze	miorzn	мёрзнуть	mërznutʹ	freeze	
@@ -395,7 +395,7 @@ frinu	fraction	drop	дробь	drobʹ	fraction; shot
 friti	offer	predlag	предлагать	predlagatʹ	offer; propose; suggest; invite to suggest; put to; set; order to	
 frumu	frown	xmur	хмурый	hmuryj	gloomy; sombre; sullen; overcast	
 fukpi	copy	kopi	копия	kopiâ	copy; the image	
-fulta	float	nistis	нестись	nestisʹ	lay; rush; tear along; tear	FIXIT dubious
+fulta	float	nistis	нестись	nestisʹ	lay; rush; tear along; tear	cf. носиться [nositʹsâ] ''rush; rush about *ненаправл.*; scud (along) *направл.*; skim (along, over); gallop (*скакать*); fly (*летать*); *float, drift (по воде, в воздухе)*'' (imperfective form of нестись; source: http://lingvo.yandex.ru/)
 fulta	float	plav	плавать	plavatʹ	swim; float; drift; sail; steam; cruise; navigate; serve; be all at sea; be out of one`s depth	
 funca	luck	scast	счастье	sčastʹe	happiness; luck; good fortune	
 fusra	rotten	gnit	гнить	gnitʹ	rot; decay	
@@ -420,7 +420,7 @@ garna	rail	piril	перила	perila	rail; balustrade; banisters
 gasnu	do	diel	делать	delatʹ	do; make	
 gasta	steel	stal	сталь	stalʹ	steel	
 genja	root	korin	корень	korenʹ	root	
-genja	root	slov				FIXIT missing
+genja	root	slov	слово	slovo	word	FIXIT dubious; possibly by confusion with ``gismu''
 genxu	hook	kriuk	крюк	krûk	hook; detour	
 gerku	dog	sabak	собака	sobaka	dog; hound	
 gerna	grammar	gramatik	грамматика	grammatika	grammar	
@@ -447,7 +447,7 @@ gugde	country	rodin	родина	rodina	native land; motherland; mother country;
 gugde	country	strana	страна	strana	country; land	
 gundi	industry	industri	индустрия	industriâ	industry	
 gunka	work	rabot	работать	rabotatʹ	work; be; teach; train; work for the benefit; be on smb.`s side; be working in smb.`s favour; use; operate; run; go; function; be open	
-gunka	work	trudis	трудиться	truditʹsâ	work; toil; labour; be working; bother; take the trouble	FIXIT correct transcription ``trud''
+gunka	work	trudis	трудиться	truditʹsâ	work; toil; labour; be working; bother; take the trouble	correct transcription ``trud''
 gunma	jointly	mas	масса	massa	mass; dough; pulp; substance; the bulk; a lot; heaps	
 gunro	roll	kat	катиться	katitʹsâ	roll; slide; move; echo	
 gunse	goose	gus	гусь	gusʹ	goose	
@@ -599,7 +599,7 @@ karda	card	kartack	карточка	kartočka	card; photo
 kargu	costly	darag	дорогой	dorogoj	dear; expensive; costly; precious; darling; on the way	
 karli	collar	varatnik	воротник	vorotnik	collar	
 karni	journal	jurnal	журнал	žurnal	magazine; journal; periodical; quarterly; diary	
-katna	cut	kas	косить	kositʹ	twist; squint; mow; mow down	FIXIT dubious
+katna	cut	kas	косить	kositʹ	mow; mow down	cf. коса [kosa] ``scythe''
 kavbu	capture	lav	ловить	lovitʹ	catch; try to catch; catch out	
 kecti	pity	jal	жалеть	žaletʹ	pity; be sorry; feel sorry; regret; wish one had; be sorry one didn`t; wish one hadn`t be sorry one did; spare; grudge; be kind/good; care tenderly	
 kelci	play	igr	играть	igratʹ	play; act; perform; toy; sparkle	
@@ -622,7 +622,7 @@ klina	clear	svietl	светлый	svetlyj	bright; light; light-coloured; fair; c
 kliru	chlorine	xlor	хлор	hlor	chlorine	
 kliti	clay	glin	глина	glina	clay; argil; potter`s clay	
 klupe	screw	vint	винт	vint	screw; aircrew; propeller	
-kluza	loose	blusk	блузка	bluzka	blouse	FIXIT dubious
+kluza	loose	blusk	блузка	bluzka	blouse	
 kobli	cabbage	kapust	капуста	kapusta	cabbage	
 kojna	corner	ugal	угол	ugol	corner; nook; angle	
 kolme	coal	ugal	уголь	ugolʹ	coal	
@@ -632,7 +632,7 @@ korbi	edge	krai	край	kraj	edge; border; brink; brim; land; region; krai/terr
 korcu	bent	krivo	кривой	krivoj	curved; crooked; leaning over; one-eyed; blind in one-eye	
 korka	cork	propk	пробка	probka	cork; stopper; plug; fuse; circuit-breaker; cut-out; jam	
 kosta	coat	palto	пальто	palʹto	coat; overcoat	
-kramu	acre	deklatin	десятина	desâtina	tithe; dessiatina	``measure of land = 2,7 acres'' (source: http://www.rambler.ru/dict/); FIXIT correct transcription ``desiatin''
+kramu	acre	deklatin	десятина	desâtina	tithe; dessiatina	measure of land equivalent to 2,7 acres (source: http://www.rambler.ru/dict/); correct transcription ``desiatin''
 krasi	source	nacin	начинать	načinatʹ	begin; start; commence	
 krati	represent	pritstavl	представлять	predstavlâtʹ	present; hand in; produce; introduce; present; recommend; represent; act; show; imitate; imagine; fancy; offer	
 krefu	recur	pere	пере-	pere-	trans-, across, over, over again (verb prefix)	source: en.wiktionary.org
@@ -806,7 +806,7 @@ nazbi	nose	nos	нос	nos	nose; beak; bows; bow
 nejni	energy	iniergii	энергия	ènergiâ	energy; power	
 nelci	fond	liub	любить	lûbitʹ	love; be fond; like	
 nenri	in	vnutri	внутри	vnutri	inside	
-nibli	necessitate	vavlik	вовлекать	vovlekatʹ	draw; involve	FIXIT dubious
+nibli	necessitate	vavlik	вовлекать	vovlekatʹ	draw; involve	cf. влечь [vlečʹ] ``drag, pull; necessitate (math.)'' (derivation source)
 nicte	night	noc	ночь	nočʹ	night	
 nikle	nickel	nikil	никель	nikelʹ	nickel	
 nilce	furniture	miebil	мебель	mebelʹ	furniture	
@@ -848,7 +848,7 @@ panzi	offspring	patomak	потомок	potomok	descendant; offspring; descendant
 papri	page	stranis	страница	stranica	page; leaf; chapter	
 parbi	ratio	praports	пропорция	proporciâ	proportion; ratio	
 pastu	robe	mantii	мантия	mantiâ	cloak	
-patfu	father	pad	папа	papa	dad	FIXIT correct transcription ``pap''; cf. папочка [papočka] ``dad'' (variant)
+patfu	father	pad	папа	papa	dad	correct transcription ``pap''; cf. папочка [papočka] ``dad'' (variant)
 patlu	potato	kartofil	картофель	kartofelʹ	potatoes	
 patxu	pot	katiol	котёл	kotël	large saucepan; boiler; cauldron; pocket	
 pelji	paper	bumag	бумага	bumaga	paper; document; papers	
@@ -1084,7 +1084,7 @@ sombo	sow	usajiv	усаживать	usaživatʹ	seat; set smb. to; plant with
 sombo	sow	zasiv	засевать	zasevatʹ	sow	
 sonci	soldier	saldat	солдат	soldat	soldier; private; the men	
 sorcu	store	zapas	запасать	zapasatʹ	store; lay in; stockpile	
-sorgu	sorghum					FIXIT Russian source word missing in original gismu etymology file
+sorgu	sorghum		сорго	sorgo	sorghum	FIXIT dubious; Russian source word missing in original gismu etymology file
 sovda	egg	iiso	яйцо	âjco	egg; ovum; ova; balls; nuts; bollocks; pills	
 spaji	surprise	siurpriz	сюрприз	sûrpriz	surprise	
 spali	polish	palirav	полировать	polirovatʹ	polish; burnish; buff	
@@ -1096,7 +1096,7 @@ spofu	broken	sloman	сломанный	slomannyj	broken	source: http://dictionar
 spoja	explode	vzriv	взрываться	vzryvatʹsâ	be blown up; explode; fly into rage	
 spuda	reply	atvic	отвечать	otvečatʹ	answer; reply; be responsible; correspond	
 sputu	spit	pliv	плевать	plevatʹ	spit; shrug off	
-sraji	vertical	skak				FIXIT missing
+sraji	vertical	skak	скакать	skakatʹ	skip; jump; hop; gallop; be unsteady	FIXIT dubious
 sraku	scratch	sarap	царапать	carapatʹ	scratch	
 srana	pertain	atnas	относиться	otnositʹsâ	be related; have to do; apply; be; belong; be disposed; treat	
 srasu	grass	trava	трава	trava	grass; herb	
@@ -1147,7 +1147,7 @@ talsa	challenge	aspariv	оспаривать	osparivatʹ	contest; dispute; conte
 tamca	tomato	tamat	томат	tomat	tomato	
 tamji	thumb	balcoipalis	большой палец	bolʹšoj palec	thumb; big toe	
 tamne	cousin	kuzien	кузен	kuzen	cousin	
-tamne	cousin	kuzinz				FIXIT missing
+tamne	cousin	kuzinz	кузина	kuzina	cousin (female)	correct transcription ``kuzin(a)''
 tamne	cousin	rodstven	родственник	rodstvennik	relative; relation	
 tanbo	board	daska	доска	doska	board; plank	
 tance	tongue	iizik	язык	âzyk	tongue	
@@ -1223,7 +1223,7 @@ tubnu	tube	trub	труба	truba	pipe; chimney; stack; funnel; trumpet; tube
 tugni	agree	soglacat	соглашаться	soglašatʹsâ	agree; agree with one`s friends` opinion	
 tujli	tulip	tiulipan	тюльпан	tûlʹpan	tulip	
 tumla	land	zemlia	земля	zemlâ	earth; the Earth; land; soil; ground	
-tunba	sibling					FIXIT Russian source word missing in original gismu etymology file
+tunba	sibling					Russian source word missing in original gismu etymology file: no Russian equivalent; cf. сиблинг [sibling] ``sibling (scientific; rare)''
 tunka	copper	miet	медь	medʹ	copper; coppers	
 tunlo	swallow	glot	глотать	glotatʹ	swallow; bolt; gulp down; devour	
 tunta	poke	talk	толкать	tolkatʹ	push; shove; give; a push/shove; instigate; put	
@@ -1244,10 +1244,10 @@ vasxu	breathe	dic	дышать	dyšatʹ	breathe; be fragrant; emanate; blow; rad
 vecnu	sell	pradav	продавать	prodavatʹ	sell; betray for money; sell down the river	
 venfu	revenge	miest	месть	mestʹ	revenge	
 venfu	revenge	mst	мстить	mstitʹ	revenge one self; take/have revenge; pay; back	
-venfu	revenge	vimie				FIXIT missing
+venfu	revenge	vimie	вымещать	vymeŝatʹ	avenge; take it out on	correct transcription ``vimiec''
 vensa	spring	visna	весна	vesna	spring; springtime	
 verba	child	pebionak	ребёнок	rebënok	child	correct transcription ``rebionak''
-vibna	vagina	blagalic	влагалище	vlagaliŝe	vagina	
+vibna	vagina	blagalic	влагалище	vlagaliŝe	vagina	correct transcription ``vlagalic''
 vidni	video	katodnatrupk	катодная трубка	katodnaâ trubka	cathode-ray tube	cf. катодно-лучевая трубка [katodno-lučevaâ trubka] ``cathod-ray tube''
 vidru	virus	virus	вирус	virus	virus	
 vifne	fresh	sviej	свежий	svežij	fresh; cool; chilly; cold	
@@ -1262,7 +1262,7 @@ viska	see	vid	видеть	videtʹ	see
 vitci	irregular	pririvist	прерывистый	preryvistyj	intermittent; interrupted; faltering	
 vitke	guest	gost	гость	gostʹ	guest; visitor	
 vitno	permanent	viecn	вечный	večnyj	eternal; everlasting; perpetual; endless	
-vlagi	vulva					FIXIT Russian source word missing in original gismu etymology file
+vlagi	vulva		влагалище	vlagaliŝe	vagina	FIXIT dubious; Russian source word missing in original gismu etymology file
 vlile	violent	nasil	насилие	nasilie	violence; coercion	
 vlina	alternation	altirnativ	альтернатива	alʹternativa	alternative	
 vlipa	powerful	vlast	власть	vlastʹ	power; form of government; the authorities; authority	
