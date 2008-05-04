@@ -1,0 +1,1386 @@
+bacru	utter	bar					FIXIT missing
+badna	banana	kadali	कदली	kadalī	banana	n	
+badri	sad	duxkad	दुखःद	dukhaḥda	sad	adj	FIXIT dubious; correct transcription ``dukaxd''
+bajra	run	daur	दौड़	dauṛa	run	n	
+bakfu	bundle	gat	गठ्ठा	gaṭhṭhā	bundle	n	
+bakfu	bundle	potl	पोटली	pōṭalī	bundle	n	
+bakni	bovine	bail	बैल	baila	ox	n	
+bakri	chalk	kari	खड़िया	khaṛiyā	chalk	n	
+baktu	bucket	balt	बाल्टी	bālṭī	bucket	n	
+balji	bulb	balb	बल्ब	balba	bulb (electricity)	n	
+balni	balcony	baramda	बरामदा	barāmadā	veranda	n	
+balre	blade	pal	फलक	phalaka	blade	n	FIXIT dubious; correct transcription ``palak''
+balvi	future	bavic	भविष्य	bhaviṣya	future	n	
+bancu	beyond	baxar	बाहर	bāhara	beyond	prep	
+bandu	defend	baca	बचाना	bacānā	defend	vt	
+banfi	amphibian	ubaiacar	उभयचर	ubhayacara	amphibian	n	
+bangu	language	bac	भाषा	bhāṣā	language	n	
+banli	great	bar	बड़ा	baṛā	great	adj	
+banro	grow	bar	बढ़ना	baṛhanā	grow	vi	
+banxa	bank	bank	बैंक	baiṅka	bank	n	
+banzu	suffice	bas	बस	basa	sufficient	adj	
+bapli	force	badi	बाध्य	bādhya	constrained	adj	
+barda	big	bar	बड़ा	baṛā	big	adj	
+bargu	arch	baxu	बाहु	bāhu	arm	n	
+bargu	arch	mexarab	मेहराब	meharāba	arch	n	
+barja	bar	saraia	सराय	sarāya	tavern	n	
+barna	mark	mark	मार्का	mārkā	mark	n	
+bartu	out	baxar	बाहर	bāhara	out	adv	
+basna	emphasize	bal	बल	bala	stress	n	
+basti	replace	badil	बदल	badala	substitution	n	FIXIT dubious; correct transcription ``badal''
+batci	bite	kat	काट	kāṭa	bite	n	
+batke	button	batn	बटन	baṭana	button	n	
+bavmi	barley	iav	यव	yava	barley	n	
+bebna	foolish	murk	मूर्ख	mūrkha	foolish	adj	
+bende	orchestra	bend	बैंड	baiṇḍa	band	n	
+benji	send	bej	भेजना	bhējanā	send	vt	
+bersa	son	beta	बेटा	bēṭā	son	n	
+berti	north	utar	उत्तर	uttara	north	n	
+besna	brain	bej	भेजा	bhējā	brain	n	
+betfu	abdomen	pet	पेट	pēṭa	abdomen	n	
+betri	tragedy	kaxar					FIXIT missing
+betri	tragedy	maxavipad	महा विपद	mahā vipada	great affliction	n	FIXIT dubious; Google hit; cf. महा विपदा [mahā vipadā] ``great disaster''; FIXIT dubious; Google hit
+betri	tragedy	vinipat					FIXIT missing
+bevri	carry	dona	ढोना	ḍhōnā	carry	vt	
+bidju	bead	mank	मनका	manakā	bead	n	
+bifce	bee	bramar	भ्रमर	bhramara	bee	n	
+bikla	whip	cabuk	चाबुक	cābuka	whip	n	
+bilga	obliged	abadia	बाध्य	bādhya	obliged	adj	FIXIT dubious; correct transcription ``badia''; cf. अबध्य [abadhya] ``inviolable''
+bilma	ill	bimar	बीमार	bīmāra	ill	adj	
+bilni	military	saini	सैन्य	sain'ya	military	adj	
+binra	insure	bim	बीमा	bīmā	insurance	n	
+binxo	become	xo	होना	hōnā	become	vi	
+birje	beer	biiar	बियर	biyara	beer	n	
+birka	arm	baxu	बाहु	bāhu	arm	n	
+birti	certain	stir	स्थिर	sthira	resolute	adj	
+bisli	ice	barf	बर्फ़	barfa	ice	n	
+bisli	ice	xim	हिम	hima	ice	n	
+bitmu	wall	bit	भीत	bhīta	wall	n	
+blabi	white	cvet	श्वेत	śvēta	white	adj	
+blabi	white	safed	सफेद	saphēda	white	adj	
+blaci	glass	cic	शीशा	śīśā	glass	n	
+blanu	blue	nil	नील	nīla	blue	n	
+bliku	block	kund	कुन्दा	kundā	block	n	
+bloti	boat	nav	नाव	nāva	boat	n	
+bolci	ball	gola	गोला	gōlā	ball	n	
+bongu	bone	ast	अस्थि	asthi	bone	n	
+botpi	bottle	botal	बोतल	bōtala	bottle	n	
+boxfo	sheet	cadar	चादर	cādara	bed sheet	n	cf. चद्दर [caddara] ``sheet''
+boxfo	sheet	palak					FIXIT missing
+boxfo	sheet	patar	परत	parata	sheet	n	FIXIT dubious; correct transcription ``parat''; cf. पत्र [patra] ``leaf''; FIXIT dubious; correct transcription ``patr''
+boxfo	sheet	tav					FIXIT missing
+boxna	wave	laxra	लहर	lahara	wave	n	
+bradi	enemy	beri	बैरी	bairī	foe	n	
+bratu	hail	ol	ओला	ōlā	hail	n	
+bredi	ready	taiar	तैयार	taiyāra	ready	adj	
+bridi	predicate	videi	विधेय	vidheya	predicate	n	
+brife	breeze	pavan	पवन	pavana	air	n	
+brife	breeze	samir	समीर	samīra	breeze	n	
+briju	office	karialai	कार्यालय	kāryālaya	office	n	
+bruna	brother	brat	भाई	bhrātā	brother	n	
+bukpu	cloth	kapna	कफन	kaphana	pall	n	
+bukpu	cloth	kapra	कपड़ा	kapaṛā	cloth	n	
+bumru	fog	kuxra	कुहरा	kuharā	fog	n	
+bunda	pound	paund	पाउंड	pā'uṇḍa	pound	n	
+bunre	brown	bur	भूरा	bhūrā	brown	adj	
+burcu	brush	burus	बुरुस	burusa	brush	n	FIXIT dubious; Nepali; cf. बुरुश [buruśa] ``brush (electricity)''; FIXIT dubious; English loanword
+burna	embarrassed	gabra	घबराना	ghabarānā	disconcert	vt	
+cabna	now	ab	अब	aba	now	adv	
+cabra	apparatus	iantra	यंत्र	yantra	machine	n	
+cacra	hour	xora					FIXIT missing
+cadzu	walk	cal	चाल	cāla	walk	n	
+cafne	often	anekac					FIXIT missing
+cakla	chocolate	caklet	चॉकलेट	cŏkalēṭa	chocolate	n	
+calku	shell	cilka	छिलका	chilakā	shell	n	
+canci	vanish	antargan	अन्तर्धान	antardhāna	disappearance	n	FIXIT dubious; correct transcription ``antardan''
+cando	idle	canti	शांति	śānti	quiet	n	
+cange	farm	cak	चाक	cāka	farm	n	
+canja	exchange	tijarat	तिजारत	tijārata	trade	n	
+canko	window	kirk	खिड़की	khiṛakī	window	n	
+canlu	space	vistar	विस्तार	vistāra	volume	n	
+canpa	shovel	pavra					FIXIT missing
+canre	sand	ret	रेत	rēta	sand	n	
+canti	gut	antr	अंतड़ी	antaṛī	gut	n	
+carce	cart	gari	गाड़ी	gāṛī	cart	n	
+carmi	intense	camak	चमक	camaka	brightness	n	
+carna	turn	cakra	घुमाव	cakkara	turn	n	
+cartu	chart	nakca	नक्शा	nakśā	chart (map)	v	
+carvi	rain	baric	बारिश	bāriśa	rain	n	
+casnu	discuss	vicar	विचार	vicāra	deliberation	n	
+catke	shove	dakel	ढकेलना	ḍhakēlanā	shove	vt	
+catlu	look	dek	देख	dēkha	regard	n	
+catni	authority	cakti	शक्ति	śakti	authority	n	
+catra	kill	xatia	हत्या	hatyā	killing	n	
+caxno	shallow	cical	छिछला	chichalā	shallow	adj	
+cecla	launcher	cala	चलाना	calānā	launch	v	
+cecmu	community	samudai	समुदाय	samudāya	community	n	
+cedra	era	iug	युग	yuga	epoch	n	
+cedra	era	kal	काल	kāla	era	n	
+cedra	era	sanvat	सम्वत	samvata	era	n	
+cenba	vary	badal	बदलना	badalanā	vary	v	
+censa	holy	sant	संत	santa	saint	n	
+cerda	heir	daid					FIXIT missing
+cerni	morning	saber	सबेरा	sabērā	dawn	n	
+certu	expert	catur	चतुर	catura	skilled	adj	
+cevni	god	dev	देव	dēva	deity	n	
+cfari	initiate	aramb	आरम्भ	ārambha	beginning	n	
+cfika	fiction	kalpna	कल्पना	kalpanā	fiction	n	
+cfila	flaw	doc	दोष	dōṣa	flaw	n	
+cfila	flaw	kami	कमी	kamī	defect	n	
+cfila	flaw	truti	त्रुटि	truṭi	flaw	n	
+cfine	wedge	fan					FIXIT missing
+cfipu	confuse	vikcipt					FIXIT missing
+ciblu	blood	rakt	रक्त	rakta	blood	n	
+cicna	cyan						FIXIT missing
+cidja	food	bojan	भोजन	bhōjana	food	n	
+cidni	knee	gutna	घुटना	ghuṭanā	knee	n	
+cidni	knee	janu					FIXIT missing
+cidro	hydrogen	xaidrojan	हाइड्रोजन	hā'iḍrōjana	hydrogen	n	
+cifnu	infant	cicu	शिशु	śiśu	child	n	
+cigla	gland	granti	ग्रंथि	granthi	gland	n	
+cikna	awake	jagna	जागना	jāganā	awake	vi	
+cikre	repair	tik	ठीक	ṭhīka	alright	adj	cf. ठीक करना  [ṭhīka karanā] ``mend''
+ciksi	explain	viakia	व्याख्या	vyākhyā	explanation	n	
+cilce	wild	vaxaci					FIXIT missing
+cilmo	moist	gila	गीला	gīlā	moist	adj	
+cilre	learn	sik	सीखना	sīkhanā	learn	v	
+cilta	thread	taga	तागा	tāgā	yarn	n	
+cimde	dimension	viman	विमान	vimāna	measure	n	FIXIT dubious; Sanskrit, also ``mythical flying machine''; cf. विमा- [vimā-] ``dimensional''
+cimni	infinite	asim	असीम	asīma	unending	adj	
+cinba	kiss	cumban	चुम्बन	cumbana	kiss	n	
+cindu	oak	banzu	बलूत	balūta	oak	n	FIXIT dubious; correct transcription ``balut''
+cinfo	lion	sinx	सिंह	sĩha	lion	n	
+cinje	wrinkle	cikan	शिकन	śikana	wrinkle	n	
+cinki	insect	kit	कीट	kīṭa	insect	n	
+cinla	thin	dubla	दुबला	dubalā	thin	adj	
+cinla	thin	patla	पतला	patalā	thin	adj	
+cinmo	emotion	bav	भाव	bhāva	sentiment	n	
+cinmo	emotion	sparc	स्पर्श	sparśa	feel (touch)	n	
+cinri	interesting	ruci	रुचि	ruci	humour	n	
+cinse	sexual	ion	यौन	yauna	sexual	adj	
+cinse	sexual	kam	काम	kāma	sensuality	n	Sanskrit; one one of the four ends of human life (purusharthas) in Hinduism
+cinse	sexual	maitun	मैथुन	maithuna	sexual intercourse	n	
+cinta	paint	paint	पेंट	pēṇṭa	paint	n	FIXIT dubious; correct transcription ``pent''
+cinza	tongs	cimta	चिमटा	cimaṭā	tongs	n	
+cipni	bird	cirii	चिड़िया	ciṛiyā	bird	n	
+cipra	test	parak	परख	parakha	test	n	
+cirko	lose	ko	खोना	khōnā	lose	v	
+cirla	cheese	panir	पनीर	panīra	cheese	n	
+ciska	write	lika	लिखना	likhanā	write	vt	
+cisma	smile	smit					FIXIT missing
+ciste	system	viavastit	व्यवस्थित	vyavasthita	organised	adj	
+citka	eat	kan	खाना	khānā	eat	v	
+citno	young	cot	छोटा	chōṭā	junior	adj	
+citri	history	itixas	इतिहास	itihāsa	history	n	
+citsi	season	ritu	ऋतु	r̥tu	season	n	
+civla	louse	cilar	चीलर	cīlara	louse	n	
+cizra	strange	niral	निराल	nirālā	extraordinary	adj	
+ckabu	rubber	rabar	रबर	rabara	rubber	n	
+ckafi	coffee	kafi	काफ़ी	kāfī	coffee	n	
+ckaji	quality	gurn	गुण	guṇa	quality	n	FIXIT dubious; correct transcription ``gun''; `rn' for `ṇ' not consistent with other occurences
+ckana	bed	caia	शय्या	śayyā	bed	n	
+ckape	peril	katr	खतरा	khatarā	peril	n	
+ckasu	ridicule	upxas	उपहास	upahāsa	ridicule	n	
+ckeji	ashamed	lajit	लज्जित	lajjita	ashamed	adj	
+ckiku	key	kunji	कुंजी	kun̄jī	key	n	
+ckilu	scale	anumap	अनुमाप	anumāpa	scale	n	
+ckilu	scale	mapakram	मापक्रम	māpakrama	scale	n	
+ckini	related	sagotr	सगोत्र	sagōtra	akin	adj	
+ckini	related	samband	सम्बन्धी	sambandhī	related	adj	
+ckire	grateful	cukra	शुक्र	śukra	thanks	interj	Persian origin; the Sanskrit word means ``Venus, Friday''; cf. शुक्रिया [śukriyā] ``thank''
+ckule	school	skul	स्कूल	skūla	school	n	
+ckunu	conifer	canku	शंकु	śaṅku	cone	n	
+cladu	loud	tivr	तीव्र	tīvra	intense	adj	
+cladu	loud	unc	उंच	un̄ca	high (pitch)	adj	cf. उंचे स्वर का [un̄cē svara kā] ``loud''
+clani	long	lamb	लम्बा	lambā	long	adj	
+claxu	without	baxr	बाहर	bāhara	without	prep	
+clika	mossy	kai	काई	kā'ī	moss	n	
+clira	early	praramb	प्रारम्भ	prārambha	commencement	n	cf. प्रारम्भिक [prārambhika] ``early''
+clite	polite	cict	शिष्ट	śiṣṭa	polite	adj	
+cliva	leave	calan	चलना	calanā	go	v	
+clupa	loop	pac	पाश	pāśa	loop	n	
+cmaci	mathematics	ganit	गणित	gaṇita	mathematics	n	
+cmalu	small	lagu	लघु	laghu	small	adj	
+cmana	mountain	paxar	पहाड़	pahāṛa	mountain	n	
+cmene	name	man	नाम	nāma	name	n	FIXIT dubious; correct transcription ``nam''
+cmila	laugh	xans	हंसी	hansī	laugh	n	
+cmima	member	sabasad	सभासद	sabhāsada	member	n	
+cmima	member	sadasi	सदस्य	sadasya	member	n	
+cmoni	moan	ax	आह	āha	groan	n	
+cmoni	moan	karax	कराह	karāha	moan	n	
+cnano	norm	manak	मानक	mānaka	norm	n	
+cnebo	neck	gardan	गरदन	garadana	neck	n	
+cnebo	neck	griv					FIXIT missing
+cnemu	reward	inam	ईनाम	īnāma	reward	n	
+cnici	orderly	vicudv	विशुद्ध	viśud'dha	clean	adj	
+cnino	new	navin	नवीन	navīna	new	adj	
+cnisa	lead	sisak	सीसा का	sīsā kā	leaden	adj	
+cnita	beneath	tal	तले	talē	beneath	adv	
+cokcu	soak	coc	शोषण	śōṣaṇa	absorption	n	
+condi	deep	gaxr	गहरा	gaharā	deep	adj	
+cortu	pain	cot	चोट	cōṭa	hurt	n	
+cpacu	get	pa	पाना	pānā	get	vt	
+cpana	upon	par	पर	para	upon	prep	
+cpare	climb	car	चढ़ना	caṛhanā	climb	v	
+cpedu	request	nivedan	निवेदन	nivēdana	request	n	
+cpina	pungent	tika	तीखा	tīkhā	pungent	adj	
+cpina	pungent	tikcna	तीक्ष्ण	tīkṣṇa	pungent	adj	
+cradi	radio	rediio	रेडियो	rēḍiyō	radio	n	
+crane	front	samne	सामने	sāmanē	in front	adv	
+creka	shirt	kamiz	कमीज़	kamīza	shirt	n	
+crepu	harvest	fasal	फसल	phasala	harvest	n	
+cribe	bear	ric	रीछ	rīcha	bear	n	
+crida	fairy	pari	परी	parī	fairy	n	
+crino	green	xarit	हरित	harita	green	adj	
+cripu	bridge	pul	पुल	pula	bridge	n	
+crisa	summer	gricm	ग्रीष्म	grīṣma	summer	adj	
+critu	autumn	cart	शरत्	śarat	autumn	n	
+ctaru	tide	juar	ज्वार	jvāra	flood	n	
+ctebi	lip	oct	ओष्ठ	ōṣṭha	lip	n	
+cteki	tax	teks	टैक्स	ṭaiksa	tax	n	
+ctile	petroleum	butal	भूतेल	bhūtēla	petroleum	n	FIXIT dubious; correct transcription ``butel''; dubious dictionary entry
+ctino	shadow	cai	छाया	chāyā	shadow	n	
+ctuca	teach	cikca	शिक्षा	śikṣā	lesson	n	
+cukla	round	cakar	चक्कर	cakkara	round	n	
+cukta	book	pustak	पुस्तक	pustaka	book	n	
+culno	full	purn	पूर्ण	pūrṇa	full	adj	
+cumki	possible	caki	शक्य	śakya	potential	n	
+cumla	humble	namra	नम्र	namra	humble	adj	
+cunmi	millet	cen					FIXIT missing
+cunso	random	iadrici					FIXIT missing
+cuntu	affair	udiam	उद्यम	udyama	affair	n	
+cupra	produce	utpan	उत्पन्न	utpanna	produced	n	
+curmi	let	anumit	अनुमति	anumati	permission	n	FIXIT dubious; correct transcription ``anum(a)ti''
+curnu	worm	kencua					FIXIT missing
+curnu	worm	kiraun	कीड़ा	kīṛā	worm	n	FIXIT dubious; correct transcription ``kira''
+curve	pure	cudva	शुद्ध	śuddha	pure	adj	
+cusku	express	kax	कहना	kahanā	enunciate	vt	
+cutci	shoe	juta	जूता	jūtā	shoe	n	
+cutne	chest	cat	छाती	chātī	chest	n	
+cuxna	choose	cuna	चुनना	cunanā	choose	vi	
+dacru	drawer	daraj	दराज	darāja	drawer	n	
+dacti	object	padart	पदार्थ	padārtha	object	n	
+dakfu	knife	caku	चाकू	cākū	knife	n	
+dakli	sack	tail	थैला	thailā	sack	n	
+damba	fight	samgarc	संघर्ष	saṅgharṣa	combat	n	
+damri	drum	mridan	मृदंग	mr̥daṅga	drum	n	
+dandu	hang	tang	टांगना	ṭāṅganā	hang	v	
+danfu	answer	utar	उत्तर	uttara	answer	n	
+danlu	animal	jantu	जन्तु	jantu	animal	n	
+danmo	smoke	duan	धुआं	dhu'āṁ	smoke	n	
+danre	pressure	dab	दाब	dāba	pressure	n	
+dansu	dance	nac	नाच	nāca	dance	n	
+dansu	dance	nritia	नृत्य	nr̥tya	dance	n	
+danti	projectile	astra	अस्त्र	astra	projectile	n	
+daplu	island	tapu	टापू	ṭāpū	island	n	
+dapma	curse	cap	शाप	śāpa	curse	n	
+dargu	road	marg	मार्ग	mārga	road	n	
+darlu	argue	tarkana	तर्कना	tarkanā	discuss	v	
+darno	far	dur	दूर	dūra	far	adj	
+darsi	audacity	saxsi	साहसी	sāhasī	audacious	adj	
+darxi	hit	mar	मार	māra	hit	n	
+daski	pocket	pakit	पाकीट	pākīṭa	pocket	n	
+dasni	wear	paxna	पहनना	pahananā	wear	n	
+daspo	destroy	dvast	ध्वस्त	dhvasta	wrecked	adj	
+dasri	ribbon	dar	धारी	dhārī	stripe	n	
+datka	duck	batak	बतख	batakha	duck	n	
+datni	data	sankikia	सांख्यिकीय	sāṅkhyikīya	statistical	adj	
+degji	finger	ungli	उंगली	uṅgalī	finger	n	
+dejni	owe	dendar	देनदार	dēnadāra	debtor	n	
+dekpu	gallon	pudi					FIXIT missing
+dembi	bean	sem	सेम	sēma	bean	n	
+denci	tooth	dant	दांत	dānta	tooth	n	
+denmi	dense	sankendran	संकेन्द्रण	saṅkēndraṇa	concentration	n	
+denpa	wait	viram	विराम	virāma	halt	n	
+denpa	wait	xicak	हिचकना	hicakanā	hesitate	v	
+dertu	dirt	darti	धरती	dharatī	soil	n	
+derxi	heap	der	ढेर	ḍhēra	heap	n	
+desku	shake	janjar	झाड़ डालना	jhāṛa ḍālanā	shake	vt	FIXIT dubious; correct transcription ``jar''; cf. झंझरी [jhan̄jharī] ``lattice''; FIXIT dubious; unrelated meaning
+desku	shake	kanpa	कंपाना	kampānā	shake	vt	
+desku	shake	xilan	हिलाना	hilānā	shake	vt	
+detri	date	tarix	तारीख़	tārīḵẖa	date	n	
+dicra	interrupt	viram	विराम	virāma	halt	n	
+dikca	electric	carj	चार्ज	cārja	charge (electr.)	n	
+diklo	local	stanik	स्थानिक	sthānika	local	n	
+dikni	regular	niiamit	नियमित	niyamita	regular	adj	
+dilcu	quotient	labdi					FIXIT missing
+dilnu	cloud	badal	बादल	bādala	cloud	n	
+dimna	fate	kismat	किस्मत	kismata	kismet	n	
+dinju	building	bavan	भवन	bhavana	building	n	
+dinju	building	imarat	इमारत	imārata	building	n	
+dinko	nail	kol	कील	kīla	nail	n	FIXIT dubious; correct transcription ``kil''; probably typo
+dirba	dear	piara	प्यारा	pyārā	dear	adj	
+dirce	radiate	vikirn	विकिरण	vikiraṇa	radiation	n	
+dirgo	drop	bindu	बिंदु	bindu	point	n	
+dirgo	drop	bund	बूंद	būnda	drop	n	
+dizlo	low	nica	नीचा	nīcā	low	adj	
+dizlo	low	nimn	निम्न	nimna	low	adj	
+djacu	water	jal	जल	jala	water	n	
+djedi	day	din	दिन	dina	day	n	
+djica	desire	ica	इच्छा	icchā	desire	n	
+djine	ring	mudrik					FIXIT missing
+djuno	know	jan	जानना	jānanā	know	vt	
+donri	daytime	din	दिन	dina	daytime	n	
+draci	drama	natak	नाटक	nāṭaka	drama	n	
+drani	correct	tik	ठीक	ṭhīka	correct	adj	
+drata	other	dusra	दूसरा	dūsarā	other	det	
+drudi	roof	cat	छत	chata	roof	n	
+dugri	logarithm	laguganak	लघुगणक	laghugaṇaka	logarithm	n	
+dukse	excess	adikt	अधिकता	adhikatā	excess	adj	
+dukti	opposite	ulta	उल्टा	ulṭā	opposite	adj	
+dunda	give	dena	देना	dēnā	give	vt	
+dunja	freeze	jama	जमा देना	jamā dēnā	freeze	vt	
+dunku	anguish	duxk	दु:ख	du:kha	anguish	n	
+dunli	equal	tuli	तुल्य	tulya	equal	adj	
+dunra	winter	jara	जाड़ा	jāṛā	winter	n	
+dzena	ancestor	nana	नाना	nānā	grandfather	n	
+facki	discover	avickar	आविष्कार	āviṣkāra	invention	n	
+fadni	ordinary	samani	सामान्य	sāmān'ya	ordinary	adj	
+fagri	fire	ag	आग	āga	fire	n	
+falnu	sail	pal	पाल	pāla	sail	n	
+famti	aunt	mama	मामा	māmā	uncle	n	
+fancu	function	falan	फलन	phalana	function	n	
+fange	alien	aniadec	अन्य देश	an'ya dēśa	foreign	n	
+fanmo	end	ant	अंत	anta	end	n	
+fanri	factory	fektri	फैक्ट्री	phaikṭrī	factory	n	
+fanta	prevent	tal	टालना	thālanā	evade	v	
+fanva	translate	anuvad	अनुवाद	anuvāda	translation	n	
+fanza	annoy	tang	तंग	taṅga	bothered	adj	
+fapro	oppose	virod	विरोध	virōdha	opposition	n	
+farlu	fall	jar					FIXIT missing
+farna	direction	taraf	तरफ़	tarafa	direction	n	
+farvi	develop	bar	बढ़ाना	baṛhānā	develop	v	
+fasnu	event	gatn	घटना	ghaṭanā	event	n	
+fatci	fact	tat	तथ्य	tathya	fact	n	
+fatne	reverse	ulat	उलटना	ulaṭanā	reverse	vt	
+fatri	distribute	vitran	वितरण	vitaraṇa	distribution	n	
+febvi	boil	ubal	उबाल	ubāla	boiling (state)	n	
+fendi	divide	bag	भाग	bhāga	partition	n	
+fendi	divide	vibakt	विभक्त	vibhakta	divided	adj	
+fengu	angry	kobit	कुपित	kupita	angry	adj	FIXIT dubious; correct transcription ``kupit''
+fengu	angry	krudva	क्रुद्ध	krud'dha	angry	adj	
+fenki	crazy	sank	सनकी	sanakī	crazy	adj	
+fenra	crack	daraj	दरज	daraja	crack	n	
+fenra	crack	darar	दरार	darāra	crack	n	
+fenso	sew	silai	सिलाई	silā'ī	sewing	n	
+fenso	sew	sina	सीना	sīnā	sew	vt	
+fepni	cent	paisa	पैसा	paisā	coin	n	
+fepri	lung	pepar	फेफड़ा	phēphaṛā	lung	n	
+ferti	fertile	upjau	उपजाऊ	upajā'ū	fertile	adj	
+ferti	fertile	urvar	उर्वरा	urvarā	fertile soil	n	
+festi	waste	apcec	अपशेष	apaśēṣa	waste	n	
+fetsi	female	stri	स्त्री	strī	female	adj	
+figre	fig	anjir	अंजीर	aṁjīra	fig	n	
+finpe	fish	min					FIXIT missing
+finti	invent	sricti	सृष्टि	sṛṣṭi	creation	n	
+flalu	law	kanun	कानून	kānūna	law	n	
+flani	flute	bansi	बंसी	baṁsī	pipe	n	
+flani	flute	vanci	बंसी	baṁsī	pipe	n	
+flecu	flow	bax	बहना	bahanā	flow	v	
+flecu	flow	dar	धारा	dhārā	flow	n	
+fliba	fail	abav	अभाव	abhāva	lack	n	
+flira	face	cexra	चेहरा	cēharā	face	n	
+foldi	field	kcetrn	क्षेत्रिन्	kṣētrin	relating to a field	adj	cf. क्षेत्र [kṣētra] ``field''
+foldi	field	ket	खेत	khēta	field	n	
+foldi	field	maidan	मैदान	maidāna	field	n	
+fonmo	foam	fen	फेन	phēna	foam	n	
+fonxa	telephone	telifon	टेलीफ़ोन	ṭelīfona	telephone	n	
+forca	fork	cul					FIXIT missing
+forca	fork	kanta	कांटा	kāṇṭā	fork	n	
+frati	react	prativadan	प्रतिवादन	prativādana	reply	n	FIXIT dubious; Google; cf. प्रतिवाद [prativāda] ``reply''
+fraxu	forgive	max					FIXIT missing
+frica	differ	farak	फ़र्क	farka	different	adj	FIXIT dubious; correct transcription ``fark''
+frili	easy	asan	आसान	āsāna	easy	adj	
+frili	easy	saxaj	सहज	sahaja	easy	adj	
+frili	easy	sukar	सुकर	sukara	easy	adj	
+frinu	fraction	bin	भिन्न	bhinna	fraction	n	
+friti	offer	arpit	अर्पित	arpita	delivered	part	cf. अर्पित करना [arpita karanā] ``bestow''
+frumu	frown	brubag					FIXIT missing
+fukpi	copy	nakal	नकल	nakala	copy	n	
+fukpi	copy	pratilip	प्रतिलिपि	pratilipi	copy	n	
+fulta	float	utra	उतराना	utarānā	bob (come up)	v	
+funca	luck	niati	नियति	niyati	destiny	n	
+fusra	rotten	saran	सड़ाना	saṛānā	rot	v	
+fuzme	responsible	jimevar	जिम्मेवार	jim'mēvāra	accountable	adj	
+gacri	cover	acadan	आच्छादन	ācchādana	cover	v	
+gadri	article	upapad	उपपद	upapada	appellation	n	
+galfi	modify	badal	बदलना	badalanā	change	vt	
+galtu	high	samux	समूह	samūha	heap	n	FIXIT dubious; distant meaning
+galtu	high	unc	ऊंचा	ūn̄cā	high	adj	
+galxe	throat	gal	गला	galā	throat	n	
+ganlo	closed	band	बन्द	banda	closed	adj	
+ganra	broad	caur	चौड़ा	cauṛā	broad	adj	
+ganse	sense	sanved	संवेदी	sanvēdī	sensory	adj	
+ganti	testicle	and	अंड	aṇḍa	testicle	n	
+ganxo	anus	apan					FIXIT missing
+ganzu	organize	sangatit	संघटित	saṅghaṭita	integrate	v	
+gapci	gas	bap	भाप	bhāpa	vapour	n	
+gapru	above	par	पर	para	over	prep	cf. परे [parē] ``above''
+gapru	above	upar	ऊपर	ūpara	above	adj	
+garna	rail	car	छड़	chaṛa	bar	n	
+gasnu	do	karn	करना	karanā	do	vt	
+gasta	steel	ispat	इस्पात	ispāta	steel	n	
+genja	root	jar	जड़	jaṛa	root	n	
+genxu	hook	ankr	आंकड़ा	āṅkaṛā	hook	n	
+genxu	hook	kant	कांटा	kāṇṭā	hook	n	
+gerku	dog	kuta	कुत्ता	kuttā	dog	n	
+gerna	grammar	viakarn	व्याकरण	vyākaraṇa	grammar	n	
+gidva	guide	netritv	नेतृत्व	nētr̥tva	lead	n	
+ginka	camp	parav	पड़ाव	paṛāva	camp	n	
+girzu	group	samux	समूह	samūha	group	n	
+girzu	group	sang	संघ	saṅgha	association	n	
+girzu	group	set	सेट	sēṭa	set	n	
+gismu	primitive	mul	मूल	mūla	root	n	
+glare	hot	garm	गर्म	garma	hot	adj	
+gleki	happy	suki	सुखी	sukhī	happy	adj	
+gletu	copulate	metun	मैथुन	maithuna	coitus	n	
+gluta	glove	dastana	दस्ताना	dastānā	glove	n	
+gradu	unit	anc	अंश	anśa	degree (amount)	n	
+gradu	unit	ancank					FIXIT missing
+grake	gram	gram	ग्राम	grāma	gram	n	
+grana	rod	danda	दण्ड	daṇḍa	rod	n	
+grasu	grease	grit					FIXIT missing
+greku	frame	danc	ढांचा	ḍhān̄cā	frame	n	
+grusi	gray	dusar	धूसर	dhūsara	gray	adj	
+grute	fruit	pal	फल	phala	fruit	n	
+gubni	public	sarvajanik	सार्वजनिक	sārvajanika	public	adj	
+gugde	country	dec	देश	dēśa	country	n	
+gundi	industry	udiog	उद्योग	udyōga	industry	n	
+gunka	work	kam	काम	kāma	work	n	
+gunma	jointly	der	ढेर	ḍhēra	mass	n	
+gunro	roll	dulk					FIXIT missing
+gunro	roll	lurk	लुढ़काना	luṛhakānā	roll	v	
+gunse	goose	xans	हंस	hansa	goose	n	
+gunta	attack	akriman	आक्रमण	ākramaṇa	attack	n	FIXIT dubious; correct transcription ``akraman''
+gurni	grain	gani	धान्य	dhān'ya	cereal	n	FIXIT dubious; correct transcription ``dani''
+guska	scrape	gis	घिसना	ghisanā	scrape	v	
+gusni	illumine	rocni	रोशनी 	rōśanī	light	n	
+gusta	restaurant	restran	रेस्तरां	rēstarāṁ	restaurant	n	
+gutci	cubit	guz					FIXIT missing
+gutra	womb	garbacai	गर्भाशय	garbhāśaya	womb	n	
+guzme	melon	buz	-बूज	-būja	-melon	n	cf. खरबूज [kharabūja] ``muskmelon''; cf. तरबूज [tarabūja] ``watermelon''
+jabre	brake	brek	ब्रेक	breka	brake	n	
+jadni	adorn	saja	सजाना	sajānā	adorn	v	
+jakne	rocket	raket	रकेट	rakēṭa	rocket	n	
+jalge	result	pal	फल	phala	result	n	
+jalna	starch	kalaf	कलफ	kalapha	starch	n	
+jalra	cockroach	tilcat	तिलचट्टा	tilacaṭṭā	cockroach	n	
+jamfu	foot	pamv	पांव	pānva	foot	n	
+jamna	war	samar	समर	samara	fight	n	
+janbe	bell	ganta	घंटा	ghaṇṭā	bell	n	
+janco	shoulder	kand	कंधा	kandhā	shoulder	n	
+janli	collide	sangat					FIXIT missing
+jansu	diplomat	rajaniik					FIXIT missing
+janta	account	ganana	गणन	gaṇana	account	n	
+jarbu	suburb	upanagar	उपनगर	upanagara	suburb	n	
+jarco	show	pradarcan	प्रदर्शन	pradarśana	show	n	
+jarki	narrow	sankir	संकीर्ण	saṅkīrṇa	narrow	adj	
+jaspu	passport	pasport	पासपोर्ट	pāsapōrṭa	passport	n	
+jatna	captain	kaptan	कप्तान	kaptāna	captain	n	
+javni	rule	niam	नियम	niyama	rule	n	
+jbama	bomb	bam	बम	bama	bomb	n	
+jbari	berry	badri	बदरी	badarī	berry	n	
+jbena	born	janma	जन्म	janma	birth	n	
+jbera	borrow	lena	लेना	lēnā	borrow	v	
+jbini	between	bicmen	बीच में	bīca mēṁ	between	prep	
+jdari	firm	kar	कड़ा	kaṛā	firm	adj	
+jdice	decide	nicai	निश्चय	niścaya	decided	adj	
+jdika	decrease	kam	कम	kama	less	adj	
+jdima	price	dam	दाम	dāma	price	n	
+jdini	money	mudr	मुद्रा	mudrā	money	n	
+jdini	money	pais	पैसा	paisā	money	n	
+jduli	jelly	jeli	जैली	jailī	jelly	n	
+jecta	polity	ractra	राष्ट्र	rāṣṭra	state	n	
+jeftu	week	xaft	हफ्ता	haphtā	week	n	
+jelca	burn	jala	जला	jalā	burn	n	
+jemna	gem	ratna	रत्न	ratna	gemstone	n	
+jenca	shock	dak	धक्का	dhakkā	shock	n	
+jenca	shock	pragat	प्रगत	pragata	advanced	adj	FIXIT dubious; unrelated meaning
+jenca	shock	sadma	सदमा	sadamā	shock	n	
+jendu	axle	duri	धुरी	dhurī	axle	n	
+jenmi	army	sena	सेना	sēnā	army	n	
+jerna	earn	uparjan	उपार्जन	upārjana	earning	n	
+jersi	chase	sikar	सिकार	sikāra	chase	n	cf. शिकार [śikāra] ``chase'' (corruption)
+jesni	needle	sui	सुई	su'ī	needle	n	
+jetce	jet	jet	जेट	jeṭa	jet (airplane)	n	
+jetnu	true	sac	सच्चा	saccā	true	adj	
+jetnu	true	sati	सत्य	satya	true	adj	
+jgalu	claw	nakun	नाखून	nākhūna	nail	n	
+jganu	angle	gana	कोणा	kōṇā	angle	n	FIXIT dubious; correct transcription ``kona''; cf. कोना [kōnā] ``angle''; FIXIT dubious; correct transcription ``kona''
+jgari	grasp	pakar	पकड़	pakaṛa	grasp	n	
+jgena	knot	gant	गांठ	gāṇṭha	knot	n	
+jgina	gene	jin	जीन	jīna	gene	n	
+jgira	pride	garv	गर्व	garva	arrogance	n	
+jgira	pride	gaurav	गौरव	gaurava	pride	n	
+jgita	guitar	gitar	गिटार	giṭāra	guitar	n	
+jibni	near	nikat	निकट	nikaṭa	near	adj	
+jibri	job	nakri	नौकरी	naukarī	job	n	FIXIT dubious; correct transcription ``naukri''
+jicla	stir	cala	चलाना	calānā	stir	v	
+jicmu	basis	mul	मूल	mūla	basis	n	
+jijnu	intuit	saxjajan	सहजज्ञान	sahajajñāna	instinct	n	
+jikca	socialize	samajik	सामाजिक	sāmājika	social	adj	
+jikru	liquor	likar					FIXIT missing
+jilka	alkali	kar	खार	khāra	alkali	n	
+jilra	jealous	ircan	ईर्षा	īrṣa	jealousy	n	FIXIT dubious; correct transcription ``irc''
+jimca	branch	cak	शाखा	śākhā	branch	n	
+jimpe	understand	samja	समझ	samajha	understanding	n	
+jimte	limit	sim	सीमा	sīmā	limit	n	
+jinci	shears	kainci	कैंची	kain̄cī	shears	n	
+jinga	win	jit	जीत	jīta	victory	n	
+jinku	vaccine	tika	टीका	ṭīkā	vaccine	n	
+jinme	metal	datu	धातु	dhātu	metal	n	
+jinru	immerse	nimjit	निमज्ज्रित	nimajjrita	immersed	adj	FIXIT dubious; correct transcription ``nimjrit''; dubious dictionary entry; meaning inferred from nimajjrita karanā; cf. निमज्ज्रित करना [nimajjrita karanā] ``bathe (immerse) ''
+jinsa	clean	saf	साफ	sāpha	clean	adj	
+jinto	well	jar	झरना	jharanā	well	n	
+jinto	well	kuan	कुआँ	ku'ām̐	well	n	
+jinto	well	kup	कूप	kūpa	well	n	
+jinto	well	sot	सोता	sōtā	well	n	
+jinto	well	srot	स्रोत	srōta	source	n	
+jinvi	opine	vicar	विचार	vicāra	opinion	n	
+jinzi	innate	janmajat	जन्मजात	janmajāta	innate	adj	
+jipci	chicken	cingan	चिंगना	ciṅganā	chicken	n	
+jipno	tip	nok	नोक	nōka	tip	n	
+jirna	horn	singa	सींग	sīṅga	horn	n	
+jisra	juice	ras	रस	rasa	juice	n	
+jitfa	false	jut	झूठा	jhūṭhā	false	adj	
+jitro	control	niiantrin	नियंत्रण	niyantraṇa	control	n	FIXIT dubious; correct transcription ``niiantran''; probably typo
+jivbu	weave	buna	बुनना	bunanā	weave	v	
+jivna	compete	pratispardva	प्रतिस्पर्द्धा	pratispard'dhā	competition (rivalry)	n	
+jmaji	gather	jama	जमा	jamā	summation	n	cf. जमा करना [jamā karanā] ``amass''
+jmifa	shoal	cicala	छिछला	chichalā	shallow	adj	
+jmina	add	mila	मिलाना	milānā	add	v	
+jmive	live	jiv	जीव	jīva	being (creature)	n	
+jorne	joined	jor	जोड़	jōṛa	connection	n	
+jubme	table	mez	मेज़	mēza	table	n	
+judri	address	pat	पता	patā	address	n	
+judri	address	sarnam	सरनामा	saranāmā	address	n	
+jufra	sentence	vaki	वाक्य	vākya	sentence	n	
+jukni	spider	makri	मकड़ी	makaṛī	spider	n	
+jukpa	cook	paka	पकाना	pakānā	cook	v	
+julne	net	jal	जाल	jāla	net	n	
+jundi	attentive	dianalagana	ध्यान लगाना	dhyāna lagānā	concentrate	vi	
+junla	clock	gari	घड़ी	ghaṛī	clock	n	
+junri	serious	ganbir	गम्भीर	gambhīra	serious	adj	
+junta	weight	taul	तौल	taula	weight	n	
+jurme	germ	jivanu	जीवाणु	jīvāṇu	germ	n	
+jurme	germ	roganu	रोगाणु	rōgāṇu	microbe	n	
+jursa	severe	sakt	सक्त	sakta	hard	adj	
+jutsi	species	jati	जाति	jāti	species	n	
+juxre	clumsy	puxar	फूहड़	phūhaṛa	clumsy	adj	
+jvinu	view	dirc	दृश	dr̥śa	view	n	FIXIT dubious; correct transcription ``dric''; probably typo
+kabri	cup	kator	कटोरा	kaṭōrā	cup	n	
+kacma	camera	kemra	कैमरा	kaimarā	camera	n	
+kafke	cough	kas	कास	kāsa	cough	n	
+kagni	company	nigam	निगम	nigama	corporation	n	
+kagni	company	sangati	संगति	saṅgati	company	n	
+kajde	warn	savdan	सावधान	sāvadhāna	cautious	adj	cf. सावधान करना [sāvadhāna karanā] ``warn''
+kajna	shelf	kan	खाना	khānā	table	n	
+kakne	able	sak	सकना	sakanā	be able to	v	
+kakpa	dig	kod	खोदना	khōdanā	dig	vt	
+kalci	feces	mal	मल	mala	feces	n	
+kalri	open	kol	खोलना	khōlanā	open	vt	
+kalsa	chaotic	astaviast	अस्तव्यस्त	astavyasta	chaotic	adj	
+kalte	hunt	cikar	शिकार	śikāra	hunt	n	
+kamju	column	kamb	खम्भा	khambhā	column	n	
+kamni	committee	kameti	कमेटी	kamēṭī	committee	n	
+kampu	common	samani	सामान्य	sāmān'ya	common	adj	
+kanba	goat	bakr	बकरा	bakarā	goat	n	
+kancu	count	gani	गणि	gaṇi	enumeration	n	
+kandi	dim	mand	मन्द	manda	dim	adj	
+kanji	calculate	ganan	गणन	gaṇana	calculation	n	
+kanla	eye	ank	आंख	āṅkha	eye	n	
+kanro	healthy	nirog	निरोग	nirōga	healthy	adj	
+kansa	with	sat	साथ	sātha	company	n	
+kantu	quantum	kan	कण	kaṇa	particle	n	
+kanxe	conjunction	ka					FIXIT missing
+karbi	compare	barabar	बराबर	barābara	equal	adj	
+karce	car	kar	कार	kāra	car	n	
+karda	card	kard	कार्ड	kārḍa	card	n	
+kargu	costly	maxang	महंगा	mahaṅgā	costly	adj	
+karli	collar	gareban	गरेबान	garēbāna	collar	n	
+karni	journal	patrik	पत्रिका	patrikā	journal	n	
+katna	cut	kat	काटना	kāṭanā	cut	vt	
+kavbu	capture	pakar	पकड़	pakaṛa	capture	n	
+kecti	pity	ked	खेद	khēda	regret	n	
+kelci	play	kel	खेल	khēla	play	n	
+kenra	cancer	kensar	कैन्सर	kainsara	cancer	n	
+kensa	outer space	antarikc	अन्तरिक्ष	antarikṣa	outer space	n	
+kerfa	hair	kec	केश	kēśa	hair	n	
+kerlo	ear	karm	कर्ण	karṇa	ear	n	
+kevna	cavity	kandra	कन्दरा	kandarā	cavity	n	
+kicne	cushion	taki	तकिया	takiyā	cushion	n	
+kijno	oxygen	oksijan	आक्सीजन	āksījana	oxygen	n	
+kinli	sharp	paina	पैना	painā	sharp	adj	
+klaji	street	gali	गली	galī	street	n	
+klaku	weep	vilap	विलाप	vilāpa	weeping	n	
+klama	come	ana	आना	ānā	come	vi	
+klani	quantity	pariman	परिमाण	parimāṇa	quantity	n	
+klesi	class	varg	वर्ग	varga	class	n	
+klina	clear	vimal	विमल	vimala	clear	adj	
+kliru	chlorine	klorin	क्लोरीन	klōrīna	chlorine	n	
+kliti	clay	miti	मिट्टी	miṭṭī	clay	n	
+klupe	screw	pec	पेंच	pēn̄ca	screw	n	
+kluza	loose	kurati	kuratī	कुरती	blouse (for women)	n	
+kobli	cabbage	gobi	गोभी	gōbhī	cabbage	n	
+kojna	corner	kon	कोण	kōṇa	corner	n	
+kojna	corner	kona	कोना	kōnā	corner	n	
+kolme	coal	koil	कोयला	kōyalā	coal	n	
+komcu	comb	kangi	कंघी	kaṅghī	comb	n	
+konju	cone	canku	शंकु	śaṅku	cone	n	
+korbi	edge	kor	कोर	kōra	edge	n	
+korcu	bent	mor	मोड़	mōṛa	bent	n	
+korka	cork	kark	कॉर्क	kŏrka	cork	n	
+kosta	coat	kot	कोट	koṭa	coat	n	
+kramu	acre	kaunie					FIXIT missing
+krasi	source	aramb	आरम्भ	ārambha	beginning	n	
+krati	represent	pratinid	प्रतिनिधि	pratinidhi	proxy	n	
+krefu	recur	pir	फिर	phira	again	adv	
+krici	believe	vicvas	विश्वास	viśvāsa	belief	n	
+krili	crystal	kristal	क्रिस्टल	krisṭala	crystal	n	
+krinu	reason	karn	कारण	kāraṇa	reason	n	
+krixa	cry	cila	चिल्लाना	cillānā	cry	v	
+kruca	intersect	kras	क्रास	krāsa	cross	n	
+kruca	intersect	krus	क्रूस	krūsa	cross (stake)	n	
+kruji	cream	krim	क्रीम	krīma	cream	n	
+kruvi	curve	vakr	वक्र	vakra	curved	adj	
+kubli	cube	gan	घन	ghana	cube	n	
+kucli	curious	kutuxal	कौतुहल	kautuhala	curiosity	n	
+kufra	comfort	aram	आराम	ārāma	comfort	n	
+kukte	delicious	sukad	सुखद	sukhada	delicious	adj	
+kulnu	culture	sabiat	सभ्यता	sabhyatā	culture	n	
+kulnu	culture	sanskrit	संस्कृति	saṁskṛti	culture	n	
+kumfa	room	kamra	कमरा	kamarā	room	n	
+kumte	camel	unt	ऊंट	ūṇṭa	camel	n	
+kunra	mineral	kanij	खनिज	khanija	mineral	adj	
+kunti	empty	cuni	शून्य	śūn'ya	empty	adj	
+kurfa	square	caukar	चौकार	caukāra	square	adj	cf. चौकोर [caukōra] ``square'' (probably corruption)
+kurji	take care of	savdan	सावधानी	sāvadhānī	care	n	
+kurki	bitter	karu	कटु	kaṭu	bitter	adj	FIXIT dubious; correct transcription ``katu''; probably typo
+kuspe	range	pel	फैलाना	phailānā	extend	v	
+kusru	cruel	krur	क्रूर	krūra	cruel	n	
+labno	wolf	beria	भेड़िया	bhēṛiyā	wolf	n	
+labno	wolf	vrik	वृक	vṛka	wolf	n	Sanskrit
+labno	wolf	xundar					FIXIT missing
+lacpu	pull	laga					FIXIT missing
+lacri	rely	acrit	आश्रित	āśrita	reliant	adj	
+ladru	milk	dad	दूध	dūdha	milk	n	FIXIT dubious; correct transcription ``dud''; probably typo
+lafti	lift	unati	उन्नति	unnati	elevation	n	
+lakne	probable	sambavat	संभावित	sambhāvita	probable	adj	FIXIT dubious; correct transcription ``sambavit''
+lakse	wax	lak	लाख	lākha	wax	n	
+lalxu	lake	tal	ताल	tāla	lake	n	
+lamji	adjacent	samip	समीप	samīpa	adjacent	adj	
+lanbi	protein	lavan					FIXIT missing
+lanci	flag	jand	झंडी	jhaṇḍī	flag	n	
+lanka	basket	tokari	टोकरी	ṭōkarī	basket	n	
+lanli	analyze	viclecan	विश्लेषण	viślēṣaṇa	analyze	v	
+lanme	sheep	mec	मेष	mēṣa	sheep	n	
+lante	can	xib	डिब्बा	ḍibbā	container	n	FIXIT dubious; correct transcription ``dib''; could be typo
+lanxe	balance	samtolana	संतुलन	santulana	balance	n	FIXIT dubious; correct transcription ``samtulan''
+lanzu	family	vanc	वंश	vanśa	family	n	
+larcu	art	kala	कला	kalā	art	n	
+lasna	fasten	laga	लगाना	lagānā	fasten	vt	
+lastu	brass	pital	पीतल	pītala	brass	n	
+latna	lotus	kanval	कन्वल	kanvala	lotus	n	FIXIT dubious; spelling dubious; many hits of ``kanwal'' as Hindi for ``lotus''
+lazni	lazy	kaxil					FIXIT missing
+lazni	lazy	susti	सुस्त	sustī	idleness	n	
+lebna	take	le	लेना	lēnā	take	vt	
+lenjo	lens	lens	लेंस	lēnsa	lens	n	
+lenku	cold	cit	शीत	śīta	cold	adj	
+lenku	cold	tard	ठंडा	ṭhaṇḍā	cold	adj	FIXIT dubious; correct transcription ``tand''
+lerci	late	der	देर	dēra	late	adj	
+lerfu	letteral	akcar	अक्षर	akṣara	letter	n	
+lerfu	letteral	varn	वर्ण	varṇa	letter	n	
+lidne	leader	neta	नेता	nētā	leader	n	
+lifri	experience	anubav	अनुभव	anubhava	experience	n	
+lijda	religion	darm	धर्म	dharma	religion	n	
+limna	swim	per	पैरना	pairanā	swim	v	
+limna	swim	ter	तैरना	tairanā	swim	v	
+limna	swim	xer					FIXIT missing
+lindi	lightning	bijli	बिजली	bijalī	lightning	n	
+linji	line	rek	रेखा	rēkhā	line	n	
+linsi	chain	janjir	जंजीर	jan̄jīra	chain	n	
+linto	lightweight	xalk	हल्का	halkā	light	adj	
+lisri	story	kisa	खीस	khīsa	chattering	n	FIXIT dubious; correct transcription ``kis''; distant meaning
+liste	list	suc	सूची	sūcī	list	n	
+litce	liter	litr	लिटर	liṭara	liter	n	
+litki	liquid	drav	द्रव	drava	liquid	n	
+litru	travel	iatr	यात्रा	yātrā	travel	n	
+livga	liver	jigar	जिगर	jigara	liver	n	
+livla	fuel	jalavan	जलवाना	jalavānā	to cause to be burned	v	
+logji	logic	tark	तर्क	tarka	logic	n	
+loldi	floor	kudim					FIXIT missing
+lorxu	fox	lomri	लोमड़ी	lōmaṛī	fox	n	
+lumci	wash	gavan					FIXIT missing
+lumci	wash	govan					FIXIT missing
+lumci	wash	naxa	नहाना	nahānā	wash	v	
+lumci	wash	pakar	पखारना	pakhāranā	wash (gold)	v	
+lumci	wash	snan	स्नान	snāna	bath	n	
+lunbe	bare	cunia	शून्य	śūn'ya	bare	adj	
+lunra	lunar	candra	चंद्र	candra	moon	n	
+lunsa	condense	sanganit	संघनित	saṅghanita	condensed	adj	
+mabla	derogative	alpkar	अल्पकारी	alpakārī	derogatory	adj	
+mabru	mammal	stanpai	स्तनपायी	stanapāyī	mammal	n	
+macnu	manual	xastacalit	हस्तचालित	hastacālita	manual	adj	
+makcu	mature	pak	पक्का	pakkā	mature	adj	
+makfa	magic	maia	माया	māyā	magic	n	
+malsi	temple	mandir	मंदिर	mandira	temple	n	
+mamta	mother	mata	माता	mātā	mother	n	
+manci	wonder	vismai	विस्मय	vismaya	amazement	n	
+manfo	uniform	eksaman	एक समान	ēka samāna	uniform	adj	
+manku	dark	ander	अंधेरा	andhērā	dark	adj	
+manri	reference	manak	मानक	mānaka	standard	n	
+mansa	satisfy	prasan	प्रसन्न	prasanna	pleased	adj	
+manti	ant	cinta	चींटा	cīṇṭā	ant	n	
+mapku	cap	topi	टोपी	ṭōpī	cap	n	
+mapni	cotton	kapans	कपास	kapāsa	cotton	n	FIXIT dubious; correct transcription ``kapas''; cf. कप्पासं [kappāsaṁ] ``cotton''; FIXIT dubious; correct transcription ``kapasan''; Prákrit
+mapti	fit	tik	ठीक	ṭhīka	fit	adj	
+marbi	shelter	acrai	आश्रय	āśraya	shelter	n	
+marce	vehicle	gar	गाड़ी	gāṛī	vehicle	n	
+marde	morals	acarn	आचरण	ācaraṇa	behaviour	n	cf. आचरण संबंधी [ācaraṇa sambandhī] ``moral''
+margu	mercury	parad	पारा	pārā	mercury	n	FIXIT dubious; correct transcription ``para''
+marji	material	padart	पदार्थ	padārtha	material	n	
+marna	hemp	caras	चरस	carasa	marijuana	n	
+marxa	mash	maragja					FIXIT missing
+masno	slow	mand	मन्द	manda	slow	adj	
+masti	month	mas	मास	māsa	month	n	
+matci	mat	catai	चटाई	caṭā'ī	mat	n	
+matli	linen	calti					FIXIT missing
+matne	butter	makan	मक्खन	makkhana	butter	n	
+matra	motor	motar	मोटर	mōṭara	motor	n	
+mavji	oats	ji	जी	jī	oat	n	
+maxri	wheat	genxu	गेंहू	gēnhū	wheat	n	
+mebri	brow	bru	भ्रू	bhrū	eyebrow	n	Sanskrit
+melbi	beautiful	manoxara	मनोहर	manōhara	charming	adj	
+melbi	beautiful	sundara	सुन्दर	sundara	beautiful	adj	
+menli	mind	mans	मानस	mānasa	mind	n	
+mensi	sister	bagin	भगिनी	bhaginī	sister	n	
+mensi	sister	baxn	बहन	bahana	sister	n	
+mentu	minute	minat	मिनट	minaṭa	minute	n	
+merli	measure	mapna	मापना	māpanā	measure	v	
+midju	middle	madi	मध्य	madhya	middle	n	
+mifra	code	sanketsangra	संकेत संग्रह	saṅkēta saṅgraha	code-code	n	FIXIT dubious; correct transcription ``sanketsangrax''; compound not reported; cf. संकेत [saṅkēta] ``code''; cf. संग्रह [saṅgraha] ``code''
+mikce	doctor	cikitsak	चिकित्सक	cikitsaka	physician	n	
+milxe	mild	mridul	मृदुल	mr̥dula	lenient	adj	
+minde	command	adec	आदेश	ādēśa	command	n	
+minji	machine	macin	मशीन	maśīna	machine	n	
+minli	mile	mil	मील	mīla	mile	n	
+minra	reflect	aina	आइना	ā'inā	mirror	n	
+mintu	same	abin	अभिन्न	abhinna	identical	adj	
+mipri	secret	cip	छिपा	chipā	incognito	adj	
+mirli	deer	mrig	मृग	mr̥ga	deer	n	
+misno	famous	nami	नामी	nāmī	renowned	adj	
+mitre	meter	mitar	मीटर	mīṭara	meter	n	
+mixre	mixture	micran	मिश्रण	miśraṇa	mixture	n	
+mixre	mixture	mila	मिलाना	milānā	mix	v	
+mlana	side	bagal	बगली	bagalī	side	adj	
+mlana	side	satax	सतह	sataha	surface	n	
+mlatu	cat	bilar	बिलार	bilāra	male cat	n	
+mleca	less	kam	कम	kama	less	adj	
+mledi	mold	papundi	फफूंदी	phaphūndī	mould	n	
+mluni	satellite	upgrax	उपग्रह	upagraha	satellite	n	
+mokca	point	kcan	क्षण	kṣaṇa	point	n	
+moklu	mouth	muk	मुख	mukha	mouth	n	
+molki	mill	caki	चक्की	cakkī	mill	n	
+morji	remember	smarn	स्मरण	smaraṇa	memory	n	
+morna	pattern	namuna	नमूना	namūnā	pattern	n	
+morsi	dead	mrit	मृत	mr̥ta	dead	adj	
+mosra	friction	ragar	रगड़	ragaṛa	friction	n	
+mraji	rye	rai	राई	rāī	rye	n	
+mrilu	mail	dak	डाक	ḍāka	mail	n	
+mruli	hammer	martaul	मारतौल	mārataula	hammer	n	
+mucti	immaterial	amurt	अमूर्त	amūrta	abstract	adj	
+mudri	wood	kact	काष्ठ	kāṣṭha	wood	n	
+mudri	wood	lakr	लकड़ी	lakaṛī	wood	n	
+mukti	purpose	lakci	लक्ष्य	lakṣya	purpose	n	
+mulno	complete	sampurn	सम्पूर्ण	sampūrṇa	complete	adj	
+munje	universe	braxmand	ब्रह्माण्ड	brahmāṇḍa	cosmos	n	
+mupli	example	damuna	नमूना	namūnā	example	n	FIXIT dubious; correct transcription ``namuna''
+murse	glimmering	bramamuxurt					FIXIT missing
+murta	curtain	parda	पर्दा	pardā	curtain	n	
+mutce	much	baxut	बहुत	bahuta	much	adv	
+muvdu	move	cala	चाल	cāla	move	n	
+muvdu	move	xil	हिलना	hilanā	move	v	
+muzga	museum	miuziam					FIXIT missing
+nabmi	problem	samsia	समस्या	samasyā	problem	n	
+nakni	male	nar	नर	nara	male	n	
+nalci	wing	pakc	पक्ष	pakṣa	wing (politics)	n	
+namcu	number	ganan	गणन	gaṇana	count (counting)	n	
+nanba	bread	nan	नान	nāna	nan (bread)	n	
+nanca	year	varc	वर्ष	varṣa	year	n	
+nandu	difficult	duckar	दुष्कर	duṣkara	arduous	adj	
+nanla	boy	balak	बालक	bālaka	boy	n	
+nanmu	man	manuc	मनुष	manuṣa	man	n	
+narge	nut	giridarpal	गिरी दर फल	girī dara phala	kernel-cavity-fruit	n	FIXIT dubious; compound not reported
+narju	orange	narang	नारंगी	nāraṅgī	orange	n	
+natfe	deny	na	न	na	not	adv	
+natmi	nation	jati	जाति	jāti	nation	n	
+navni	neon	nian	नीओन	nīōna	neon	n	
+naxle	canal	nal	नाल	nāla	canal	n	
+nazbi	nose	nak	नाक	nāka	nose	n	
+nazbi	nose	nas	नासा	nāsā	nose	n	
+nejni	energy	tej	तेज	tēja	energy	n	
+nelci	fond	snex	स्नेह	snēha	fondness	n	
+nenri	in	men	में	mēṁ	in	prep	
+nibli	necessitate	anivaria	अनिवार्य	anivārya	necessary	adj	
+nicte	night	nic					FIXIT missing
+nikle	nickel	nikal	nikala	निकल	nickel	n	
+nilce	furniture	farnicar	फर्नीचर	pharnīcara	furniture	n	
+nimre	citrus	nimbu	निम्बू	nimbū	lime	n	
+ninmu	woman	janan					FIXIT missing
+nirna	nerve	nas	नस	nasa	nerve	n	
+nitcu	need	avaciak	आवश्यक	āvaśyaka	needful	adj	
+nivji	knit	bun	बुनना	bunanā	knit	v	
+nixli	girl	bali	बालिका	bālikā	girl	n	
+nobli	noble	kulin	कुलीन	kulīna	noble	adj	
+notci	message	not	नोट	nōṭa	note	n	
+nukni	magenta	bagani	बैंगनी	baiṅganī	mauve	n	
+nupre	promise	pratinia	प्रतिज्ञा	pratijñā	promise	n	FIXIT dubious; correct transcription ``pratigia''
+nurma	rural	dexat	देहाती	dēhātī	rural	n	
+nutli	neutral	tatac	तटस्थ	taṭastha	neutral	adj	FIXIT dubious; correct transcription ``tatast''
+nuzba	news	xabar	ख़बर	ḵẖabara	news	n	
+pacna	hope	aca	आशा	āśā	hope	n	
+pagbu	part	bag	भाग	bhāga	part	n	
+pagre	pass	par	पार	pāra	across	adv	
+pajni	judge	narni	निर्णय	nirṇaya	decision	n	FIXIT dubious; correct transcription ``nirnai''
+palci	evil	pap	पापी	pāpī	evil	adj	
+palku	pants	patalun	पतलून	patalūna	pants	n	
+palne	tray	tal	थाली	thālī	plate	n	
+palta	plate	tal	थाली	thālī	plate	n	
+pambe	pump	pamp	पम्प	pampa	pump	n	
+panci	odor	gand	गंध	gandha	odor	n	
+pandi	punctuate	viramdividan	विराम डिवीजन	virāma ḍivījana	cessation-division	n	FIXIT dubious; correct transcription ``viramdivijan''; compound not reported
+panje	sponge	spanj	स्पंज	spaṁja	sponge	n	
+panka	park	upavan	उपवन	upavana	park	n	
+panlo	slice	katl	कतला	katalā	slice	n	
+panpi	peace	canti	शांति	śānti	peace	n	
+panra	parallel	semantar	समान्तर	samāntara	parallel	adj	FIXIT dubious; correct transcription ``samantar''
+pante	protest	prativad	प्रतिवाद	prativāda	denial	n	
+panzi	offspring	apatia					FIXIT missing
+papri	page	patr	पत्र	patra	paper	n	
+parbi	ratio	anupat	अनुपात	anupāta	ratio	n	
+pastu	robe	vastr	वस्त्र	vastra	clothes	n	
+patfu	father	pita	पिता	pitā	father	n	
+patlu	potato	alu	आलू	ālū	potato	n	
+patxu	pot	patr	पात्र	pātra	saucepan	n	
+pelji	paper	kagaz	कागज़	kāgaza	paper	n	
+pelji	paper	patr	पत्र	patra	paper	n	
+pelxu	yellow	pil	पीला	pīlā	yellow	adj	
+pemci	poem	kavit	कविता	kavitā	poem	n	
+penbi	pen	lekani	लेखनी	lēkhanī	pen	n	
+pencu	touch	cu	छू	chū	touch	n	
+pendo	friend	dost	दोस्त	dōsta	friend	n	
+penmi	meet	mil	मिलना	milanā	meet	v	
+pensi	think	cinti	चिन्तिया	cintiyā	thinking	n	
+perli	pear	nacpati	नाशपाती	nāśapātī	pear	n	
+pesxu	paste	lei	लेई	lē'ī	paste	n	
+pezli	leaf	parn	पर्ण	parṇa	leaf	n	
+pezli	leaf	pati	पत्ती	pattī	leaf	n	
+pezli	leaf	patr	पत्र	patra	leaf	n	
+pijne	pin	alpin	आलपीन	ālapīna	pin	n	
+pikci	beg	bik	भीख	bhīkha	begging	n	
+pikta	ticket	tikat	टिकट	ṭikaṭa	ticket	n	
+pilji	multiply	gunanpal	गुणन फल	guṇana phala	product	n	
+pilka	crust	kal	खाल	khāla	skin	n	
+pilno	use	upiog	उपयोग	upayōga	use	n	
+pimlu	feather	pic	पिच्छ	piccha	feather	n	
+pinca	urine	pecab	पेशाब	pēśāba	urine	n	
+pindi	poor	nirdan	निर्धन	nirdhana	indigent	adj	
+pinfu	prisoner	band	बन्दी	bandī	prisoner	n	
+pinfu	prisoner	kaid	कैदी	kaidī	prisoner	n	
+pinji	penis	ling	लिंग	liṅga	penis	n	
+pinka	comment	tika	टीका	ṭīkā	comment	n	
+pinsi	pencil	pensil	पेंसिल	pēnsila	pencil	n	
+pinta	level	samtal	समतल	samatala	level	adj	
+pinta	level	talmap	तल माप	tala māpa	level-measure	n	FIXIT dubious; compound not reported
+pinxe	drink	pi	पीना	pīnā	drink	vt	
+pipno	piano	piano	पियानो	piyāno	piano	n	
+pixra	picture	citr	चित्र	citra	picture	n	
+plana	plump	mansal	मसल	masala	fat	adj	FIXIT dubious; correct transcription ``masal''; listed as ``fat'' in one dictionary, and as ``adage, saying'' in most dictionaries
+platu	plan	kalpna	कल्पना	kalpanā	scheme	n	
+pleji	pay	cuka	चुकाना	cukānā	pay	v	
+plibu	pubic	iaungrant	यौन ग्रन्थि	yauna granthi	sexual gland	n	FIXIT dubious; compound not reported; one Google hit
+plini	planet	grax	ग्रह	graha	planet	n	
+plipe	leap	kud	कूद	kūda	leap	n	
+plipe	leap	lang	लांघना	lānghanā	leap	v	
+plise	apple	seb	सेब	sēba	apple	n	
+plita	plane	tal	तल	tala	plane	n	
+plixa	plow	xal	हल	hala	plow	n	
+pluja	complicated	jatil	जटिल	jaṭila	complicated	adj	
+pluka	please	prasan	प्रसन्न	prasanna	pleased	adj	
+pluka	please	tript					FIXIT missing
+pluta	route	rasta	रास्ता	rāstā	route	n	
+polje	fold	taxa	तह	taha	fold	n	
+polje	fold	valit					FIXIT missing
+ponse	possess	malik	मालिक	mālika	owner	n	
+ponse	possess	svami	स्वामी	svāmī	owner	n	
+porpi	break	torn	तोड़ना	tōṛanā	break	v	
+porsi	sequence	silsil	सिलसिला	silasilā	sequence	n	
+prali	profit	prapti	प्राप्ति	prāpti	profit	n	
+prami	love	prem	प्रेम	prēma	love	n	
+prane	perfect	purn	पूर्ण	pūrṇa	full	adj	cf. संपूर्ण [saṁpūrṇa] ``perfect''
+preja	spread	pela	फैलना	phailanā	spread	v	
+prenu	person	puruc	पुरुष	puruṣa	person	n	
+preti	question	pracn	प्रश्न	praśna	question	n	
+prije	wise	pragia	प्रज्ञा	prajñā	wisdom	n	
+prina	print	mudrit	मुद्रित	mudrita	printed	adj	
+pritu	right	dakcin	दक्षिण	dakṣiṇa	right	adj	
+pritu	right	daxin	दाहिना	dāhinā	right	adj	
+prosa	prose	gadia	गद्य	gadya	prose	n	
+pruce	process	prakram	प्रक्रम	prakrama	process	n	
+pruni	elastic	kamani	कमानी	kamānī	spring	n	
+pruxi	spirit	pret	प्रेत	prēta	ghost	n	
+pulce	dust	dul	धूल	dhūla	dust	n	
+pulji	police	pulis	पुलिस	pulisa	police	n	
+punji	put	rak	रखना	rakhanā	put	vt	
+punli	swelling	pul	फुलाना	phulānā	swell	vt	
+purci	past	purv	पूर्व	pūrva	before	adv	
+purdi	garden	udian	उद्यान	udyāna	garden	n	
+purmo	powder	curn	चूरन	cūrana	powder	n	
+purmo	powder	paudar	पाउडर	pāuḍara	powder	n	
+racli	sane	svastacit	स्वस्थचित्त	svasthacitta	sane	adj	
+ractu	rabbit	cac	शश	śaśa	rabbit	n	Sanskrit
+rafsi	affix	priai	प्रत्यय	pratyaya	affix	n	FIXIT dubious; correct transcription ``pratiai''
+ragve	across	ageko					FIXIT missing
+raktu	trouble	kact	कष्ट	kaṣṭa	hardship	n	
+ralci	delicate	komal	कोमल	kōmala	delicate	adj	
+ralju	principal	pramuk	प्रमुख	pramukha	principal	adj	
+ralte	retain	rak	रखना	rakhanā	keep	vi	
+randa	yield	man	मानना	mānanā	abide	vi	
+rango	organ	ang	अंग	aṅga	organ	n	
+ranji	continue	rax	रहना	rahanā	continue	vi	
+ranmi	myth	puran	पुराण	purāṇa	legend	n	
+ransu	bronze	kans	कांसा	kānsā	bronze	n	
+ranti	soft	naram	नरम	narama	soft	adj	
+ranxi	irony	viangia	व्यंग्य	vyaṅgya	sarcasm	n	
+rapli	repeat	doxara	दोहरा	dōharā	twofold	adv	correct transcription ``doxra''
+rarna	natural	prakrit	प्राकृतिक	prākṛtika	natural	adj	
+ratcu	rat	cux	चूहा	cūhā	rat	n	
+ratni	atom	parmanu	परमाणु	paramāṇu	atom	n	
+rebla	tail	langul					FIXIT missing
+rectu	meat	goct	गोश्त	gōśta	meat	n	
+remna	human	manav	मानव	mānava	human	n	
+renro	throw	penk	फेंक	pheṁka	throw	n	
+renvi	survive	jivitrax	जीवित रहना	jīvita rahanā	survive	vt	
+respa	reptile	sarisrip	सरीसृप	sarīsṛpa	reptile	n	
+ricfu	rich	dan	धनी	dhanī	rich	adj	
+rigni	disgust	grin	घृणा	ghr̥ṇā	disgust	n	
+rijno	silver	rajat	राजत	rājata	silver	adj	
+rilti	rhythm	lai	लय	laya	rhythm	n	
+rimni	rhyme	tuk	तुक	tuka	rhyme	n	
+rimni	rhyme	tukant	तुकांत	tukānta	rhyme	n	
+rinci	drain	mori	मोरी	mōrī	duct	n	
+rinju	restrain	pratiband	प्रतिबंध	pratibandha	constraint	n	
+rinka	cause	karn	कारण	kāraṇa	cause	n	
+rinsa	greet	namaskar	नमस्कार	namaskāra	greeting	n	
+rirci	rare	viral	विरला	viralā	rare	adj	
+rirni	parent	janani	जननी	jananī	mother	n	
+rirni	parent	janita					FIXIT missing
+rirxe	river	nadi	नदी	nadī	river	n	
+rismi	rice	vrixi					FIXIT missing
+risna	heart	xridai	हृदय	hr̥daya	heart	n	
+risna	heart	xrit	हृद्	hṛd	heart	n	FIXIT dubious; correct transcription ``xrid''; Sanskrit; spelled with `t' in some Hindi derivatives
+ritli	rite	riti	रीति	rīti	rite	n	
+rivbi	avoid	parixar	परिहार	parihāra	avoidance	n	
+rokci	rock	cail	शैल	śaila	rock	n	
+rokci	rock	patar	पहाड़	pahāṛa	rock	n	
+romge	chrome	krom	क्रोम	krōma	chrome	n	
+rorci	procreate	krti	कृति	kr̥ti	composition (work)	n	
+rotsu	thick	mota	मोटा	mōṭā	thick	adj	
+rozgu	rose	gulab	गुलाब	gulāba	rose	n	
+ruble	weak	durbal	दुर्बल	durbala	weak	adj	
+rufsu	rough	rukc	रुक्ष	rukṣa	coarse (uneven)	adj	
+runme	melt	dravikrit	द्रवीकृत	dravīkṛta	liquify	v	FIXIT dubious; needs verification
+runme	melt	pigala	पिघलाना	pighalānā	melt	v	
+runta	dissolve	vigatan	विघटन	vighaṭana	dissolution	n	
+rupnu	dollar	rupi	रुपया	rupayā	rupee	n	
+rutni	artifact	kritrim	कृत्रिम	kṛtrima	artificial	adj	
+sabji	provide	sambaran	संभरण	sambharaṇa	alimony	n	
+sabnu	cabin	dabus	दबूसा	dabūsā	cabin	n	
+sacki	match	salai	सलाई	salā'ī	match	n	
+saclu	decimal	dacmalav	दशमलव	daśamalava	decimal	adj	
+sakci	suck	sok	सोखना	sōkhanā	absorb	vt	
+sakli	slide	sark	सरकना	sarakanā	slide	vt	
+sakta	sugar	cakar	शक्कर	śakkara	sugar	n	
+salci	celebrate	utsav	उत्सव	utsava	celebration	n	
+salpo	slope	dal	ढाल	ḍhāla	slope	n	
+salta	salad	salad	सलाद	salāda	salad	n	
+samcu	cassava	sabudan	साबूदाना	sābūdānā	sago	n	
+sampu	simple	sad	सादा	sādā	simple	adj	
+sance	sound	dvan	ध्वनि	dhvani	sound	n	
+sanga	sing	ga	गाना	gānā	sing	v	
+sanji	conscious	cetan	चेतन	cētana	conscious	adj	
+sanli	stand	stan	स्थान	sthāna	stand	n	
+sanmi	meal	bojan	भोजन	bhōjana	meal	n	
+sanso	sauce	salan	सालन	sālana	curry	n	
+santa	umbrella	cata	छाता	chātā	umbrella	n	
+sarcu	necessary	zarur	ज़रुरी	zarurī	necessary	adj	
+sarji	support	saxar	सहारा	sahārā	support	n	
+sarlu	spiral	sarpil	सर्पिल	sarpila	spiral	adj	
+sarxe	harmonious	susvar	सुस्वर	susvara	melodious	adj	
+saske	science	castr	शास्त्र	śāstra	science	n	
+satci	exact	satik	सटीक	saṭīka	correct	adj	
+satre	stroke	saxl	सहलाना	sahalānā	stroke	vi	
+savru	noise	rav	रव	rava	noise	n	
+sazri	operate	parical	परिचालन	paricālana	operation	n	
+sefta	surface	satax	सतह	sataha	surface	n	
+selci	cell	kocik	कोशिका	kōśikā	cell	n	
+selfu	serve	sev	सेवा	sēvā	service	n	
+senci	sneeze	cik	छींक	chīṅka	sneeze	n	
+senpi	doubt	sandex	संदेह	sandēha	doubt	n	
+senta	layer	star	स्तर	stara	level	n	
+senva	dream	svapn	स्वप्न	svapna	dream	n	
+sepli	apart	pritaku	पृथक	pr̥thaka	apart	adj	FIXIT dubious; correct transcription ``pritak''
+serti	stairs	siri	सीढ़ी	sīṛhī	stairs	n	
+setca	insert	guser	घुसेड़ना	ghusēṛanā	stuff	vt	
+sevzi	self	svaiam	स्वयं	svayaṁ	self	n	
+sfani	fly	maki	मक्खी	makkhī	fly	n	
+sfasa	punish	saz	सज़ा	sazā	punishment	n	
+sfofa	sofa	sofa	सोफ़ा	sofā	sofa	n	
+sfubu	dive	xubak	डुबक	ḍubaka	dive	n	FIXIT dubious; correct transcription ``dubak''; probably typo
+siclu	whistle	siti	सीटी	sīṭī	whistle	n	
+sicni	coin	sik	सिक्का	sikkā	coin	v	
+sidbo	idea	bod	बोध	bōdha	cognition	n	
+sidju	help	saxait	सहायता	sahāyatā	help	n	
+sigja	cigar	sigar	सिगार	sigāra	cigar	n	
+silka	silk	silk	सिल्क	silka	silk	adj	
+silna	salt	namak	नमक	namaka	salt	n	
+simlu	seem	malum	मालूम	mālūma	known	adj	
+simsa	similar	saduc	सदृश	sadr̥śa	similar	adj	FIXIT dubious; correct transcription ``sadric''; possibly by confusion of `ṛ' and `ū' diacritics
+simxu	mutual	apsi	आपसी	āpasī	mutual	adj	
+since	snake	sanp	साँप	sām̐pa	snake	n	
+sinma	esteem	saman	सम्मान	sam'māna	esteem	n	
+sinxa	sign	sain	साइन	sāina	sign	n	
+sipna	sleep	sona	सोना	sōnā	sleep	v	
+sirji	straight	sid	सीधा	sīdhā	straight	adj	
+sisku	seek	dunra	ढूँढ़ना	ḍhūm̐ṛhanā	seek	v	
+sisku	seek	koj	खोज	khōja	search	n	
+sisku	seek	tolac	तलाश	talāśa	search	n	FIXIT dubious; correct transcription ``talac''; probably typo
+sisti	cease	ruk	रुकना	rukanā	cease	vi	
+sitna	cite	udvarn	उद्धरण	ud'dharaṇa	quotation	n	
+sitna	cite	ulek	उल्लेख	ullēkha	citation	n	
+sivni	private	nij	निज	nija	private	adj	
+skaci	skirt	skart	स्कर्ट	skarṭa	skirt	n	
+skami	computer	parikalk	परिकलक	parikalaka	computer	n	
+skapi	pelt	kal	खाल	khāla	pelt	n	
+skari	color	varn	वर्ण	varṇa	colour	n	
+skicu	describe	kinc	खींचना	khīn̄canā	describe	v	
+skiji	ski	ski	स्की	skī	ski	n	
+skina	cinema	sinema	सिनेमा	sinēmā	cinema	n	
+skori	cord	nor	डोर	ḍōra	cord	n	FIXIT dubious; correct transcription ``dor''
+skuro	groove	kunr	खूड़	khūṛa	furrow	n	FIXIT dubious; correct transcription ``kur''
+slabu	old	bur	बूढ़ा	būṛhā	old	adj	
+slaka	syllable	akcar	अक्षर	akṣara	syllable	n	
+slami	acid	amli	अम्लीय	amlīya	acid	adj	
+slanu	cylinder	belan	बेलन	bēlana	cylinder	n	
+slari	sour	amla	अम्ल	amla	acid	adj	
+slasi	plastic	plastik	प्लास्टिक	plāsṭika	plastic	n	
+sligu	solid	ganibut	घनीभूत	ghanībhūta	solid	adj	
+slilu	oscillate	xil	हिलाना	hilānā	shake	v	
+sliri	sulfur	culvari	शुल्वारि	śulvāri	sulphur	n	
+sluji	muscle	pec	पेशी	peśī	muscle	n	
+sluni	onion	palanda					FIXIT missing
+smacu	mouse	mucik	मूषिक	mūṣika	mouse	n	
+smadi	guess	anuman	अनुमान	anumāna	hypothesis	n	
+smaji	quiet	maun	मौन	mauna	silent	adj	
+smani	monkey	vanar	वानर	vānara	ape	n	
+smoka	sock	moza	मोज़ा	mozā	sock	n	
+smuci	spoon	camac	चमचा	camacā	spoon	n	
+smuni	meaning	sucit	सूचित	sūcita	communicated	part	
+snada	succeed	sapal	सफल	saphala	successful	adj	
+snanu	south	dakcin	दक्षिण	dakṣiṇa	south	adj	
+snidu	second	sekand	सेकंड	sēkaṇḍa	second	n	
+snime	snow	xim	हिम	hima	snow	n	
+snipa	sticky	cipak	चिपकना	cipakanā	adhere	v	
+snuji	sandwich	senduic	सैंडविच	saiṇḍavica	sandwich	n	
+snura	secure	nirapad	निरापद	nirāpada	safe	adj	
+snura	secure	surkcit	सुरक्षित	surakṣita	secure	adj	
+snuti	accidental	saniog	संयोगी	sanyōgī	accidental	adj	
+sobde	soya	soiabin	सोयाबीन	sōyābīna	soya	n	
+sodna	sodium	sodiam	सोडियम	soḍiyama	sodium	n	
+sodva	soda	sodavatar	सोडा वाटर	sōḍā vāṭara	soda water	n	
+solji	gold	son	सोना	sōnā	gold	n	
+solri	solar	sor	सौर	saura	solar	adj	
+sombo	sow	bona	बोना	bōnā	sow	v	
+sonci	soldier	senik	सैनिक	sainika	soldier	n	
+sorcu	store	bandar	भंडार	bhaṇḍāra	store	n	
+sorgu	sorghum		सौरगम	sauragama	sorghum	n	
+sovda	egg	anda	अंडा	aṇḍā	egg	n	
+spaji	surprise	cakit	चकित	cakita	surprised	adj	
+spali	polish	op	ओप	ōp	polish	n	
+spati	plant	vamspat	वनस्पति	vanaspati	plant	n	
+speni	married	vivax	विवाह	vivāha	marriage	n	
+spisa	piece	xis	हिस्सा	his'sā	part	n	
+spita	hospital	aspatal	अस्पताल	aspatāla	hospital	n	
+spofu	broken	tut	टूटा	ṭūṭā	broken	adj	
+spoja	explode	vispot	विस्फोट	visphōṭa	explosion	n	
+spuda	reply	utar	उत्तर	uttara	reply	n	
+sputu	spit	tuk	थूक	thūka	spit	n	
+sraji	vertical	kara	खड़ा	khaṛā	vertical	adj	
+sraku	scratch	kurac	खुरचना	khuracanā	scratch	vt	
+srana	pertain	samband	सम्बन्ध	sambandha	regard	n	
+srasu	grass	gas	घास	ghāsa	grass	n	
+srera	err	bram	भ्रम	bhrama	aberration	n	
+sruma	assume	man	मानना	mānanā	assume	vi	
+sruri	surround	ger	घेरना	ghēranā	surround	vt	
+stace	honest	sac	सच्चा	saccā	honest	adj	
+stagi	vegetable	sag	साग 	śaga	green vegetable	n	
+staku	ceramic	mritik	मृत्तिका	mr̥ttikā	ceramic	adj	
+stali	remain	taxar	ठहराना	ṭhaharānā	remain	vi	
+stani	stalk	tan	तना	tanā	stem	n	
+stapa	step	par	पैर	paira	step	n	FIXIT dubious; correct transcription ``pair''
+stasu	soup	ras	रस	rasa	soup	n	
+stati	talent	pratib	प्रतिभा	pratibhā	ability (talent)	n	
+steba	frustration	acabang					FIXIT missing
+steci	specific	vicec	विशेष	viśēṣa	specific	adj	
+stedu	head	circ	शीर्ष	śīrṣa	head	n	
+stedu	head	sir	सिर	sira	head	n	
+stela	lock	tala	ताला	tālā	lock	n	
+stici	west	pratic	प्रतीची	pratīcī	west	n	
+stidi	suggest	prastav	प्रस्ताव	prastāva	proposal	n	
+stika	adjust	tik	ठीक	ṭhīka	just	adj	
+stizu	chair	kurs	कुर्सी	kursī	chair	n	
+stodi	constant	stir	स्थिर	sthira	constant	adj	
+stuna	east	purab	पूरब	pūraba	east	n	
+stura	structure	sanracna	संरचना	sanracanā	structure	n	
+stuzi	site	stiti	स्थिति	sthiti	site	n	
+sucta	abstract	amurt	अमूर्त	amūrta	abstract	adj	
+sudga	dry	suk	सूखा	sūkhā	dry	adj	
+sufti	hoof	sum	सुम	suma	hoof	n	
+suksa	sudden	saxsa	सहसा	sahasā	abruptly	adv	
+sumji	sum	samcti	संचित	sañcita	accumulated	part	FIXIT dubious; correct transcription ``samcit''
+sumne	smell	sund	सूंघना	sūṅghanā	smell	v	FIXIT dubious; correct transcription ``sung''; possibly from an alternate form on sundh-; cf. सुन्धावट [sundhāvaṭa] ``odour''
+sumti	argument	iukti	युक्ति	yukti	argument	n	
+sunga	garlic	laxsun	लहसुन	lahasuna	garlic	n	
+sunla	wool	un	ऊन	ūna	wool	n	
+surla	relax	dila	ढील	ḍhīla	relaxation	n	
+sutra	fast	satvar	सत्वर	satvara	swift	adj	
+tabno	carbon	karban	कार्बन	kārbana	carbon	n	
+tabra	trumpet	turia	तूर्य	tūrya	trumpet	n	
+tadji	method	tarik	तरीका	tarīkā	method	n	
+tadni	study	adiai	अध्ययन	adhyayana	study	n	
+tagji	snug	tang	तंग	taṅga	tight	n	
+talsa	challenge	lalkar	ललकार	lalakāra	challenge	n	
+tamca	tomato	tamatar	टमाटर	ṭamāṭara	tomato	n	
+tamji	thumb	anguta	अंगूठा	aṅgūṭhā	thumb	n	
+tamne	cousin	mamer	ममेरा	mamērā	cousin	n	
+tanbo	board	takt	तख्ता	takhtā	board	n	
+tance	tongue	rasan	रसना	rasanā	tongue	n	
+tanko	tobacco	tambaku	तम्बाकू	tambākū	tobacco	n	
+tanru	metaphor	rupak	रूपक	rūpaka	allegory	n	
+tansi	pan	tav					FIXIT missing
+tanxe	box	sanduk	सन्दूक	sandūka	box	n	
+tapla	tile	tapua					FIXIT missing
+tarbi	embryo	garb	गर्भ	garbha	fetus	n	
+tarci	star	tar	तारा	tārā	star	n	
+tarla	tar	tarkol	तारकोल	tārakōla	tar	n	
+tarmi	shape	akar	आकार	ākāra	shape	n	
+tarti	behave	viavxar	व्यवहार	vyavahāra	behaviour	n	
+taske	thirst	pias	प्यास	pyāsa	thirst	n	
+tatpi	tired	takit	थकित	thakita	tired	adj	
+tatru	breast	stan	स्तन	stana	breast	n	
+tavla	talk	bakvad	बकवाद	bakavāda	babble	n	
+taxfu	garment	paxnav	पहनाव	pahanāva	clothing	n	
+tcaci	custom	acar	आचरण	ācaraṇa	conduct	n	
+tcadu	city	caxar	शहर	śahara	city	n	
+tcana	station	stecan	स्टेशन	sṭēśana	station	n	
+tcati	tea	cai	चाय	cāya	tea	n	
+tcena	stretch	tana	तानना	tānanā	stretch	v	
+tcica	deceive	cal	छल	chala	deceit	n	
+tcidu	read	banc	बांचना	bān̄canā	read	v	
+tcidu	read	par	पढ़ना	paṛhanā	read	v	
+tcika	time	kal	काल	kāla	time	n	
+tcila	detail	tafsil	तफसील	taphasīla	particular	n	
+tcima	weather	mausam	मौसम	mausama	weather	n	
+tcini	situation	stiti	स्थिति	sthiti	situation	n	
+tcita	label	cipi	चिप्पी	cippī	label	n	
+temci	time	samai	समय	samaya	time	n	
+tenfa	exponential	gatank	घातांक	ghātāṅka	exponential	n	
+tengu	texture	gatan					FIXIT missing
+terdi	earth	partiv	पार्थिव	pārthiva	terrestrial	adj	
+terpa	fear	bit	भीति	bhīti	phobia	n	
+terpa	fear	dar	डर	ḍara	fear	n	
+tigni	perform	abxinai	अभिनय	abhinaya	performance	n	correct transcription ``abinai''
+tikpa	kick	latia	लतियाना	latiyānā	kick	vt	
+tikpa	kick	tokar	ठोकर	ṭhōkara	kick	n	
+tikpa	kick	tukra	ठोकर	ṭhōkara	kick	n	FIXIT dubious; correct transcription ``tokar''; probably typo and wrong schwa deletion
+tilju	heavy	tol	तौल	taula	weight	n	
+tinbe	obey	aja	आज्ञा	ājñā	command	n	cf. आज्ञापालन [ājñāpālana] ``compliance''
+tinbe	obey	paln	पालन	pālana	compliance	n	
+tinci	tin	tin	टिन	ṭina	tin	n	
+tinsa	stiff	sakt	सख्त	sakhta	rigid	adj	
+tirna	hear	suna	सुनना	sunanā	hear	v	
+tirse	iron	aias	अयस	ayasa	made of iron	adj	Sanskrit
+tirxu	tiger	bag	बाघ	bāgha	tiger	n	
+tirxu	tiger	cer	शेर	śera	tiger	n	
+tirxu	tiger	viagra	व्याघ्र	vyāghra	tiger	n	
+tisna	fill	tus	ठुसना	ṭhusanā	to be filled	v	
+titla	sweet	mitai	मिठाई	miṭhā'ī	sweet	n	
+tivni	television	telivijan	टेलीविजन	ṭēlīvijana	television	n	
+tixnu	daughter	beti	बेटी	bēṭī	daughter	n	
+toknu	oven	tandur	तन्दूर	tandūra	oven	n	
+toldi	butterfly	titli	तितली	titalī	butterfly	n	
+tonga	tone	tan	तान	tāna	tone	n	
+tordu	short	tor	थोड़ा	thōṛā	short	n	
+torni	twist	maror	मरोड़ना	marōṛanā	twist	vt	
+traji	superlative	atiadik	अत्यधिक	atyadhika	extreme	adj	
+trano	nitrogen	cora	शोरा	śōrā	saltpetre	n	
+trati	taut	prabav	प्रभाव	prabhāva	pressure	n	FIXIT dubious; distant meaning
+trene	train	tren	ट्रेन	ṭrēna	train	n	
+tricu	tree	taru	तरू	tarū	tree	n	
+trina	attract	akarc	आकर्षण	ākarṣaṇa	attraction	n	
+trixe	behind	pice	पीछे	pīchē	behind	adv	
+troci	try	kocic	कोशिश	kōśiśa	attempt	n	
+tsali	strong	bal	बल	bala	strength	n	
+tsani	sky	asman	आसमान	āsamāna	sky	n	
+tsapi	seasoning	masala	मसाला	masālā	seasoning	n	
+tsiju	seed	bij	बीज	bīja	seed	n	
+tsina	stage	macana	मचान	macāna	stage	n	
+tubnu	tube	cuc	छूछी	chūchī	tube	n	
+tubnu	tube	nalik	नालिका	nālikā	tube	n	
+tugni	agree	ekmat	एक मत	ēka mata	agreement	n	
+tujli	tulip		ट्यूलिप	ṭyūlipa	tulip	n	FIXIT dubious; Lojbanised source word missing
+tumla	land	bum	भूमि	bhūmi	land	n	
+tunba	sibling	saxodar	सहोदर	sahōdara	sibling	n	
+tunka	copper	tanba	तांबा	tāmbā	copper	n	
+tunlo	swallow	lol	लीलना	līlanā	swallow	vt	FIXIT dubious; correct transcription ``lil''; probably typo; cf. लोलना [lōlanā] ``to shake''
+tunta	poke	bonk	भोंक	bhōṅka	poke	n	
+tuple	leg	tang	टांग	ṭāṅga	leg	n	
+turni	govern	casan	शासन	śāsana	govern	n	
+turni	govern	sarkar	सरकार	sarakāra	government	n	
+tutci	tool	xatiiar	हथियार	hathiyāra	tool	n	
+tutra	territory	ract	राष्ट्र	rāṣṭra	territory	n	
+vacri	air	vaiu	वायु	vāyu	air	n	
+vajni	important	avaciak	आवश्यक	āvaśyaka	important	adj	
+valsi	word	vacan	वचन	vacana	word	n	
+vamji	value	dam	दाम	dāma	value	n	
+vamtu	vomit	vaman	वमन	vamana	vomit	n	
+vanbi	environment	vatavarn	वातावरण	vātāvaraṇa	environment	n	
+vanci	evening	sandia	संध्य	sandhya	evening	n	
+vanju	wine	angur	अंगूर	aṅgūra	grape	n	
+vasru	contain	patr	पात्र	pātra	container	n	
+vasxu	breathe	cvas	श्वास	śvāsa	breath	n	
+vecnu	sell	bec	बेचना	bēcanā	sell	vt	
+venfu	revenge	badl	बदला	badalā	revenge	n	
+venfu	revenge	praticod	प्रतिशोध	pratiśodha	revenge	n	
+venfu	revenge	pratikar	प्रतिकार	pratikāra	revenge	n	
+vensa	spring	vasant	वसन्त	vasanta	spring	n	
+verba	child	bac	बच्चा	baccā	child	n	
+verba	child	bal	बाल	bāla	child	n	
+vibna	vagina	ioni	योनि	yōni	vagina	n	
+vidni	video	telivizan	टेलिविजन	ṭēlivijana	video	n	
+vidru	virus	vairus	वाइरस	vāirasa	virus	n	
+vifne	fresh	navin	नवीन	navīna	new	adj	
+vikmi	excrete	nikal	निकालना	nikālanā	emit	vt	
+viknu	viscous	sian					FIXIT missing
+vimcu	remove	viavakaln	व्यवकलन	vyavakalana	subtraction	n	
+vindu	poison	vic	विष	viṣa	poison	n	
+vinji	airplane	viman	वाहन	vimāna	airplane	n	
+vipsi	deputy	prati	प्रति-	prati-	deputy	n	
+vipsi	deputy	up	उप-	upa-	deputy	n	
+virnu	brave	vir	वीर	vīra	brave	adj	
+viska	see	vicar	विचार	vicāra	viewpoint	n	
+vitci	irregular	viral					FIXIT missing
+vitke	guest	atiti	अतिथि	atithi	guest	n	
+vitno	permanent	nitia	नित्य	nitya	eternal	adj	
+vlagi	vulva	bag	भग	bhaga	vulva	n	
+vlile	violent	prabal	प्रबल	prabala	violent	adj	
+vlile	violent	pracana	प्रचंड	pracaṇḍa	violent	adj	FIXIT dubious; correct transcription ``pracand''
+vlile	violent	xinsak	हिंसक	hinsaka	homicidal	adj	
+vlina	alternation	vikalp	विकल्प	vikalpa	alternative	n	
+vlipa	powerful	cakt	शक्ति	śakti	power	n	
+vofli	flight	ur	उड़ान	uṛāna	flight	n	
+voksa	voice	vak	वाक्	vāk	speech	n	Sanskrit
+vorme	door	dvar	द्वार	dvāra	gate	n	
+vraga	lever	utolak	उत्तोलक	uttōlaka	hoist	v	
+vreji	record	vrit	वृत्त	vr̥tta	record	n	
+vreta	reclining	vicram	विश्राम	viśrāma	repose	n	
+vrici	miscellaneous	vivid	विविध	vividha	miscellaneous	adj	
+vrude	virtue						FIXIT missing
+vrusi	taste	cak	चखना	cakhanā	taste	v	
+vrusi	taste	svad	स्वाद	svāda	taste	n	
+xabju	dwell	bas	बसना	basanā	dwell	vi	
+xabju	dwell	nivas	निवास	nivāsa	dwelling	n	
+xabju	dwell	rax	रहना	rahanā	dwell	vi	
+xadba	half	ada	आधा	ādhā	half	adj	
+xadni	body	badan	बदन	badana	body	n	
+xagji	hunger	buka	भूख	bhūkha	hunger	n	
+xagji	hunger	kcud	क्षुधा	kṣudhā	hunger	n	
+xagji	hunger	kcut	क्षुधा	kṣudhā	hunger	n	FIXIT dubious; correct transcription ``kcuda''
+xagri	reed	caxnai	शहनाई	śahanā'ī	clarinet	n	
+xagri	reed	nafiri	नफीरी	naphīrī	oboe	n	
+xajmi	funny	xasia	हास्य	hāsya	humour	n	
+xaksu	use up	xarcik					FIXIT missing
+xalbo	levity	xalk	हल्का	halkā	light	adj	
+xalka	alcohol	ailkoxal	अल्कोहल	alkohala	alcohol	n	FIXIT dubious; correct transcription ``alkoxal''
+xalni	panic	taxalk					FIXIT missing
+xamgu	good	utam	उत्तम	uttama	best	adj	
+xamsi	sea	samudr	समुद्र	samudra	sea	n	
+xance	hand	xat	हाथ	hātha	hand	n	
+xanka	nervous	vikal	विकल	vikala	edgy	adj	
+xanri	imaginary	xaiali	ख्याली	khyālī	imaginary	adj	
+xanto	elephant	xat	हाथी	hāthī	elephant	n	
+xarci	weapon	xatiar	हथियार	hathiyāra	weapon	n	
+xarju	pig	suar	सुअर	suara	pig	n	
+xarnu	stubborn	xatil	हठीला	haṭhīlā	stubborn	adj	
+xasli	donkey	gadxa	गधा	gadhā	donkey	n	
+xasne	sweat	pasin	पसीना	pasīnā	sweat	n	
+xatra	letter	patr	पत्र	patra	letter	n	
+xebni	hate	bair	बैर	baira	hate	n	
+xedja	jaw	jabra	जबड़ा	jabaṛā	jaw	n	
+xekri	black	kricn	कृष्ण	kr̥ṣṇa	black	adj	
+xendo	kind	kripalu	कृपालु	kr̥pālu	kind	adj	
+xenru	regret	ked	खेद	khēda	regret	n	
+xenru	regret	pacatap	पश्चात्ताप	paścāttāpa	regret	n	
+xinmo	ink	siaxi	स्याही	syāhī	ink	n	
+xirma	horse	gir	घोड़ा	ghōṛā	horse	n	FIXIT dubious; correct transcription ``gora''
+xislu	wheel	paxi	पहिया	pahiyā	wheel	n	
+xlali	bad	bur	बुरा	burā	bad	adj	
+xlali	bad	duct	दुष्ट	duṣṭa	bad	adj	
+xlura	influence	prabav	प्रभाव	prabhāva	influence	n	
+xotli	hotel	xotal	होटल	hōṭala	hotel	n	
+xrani	injure	xan	हानि	hāni	injury	n	
+xruba	buckwheat						FIXIT missing
+xruki	turkey	piru	पीरू	pīrū	turkey	n	
+xrula	flower	ful	फूल	phūla	flower	n	
+xrula	flower	pul	फूल	phūla	flower	n	
+xruti	return	lauta	लौटना	lauṭanā	return	v	
+xukmi	chemical	rasaianik	रसायनिक	rasāyanika	chemical	adj	
+xunre	red	arun	अरुण	aruṇa	reddish-brown (dawn)	adj	
+xusra	assert	balpurvak	बलपूर्वक	balapūrvaka	assertive	adj	
+xutla	smooth	cikan	चिकना	cikanā	smooth	adj	
+xutla	smooth	masrin	मसृण	masr̥ṇa	smooth	adj	
+zabna	favorable	saxaiak	सहायक	sahāyaka	favorable	adj	
+zajba	gymnast	kalabaz					FIXIT missing
+zalvi	grind	daln	संदलना	dalanā	mash	vt	
+zanru	approve	anumodan	अनुमोदन	anumōdana	approval	n	
+zarci	market	bazar	बाज़ार	bāzāra	market	n	
+zargu	buttock	cutar	चूतड़	cūtaṛa	bottom (posterior)	n	
+zasni	temporary	astai	अस्थाई	asthā'ī	temporary	adj	
+zasti	exist	astitva	अस्तित्व	astitva	existence	n	
+zbabu	soap	sabun	साबुन	sābuna	soap	n	
+zbani	bay	kari	खाड़ी	khāṛī	bay	n	
+zbasu	make	bana	बनाना	banānā	make	vt	
+zbepi	pedestal	piti					FIXIT missing
+zdani	nest	nir					FIXIT missing
+zdile	amusing	baxala	बहलाना	bahalānā	recreate	vt	
+zekri	crime	aprad	अपराध	aparādha	crime	n	
+zenba	increase	bar	बढ़ना	baṛhanā	increase	vi	
+zgana	observe	mana	मनाना	manānā	observe	v	
+zgike	music	sangit	संगीत	saṅgīta	music	n	
+zifre	free	svatantr	स्वतंत्र	svatantra	free	adj	
+zinki	zinc	zink					FIXIT missing
+zirpu	purple	bangni	बैंगनी	baiṁganī	purple	adj	
+zirpu	purple	banjni	बैंजनी	baiñjanī	purple	adj	
+zivle	invest	nivec	निवेश	nivēśa	investment	n	
+zmadu	more	ziad	ज्यादा	jyādā	more	adj	cf. Urdu زياده [ziyāda] ``more''
+zmiku	automatic	apaseap					FIXIT missing
+zukte	act	karni	करणी	karaṇī	act	n	
+zumri	maize	marki	मकई	maka'ī	maize	n	FIXIT dubious; correct transcription ``makai''
+zungi	guilt	aprad	अपराध	aparādha	guilt	n	
+zungi	guilt	doc	दोष	dōṣa	guilt	n	
+zunle	left	baian	बायां	bāyā̃	left	adj	
+zunle	left	vam	वाम	vāma	left	adj	
+zunti	interfere	viatikarn					FIXIT missing
+zutse	sit	bait	बैठाना	baiṭhānā	sit	vt	
+zvati	at	upastit	उपस्थित	upasthita	attendant	adj	
+zvati	at	xazir	हाजिर	hājira	present	adj	
