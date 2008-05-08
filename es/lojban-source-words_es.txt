@@ -134,7 +134,7 @@ cidni	knee	rodiia	rodilla	knee
 cidro	hydrogen	idroxen	hidrógeno	hydrogen	
 cifnu	infant	infant	infante		
 cigla	gland	glandul	glándula		
-cikna	awake	despiert	despierto	awake; first person singular present tense form of despertar	
+cikna	awake	despiert	despierto	awake	
 cikre	repair	aregl	arreglar	to straighten; to adjust; to fix	
 ciksi	explain	eksplik	explicar	to explain	
 cilce	wild	silvestr	silvestre		
@@ -253,7 +253,7 @@ cuxna	choose	escox	escoger	(transitive) to choose, select, pick
 dacru	drawer	kaxon	cajón	drawer	
 dacti	object	obxet	objeto	object	
 dakfu	knife	kotcii	cuchillo	knife	
-dakli	sack	sak	saco	bag; sack; (Latin America) jacket; first person singular present tense form of sacar	
+dakli	sack	sak	saco	bag; sack; (Latin America) jacket	
 damba	fight	kombat	combatir	to combat or fight	
 damri	drum	tambor	tambor	drum	
 dandu	hang	pend	pender	to hang, to dangle; to be pending, to be undecided	
@@ -463,7 +463,7 @@ janco	shoulder	ombr	hombro	shoulder
 janli	collide	cok	chocar	(intransitive) and (transitive) to crash; (intransitive) to collide (with); (intransitive) to shock or scandalize	
 janli	collide	top	topar		
 jansu	diplomat	konsul	cónsul	consul	
-janta	account	kont	cuenta	bill; account; report; third person singular present indicative form of contar	
+janta	account	kont	cuenta	bill; account; report	
 jarbu	suburb	arrabal	arrabal		
 jarco	show	eksib	exhibir	to show	
 jarki	narrow	angost	angosto	narrow	
@@ -697,7 +697,7 @@ litru	travel	viax	viajar	to travel, to journey
 livga	liver	igad	hígado	liver	
 livla	fuel	kombustibl	combustible	combustible; fuel	
 logji	logic	loxik	lógica	logic	
-loldi	floor	sol	suelo	ground, floor, soil; first person singular present indicative of soler; “I usually”	
+loldi	floor	sol	suelo	ground, floor, soil	
 lorxu	fox	zor	zorro	fox (carnivore); fox (sly or cunning person); (Argentine Spanish) a device used to raise and (temporarily) support a; clever; crafty; sly	
 lumci	wash	limpi	limpiar	to clean; to wash	
 lunbe	bare	desnudo	desnudo	naked, nude, undressed; bare; dispossessed, destitute; plain, clear, manifest	
@@ -772,7 +772,7 @@ mokca	point	moment	momento	moment, instant
 moklu	mouth	bok	boca	mouth; oral cavity	
 molki	mill	molin	molino	a mill	
 morji	remember	rekord	recordar	to remember	
-morna	pattern	dibux	dibujo	drawing; first person singular of of dibujar	
+morna	pattern	dibux	dibujo	drawing	
 morna	pattern	disen	diseño	a design; Spanish and Mexican land grants made in Alta California prior to the	
 morsi	dead	mor	morir	to die	
 mosra	friction	ros	roce		
@@ -926,7 +926,7 @@ racli	sane	rasional	racional
 ractu	rabbit	konex	conejo	rabbit; (Central America) detective; (vulgar, slang) cunt	
 ractu	rabbit	liebr	liebre		
 rafsi	affix	afix	afijo	affix	
-ragve	across	traves	través	bent (unusual)	
+ragve	across	traves	a través	across; transversely	
 raktu	trouble	disturb	disturbar		
 ralci	delicate	fraxil	frágil	fragile	
 ralju	principal	prinsipal	principal	main, most important; essential; chief, boss	
@@ -1018,7 +1018,7 @@ senva	dream	son	soñar	to dream
 sepli	apart	seperad	separado	past participle of separar	
 serti	stairs	eskaler	escalera	stairs; ladder; (poker) straight	
 setca	insert	insert	insertar	to insert	
-sevzi	self	si	sí	yes, affirmation; commonly used to respond affirmatively to a question; yes; aye, ay; third person reflexive pronoun	
+sevzi	self	si	sí	himself/herself/itself	third person reflexive pronoun
 sfani	fly	mosk	mosca	fly	
 sfasa	punish	kastig	castigar	to punish, castigate	
 sfofa	sofa	sof	sofá	sofa	
@@ -1026,7 +1026,7 @@ sfubu	dive	buse	bucear	to dive, to swim under water; to snorkel; to work as a di
 siclu	whistle	silb	silbar		
 sicni	coin	fic	ficha	file; chip; record; token	
 sidbo	idea	ide	idea	idea	
-sidju	help	aiud	ayuda	help; third person present of ayudar, to help (he/she/it helps)	
+sidju	help	aiud	ayuda	help	
 sigja	cigar	sigar	cigarro	cigar	
 silka	silk	sed	seda	silk	
 silna	salt	sal	sal	salt	
@@ -1142,7 +1142,7 @@ sunla	wool	lan	lana	wool; (slang) cash, money
 surla	relax	relax	relajar	to relax	
 sutra	fast	rapid	rápido	rapid, quick; rapidly	
 tabno	carbon	karbon	carbón	coal; charcoal	
-tabra	trumpet	metales	metales		
+tabra	trumpet	metales	metales	brass	
 tadji	method	metod	método	method	
 tadni	study	estudi	estudiar	to study	
 tagji	snug	apret	apretado		
@@ -1273,7 +1273,7 @@ vlile	violent	violent	violento	violent
 vlina	alternation	alternativ	alternativa	an alternative, option; alternation	
 vlipa	powerful	poder	poder	power, reign; authorization; to be able, can	correct transcription ``pod''
 vlipa	powerful	potensi	potencia	power	
-vofli	flight	vol	vuelo	flight; first person singular present tense form of volar	
+vofli	flight	vol	vuelo	flight	
 voksa	voice	vos	voz	voice	
 vorme	door	port	puerta	door	
 vraga	lever	palank	palanca	lever	
@@ -1281,7 +1281,7 @@ vreji	record	rexistr	registrar	to register, to record; to examine, to inspect, t
 vreta	reclining	rekost	recostar		
 vrici	miscellaneous	varios	varios	various, several	
 vrude	virtue	virtud	virtud	virtue	
-vrusi	taste	gust	gusto	esthetic taste; taste (flavour); pleasure; fancy, whim; first person singular present tense form of gustar	
+vrusi	taste	gust	gusto	esthetic taste; taste (flavour); pleasure; fancy, whim	
 xabju	dwell	xabit	habitar	to inhabit	
 xadba	half	mitad	mitad	half	
 xadni	body	korp	cuerpo	body; object	
@@ -1334,7 +1334,7 @@ zalvi	grind	pulveris	pulverizar	to pulverize, atomize
 zanru	approve	aprob	aprobar	to approve	
 zarci	market	bazar	bazar		
 zargu	buttock	nalg	nalga	buttock, each cheek of the bottom	
-zasni	temporary	pasaxer	pasajero	passenger	
+zasni	temporary	pasaxer	pasajero	passing; fleeting	
 zasti	exist	eksist	existir	to exist	
 zbabu	soap	xabon	jabón	soap	
 zbani	bay	bai	bayo		
