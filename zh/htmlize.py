@@ -35,10 +35,6 @@ dt { margin-top: 1em; }
   font-style: italic;
   font-size: smaller; 
 }
-#notes {
-  font-family: serif;
-  font-size: smaller;
-}
 
 /*]]>*/
   </style>

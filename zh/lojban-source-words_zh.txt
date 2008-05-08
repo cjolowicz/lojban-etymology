@@ -1169,7 +1169,7 @@ viska	see	kan	看		kān	to look after; to take care of; to watch; to guard
 vitci	irregular	ieuci	有時	有时	yǒu shí	sometimes; now and then	
 vitke	guest	ke	客		kè	customer; visitor; guest	
 vitno	permanent	iun	永		yǒng	forever; always; perpetual (ly)	
-vlagi	vulva	uaiiin	外陰	外阴	wài yīn	outside + vagina	FIXIT no reports; 3,990,000 Google hits; should be 屄 [bī] ``vulva''
+vlagi	vulva	uaiiin	外陰	外阴	wài yīn	outside + vagina	3,990,000 Google hits; should be 屄 [bī] ``vulva''
 vlile	violent	lie	烈		liè	ardent; intense; split; crack; rend	cf. 暴烈 [bào liè] ``violent; fierce'' (compound); cf. 劇烈 (剧烈) [jù liè] ``violent; acute; severe; fierce'' (compound)
 vlina	alternation	lian	兩	两	liǎng	both; two; ounce; some; a few; tael	FIXIT dubious
 vlipa	powerful	li	力		lì	power; force; strength	
@@ -1188,7 +1188,7 @@ xadni	body	xai	骸		hái	bones of the body	FIXIT dubious
 xagji	hunger	ji	飢	饥	jī	hungry	cf. 饑 (饥) [jī] ``hungry'' (variant)
 xagri	reed	xuang	簧		huáng	metallic reed; spring of lock	
 xajmi	funny	xuaji	滑稽		huá ji	comical; funny; amusing	
-xaksu	use	xau	耗		hào	mouse; new; to waste; to spend; to consume; to squander	
+xaksu	use up	xau	耗		hào	mouse; new; to waste; to spend; to consume; to squander	
 xalbo	levity	bo	薄		bò	thin; slight; meagre; small; ungenerous; unkind; mean; frivolous; despise; belittle; to approach; to go near; peppermint	
 xalka	alcohol	jieujin	酒精		jiǔ jīng	alcohol	
 xalni	panic	jinxuan	驚慌	惊慌	jīng huāng	panic	
