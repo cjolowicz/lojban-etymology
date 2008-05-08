@@ -1289,7 +1289,7 @@ xagji	hunger	ambr	hambre	hunger
 xagri	reed	lenguet	lengüeta		
 xagri	reed	obo	oboe		
 xajmi	funny	komik	cómico	funny	
-xaksu	use up	konsum	consumo	consumption	
+xaksu	use	konsum	consumo	consumption	
 xalbo	levity	lixer	ligero	light, not heavy	
 xalka	alcohol	alkol	alcohol	alcohol	
 xalni	panic	panik	pánico	panic	
