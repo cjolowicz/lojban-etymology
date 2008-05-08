@@ -1223,7 +1223,7 @@ tubnu	tube	trub	труба	truba	pipe; chimney; stack; funnel; trumpet; tube
 tugni	agree	soglacat	соглашаться	soglašatʹsâ	agree; agree with one`s friends` opinion	
 tujli	tulip	tiulipan	тюльпан	tûlʹpan	tulip	
 tumla	land	zemlia	земля	zemlâ	earth; the Earth; land; soil; ground	
-tunba	sibling					Russian source word missing in original gismu etymology file: no Russian equivalent; cf. сиблинг [sibling] ``sibling (scientific; rare)''
+tunba	sibling					no Russian source word; cf. сиблинг [sibling] ``sibling (scientific; rare)''
 tunka	copper	miet	медь	medʹ	copper; coppers	
 tunlo	swallow	glot	глотать	glotatʹ	swallow; bolt; gulp down; devour	
 tunta	poke	talk	толкать	tolkatʹ	push; shove; give; a push/shove; instigate; put	
@@ -1262,7 +1262,7 @@ viska	see	vid	видеть	videtʹ	see
 vitci	irregular	pririvist	прерывистый	preryvistyj	intermittent; interrupted; faltering	
 vitke	guest	gost	гость	gostʹ	guest; visitor	
 vitno	permanent	viecn	вечный	večnyj	eternal; everlasting; perpetual; endless	
-vlagi	vulva		влагалище	vlagaliŝe	vagina	FIXIT dubious; Russian source word missing in original gismu etymology file
+vlagi	vulva					no Russian source word; cf. влагалище [vlagaliŝe] ``vagina''
 vlile	violent	nasil	насилие	nasilie	violence; coercion	
 vlina	alternation	altirnativ	альтернатива	alʹternativa	alternative	
 vlipa	powerful	vlast	власть	vlastʹ	power; form of government; the authorities; authority	
