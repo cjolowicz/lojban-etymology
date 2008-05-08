@@ -1213,7 +1213,7 @@ xadni	body	badi	body
 xagji	hunger	xangr	hunger	
 xagri	reed	rid	reed	
 xajmi	funny	kamik	comic	
-xaksu	use	knsum	consume	
+xaksu	use up	knsum	consume	
 xalbo	levity	frivalas	frivolous	
 xalka	alcohol	alkaxal	alcohol	
 xalni	panic	panik	panic	
