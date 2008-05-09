@@ -1,1258 +1,1258 @@
-bacru	utter	facu	發出	发出	fā chū	to send out; to issue	cf. 說出 (说出) [shuō chū] ``utter'' (component)
+bacru	utter	facu	發出	发出	fā chū	issue	cf. 說出 (说出) [shuō chū] ``utter'' (component)
 badna	banana	cianjiau	香蕉		xiāng jiāo	banana	
-badri	sad	beiai	悲哀		bēi āi	sad	source: chinaboard.de; cf. 悲 [bēi] ``sad; sadness; sorrow; grief'' (component); cf. 哀 [āi] ``sorrow; grief; pity; to grieve for; to pity; to lament'' (component)
-bajra	run	ban	辦	办	bàn	to do; to manage; to handle; to go about; to run; to set up; to deal with	
-bakfu	bundle	bau	包		bāo	to cover; to wrap; to hold; to include; to take charge of; package; wrapper; container; bag; to hold or embrace; bundle; packet; to contract (to or for)	
-bakni	bovine	nieu	牛		niú	ox; cow; bull	
+badri	sad	beiai	悲哀		bēi āi	sad	cf. 悲 [bēi] ``sad'' (component); cf. 哀 [āi] ``sorrow'' (component)
+bajra	run	ban	辦	办	bàn	run	
+bakfu	bundle	bau	包		bāo	bundle	
+bakni	bovine	nieu	牛		niú	cow	
 bakri	chalk	baie	白堊	白垩	bái è	chalk	
-baktu	bucket	tun	桶		tǒng	pail; bucket; bin; barrel	
+baktu	bucket	tun	桶		tǒng	bucket	
 balji	bulb	linjin	鱗莖	鳞茎	lín jīng	bulb	
-balni	balcony	iantai	陽臺	阳台	yáng tái	balcony; porch	
+balni	balcony	iantai	陽臺	阳台	yáng tái	balcony	
 balre	blade	ren	刃		rèn	edge of blade	
-balvi	future	jianlai	將來	将来	jiāng lái	(the) future	
-bancu	beyond	cu	出		chū	to go out; to come out; to occur; to produce; to go beyond; to rise; to put forth; to occur; to happen; (a measure word for dramas, plays, or operas)	
-bandu	defend	bau	保		bǎo	to defend; to protect; to insure or guarantee; to maintain; hold or keep; to guard	
-banfi	amphibian	lianci	兩棲	两栖	liǎng qī	amphibious; dual-talented; able to work in two different lines	
-bangu	language	iuian	語言	语言	yǔ yán	(spoken) language	
-banli	great	juanli	壯麗	壮丽	zhuàng lì	magnificence; magnificent; majestic; glorious	
-banro	grow	jan	長	长	zhǎng	chief; head; elder; to grow; to develop	cf. 生長 (生长) [shēng zhǎng] ``grow'' (compound); cf. 增長 (增长) [zēng zhǎng] ``grow; increase'' (compound)
+balvi	future	jianlai	將來	将来	jiāng lái	future	
+bancu	beyond	cu	出		chū	go beyond	
+bandu	defend	bau	保		bǎo	defend	
+banfi	amphibian	lianci	兩棲	两栖	liǎng qī	amphibious	
+bangu	language	iuian	語言	语言	yǔ yán	language	
+banli	great	juanli	壯麗	壮丽	zhuàng lì	magnificent	
+banro	grow	jan	長	长	zhǎng	grow	cf. 生長 (生长) [shēng zhǎng] ``grow'' (compound); cf. 增長 (增长) [zēng zhǎng] ``grow'' (compound)
 banxa	bank	iinxan	銀行	银行	yín háng	bank	
-banzu	suffice	zu	足		zú	foot; to be sufficient	
-bapli	force	li	力		lì	power; force; strength	
-barda	big	da	大		dà	big; huge; large; major; great; wide; deep; oldest; eldest	
+banzu	suffice	zu	足		zú	be sufficient	
+bapli	force	li	力		lì	force	
+barda	big	da	大		dà	big	
 bargu	arch	gun	拱		gǒng	arch	
-barja	bar	jieubajian	酒吧間	酒吧间	jiǔ bā jiān	bar	source: chinaboard.de; cf. 酒吧 [jiǔ bā] ``bar; pub'' (component)
-barna	mark	ban	瘢		bān	mark; scar on the skin	
-bartu	out	biau	表		biǎo	surface; exterior; to watch; to show; express; an example; a list or table; a meter; a watch; chart; external	
-basna	emphasize	ciandau	強調	强调	qiáng diào	to emphasize (a statement); to stress	FIXIT correct transcription ``ciandiau''
-basti	replace	ti	替		tì	to substitute for; to take the place of; to replace; for; on behalf of; to stand in for	
-batci	bite	ci	噬		shì	devour; to bite	
+barja	bar	jieubajian	酒吧間	酒吧间	jiǔ bā jiān	bar	cf. 酒吧 [jiǔ bā] ``bar'' (component)
+barna	mark	ban	瘢		bān	mark	
+bartu	out	biau	表		biǎo	exterior	
+basna	emphasize	ciandau	強調	强调	qiáng diào	emphasize	FIXIT correct transcription ``ciandiau''
+basti	replace	ti	替		tì	replace	
+batci	bite	ci	噬		shì	bite	
 batke	button	keu	釦	扣	kòu	button	
 bavmi	barley	damai	大麥	大麦	dà mài	barley	
-bebna	foolish	ben	笨		bèn	stupid; foolish; silly; slow-witted; clumsy	
+bebna	foolish	ben	笨		bèn	foolish	
 bende	orchestra	iueduei	樂隊	乐队	yuè duì	band	
-benji	send	ji	齎		jī	send; to present in both hands	
+benji	send	ji	齎		jī	send	
 bersa	son	er	兒	儿	ér	son	
 berti	north	bei	北		běi	north	
 besna	brain	nau	腦	脑	nǎo	brain	
-betfu	abdomen	fu	腹		fù	abdomen; stomach; belly	
-betri	tragedy	bei	悲		bēi	sad; sadness; sorrow; grief	cf. 悲劇 (悲剧) [bēi jù] ``tragedy'' (compound)
+betfu	abdomen	fu	腹		fù	abdomen	
+betri	tragedy	bei	悲		bēi	sad	cf. 悲劇 (悲剧) [bēi jù] ``tragedy'' (compound)
 bevri	carry	bei	揹	背	bēi	carry on one's back	
-bidju	bead	ju	珠		zhū	bead; pearl	
-bifce	bee	mifen	蜜蜂		mì fēng	bee; honeybee	
-bikla	whip	bian	鞭		biān	a whip or lash; to flog; slash or whip	
-bilga	obliged	bi	必		bì	certainly; must; will; necessarily	
-bilma	ill	bin	病		bìng	ailment; sickness; illness; disease; fall ill; sick; defect	
-bilni	military	bin	兵		bīng	soldiers; a force; an army; weapons; arms; military; warlike	
-binra	insure	baucian	保險	保险	bǎo xiǎn	insurance; to insure; safe; secure; be sure; be bound to	
-binxo	become	bian	變	变	biàn	to change; to become different; to transform; to vary; rebellion	cf. 變得 (变得) [biàn de] ``become; change into'' (compound)
+bidju	bead	ju	珠		zhū	bead	
+bifce	bee	mifen	蜜蜂		mì fēng	bee	
+bikla	whip	bian	鞭		biān	whip	
+bilga	obliged	bi	必		bì	must	
+bilma	ill	bin	病		bìng	illness	
+bilni	military	bin	兵		bīng	military	
+binra	insure	baucian	保險	保险	bǎo xiǎn	insure	
+binxo	become	bian	變	变	biàn	change	cf. 變得 (变得) [biàn de] ``become'' (compound)
 birje	beer	pijieu	啤酒		pí jiǔ	beer	
 birka	arm	bi	臂		bì	arm	
-birti	certain	bi	必		bì	certainly; must; will; necessarily	
+birti	certain	bi	必		bì	certainly	
 bisli	ice	bin	冰		bīng	ice	
-bitmu	wall	bi	壁		bì	wall; rampart	
-blabi	white	bai	白		bái	white; snowy; empty; blank; bright; clear; plain; pure; gratuitous	
-blaci	glass	boli	玻璃		bō li	glass; nylon; plastic	
+bitmu	wall	bi	壁		bì	wall	
+blabi	white	bai	白		bái	white	
+blaci	glass	boli	玻璃		bō li	glass	
 blanu	blue	lan	藍	蓝	lán	blue	
-bliku	block	dakuai	大塊	大块	dà kuài	block	FIXIT no reports; 8,660,000 (8,690,000) Google hits; cf. 大木塊 (大木块) [dài mù kuài] ``Klotz (= block)'' (compound) (source: chinaboard.de)
+bliku	block	dakuai	大塊	大块	dà kuài	block	FIXIT no reports; 8,660,000 (8,690,000) Google hits; cf. 大木塊 (大木块) [dài mù kuài] ``block'' (compound)
 bloti	boat	tin	艇		tǐng	small boat	
-bolci	ball	cieu	球		qiú	ball; sphere	cf. 毬 [qiú] ``ball'' (variant)
+bolci	ball	cieu	球		qiú	ball	cf. 毬 [qiú] ``ball'' (variant)
 bongu	bone	gu	骨		gǔ	bone	
-botpi	bottle	pin	瓶		píng	bottle; (a measure word); vase; pitcher	cf. 缾 [píng] ``vase; bottle; pitcher'' (variant)
-boxfo	sheet	bo	箔		bó	bamboo screen; door screen; metal foil; leaf; sheet; tinsel	
-boxna	wave	bo	波		bō	wave; ripple; storm; surge	
-bradi	enemy	di	敵	敌	dí	enemy; match	
+botpi	bottle	pin	瓶		píng	bottle	cf. 缾 [píng] ``bottle'' (variant)
+boxfo	sheet	bo	箔		bó	sheet	
+boxna	wave	bo	波		bō	wave	
+bradi	enemy	di	敵	敌	dí	enemy	
 bratu	hail	bau	雹		báo	hail	
-bredi	ready	bei	備	备	bèi	to prepare; get ready; to provide or equip	
+bredi	ready	bei	備	备	bèi	get ready	
 bridi	predicate	binsi	賓詞	宾词	bīn cí	predicate	
-brife	breeze	fen	風	风	fēng	wind; news; style; custom; manner	cf. 飌 [fēng] ``wind'' (variant)
-briju	office	ju	局		jú	(a measure word used for games) set or round office; situation; office	
+brife	breeze	fen	風	风	fēng	wind	cf. 飌 [fēng] ``wind'' (variant)
+briju	office	ju	局		jú	office	
 bruna	brother	ciun	兄		xiōng	brother	
 bukpu	cloth	bu	布		bù	cloth	
-bumru	fog	bouu	薄霧	薄雾	bó wù	mist; haze	
+bumru	fog	bouu	薄霧	薄雾	bó wù	mist	
 bunda	pound	ban	鎊	镑	bàng	pound (sterling)	
-bunre	brown	zunse	棕色		zōng sè	brown (the color)	
+bunre	brown	zunse	棕色		zōng sè	brown	
 burcu	brush	cua	刷		shuā	brush	
 burna	embarrassed	ueinan	為難	为难	wéi nán	make things difficult for	cf. 難為 (难为) [nán wéi] ``embarrassed'' (component)
-cabna	now	cian	現	现	xiàn	appear; present; now; existing; current	
-cabra	apparatus	cebei	設備	设备	shè bèi	equipment; facilities; installations	
+cabna	now	cian	現	现	xiàn	now	
+cabra	apparatus	cebei	設備	设备	shè bèi	equipment	
 cacra	hour	ciauc	小時	小时	xiǎo shí	hour	
-cadzu	walk	zeu	走		zǒu	to walk; to go; to move; to leave	
-cafne	often	can	常		cháng	always; ever; often; frequently; common; general; constant	
+cadzu	walk	zeu	走		zǒu	walk	
+cafne	often	can	常		cháng	often	
 cakla	chocolate	ciaukeli	巧克力		qiǎo kè lì	chocolate	
 calku	shell	ciau	殼	壳	qiào	shell	
-canci	vanish	cian	潛	潜	qián	hidden; latent; secret; to hide; to conceal; secret; hidden; to submerge	
+canci	vanish	cian	潛	潜	qián	hidden	
 cando	idle	cian	閒		xián	idle	
-cange	farm	can	場	场	chǎng	a courtyard; open space; place; field; a measure word; (a measure word, used for sport or recreation)	cf. 農場 (农场) [nóng chǎng] ``farm'' (compound)
-canja	exchange	can	商		shāng	commerce; consult	
-canko	window	cuan	窗		chuāng	shutter; window	
-canlu	space	can	場	场	chǎng	a courtyard; open space; place; field; a measure word; (a measure word, used for sport or recreation)	cf. 場地 (场地) [chǎng dì] ``space; site; place'' (compound); cf. 敞 [chǎng] ``spacious; uncovered'' (variant)
-canpa	shovel	can	鏟	铲	chǎn	spade; shovel	
-canre	sand	ca	沙		shā	granule; hoarse; raspy; sand; powder	cf. 砂 [shā] ``sand; gravel; granule'' (variant)
+cange	farm	can	場	场	chǎng	field	cf. 農場 (农场) [nóng chǎng] ``farm'' (compound)
+canja	exchange	can	商		shāng	commerce	
+canko	window	cuan	窗		chuāng	window	
+canlu	space	can	場	场	chǎng	open space	cf. 場地 (场地) [chǎng dì] ``space'' (compound); cf. 敞 [chǎng] ``spacious'' (variant)
+canpa	shovel	can	鏟	铲	chǎn	shovel	
+canre	sand	ca	沙		shā	sand	cf. 砂 [shā] ``sand'' (variant)
 canti	gut	can	腸	肠	cháng	intestines	
-carce	cart	ce	車	车	chē	car; a vehicle; machine; to shape with a lathe	
-carmi	intense	min	明		míng	clear; bright; to understand; next; the Ming dynasty	
+carce	cart	ce	車	车	chē	car	
+carmi	intense	min	明		míng	bright	
 carna	turn	cuan	旋		xuán	revolve	
-cartu	chart	tu	圖	图	tú	diagram; to plan; picture; drawing; chart	
+cartu	chart	tu	圖	图	tú	chart	
 carvi	rain	ciaiu	下雨		xià yǔ	rainy	
-casnu	discuss	can	商		shāng	commerce; consult	cf. 商談 (商谈) [shāng tán] ``confer; discuss; engage in talks'' (compound); cf. 商討 (商讨) [shāng tǎo] ``discuss; deliberate'' (compound)
-catke	shove	tuei	推		tuī	push; refuse (responsibility); shove	
+casnu	discuss	can	商		shāng	consult	cf. 商談 (商谈) [shāng tán] ``discuss'' (compound); cf. 商討 (商讨) [shāng tǎo] ``discuss'' (compound)
+catke	shove	tuei	推		tuī	shove	
 catlu	look	ciau	瞧		qiáo	look at	
-catni	authority	cuan	權	权	quán	authority; power; right	
-catra	kill	ca	殺	杀	shā	to kill; to murder; to slaughter	
+catni	authority	cuan	權	权	quán	authority	
+catra	kill	ca	殺	杀	shā	kill	
 caxno	shallow	cian	淺	浅	qiǎn	shallow	cf. 粗淺 (粗浅) [cū qiǎn] ``shallow; superficial'' (compound); cf. 譾 (谫) [jiǎn] ``shallow; stupid'' (variant); cf. 俴 [jiàn] ``short; shallow; thin plate'' (variant)
-cecla	launcher	ce	射		shè	radio- (chem.); shoot	
+cecla	launcher	ce	射		shè	shoot	
 cecmu	community	cecu	社區	社区	shè qū	community	
-cedra	era	cidai	時代	时代	shí dài	age; era; epoch; period	
-cenba	vary	cen	參	参	cān	take part in; participate; join; attend; to join; unequal; varied; irregular; to counsel; uneven; not uniform	FIXIT dubious; cf. 甡 [shēn] ``multitude; crowd'' (variant); cf. 摻 (掺) [chān] ``mix'' (variant); cf. 成 [chéng] ``finish; complete; accomplish; become; turn into; win; succeed; one tenth'' (variant)
-censa	holy	cen	聖	圣	shèng	holy; sacred; saint; sage	
-cerda	heir	jicen	繼承	继承	jí chéng	to inherit; to carry on; to succeed	
-cerni	morning	cen	晨		chén	morning; dawn; daybreak	
-certu	expert	ceu	授		shòu	to teach; to instruct; to award; to give	
-cevni	god	cen	神		shén	God; unusual; mysterious; soul; spirit; divine essence; lively; spiritual being	
-cfari	initiate	fa	發	发	fā	to send out; to show (one's feeling); to issue; to develop	cf. 發動 (发动) [fā dòng] ``to start; to launch; to mobilize'' (compound); cf. 引發 (引发) [yǐn fā] ``lead to; trigger; initiate'' (compound)
-cfika	fiction	ciaucue	小說	小说	xiǎo shuō	novel; fiction; (CL 篇)	
-cfila	flaw	cia	瑕		xiá	blemish; flaw in jade	cf. 瑕疵 [xiá cī] ``blemish; flaw'' (compound)
-cfine	wedge	cie	楔		xiē	to wedge; wedge	
-cfipu	confuse	ciau	淆		xiáo	confused	source: zhongwen.com; cf. 混淆 [hùn xiáo] ``obscure; confuse; mix up; blur'' (compound)
+cedra	era	cidai	時代	时代	shí dài	era	
+cenba	vary	cen	參	参	cān	varied	FIXIT dubious; cf. 甡 [shēn] ``multitude'' (variant); cf. 摻 (掺) [chān] ``mix'' (variant); cf. 成 [chéng] ``turn into'' (variant)
+censa	holy	cen	聖	圣	shèng	holy	
+cerda	heir	jicen	繼承	继承	jí chéng	inherit	
+cerni	morning	cen	晨		chén	morning	
+certu	expert	ceu	授		shòu	teach	
+cevni	god	cen	神		shén	god	
+cfari	initiate	fa	發	发	fā	issue	cf. 發動 (发动) [fā dòng] ``start'' (compound); cf. 引發 (引发) [yǐn fā] ``initiate'' (compound)
+cfika	fiction	ciaucue	小說	小说	xiǎo shuō	fiction	
+cfila	flaw	cia	瑕		xiá	flaw in jade	cf. 瑕疵 [xiá cī] ``flaw'' (compound)
+cfine	wedge	cie	楔		xiē	wedge	
+cfipu	confuse	ciau	淆		xiáo	confused	cf. 混淆 [hùn xiáo] ``confuse'' (compound)
 ciblu	blood	ciue	血		xuè	blood	
-cicna	cyan	cian	酰		xiān	(chem.) -acyl; acid radical	FIXIT missing
-cidja	food	ci	食		shí	animal feed; eat; food	cf. 饎 [chì] ``food; to cook'' (variant)
+cicna	cyan	cian	酰		xiān	acid radical	FIXIT missing
+cidja	food	ci	食		shí	food	cf. 饎 [chì] ``food'' (variant)
 cidni	knee	ci	膝		xī	knee	
 cidro	hydrogen	cin	氫	氢	qīng	hydrogen	
-cifnu	infant	iin	嬰	婴	yīng	infant; baby	
+cifnu	infant	iin	嬰	婴	yīng	infant	
 cigla	gland	cian	腺		xiàn	gland	
-cikna	awake	cin	醒	醒	xǐng	to wake up; to awaken; to be awake	
-cikre	repair	cieu	脩		xiū	cultivate; repair; teacher's pay	
-ciksi	explain	ci	釋	释	shì	explain; to release	
-cilce	wild	iecen	野生		yě shēng	wild; undomesticated	
-cilmo	moist	ci	濕	湿	shī	moist; wet	
-cilre	learn	ciue	學	学	xué	learn; study; science; -ology	
-cilta	thread	cian	線	线	xiàn	thread; string; wire; line	
+cikna	awake	cin	醒	醒	xǐng	awaken	
+cikre	repair	cieu	脩		xiū	repair	
+ciksi	explain	ci	釋	释	shì	explain	
+cilce	wild	iecen	野生		yě shēng	wild	
+cilmo	moist	ci	濕	湿	shī	moist	
+cilre	learn	ciue	學	学	xué	learn	
+cilta	thread	cian	線	线	xiàn	thread	
 cimde	dimension	ciduen	尺端		chǐ duān		FIXIT no reports; 661,000 Google hits
 cimni	infinite	uuciun	無窮	无穷	wú qióng	endless	
-cinba	kiss	cin	親	亲	qīn	dear; intimate; parent; relation; closely related	cf. 親吻 (亲吻) [qīn wěn] ``kiss'' (compound)
-cindu	oak	cian	橡		xiàng	oak; Quercus serrata	
+cinba	kiss	cin	親	亲	qīn	dear	cf. 親吻 (亲吻) [qīn wěn] ``kiss'' (compound)
+cindu	oak	cian	橡		xiàng	oak	
 cinfo	lion	ci	獅	狮	shī	lion	
-cinje	wrinkle	je	折		zhé	tenth (in price); to break; to fold; to turn	cf. 摺 [zhé] ``folded document; to fold'' (variant)
-cinki	insect	cun	虫		chóng	insect; worm	
-cinla	thin	ci	細	细	xì	fine; minutely; thin; slender	
-cinmo	emotion	cin	情		qíng	feeling; emotion; passion; situation	
+cinje	wrinkle	je	折		zhé	fold	cf. 摺 [zhé] ``fold'' (variant)
+cinki	insect	cun	虫		chóng	insect	
+cinla	thin	ci	細	细	xì	thin	
+cinmo	emotion	cin	情		qíng	emotion	
 cinri	interesting	cin	興	兴	xìng	interest	
-cinse	sexual	cin	性		xìng	sex; nature; surname; suffix corresponding to -ness or -ity	
-cinta	paint	ci	漆		qī	paint; lacquer	
-cinza	tongs	cian	鉗	钳	qián	pincers; pliers; tongs; claw (of animal); to grasp with pincers; to pinch; to clamp; to restrain; to restrict; to gag	
-cipni	bird	cin	禽		qín	birds; fowl	cf. 雂 [qín] ``(bird)'' (variant)
-cipra	test	ci	試	试	shì	to test; to try; experiment; examination; test	
-cirko	lose	ci	失		shī	to lose; to miss; to fail	
-cirla	cheese	lau	酪		lào	Chinese cream; cheese	
-ciska	write	cie	寫	写	xiě	to write	
-cisma	smile	ciau	笑		xiào	laugh; smile	
-ciste	system	ci	系		xì	be; system; to tie; department; faculty	系統 (系统) [xì tǒng] ``system''; 體系 (体系) [tǐ xì] ``system; setup''
-citka	eat	ci	吃		chī	eat; eradicate; destroy; receive	cf. 喫 (吃) [chī] ``eat'' (variant)
-citno	young	cin	青		qīng	green (blue, black); Qinghai province (abbrev.)	``young'' (source: zhongwen.com, chinaboard.de, en.wiktionary.org); cf. 新 [xīn] ``new; newly; meso- (chem.)'' (variant)
+cinse	sexual	cin	性		xìng	sex	
+cinta	paint	ci	漆		qī	paint	
+cinza	tongs	cian	鉗	钳	qián	tongs	
+cipni	bird	cin	禽		qín	fowl	cf. 雂 [qín] ``bird'' (variant)
+cipra	test	ci	試	试	shì	test	
+cirko	lose	ci	失		shī	lose	
+cirla	cheese	lau	酪		lào	cheese	
+ciska	write	cie	寫	写	xiě	write	
+cisma	smile	ciau	笑		xiào	smile	
+ciste	system	ci	系		xì	system	系統 (系统) [xì tǒng] ``system''; 體系 (体系) [tǐ xì] ``system''
+citka	eat	ci	吃		chī	eat	cf. 喫 (吃) [chī] ``eat'' (variant)
+citno	young	cin	青		qīng	young	cf. 新 [xīn] ``new'' (variant)
 citri	history	ci	史		shǐ	history	
-citsi	season	ci	季		jì	season; period	
+citsi	season	ci	季		jì	season	
 civla	louse	ci	蝨		shī	louse	cf. 虱 [shī] ``louse'' (variant)
-cizra	strange	ci	奇		qí	strange; odd; weird; wonderful	
+cizra	strange	ci	奇		qí	strange	
 ckabu	rubber	cianjiau	橡膠	橡胶	xiàng jiāo	rubber	
 ckafi	coffee	kafei	咖啡		kā fēi	coffee	
-ckaji	quality	ji	質	质	zhì	hostage; substance; nature; quality	
-ckana	bed	cuan	床		chuáng	bed; couch; (a measure word)	
-ckape	peril	cian	險	险	xiǎn	danger (ous); rugged	
-ckasu	ridicule	cau	嘲		cháo	ridicule; mock	
+ckaji	quality	ji	質	质	zhì	quality	
+ckana	bed	cuan	床		chuáng	bed	
+ckape	peril	cian	險	险	xiǎn	danger	
+ckasu	ridicule	cau	嘲		cháo	ridicule	
 ckeji	ashamed	kuei	媿		kuì	ashamed	cf. 愧 [kuì] ``ashamed'' (variant)
 ckiku	key	iau	鑰	钥	yào	key	
-ckilu	scale	cidu	尺度		chǐ dù	scale; yardstick	
-ckini	related	cin	親	亲	qīn	dear; intimate; parent; relation; closely related	
-ckire	grateful	cie	謝	谢	xiè	(surname); to thank	
-ckule	school	ciue	學	学	xué	learn; study; science; -ology	cf. 學校 (学校) [xué xiào] ``school'' (compound)
+ckilu	scale	cidu	尺度		chǐ dù	scale	
+ckini	related	cin	親	亲	qīn	closely related	
+ckire	grateful	cie	謝	谢	xiè	to thank	
+ckule	school	ciue	學	学	xué	study	cf. 學校 (学校) [xué xiào] ``school'' (compound)
 ckunu	conifer	cieugue					FIXIT missing
-cladu	loud	cau	吵		chǎo	to quarrel; to make a noise; noisy; to disturb by making a noise	
-clani	long	can	長	长	cháng	length; long; forever; always; constantly	cf. 梴 [chān] ``length (of a tree or beam); long'' (variant)
-claxu	without	cau	少		shǎo	few; little; lack	
+cladu	loud	cau	吵		chǎo	noisy	
+clani	long	can	長	长	cháng	long	cf. 梴 [chān] ``long'' (variant)
+claxu	without	cau	少		shǎo	lack	
 clika	mossy	cian	蘚	藓	xiǎn	mosses on damp walls	
-clira	early	cian	先		xiān	early; prior; former; in advance; first	
-clite	polite	li	禮	礼	lǐ	gift; propriety; rite	cf. 有禮貌 (有礼貌) [yǒu lǐ mào] ``courteous; polite; politeness'' (compound)
-cliva	leave	li	離	离	lí	to leave; to depart; to go away; from	
-clupa	loop	cuan	圈		quān	circle; ring; loop	
-cmaci	mathematics	cuciue	數學	数学	shù xué	mathematic; mathematics	
-cmalu	small	ciau	小		xiǎo	small; tiny; few; young	
-cmana	mountain	can	山		shān	mountain; hill	
-cmene	name	cen	稱	称	chēng	to call; to praise; to weigh; to estimate; to consider; to call; to address; to name; to say; commend	cf. 稱為 (称为) [chēng wéi] ``(v) call; name; be called'' (compound)
-cmila	laugh	ciau	笑		xiào	laugh; smile	
-cmima	member	iuan	員	员	yuán	person; employee; member	
-cmoni	moan	ceniin	呻吟		shēn yín	to moan; to groan	
-cnano	norm	can	常		cháng	always; ever; often; frequently; common; general; constant	``ordinary; common'' (source: zhongwen.com)
+clira	early	cian	先		xiān	early	
+clite	polite	li	禮	礼	lǐ	rite	cf. 有禮貌 (有礼貌) [yǒu lǐ mào] ``polite'' (compound)
+cliva	leave	li	離	离	lí	leave	
+clupa	loop	cuan	圈		quān	loop	
+cmaci	mathematics	cuciue	數學	数学	shù xué	mathematics	
+cmalu	small	ciau	小		xiǎo	small	
+cmana	mountain	can	山		shān	mountain	
+cmene	name	cen	稱	称	chēng	(v) name	cf. 稱為 (称为) [chēng wéi] ``(v) name'' (compound)
+cmila	laugh	ciau	笑		xiào	laugh	
+cmima	member	iuan	員	员	yuán	member	
+cmoni	moan	ceniin	呻吟		shēn yín	moan	
+cnano	norm	can	常		cháng	common	
 cnebo	neck	bo	脖		bó	neck	
-cnemu	reward	ceu	酬		chóu	entertain; repay; return; reward; compensate	
-cnici	orderly	ci	齊	齐	qí	(surname); even; to make even	``ordentlich (= orderly)'' (source: chinaboard.de)
-cnino	new	cin	新		xīn	new; newly; meso- (chem.)	
-cnisa	lead	cian	鉛	铅	qiān	lead (metal)	
-cnita	beneath	cia	下		xià	under; second (of two parts); next (week, etc.); lower; below; underneath; down(wards); to decline; to go down; latter	
-cokcu	soak	ciceu	吸收		xī shōu	absorb; assimilate	
-condi	deep	cen	深		shēn	deep; profound	
-cortu	pain	tun	痛		tòng	ache; pain; sorrow	
-cpacu	get	cu	取		qǔ	to take; to get; to choose; to fetch	cf. 領取 (领取) [lǐng qǔ] ``receive; draw; get'' (compound)
-cpana	upon	can	上		shàng	on; up; on top; upon; first (of two parts); previous or last (week, etc.); upper; higher; above; previous; to climb; to go into; above; to go up	
-cpare	climb	pa	爬		pá	crawl; climb	cf. 扒 [pá] ``climb; crawl; snatch'' (variant)
-cpedu	request	cieu	求		qiú	to seek; to look for; to request; to demand; to beseech	
-cpina	pungent	cin	辛		xīn	8th heavenly stem; tired	FIXIT dubious; ``scharf (= spicy)'' (source: chinaboard.de); cf. 馨 [xīn] ``fragrant'' (variant)
+cnemu	reward	ceu	酬		chóu	reward	
+cnici	orderly	ci	齊	齐	qí	orderly	
+cnino	new	cin	新		xīn	new	
+cnisa	lead	cian	鉛	铅	qiān	lead	
+cnita	beneath	cia	下		xià	under	
+cokcu	soak	ciceu	吸收		xī shōu	absorb	
+condi	deep	cen	深		shēn	deep	
+cortu	pain	tun	痛		tòng	pain	
+cpacu	get	cu	取		qǔ	get	cf. 領取 (领取) [lǐng qǔ] ``get'' (compound)
+cpana	upon	can	上		shàng	upon	
+cpare	climb	pa	爬		pá	climb	cf. 扒 [pá] ``climb'' (variant)
+cpedu	request	cieu	求		qiú	request	
+cpina	pungent	cin	辛		xīn	spicy	FIXIT dubious; cf. 馨 [xīn] ``fragrant'' (variant)
 cradi	radio	uuciandian	無線電	无线电	wú xiàn diàn	wireless	
-crane	front	cian	前		qián	before; in front; ago; former; previous; earlier; front	
-creka	shirt	cencan	襯衫	衬衫	chèn shān	shirt; blouse	
-crepu	harvest	ceu	收		shōu	to receive; to accept; to collect; in care of (used on address line after name)	``Ernte, ernten (= harvest)'' (source: chinaboard.de); cf. 收成 [shōu cheng] ``harvest'' (compound)
-cribe	bear	cien	熊		xióng	bear; to scold; to rebuke	
-crida	fairy	cian	僊	仙	xiān	immortal	cf. 仙女 [xiān nǚ] ``fairy'' (compound); ``fairy; god; divine'' (source: zhongwen.com)
-crino	green	cin	青		qīng	green (blue, black); Qinghai province (abbrev.)	
+crane	front	cian	前		qián	front	
+creka	shirt	cencan	襯衫	衬衫	chèn shān	shirt	
+crepu	harvest	ceu	收		shōu	harvest	cf. 收成 [shōu cheng] ``harvest'' (compound)
+cribe	bear	cien	熊		xióng	bear	
+crida	fairy	cian	僊	仙	xiān	fairy	cf. 仙女 [xiān nǚ] ``fairy'' (compound)
+crino	green	cin	青		qīng	green	
 cripu	bridge	ciau	橋	桥	qiáo	bridge	cf. 礄 [qiáo] ``bridge'' (variant)
-crisa	summer	cia	夏		xià	summer; Xia (proper name)	
-critu	autumn	cieu	秋		qiū	autumn; fall; harvest time; a swing	
-ctaru	tide	cau	潮		cháo	tide; current; damp; moist; humid	
+crisa	summer	cia	夏		xià	summer	
+critu	autumn	cieu	秋		qiū	autumn	
+ctaru	tide	cau	潮		cháo	tide	
 ctebi	lip	cuen	唇		chún	lip	cf. 脣 [chún] ``lip'' (variant)
-cteki	tax	cuei	稅	税	shuì	taxes; duties	
-ctile	petroleum	ciieu	石油		shí yóu	oil; petroleum	
-ctino	shadow	iin	影		yǐng	picture; image; reflection; shadow	
-ctuca	teach	ceu	授		shòu	to teach; to instruct; to award; to give	
-cukla	round	cuan	圈		quān	circle; ring; loop	
-cukta	book	cu	書	书	shū	book; letter	
-culno	full	cun	充		chōng	fill; satisfy; fulfill; to act in place of; substitute; sufficient; full	
-cumki	possible	cu	許	许	xǔ	to allow; to permit; to praise; (surname)	``permit; perhaps'' (source: zhongwen.com)
-cumla	humble	cu	遜	逊	xùn	to yield	FIXIT correct transcription ``cun''; ``humble; inferior'' (source: zhongwen.com); cf. 謙遜 (谦逊) [qiān xùn] ``humble; humility; modesty'' (compound)
-cunmi	millet	cu	黍		shǔ	broomcorn millet; glutinous millet	
-cunso	random	iun	運	运	yùn	to move; to transport; to use; to apply; fortune; luck; fate	
-cuntu	affair	ciuu	事務	事务	shì wù	business; affairs	
-cupra	produce	cu	出		chū	to go out; to come out; to occur; to produce; to go beyond; to rise; to put forth; to occur; to happen; (a measure word for dramas, plays, or operas)	
-curmi	let	cu	許	许	xǔ	to allow; to permit; to praise; (surname)	
-curnu	worm	cun	虫		chóng	insect; worm	
-curve	pure	cuen	純	纯	chún	pure; simple; unmixed; genuine	cf. 淳 [chún] ``genuine; pure; honest'' (variant); cf. 醇 [chún] ``rich; pure; good wine; sterols'' (variant)
-cusku	express	cuo	說	说	shuō	to speak; to say	
+cteki	tax	cuei	稅	税	shuì	taxes	
+ctile	petroleum	ciieu	石油		shí yóu	petroleum	
+ctino	shadow	iin	影		yǐng	shadow	
+ctuca	teach	ceu	授		shòu	teach	
+cukla	round	cuan	圈		quān	circle	
+cukta	book	cu	書	书	shū	book	
+culno	full	cun	充		chōng	full	
+cumki	possible	cu	許	许	xǔ	permit	
+cumla	humble	cu	遜	逊	xùn	humble	FIXIT correct transcription ``cun''; cf. 謙遜 (谦逊) [qiān xùn] ``humble'' (compound)
+cunmi	millet	cu	黍		shǔ	broomcorn millet	
+cunso	random	iun	運	运	yùn	luck	
+cuntu	affair	ciuu	事務	事务	shì wù	affairs	
+cupra	produce	cu	出		chū	produce	
+curmi	let	cu	許	许	xǔ	permit	
+curnu	worm	cun	虫		chóng	worm	
+curve	pure	cuen	純	纯	chún	pure	cf. 淳 [chún] ``pure'' (variant); cf. 醇 [chún] ``pure'' (variant)
+cusku	express	cuo	說	说	shuō	say	
 cutci	shoe	cie	鞋		xié	shoe	
-cutne	chest	ciun	胸		xiōng	chest; bosom; heart; mind; thorax	cf. 匈 [xiōng] ``Hungary; thorax; chest'' (variant)
-cuxna	choose	cuan	選	选	xuǎn	to choose; to pick; to select; to elect	
+cutne	chest	ciun	胸		xiōng	chest	cf. 匈 [xiōng] ``chest'' (variant)
+cuxna	choose	cuan	選	选	xuǎn	choose	
 dacru	drawer	ceuti	抽屜	抽屉	chōu ti	drawer	
-dacti	object	dunci	東西	东西	dōng xi	thing; person	``thing'' (source: zhongwen.com)
+dacti	object	dunci	東西	东西	dōng xi	thing	
 dakfu	knife	dau	刀		dāo	knife	
-dakli	sack	dai	袋		dài	a pouch; bag; sack; pocket	
-damba	fight	da	打		dǎ	beat; strike; break; mix up; build; fight; fetch; make; tie up; issue; shoot; calculate; since; from	
-damri	drum	daji	打擊	打击	dǎ jī	to hit; to strike; to attack	cf. 打擊樂器 (打击乐器) [dǎ jí yuè qì] ``Schlaginstrument (= percussion instrument)'' (compound) (source: chinaboard.de)
-dandu	hang	diau	弔	吊	diào	condole with; hang	
-danfu	answer	dafu	答復	答复	dá fù	answer; reply	
+dakli	sack	dai	袋		dài	sack	
+damba	fight	da	打		dǎ	fight	
+damri	drum	daji	打擊	打击	dǎ jī	hit	cf. 打擊樂器 (打击乐器) [dǎ jí yuè qì] ``percussion instrument'' (compound)
+dandu	hang	diau	弔	吊	diào	hang	
+danfu	answer	dafu	答復	答复	dá fù	answer	
 danlu	animal	dunuu	動物	动物	dòng wù	animal	
-danmo	smoke	ian	煙	烟	yān	cigarette; tobacco; smoke	
-danre	pressure	an	按		àn	to press (with the hand); to push; to control; to restrain; to check; pressing down (brush movement in painting); according to; in the light of	
+danmo	smoke	ian	煙	烟	yān	smoke	
+danre	pressure	an	按		àn	press	
 dansu	dance	uudau	舞蹈		wǔ dǎo	dance	
-danti	projectile	dan	彈	弹	dàn	crossball; bullet; shot; shell; ball	
+danti	projectile	dan	彈	弹	dàn	bullet	
 daplu	island	dau	島	岛	dǎo	island	
-dapma	curse	ma	罵	骂	mà	scold; abuse	cf. 傌 [mà] ``to curse, to revile, to abuse; to scold'' (variant)
-dargu	road	dau	道		dào	direction; way; method; road; path; principle; truth; reason; skill; method; Tao (of Taoism); a measure word; to say; to speak; to talk	
-darlu	argue	jenluen	爭論	争论	zhēng lùn	to argue; to debate; to contend; argument; contention; controversy; debate	
-darno	far	iaun	遠	远	yuǎn	far; distant; remote	FIXIT correct transcription ``iuan''
-darsi	audacity	xauiisi	好意思		hǎo yì si	to be brazen	``sich nicht schämen (= not to be ashamed of)'' (source: chinaboard.de)
-darxi	hit	da	打		dǎ	beat; strike; break; mix up; build; fight; fetch; make; tie up; issue; shoot; calculate; since; from	
-daski	pocket	dai	袋		dài	a pouch; bag; sack; pocket	
-dasni	wear	dai	帶	带	dài	band; belt; girdle; ribbon; area; zone; region; wear; carry; lead; bring; consists of; show; and	
-daspo	destroy	po	破		pò	to break; to split; broken; damaged; worn out	cf. 破壞 (破坏) [pò huài] ``wreck; break; destroy'' (compound)
-dasri	ribbon	dai	帶	带	dài	band; belt; girdle; ribbon; area; zone; region; wear; carry; lead; bring; consists of; show; and	
+dapma	curse	ma	罵	骂	mà	scold	cf. 傌 [mà] ``curse'' (variant)
+dargu	road	dau	道		dào	road	
+darlu	argue	jenluen	爭論	争论	zhēng lùn	argue	
+darno	far	iaun	遠	远	yuǎn	far	FIXIT correct transcription ``iuan''
+darsi	audacity	xauiisi	好意思		hǎo yì si	be brazen	
+darxi	hit	da	打		dǎ	beat	
+daski	pocket	dai	袋		dài	pocket	
+dasni	wear	dai	帶	带	dài	wear	
+daspo	destroy	po	破		pò	break	cf. 破壞 (破坏) [pò huài] ``destroy'' (compound)
+dasri	ribbon	dai	帶	带	dài	ribbon	
 datka	duck	iazi	鴨子	鸭子	yā zi	duck	
 datka	duck	ia	鴨	鸭	yā	duck	
 datni	data	tunji	統計	统计	tǒng jì	statistics	
-degji	finger	ji	指		zhǐ	finger; to point; to direct; to indicate	
+degji	finger	ji	指		zhǐ	finger	
 dejni	owe	jai	債	债	zhài	debt	
 dekpu	gallon	deu	斗		dǒu	Chinese peck	
-dembi	bean	deu	豆		dòu	bean; sacrificial vessel	cf. 豆類 (豆类) [dòu lèi] ``bean'' (compound); cf. 豆子 [dòu zi] ``bean; pea'' (compound); cf. 荳 (豆) [dòu] ``bean; peas'' (variant)
+dembi	bean	deu	豆		dòu	bean	cf. 豆類 (豆类) [dòu lèi] ``bean'' (compound); cf. 豆子 [dòu zi] ``bean'' (compound); cf. 荳 (豆) [dòu] ``bean'' (variant)
 denci	tooth	ci	齒	齿	chǐ	tooth	
-denmi	dense	mi	密		mì	secret; confidential; close; thick; dense	
-denpa	wait	den	等		děng	class; rank; grade; equal to; same as; wait for; await; et cetera; and so on	
-dertu	dirt	tu	土		tǔ	earth; dust	``soil; earth; dirt'' (source: zhongwen.com)
-derxi	heap	duei	堆		duī	a pile; a mass; heap; stack	
-desku	shake	deu	哆		duō	quiver; woolen cloth	
+denmi	dense	mi	密		mì	dense	
+denpa	wait	den	等		děng	wait for	
+dertu	dirt	tu	土		tǔ	dirt	
+derxi	heap	duei	堆		duī	heap	
+desku	shake	deu	哆		duō	quiver	
 detri	date	rici	日期		rì qī	date	
-detri	date	rizi	日子		rì zi	a (calendar) date; day; livelihood; daily living	
-dicra	interrupt	daca	打岔		dǎ chà	(n) interruption	
-dikca	electric	dian	電	电	diàn	electric; electricity; electrical	
-diklo	local	di	地		dì	earth; ground; field; place; land	FIXIT dubious; cf. 本地 [běn dì] ``local; this locality'' (compound)
-dikni	regular	dinci	定期		dìng qī	regularly; at regular intervals	
-dilcu	quotient	cu	除		chú	remove; do away with; wipe out; divide; except	
-dilnu	cloud	iun	雲	云	yún	cloud; (abbr.) for Yunnan; surname	
-dimna	fate	iun	運	运	yùn	to move; to transport; to use; to apply; fortune; luck; fate	
-dinju	building	jianju	建築	建筑	jiàn zhù	building; construct	
+detri	date	rizi	日子		rì zi	date	
+dicra	interrupt	daca	打岔		dǎ chà	interruption	
+dikca	electric	dian	電	电	diàn	electric	
+diklo	local	di	地		dì	place	FIXIT dubious; cf. 本地 [běn dì] ``local'' (compound)
+dikni	regular	dinci	定期		dìng qī	regularly	
+dilcu	quotient	cu	除		chú	divide	
+dilnu	cloud	iun	雲	云	yún	cloud	
+dimna	fate	iun	運	运	yùn	fate	
+dinju	building	jianju	建築	建筑	jiàn zhù	building	
 dinko	nail	din	釘	钉	dīng	nail	
-donri	daytime	ri	日		rì	day; sun; date; day of the month; Japan (abbrev.)	
-dirba	dear	bau	寶	宝	bǎo	a jewel or gem; a treasure; precious	
-dirce	radiate	ce	射		shè	radio- (chem.); shoot	cf. 幅射 [fú shè] ``radiation; radiate'' (compound)
-dirgo	drop	di	滴		dī	a drop; to drip	
-dizlo	low	di	低		dī	to lower (one's head); to let droop; to hang down; low; to incline; beneath; low	
-djacu	water	cuei	水		shuǐ	water; river	
+donri	daytime	ri	日		rì	day	
+dirba	dear	bau	寶	宝	bǎo	precious	
+dirce	radiate	ce	射		shè	radio- (chem.)	cf. 幅射 [fú shè] ``radiate'' (compound)
+dirgo	drop	di	滴		dī	drop	
+dizlo	low	di	低		dī	low	
+djacu	water	cuei	水		shuǐ	water	
 djedi	day	jeu	晝	昼	zhòu	daytime	
-djica	desire	iuan	願	愿	yuàn	hope; wish; desire; ready; willing	
-djine	ring	jie	戒		jiè	swear off; warn against	``(Finger-)Ring (= ring)'' (source: chinaboard.de); cf. 戒子 [jiè zi] ``ring'' (compound)
-djuno	know	dun	懂		dǒng	to understand; to know	
-draci	drama	ci	戲	戏	xì	trick; drama; play; show	
-drani	correct	dan	當	当	dàng	at or in the very same...; to pawn; suitable; adequate; fitting; proper; replace; represent	cf. 當 (当) [dāng] ``to be; to act as; to hold a position (in space, time, or organizational space); manage; withstand; when; during; ought; should; match equally; equal; same; obstruct; just at (a time or place); on the spot; right; just at'' (variant)
-drata	other	ta	它		tā	it (used for things)	cf. 其它 [qí tā] ``other'' (compound); cf. 他 [tā] ``he; him'' (variant); cf. 其他 [qí tā] ``other; else''
+djica	desire	iuan	願	愿	yuàn	desire	
+djine	ring	jie	戒		jiè	ring	cf. 戒子 [jiè zi] ``ring'' (compound)
+djuno	know	dun	懂		dǒng	know	
+draci	drama	ci	戲	戏	xì	drama	
+drani	correct	dan	當	当	dàng	adequate	cf. 當 (当) [dāng] ``right'' (variant)
+drata	other	ta	它		tā	it	cf. 其它 [qí tā] ``other'' (compound); cf. 他 [tā] ``he'' (variant); cf. 其他 [qí tā] ``other''
 drudi	roof	uudin	屋頂	屋顶	wū dǐng	roof	
 dugri	logarithm	dueicu	對數	对数	duì shù	logarithm	
-dukse	excess	due	多		duō	many; much; a lot of; numerous; multi-	
-dukti	opposite	duei	對	对	duì	couple; pair; to be opposite; to oppose; to face; for; to; correct (answer); to answer; to reply; to direct (towards sth); right	
-dunda	give	sun	送		sòng	to deliver; to carry; to give (as a present); to present (with); to see off; to send	
-dunja	freeze	dun	凍	冻	dòng	to freeze	
-dunku	anguish	tunku	痛苦		tòng kǔ	pain; suffering; painful	
-dunli	equal	den	等		děng	class; rank; grade; equal to; same as; wait for; await; et cetera; and so on	cf. 相等 [xiāng děng] ``equal; equally; equivalent'' (compound)
+dukse	excess	due	多		duō	many	
+dukti	opposite	duei	對	对	duì	oppose	
+dunda	give	sun	送		sòng	give (as a present)	
+dunja	freeze	dun	凍	冻	dòng	freeze	
+dunku	anguish	tunku	痛苦		tòng kǔ	pain	
+dunli	equal	den	等		děng	equal	cf. 相等 [xiāng děng] ``equal'' (compound)
 dunra	winter	dun	冬		dōng	winter	
-dzena	ancestor	zen	曾		zēng	(surname); great-grand (father)	
-facki	discover	facian	發現	发现	fā xiàn	to find; to discover	
-fadni	ordinary	fan	凡		fán	ordinary; every; all; whatever; worldly	
+dzena	ancestor	zen	曾		zēng	great-grand (father)	
+facki	discover	facian	發現	发现	fā xiàn	discover	
+fadni	ordinary	fan	凡		fán	ordinary	
 fagri	fire	xue	火		huǒ	fire	
 falnu	sail	fan	帆		fān	sail	cf. 颿 [fán] ``sail'' (variant)
-famti	aunt	fumu	父母		fù mǔ	parents	``Eltern (= parents)'' (source: chinaboard.de)
+famti	aunt	fumu	父母		fù mǔ	parents	
 fancu	function	xancu	函數	函数	hán shù	function	
 fange	alien	uaigue	外國	外国	wài guó	foreign (country)	
-fanmo	end	mo	末		mò	end; final stage; latter part	
-fanri	factory	can	廠	厂	chǎng	cliff; slope; factory; yard; depot; workhouse; works; (industrial) plant	
-fanta	prevent	fan	防		fáng	to protect; to defend; to guard (against)	
-fanva	translate	fan	翻		fān	flit about; translate; turn over	cf. 翻譯 (翻译) [fān yì] ``translate'' (compound); cf. 繙 [fān] ``translate'' (variant)
-fanza	annoy	fan	煩	烦	fán	feel vexed; to bother	
-fapro	oppose	fan	反		fǎn	wrong side out or up; anti-	cf. 反對 (反对) [fǎn duì] ``to fight against; to oppose; to be opposed to; opposition'' (compound)
-farlu	fall	lue	落		luò	alight; to fall; to drop (behind)	
-farna	direction	fan	方		fāng	square; quadrilateral; direction; just	cf. 方向 [fāng xiàng] ``direction; orientation; path to follow'' (compound)
-farvi	develop	fa	發	发	fā	to send out; to show (one's feeling); to issue; to develop	
-fasnu	event	facen	發生	发生	fā shēng	to happen; to occur; to take place	
-fatci	fact	ci	實	实	shí	real; true; honest; really; solid	
-fatne	reverse	fan	反		fǎn	wrong side out or up; anti-	
-fatri	distribute	fa	發	发	fā	to send out; to show (one's feeling); to issue; to develop	cf. 分發 (分发) [fēn fā] ``distribute; distribution'' (compound)
+fanmo	end	mo	末		mò	end	
+fanri	factory	can	廠	厂	chǎng	factory	
+fanta	prevent	fan	防		fáng	protect	
+fanva	translate	fan	翻		fān	translate	cf. 翻譯 (翻译) [fān yì] ``translate'' (compound); cf. 繙 [fān] ``translate'' (variant)
+fanza	annoy	fan	煩	烦	fán	bother	
+fapro	oppose	fan	反		fǎn	anti-	cf. 反對 (反对) [fǎn duì] ``oppose'' (compound)
+farlu	fall	lue	落		luò	fall	
+farna	direction	fan	方		fāng	direction	cf. 方向 [fāng xiàng] ``direction'' (compound)
+farvi	develop	fa	發	发	fā	develop	
+fasnu	event	facen	發生	发生	fā shēng	happen	
+fatci	fact	ci	實	实	shí	real	
+fatne	reverse	fan	反		fǎn	wrong side out	
+fatri	distribute	fa	發	发	fā	send out	cf. 分發 (分发) [fēn fā] ``distribute'' (compound)
 febvi	boil	fei	沸		fèi	boil	
-fendi	divide	fen	分		fēn	to divide; minute; (a measure word); (a unit of length = 0.33 centimeter)	
-fengu	angry	fenu	憤怒	愤怒	fèn nù	angry; indignant	
-fenki	crazy	fen	瘋	疯	fēng	insane; mad; wild	
-fenra	crack	fen	縫	缝	fèng	crack; seam	
-fenso	sew	fen	縫	缝	féng	to sew; to stitch	
-fepni	cent	fen	分		fēn	to divide; minute; (a measure word); (a unit of length = 0.33 centimeter)	cf. 分錢 (分钱) [fēn qián] ``cent; penny'' (compound)
+fendi	divide	fen	分		fēn	divide	
+fengu	angry	fenu	憤怒	愤怒	fèn nù	angry	
+fenki	crazy	fen	瘋	疯	fēng	insane	
+fenra	crack	fen	縫	缝	fèng	crack	
+fenso	sew	fen	縫	缝	féng	sew	
+fepni	cent	fen	分		fēn	divide	cf. 分錢 (分钱) [fēn qián] ``cent'' (compound)
 fepri	lung	fei	肺		fèi	lung	
-ferti	fertile	fei	肥		féi	loose-fitting; fat; fertile	
-festi	waste	fei	費	费	fèi	to cost; to spend; fee; wasteful; expenses; (surname)	
+ferti	fertile	fei	肥		féi	fertile	
+festi	waste	fei	費	费	fèi	wasteful	
 fetsi	female	si	雌		cí	female	
 figre	fig	uuxuague	無花果	无花果	wú huā guǒ	fig	
 finpe	fish	iu	魚	鱼	yú	fish	
-finti	invent	famin	發明	发明	fā míng	to invent; invention	
+finti	invent	famin	發明	发明	fā míng	invent	
 flalu	law	faliu	法律		fǎ lǜ	law	
-flani	flute	guan	管		guǎn	to take care (of); to control; to manage; to be in charge of; to look after; to run; tube; pipe	cf. 筦 [guǎn] ``(surname); to control; tube; pipe'' (variant)
-flecu	flow	lieu	流		liú	to flow; to spread; to circulate; to move	
-fliba	fail	cibai	失敗	失败	shī bài	be defeated	``fail; lose'' (source: zhongwen.com)
+flani	flute	guan	管		guǎn	pipe	cf. 筦 [guǎn] ``pipe'' (variant)
+flecu	flow	lieu	流		liú	flow	
+fliba	fail	cibai	失敗	失败	shī bài	fail	
 flira	face	lian	臉	脸	liǎn	face	
-foldi	field	di	地		dì	earth; ground; field; place; land	
-fonmo	foam	mo	沫		mò	foam; suds	
-fonxa	telephone	dianxua	電話	电话	diàn huà	telephone; phone call	
-forca	fork	ca	叉		chā	fork; pitchfork; prong; pick; cross; intersect	
-frati	react	faniin	反映		fǎn yìng	reaction; response; to reflect; to mirror	cf. 反應 (反应) [fǎn yìng] ``reaction; response; reply'' (variant)
-fraxu	forgive	rau	饒	饶	ráo	(surname); to spare	``begnadigen, jn. etw. nachsehen, jn. etw. verzeihen (= to pardon; to be lenient; to forgive)'' (source: chinaboard.de)
-frica	differ	ca	差		chà	differ from; short of; to lack; poor	
-frili	easy	runii	容易		róng yì	easy; likely; liable (to)	
+foldi	field	di	地		dì	field	
+fonmo	foam	mo	沫		mò	foam	
+fonxa	telephone	dianxua	電話	电话	diàn huà	telephone	
+forca	fork	ca	叉		chā	fork	
+frati	react	faniin	反映		fǎn yìng	reaction	cf. 反應 (反应) [fǎn yìng] ``reaction'' (variant)
+fraxu	forgive	rau	饒	饶	ráo	forgive	
+frica	differ	ca	差		chà	differ	
+frili	easy	runii	容易		róng yì	easy	
 frinu	fraction	fencu	分數	分数	fēn shù	fraction	
-friti	offer	tigun	提供		tí gōng	to supply; to provide; to furnish	
+friti	offer	tigun	提供		tí gōng	supply	
 frumu	frown	jeumeiteu	愁眉頭	愁眉头	chóu méi tóu	frown	FIXIT correct transcription ``jeumeiteu''; cf. 愁眉苦臉 (愁眉苦脸) [chóu méi kǔ liǎn] ``frown'' (component); cf. 頭 (头) [tóu] ``head'' (component)
-fukpi	copy	fu	復	复	fù	again; recover; reply to a letter; to repeat; to duplicate	
-fulta	float	fu	浮		fú	to float	
-funca	luck	fu	福		fú	good fortune; happiness; luck; Fujian province (abbrev); a surname	
-fusra	rotten	fu	腐		fǔ	decay; rotten	
-fuzme	responsible	fuze	負責	负责	fù zé	in charge of; to be responsible for (sth)	
-gacri	cover	gai	蓋	盖	gài	lid; top; cover; canopy; to build	
-gadri	article	guanci	冠詞	冠词	guàn cí	article	source: chinaboard.de; lit. ``head word''
-galfi	modify	gai	改		gǎi	to change; to alter; to transform; to correct	
-galtu	high	gau	高		gāo	high; tall	
-galxe	throat	xeu	喉		hóu	throat; larynx	
-ganlo	closed	guan	關	关	guān	(surname); mountain pass; to close; to shut; to turn off; to concern; to involve	
-ganra	broad	guan	廣	广	guǎng	wide; numerous; to spread	
-ganse	sense	gan	感		gǎn	to feel; to move; to touch; to affect	cf. 感官 [gǎn guān] ``sense; sense organ'' (compound); cf. 感覺 (感觉) [gǎn jué] ``to feel; to become aware of; feeling; sense; perception'' (compound)
+fukpi	copy	fu	復	复	fù	duplicate	
+fulta	float	fu	浮		fú	float	
+funca	luck	fu	福		fú	luck	
+fusra	rotten	fu	腐		fǔ	rotten	
+fuzme	responsible	fuze	負責	负责	fù zé	responsible	
+gacri	cover	gai	蓋	盖	gài	cover	
+gadri	article	guanci	冠詞	冠词	guàn cí	article	
+galfi	modify	gai	改		gǎi	change	
+galtu	high	gau	高		gāo	high	
+galxe	throat	xeu	喉		hóu	throat	
+ganlo	closed	guan	關	关	guān	close	
+ganra	broad	guan	廣	广	guǎng	wide	
+ganse	sense	gan	感		gǎn	feel	cf. 感官 [gǎn guān] ``sense'' (compound); cf. 感覺 (感觉) [gǎn jué] ``sense'' (compound)
 ganti	testicle	gauuan	睾丸		gāo wán	testicle	
 ganxo	anus	gan	肛		gāng	anus	cf. 疘 [gāng] ``anus'' (variant)
-ganzu	organize	zu	組	组	zǔ	to form; compose; make up; group; to organize; cord	
-gapci	gas	ci	氣	气	qì	gas; air; smell; weather; vital breath; to make sb. angry; to get angry; to be enraged	cf. 气 [qì] ``air; anger; gas'' (variant)
-gapru	above	gau	高		gāo	high; tall	``high level'' (source: zhongwen.com)
-garna	rail	gan	槓		gàng	carrying pole; horizontal bar	cf. 杠 [gàng] ``carrying pole; horizontal bar'' (variant)
-gasnu	do	gan	幹	干	gàn	main part of something; to manage; to work; to do; capable; tree trunk; to kill (slang)	
+ganzu	organize	zu	組	组	zǔ	organize	
+gapci	gas	ci	氣	气	qì	gas	cf. 气 [qì] ``gas'' (variant)
+gapru	above	gau	高		gāo	high level	
+garna	rail	gan	槓		gàng	horizontal bar	cf. 杠 [gàng] ``horizontal bar'' (variant)
+gasnu	do	gan	幹	干	gàn	do	
 gasta	steel	gan	鋼	钢	gāng	steel	
-genja	root	gen	根		gēn	radical (chem.); root; basis	
-genxu	hook	geu	鉤	钩	gōu	entice; hook	
+genja	root	gen	根		gēn	root	
+genxu	hook	geu	鉤	钩	gōu	hook	
 gerku	dog	geu	狗		gǒu	dog	
 gerna	grammar	uenfa	文法		wén fǎ	grammar	
-gidva	guide	dau	導	导	dǎo	to transmit; to lead; to guide; to conduct; to direct	cf. 嚮導 (向导) [xiàng dǎo] ``guide'' (compound)
-ginka	camp	iin	營	营	yíng	army; to deal in; to trade; to operate; to run; camp; nourishment; to manage	
-girzu	group	zu	組	组	zǔ	to form; compose; make up; group; to organize; cord	
-gismu	primitive	geniuan	根源		gēn yuán	origin; root (cause)	
-glare	hot	re	熱	热	rè	heat; to heat up; fervent; hot (of weather); warm up	cf. 爇 [rè] ``heat; to burn'' (variant)
-gleki	happy	le	樂	乐	lè	(surname); happy; laugh; cheerful	cf. 歡樂 (欢乐) [huān lè] ``gaiety; gladness; glee; merriment; pleasure; happy; joyous; gay'' (compound); cf. 快樂 (快乐) [kuài lè] ``happy; merry'' (compound)
-gletu	copulate	geu	姤		gòu	copulate; good	
-gluta	glove	ceutau	手套		shǒu tào	glove; mitten	
-gradu	unit	du	度		dù	capacity; degree; standard	
-grake	gram	ke	克		kè	gram; subdue; to restrain; to overcome	
-grana	rod	gan	棍子		gùn zi	stick; rod	
-grasu	grease	gau	膏		gāo	ointment; paste	``grease, fat'' (source: zhongwen.com)
+gidva	guide	dau	導	导	dǎo	guide	cf. 嚮導 (向导) [xiàng dǎo] ``guide'' (compound)
+ginka	camp	iin	營	营	yíng	camp	
+girzu	group	zu	組	组	zǔ	group	
+gismu	primitive	geniuan	根源		gēn yuán	root	
+glare	hot	re	熱	热	rè	hot	cf. 爇 [rè] ``heat'' (variant)
+gleki	happy	le	樂	乐	lè	happy	cf. 歡樂 (欢乐) [huān lè] ``happy'' (compound); cf. 快樂 (快乐) [kuài lè] ``happy'' (compound)
+gletu	copulate	geu	姤		gòu	copulate	
+gluta	glove	ceutau	手套		shǒu tào	glove	
+gradu	unit	du	度		dù	degree	
+grake	gram	ke	克		kè	gram	
+grana	rod	gan	棍子		gùn zi	rod	
+grasu	grease	gau	膏		gāo	grease	
 greku	frame	geu	篝		gōu	bamboo frame for drying clothes	
-grusi	gray	xuei	灰		huī	gray; ash	
-grute	fruit	gue	果		guǒ	fruit; result	
-gubni	public	gun	公		gōng	just; honorable (designation); public; common	
-gugde	country	gue	國	国	guó	country; state; nation	
+grusi	gray	xuei	灰		huī	gray	
+grute	fruit	gue	果		guǒ	fruit	
+gubni	public	gun	公		gōng	public	
+gugde	country	gue	國	国	guó	country	
 gundi	industry	gunie	工業	工业	gōng yè	industry	
-gunka	work	gun	工		gōng	work; worker; skill; profession; trade; craft; labor	
-gunma	jointly	gun	共		gòng	all together; in while; to share; common; general; together; total	
-gunro	roll	guen	滾	滚	gǔn	to boil; to roll	
+gunka	work	gun	工		gōng	work	
+gunma	jointly	gun	共		gòng	together	
+gunro	roll	guen	滾	滚	gǔn	roll	
 gunse	goose	e	鵝	鹅	é	goose	
-gunta	attack	gun	攻		gōng	to attack; to accuse; to study	
-gurni	grain	gu	穀	谷	gǔ	grain; corn	
-guska	scrape	gua	刮		guā	to scrape; to blow	
-gusni	illumine	guan	光		guāng	light; ray; bright	
-gusta	restaurant	guan	館	馆	guǎn	house; establishment	cf. 餐館 (餐馆) [cān guǎn] ``restaurant'' (compound); cf. 飯館 (饭馆) [fàn guǎn] ``restaurant'' (compound)
+gunta	attack	gun	攻		gōng	attack	
+gurni	grain	gu	穀	谷	gǔ	grain	
+guska	scrape	gua	刮		guā	scrape	
+gusni	illumine	guan	光		guāng	light	
+gusta	restaurant	guan	館	馆	guǎn	establishment	cf. 餐館 (餐馆) [cān guǎn] ``restaurant'' (compound); cf. 飯館 (饭馆) [fàn guǎn] ``restaurant'' (compound)
 gutci	cubit	ci	咫		zhǐ	8 in. length unit of Zhou dynasty	FIXIT correct transcription ``ji''
-gutra	womb	zigun	子宮	子宫	zǐ gōng	uterus; womb	
-guzme	melon	gua	瓜		guā	melon; claw; gourd; squash	
-jabre	brake	ja	剎	刹	shā	to brake (car)	FIXIT correct transcription ``ca''
-jadni	adorn	juanci	裝飾	装饰	zhuāng shì	adorn; ornaments	
+gutra	womb	zigun	子宮	子宫	zǐ gōng	womb	
+guzme	melon	gua	瓜		guā	melon	
+jabre	brake	ja	剎	刹	shā	brake	FIXIT correct transcription ``ca''
+jadni	adorn	juanci	裝飾	装饰	zhuāng shì	adorn	
 jakne	rocket	xuejian	火箭		huǒ jiàn	rocket	
-jalge	result	jiegue	結果	结果	jié guǒ	outcome; result	
-jalna	starch	jian	糨		jiàng	starch; paste; to starch	
+jalge	result	jiegue	結果	结果	jié guǒ	result	
+jalna	starch	jian	糨		jiàng	starch	
 jalra	cockroach	janlan	蟑螂		zhāng láng	cockroach	
-jamfu	foot	jiau	腳	脚	jiǎo	foot; base	
-jamna	war	jan	戰	战	zhàn	to fight; fight; war; battle	
-janbe	bell	jun	鐘	钟	zhōng	clock; time as measured in hours and minutes; bell	
+jamfu	foot	jiau	腳	脚	jiǎo	foot	
+jamna	war	jan	戰	战	zhàn	war	
+janbe	bell	jun	鐘	钟	zhōng	bell	
 janco	shoulder	jian	肩		jiān	shoulder	
-janli	collide	juan	撞		zhuàng	to hit; to strike; to meet by accident; to run into; to bump against; to bump into	
-jansu	diplomat	uaijiau	外交		wài jiāo	diplomacy; diplomatic; foreign affairs	
-janta	account	jan	帳	帐	zhàng	account; mosquito net; tent; curtain; debt; credit	cf. 賬 (账) [zhàng] ``account'' (variant)
+janli	collide	juan	撞		zhuàng	bump into	
+jansu	diplomat	uaijiau	外交		wài jiāo	diplomacy	
+janta	account	jan	帳	帐	zhàng	account	cf. 賬 (账) [zhàng] ``account'' (variant)
 jarbu	suburb	jiau	郊		jiāo	suburb	
-jarco	show	jancu	展出		zhǎn chū	to put on display; to be on show; to exhibit	FIXIT dubious
+jarco	show	jancu	展出		zhǎn chū	exhibit	FIXIT dubious
 jarki	narrow	jai	窄		zhǎi	narrow	
 jaspu	passport	xujau	護照	护照	hù zhào	passport	
-jatna	captain	jan	長	长	zhǎng	chief; head; elder; to grow; to develop	
-javni	rule	jan	程		chéng	rule; order; regulations; formula; journey; procedure; sequence; a surname	FIXIT correct transcription ``cen''; cf. 章 [zhāng] ``(surname); chapter; seal; section'' (variant); cf. 規章 (规章) [guī zhāng] ``rule; regulation''
+jatna	captain	jan	長	长	zhǎng	chief	
+javni	rule	jan	程		chéng	rule	FIXIT correct transcription ``cen''; cf. 章 [zhāng] ``chapter'' (variant); cf. 規章 (规章) [guī zhāng] ``rule''
 jbama	bomb	jadan	炸彈	炸弹	zhà dàn	bomb	
 jbari	berry	jiangue	漿果	浆果	jiāng guǒ	berry	
-jbena	born	cen	生		shēng	to be born; to give birth; life; to grow	
-jbera	borrow	jie	借		jiè	to lend; to borrow; excuse; pretext; by means of	
-jbini	between	jian	間	间	jiān	between; among; space; (measure word)	
-jdari	firm	jian	監	监	jiān	hard; strong; solid; firm; to supervise; to inspect; jail; prison	cf. 堅 (坚) [jiān] ``strong; solid; firm; unyielding; resolute'' (variant)
-jdice	decide	jiue	決	决	jué	breach (a dyke); to decide; to determine	
-jdika	decrease	jian	減	减	jiǎn	to lower; to decrease; to reduce; to subtract; to diminish	
-jdima	price	jia	價	价	jià	price; value; valence (on an atom)	
-jdini	money	jin	金		jīn	metal; money; gold	
-jduli	jelly	dun	凍	冻	dòng	to freeze	FIXIT dubious; cf. 果子凍 (果子冻) [guǒ zi dòng] ``jelly'' (compound)
-jecta	polity	jen	政		zhèng	political; politics; government	
-jeftu	week	jeu	週	周	zhōu	cycle; week	cf. 周 [zhōu] ``(surname); complete; encircle; circuit; lap; week; cycle; all; every; attentive; thoughtful'' (variant)
-jelca	burn	cau	燒	烧	shāo	to burn; to cook; to stew; to bake; to roast; fever	
-jemna	gem	jenbau	珍寶		zhēn bǎo	jewellry	``Schmucksachen (= jewellry)'' (source: chinaboard.de)
-jenca	shock	jen	震		zhèn	shake; shock; sign in trigram	
-jendu	axle	jeu	軸	轴	zhóu	axis; axle	
-jenmi	army	juen	軍	军	jūn	army; military; arms	
-jerna	earn	jen	掙	挣	zhèng	to earn; to make (money)	
-jersi	chase	juei	追		zhuī	pursue (a problem); to chase	
-jesni	needle	jen	針	针	zhēn	injection; needle; pin	cf. 鍼 (针) [zhēn] ``needle'' (variant)
-jetce	jet	ce	射		shè	radio- (chem.); shoot	cf. 噴射 (喷射) [pēn shè] ``jet; spurt'' (compound)
-jetnu	true	jen	真		zhēn	real; true; genuine	
+jbena	born	cen	生		shēng	be born	
+jbera	borrow	jie	借		jiè	borrow	
+jbini	between	jian	間	间	jiān	between	
+jdari	firm	jian	監	监	jiān	firm	cf. 堅 (坚) [jiān] ``firm'' (variant)
+jdice	decide	jiue	決	决	jué	decide	
+jdika	decrease	jian	減	减	jiǎn	decrease	
+jdima	price	jia	價	价	jià	price	
+jdini	money	jin	金		jīn	money	
+jduli	jelly	dun	凍	冻	dòng	freeze	FIXIT dubious; cf. 果子凍 (果子冻) [guǒ zi dòng] ``jelly'' (compound)
+jecta	polity	jen	政		zhèng	politics	
+jeftu	week	jeu	週	周	zhōu	week	cf. 周 [zhōu] ``week'' (variant)
+jelca	burn	cau	燒	烧	shāo	burn	
+jemna	gem	jenbau	珍寶		zhēn bǎo	jewellry	
+jenca	shock	jen	震		zhèn	shock	
+jendu	axle	jeu	軸	轴	zhóu	axle	
+jenmi	army	juen	軍	军	jūn	army	
+jerna	earn	jen	掙	挣	zhèng	earn	
+jersi	chase	juei	追		zhuī	chase	
+jesni	needle	jen	針	针	zhēn	needle	cf. 鍼 (针) [zhēn] ``needle'' (variant)
+jetce	jet	ce	射		shè	shoot	cf. 噴射 (喷射) [pēn shè] ``jet'' (compound)
+jetnu	true	jen	真		zhēn	true	
 jgalu	claw	jau	爪		zhuǎ	claw	FIXIT correct transcription ``jua''
-jganu	angle	jiau	角		jiǎo	angle; horn; horn-shaped	
-jgari	grasp	jua	抓		zhuā	to grab; to catch; to arrest; to snatch	
-jgena	knot	jie	結	结	jiē	knot; sturdy; to bear (fruit); bond; to tie; to bind	
+jganu	angle	jiau	角		jiǎo	angle	
+jgari	grasp	jua	抓		zhuā	grab	
+jgena	knot	jie	結	结	jiē	knot	
 jgina	gene	jiiin	基因		jī yīn	genes	
-jgira	pride	jiau	驕	骄	jiāo	proud; arrogant	
+jgira	pride	jiau	驕	骄	jiāo	proud	
 jgita	guitar	jita	吉他		jí tā	guitar	
-jibni	near	jin	近		jìn	near; close (to); approximately	
-jibri	job	jiie	職業	职业	zhí yè	job occupation; profession	
-jicla	stir	jiau	攪	搅	jiǎo	to disturb; to annoy; to mix; to stir	
-jicmu	basis	jicu	基礎	基础	jī chǔ	base; foundation; basis	
+jibni	near	jin	近		jìn	near	
+jibri	job	jiie	職業	职业	zhí yè	job	
+jicla	stir	jiau	攪	搅	jiǎo	stir	
+jicmu	basis	jicu	基礎	基础	jī chǔ	basis	
 jijnu	intuit	jijue	直覺	直觉	zhí jué	intuition	
-jikca	socialize	jiau	交		jiāo	to deliver; to turn over; to make friends; to intersect (lines); to pay (money)	
-jikru	liquor	jieu	酒		jiǔ	wine; liquor; spirits	
-jilka	alkali	jian	鹼	碱	jiǎn	alkali; soda	cf. 鹼 (硷) [jiǎn] ``base (chem.); soda; alkali'' (variant); cf. 堿 [jiǎn] ``alkali; soda'' (variant)
-jilra	jealous	ji	忌		jì	avoid as taboo; jealous	
-jimca	branch	ji	枝		zhī	branch; (a measure word)	cf. 支 [zhī] ``(a measure word); to support; to sustain; to erect; to raise; branch; division; to draw money'' (variant)
-jimpe	understand	jie	解		jiě	to separate; to divide; to break up; to loosen; to explain; to untie; to emancipate	cf. 理解 [lǐ jiě] ``to comprehend; understanding; comprehension; to understand'' (compound); cf. 瞭解 (了解) [liǎo jiě] ``to understand'' (compound)
-jimte	limit	jie	界		jiè	boundary; scope; extent; circles; group; kingdom (taxonomy)	
-jinci	shears	jian	剪		jiǎn	cut with scissors; scissors	cf. 翦 [jiǎn] ``cut with scissors; scissors'' (variant)
-jinga	win	iin	贏	赢	yíng	to beat; to win; to profit	cf. 贏得 (赢得) [yíng dé] ``win; gain'' (compound)
-jinku	vaccine	jiejun	接種	接种	jiē zhòng	vaccinate; inoculate	
-jinme	metal	jin	金		jīn	metal; money; gold	
-jinru	immerse	jin	浸		jìn	immerse; soak; steep	cf. 浸泡 [jìn pào] ``steep; soak; immerse'' (compound); cf. 寖 [jìn] ``immerse; soak'' (variant)
-jinsa	clean	jin	淨	净	jìng	clean; completely; only	cf. 凈 (净) [jìng] ``clean'' (variant)
-jinto	well	jin	井		jǐng	warn; well	cf. 丼 [jǐng] ``bowl of food; well'' (variant)
-jinvi	opine	jian	想		xiǎng	to think; to believe; to suppose; to wish; to want; to miss	FIXIT correct transcription ``cian''
-jinzi	innate	neizai	內在	内在	nèi zài	(adj) intrinsic	
-jipci	chicken	ji	雞	鸡	jī	fowl; chicken	
-jipno	tip	jian	尖		jiān	point (of needle); sharp; shrewd; pointed	
-jirna	horn	jiau	角		jiǎo	angle; horn; horn-shaped	
+jikca	socialize	jiau	交		jiāo	make friends	
+jikru	liquor	jieu	酒		jiǔ	liquor	
+jilka	alkali	jian	鹼	碱	jiǎn	alkali	cf. 鹼 (硷) [jiǎn] ``alkali'' (variant); cf. 堿 [jiǎn] ``alkali'' (variant)
+jilra	jealous	ji	忌		jì	jealous	
+jimca	branch	ji	枝		zhī	branch	cf. 支 [zhī] ``branch'' (variant)
+jimpe	understand	jie	解		jiě	explain	cf. 理解 [lǐ jiě] ``understand'' (compound); cf. 瞭解 (了解) [liǎo jiě] ``understand'' (compound)
+jimte	limit	jie	界		jiè	boundary	
+jinci	shears	jian	剪		jiǎn	scissors	cf. 翦 [jiǎn] ``scissors'' (variant)
+jinga	win	iin	贏	赢	yíng	win	cf. 贏得 (赢得) [yíng dé] ``win; gain'' (compound)
+jinku	vaccine	jiejun	接種	接种	jiē zhòng	vaccinate	
+jinme	metal	jin	金		jīn	metal	
+jinru	immerse	jin	浸		jìn	immerse	cf. 浸泡 [jìn pào] ``immerse'' (compound); cf. 寖 [jìn] ``immerse'' (variant)
+jinsa	clean	jin	淨	净	jìng	clean	cf. 凈 (净) [jìng] ``clean'' (variant)
+jinto	well	jin	井		jǐng	well	cf. 丼 [jǐng] ``well'' (variant)
+jinvi	opine	jian	想		xiǎng	think	FIXIT correct transcription ``cian''
+jinzi	innate	neizai	內在	内在	nèi zài	intrinsic	
+jipci	chicken	ji	雞	鸡	jī	chicken	
+jipno	tip	jian	尖		jiān	point	
+jirna	horn	jiau	角		jiǎo	horn	
 jisra	juice	ji	汁		zhī	juice	
 jitfa	false	jia	假		jiǎ	fake; false; artificial; to borrow; if; suppose	
-jitro	control	ji	治		zhì	to rule; to govern; to manage; to control; to harness (a river); cure; treatment;	cf. 治理 [zhì lǐ] ``govern; administer; control'' (compound); cf. 制 [zhì] ``system; to make; to manufacture; to control; to regulate'' (variant); cf. 管制 [guǎn zhì] ``control; supervision'' (variant compound)
+jitro	control	ji	治		zhì	control	cf. 治理 [zhì lǐ] ``control'' (compound); cf. 制 [zhì] ``control'' (variant); cf. 管制 [guǎn zhì] ``control'' (variant compound)
 jivbu	weave	ji	織	织	zhī	weave	
-jivna	compete	jin	競	竞	jìng	to compete; to contend; to struggle	
-jmaji	gather	ji	集		jí	to gather; to collect; collected works	
-jmifa	shoal	jiau	礁		jiāo	reef; shoal rock	
-jmina	add	jia	加		jiā	to add; plus	
-jmive	live	min	命		mìng	life; fate	
-jorne	joined	jie	接		jiē	to extend; to connect; to receive; to join	
+jivna	compete	jin	競	竞	jìng	compete	
+jmaji	gather	ji	集		jí	gather	
+jmifa	shoal	jiau	礁		jiāo	reef	
+jmina	add	jia	加		jiā	add	
+jmive	live	min	命		mìng	life	
+jorne	joined	jie	接		jiē	connect	
 jubme	table	jue	桌		zhuō	table	cf. 棹 [zhuō] ``table'' (variant)
-judri	address	juji	住址		zhù zhǐ	address	source: zhongwen.com
-jufra	sentence	ju	句		jù	(a measure word, for sentences or lines of verse); sentence	
+judri	address	juji	住址		zhù zhǐ	address	
+jufra	sentence	ju	句		jù	sentence	
 jukni	spider	ju	蛛		zhū	spider	
-jukpa	cook	ju	煮		zhǔ	to cook; to boil	
-julne	net	uan	網	网	wǎng	net; network	
-jundi	attentive	juii	注意		zhù yì	take note of; (pay) attention (to)	
-junla	clock	jun	鐘	钟	zhōng	clock; time as measured in hours and minutes; bell	
-junri	serious	jun	重		zhòng	heavy; serious	
-junta	weight	jun	重		zhòng	heavy; serious	cf. 權重 (权重) [quán zhòng] ``weight'' (compound); cf. 重量 [zhòng liàng] ``weight'' (compound)
-jurme	germ	juen	菌		jūn	germ; bacteria	
-jursa	severe	ju	劇	剧	jù	drama; play; show; severe	cf. 劇烈 (剧烈) [jù liè] ``violent; acute; severe; fierce'' (compound)
-jutsi	species	jun	種	种	zhǒng	kind; type; race; breed; seed; species (taxonomy)	
-juxre	clumsy	jue	拙		zhuó	awkward; clumsy; dull; inelegant; (polite) my	
-jvinu	view	jin	景		jǐng	bright; circumstance; scenery	cf. 景色 [jǐng sè] ``scenery; scene; landscape; view'' (compound)
-kabri	cup	bei	杯		bēi	cup; a measure word	
+jukpa	cook	ju	煮		zhǔ	cook	
+julne	net	uan	網	网	wǎng	net	
+jundi	attentive	juii	注意		zhù yì	attention	
+junla	clock	jun	鐘	钟	zhōng	clock	
+junri	serious	jun	重		zhòng	serious	
+junta	weight	jun	重		zhòng	heavy	cf. 權重 (权重) [quán zhòng] ``weight'' (compound); cf. 重量 [zhòng liàng] ``weight'' (compound)
+jurme	germ	juen	菌		jūn	germ	
+jursa	severe	ju	劇	剧	jù	severe	cf. 劇烈 (剧烈) [jù liè] ``severe'' (compound)
+jutsi	species	jun	種	种	zhǒng	species	
+juxre	clumsy	jue	拙		zhuó	clumsy	
+jvinu	view	jin	景		jǐng	scenery	cf. 景色 [jǐng sè] ``view'' (compound)
+kabri	cup	bei	杯		bēi	cup	
 kacma	camera	jaucianji	照相機	照相机	zhào xiàng jī	camera	cf. 照像機 (照像机) [zhào xiàng jī] ``camera'' (variant)
 kafke	cough	ke	咳		ké	cough	
-kagni	company	gunsi	公司		gōng sī	(business) company; company; firm; corporation; incorporated	
-kajde	warn	jie	戒		jiè	swear off; warn against	
-kajna	shelf	jia	架		jià	to support; frame; rack; framework; measure word for planes, large vehicles, radios, etc.	cf. 架子 [jià zi] ``shelf; frame; stand; skeleton'' (compound)
-kakne	able	nen	能		néng	can; may; capable; energy; able	
-kakpa	dig	pau	刨		páo	eliminate; to dig; to question	
-kalci	feces	ci	屎		shǐ	stool; feces	
-kalri	open	kai	開	开	kāi	open; operate (vehicle); start	
-kalsa	chaotic	luan	亂	乱	luàn	in confusion; disorderly	cf. 凌亂 (凌乱) [líng luàn] ``chaos'' (compound)
+kagni	company	gunsi	公司		gōng sī	company	
+kajde	warn	jie	戒		jiè	warn	
+kajna	shelf	jia	架		jià	rack	cf. 架子 [jià zi] ``shelf'' (compound)
+kakne	able	nen	能		néng	able	
+kakpa	dig	pau	刨		páo	dig	
+kalci	feces	ci	屎		shǐ	feces	
+kalri	open	kai	開	开	kāi	open	
+kalsa	chaotic	luan	亂	乱	luàn	disorderly	cf. 凌亂 (凌乱) [líng luàn] ``chaos'' (compound)
 kalte	hunt	lie	獵	猎	liè	hunting	
 kamju	column	ju	柱		zhù	pillar	
 kamni	committee	ueiiuanxuei	委員會	委员会	wěi yuán huì	committee	
-kampu	common	pu	普		pǔ	general; popular; everywhere; universal	cf. 普通 [pǔ tōng] ``common; ordinary; general; average'' (compound)
+kampu	common	pu	普		pǔ	general	cf. 普通 [pǔ tōng] ``common'' (compound)
 kanba	goat	cianian	山羊		shān yáng	goat	
-kancu	count	cu	數	数	shù	number; figure; to count; to calculate; several	
-kandi	dim	an	暗		àn	dark; gloomy; hidden; secret	
-kanji	calculate	ji	計	计	jì	to calculate; to compute; to count; reckon; ruse; to plan	
+kancu	count	cu	數	数	shù	count	
+kandi	dim	an	暗		àn	dark	
+kanji	calculate	ji	計	计	jì	calculate	
 kanla	eye	ian	眼		yǎn	eye	
-kanro	healthy	kan	康		kāng	peaceful; spongy (of radishes)	``health'' (source: chinaboard.de)
-kansa	with	kan	看		kān	to look after; to take care of; to watch; to guard	FIXIT dubious; cf. 跟 [gēn] ``to follow; to go with; heel; with; and'' (variant)
-kantu	quantum	guan	光		guāng	light; ray; bright	cf. 光子 [guāng zǐ] ``(phys.) photon (particle or quantum of light)'' (compound)
-kantu	quantum	lian	量		liàng	capacity; quantity; amount; to estimate	cf. 量子 [liàng zǐ] ``quantum'' (compound)
-kanxe	conjunction	xe	和		hé	and; together with; with; peace; harmony; union	
-karbi	compare	bi	比		bǐ	(particle used for comparison and "-er than"); to compare; to contrast; to gesture (with hands); ratio	
-karce	car	ce	車	车	chē	car; a vehicle; machine; to shape with a lathe	
+kanro	healthy	kan	康		kāng	health	
+kansa	with	kan	看		kān	look after	FIXIT dubious; cf. 跟 [gēn] ``with'' (variant)
+kantu	quantum	guan	光		guāng	ray	cf. 光子 [guāng zǐ] ``photon'' (compound)
+kantu	quantum	lian	量		liàng	quantity	cf. 量子 [liàng zǐ] ``quantum'' (compound)
+kanxe	conjunction	xe	和		hé	and	
+karbi	compare	bi	比		bǐ	compare	
+karce	car	ce	車	车	chē	car	
 karda	card	kapian	卡片		kǎ piàn	card	
-kargu	costly	guei	貴	贵	guì	expensive; noble; your (name); precious	
-karli	collar	lin	領	领	lǐng	neck; collar; to lead; to receive	
-karni	journal	kan	刊		kān	to print; publish	
-katna	cut	kan	刊		kān	to print; publish	``cut; engrave'' (source: zhongwen.com)
-kavbu	capture	bu	捕		bǔ	to catch; to seize; to capture; to catch	
-kecti	pity	keci	可惜		kě xī	it is a pity; what a pity; (it's) too bad	
-kelci	play	ci	戲	戏	xì	trick; drama; play; show	cf. 遊戲 (游戏) [yóu xì] ``game; play'' (compound)
+kargu	costly	guei	貴	贵	guì	expensive	
+karli	collar	lin	領	领	lǐng	collar	
+karni	journal	kan	刊		kān	print	
+katna	cut	kan	刊		kān	cut	
+kavbu	capture	bu	捕		bǔ	capture	
+kecti	pity	keci	可惜		kě xī	what a pity	
+kelci	play	ci	戲	戏	xì	play	cf. 遊戲 (游戏) [yóu xì] ``play'' (compound)
 kenra	cancer	aijen	癌癥	癌症	ái zhèng	cancer	
 kensa	outer space	kunjian	空間	空间	kōng jiān	space	cf. 外層空間 (外层空间) [wài céng kōng jiān] ``outer space'' (compound)
 kerfa	hair	fa	髮	发	fà	hair	
 kerlo	ear	er	耳		ěr	ear	
-kevna	cavity	ken	坑		kēng	pit; to defraud	cf. 阬 [kēng] ``pit; to defraud'' (variant)
-kicne	cushion	dian	墊	垫	diàn	pad; cushion; mat	
+kevna	cavity	ken	坑		kēng	pit	cf. 阬 [kēng] ``pit'' (variant)
+kicne	cushion	dian	墊	垫	diàn	cushion	
 kijno	oxygen	ian	氧		yǎng	oxygen	
-kinli	sharp	li	利		lì	advantage; benefit; profit; sharp	
+kinli	sharp	li	利		lì	sharp	
 klaji	street	jie	街		jiē	street	
-klaku	weep	ku	哭		kū	to cry; to weep	
-klama	come	lai	來	来	lái	to come	cf. 徠 (徕) [lái] ``to come'' (variant)
-klani	quantity	lian	量		liàng	capacity; quantity; amount; to estimate	
-klesi	class	lei	類	类	lèi	kind; type; class; category; similar; like; to resemble 	
-klina	clear	cin	清		qīng	clear; distinct; complete; pure	
+klaku	weep	ku	哭		kū	weep	
+klama	come	lai	來	来	lái	come	cf. 徠 (徕) [lái] ``come'' (variant)
+klani	quantity	lian	量		liàng	quantity	
+klesi	class	lei	類	类	lèi	class 	
+klina	clear	cin	清		qīng	clear	
 kliru	chlorine	liu	氯		lǜ	chlorine	
-kliti	clay	nitu	泥土		ní tǔ	earth; soil; clay	
-klupe	screw	lue	螺		luó	screw; snail	
-kluza	loose	kuan	寬	宽	kuān	lenient; wide; broad	
+kliti	clay	nitu	泥土		ní tǔ	clay	
+klupe	screw	lue	螺		luó	screw	
+kluza	loose	kuan	寬	宽	kuān	wide	
 kobli	cabbage	baisai	白菜		bái cài	Chinese cabbage	
-kojna	corner	jiau	角		jiǎo	angle; horn; horn-shaped	cf. 角落 [jiǎo luò] ``corner'' (compound)
+kojna	corner	jiau	角		jiǎo	angle	cf. 角落 [jiǎo luò] ``corner'' (compound)
 kolme	coal	mei	煤		méi	coal	
 komcu	comb	cu	梳		shū	comb	
-konju	cone	juei	錐	锥	zhuī	awl; to bore	cf. 圓錐體 (圆锥体) [yuán zhuī tǐ] ``cone'' (compound)
-korbi	edge	bian	邊	边	biān	side; edge; margin; border; boundary	
-korcu	bent	cu	曲		qū	bent; crooked; wrong	cf. 屈 [qū] ``bent; feel wronged'' (variant)
+konju	cone	juei	錐	锥	zhuī	awl	cf. 圓錐體 (圆锥体) [yuán zhuī tǐ] ``cone'' (compound)
+korbi	edge	bian	邊	边	biān	edge	
+korcu	bent	cu	曲		qū	bent	cf. 屈 [qū] ``bent'' (variant)
 korka	cork	ruanmu	軟木	软木	ruǎn mù	softwood	cf. 軟木塞 (软木塞) [ruǎn mù sāi] ``cork'' (compound)
-kosta	coat	uaii	外衣		wài yī	outer clothing; semblance; appearance	
-kramu	acre	mu	畝	亩	mǔ	about 1; 6 acre (M)	
-krasi	source	kai	開	开	kāi	open; operate (vehicle); start	cf. 開端 (开端) [kāi duān] ``start; beginning'' (compound); cf. 開始 (开始) [kāi shǐ] ``begin; beginning; start; initial'' (compound)
-krati	represent	kai	楷		kǎi	norm; model; (writing)	FIXIT dubious
-krefu	recur	fu	復	复	fù	again; recover; reply to a letter; to repeat; to duplicate	cf. 複 [fù] ``repeat, double, overlap'' (variant)
-krici	believe	cin	信		xìn	letter; true; to believe; sign; evidence	
+kosta	coat	uaii	外衣		wài yī	outer clothing	
+kramu	acre	mu	畝	亩	mǔ	area unit equivalent to 0.1647 acres	
+krasi	source	kai	開	开	kāi	start	cf. 開端 (开端) [kāi duān] ``start'' (compound); cf. 開始 (开始) [kāi shǐ] ``start'' (compound)
+krati	represent	kai	楷		kǎi	norm	FIXIT dubious
+krefu	recur	fu	復	复	fù	repeat	cf. 複 [fù] ``repeat'' (variant)
+krici	believe	cin	信		xìn	believe	
 krili	crystal	cueijin	水晶		shuǐ jīng	crystal	
-krinu	reason	ieu	由		yóu	follow; from; it is for...to; reason; cause; because of; due to; by; to; to leave it (to sb)	
-krixa	cry	xan	喊		hǎn	call; cry; to shout	
-kruca	intersect	ca	叉		chā	fork; pitchfork; prong; pick; cross; intersect	cf. 交叉 [jiāo chā] ``cross; intersect'' (compound)
+krinu	reason	ieu	由		yóu	reason	
+krixa	cry	xan	喊		hǎn	cry	
+kruca	intersect	ca	叉		chā	intersect	cf. 交叉 [jiāo chā] ``intersect'' (compound)
 kruji	cream	ruji	乳劑	乳剂	rǔ jì	emulsion	
-kruvi	curve	cucian	曲線	曲线	qū xiàn	(n) curved shape; (adv) indirectly; roundabout	
+kruvi	curve	cucian	曲線	曲线	qū xiàn	curve	
 kubli	cube	lifan	立方		lì fāng	cube	
-kucli	curious	xauci	好奇		hào qí	curious; inquisitive	
-kufra	comfort	cufu	舒服		shū fú	comfortable	source: zhongwen.com
-kukte	delicious	kekeu	可口		kě kǒu	tasty; to taste good	
-kulnu	culture	uen	文		wén	language; culture; writing; formal; literary; gentle	
-kumfa	room	fan	房		fáng	house	``Haus; Zimmer (= house; room)'' (source: chinaboard.de); cf. 房間 (房间) [fáng jiān] ``room'' (compound)
+kucli	curious	xauci	好奇		hào qí	curious	
+kufra	comfort	cufu	舒服		shū fú	comfortable	
+kukte	delicious	kekeu	可口		kě kǒu	tasty	
+kulnu	culture	uen	文		wén	culture	
+kumfa	room	fan	房		fáng	room	cf. 房間 (房间) [fáng jiān] ``room'' (compound)
 kumte	camel	luetue	駱駝	骆驼	luò tuo	camel	
-kunra	mineral	kuan	礦	矿	kuàng	ore; mine	
-kunti	empty	kun	空		kōng	air; sky; empty; in vain	
-kurfa	square	fan	方		fāng	square; quadrilateral; direction; just	
-kurji	take care of	jin	廑		jǐn	careful; hut	
-kurki	bitter	ku	苦		kǔ	bitter; intensely; miserable; painful	
-kuspe	range	kue	擴	扩	kuò	enlarge	FIXIT dubious; see gismu def. ``x1 extends over interval x2''
-kusru	cruel	ku	酷		kù	ruthless; strong (as of wine); (slang loan from English) cool, great	cf. 殘酷 (残酷) [cán kù] ``cruel; cruelty'' (compound)
+kunra	mineral	kuan	礦	矿	kuàng	ore	
+kunti	empty	kun	空		kōng	empty	
+kurfa	square	fan	方		fāng	square	
+kurji	take care of	jin	廑		jǐn	careful	
+kurki	bitter	ku	苦		kǔ	bitter	
+kuspe	range	kue	擴	扩	kuò	enlarge	FIXIT dubious
+kusru	cruel	ku	酷		kù	ruthless	cf. 殘酷 (残酷) [cán kù] ``cruel'' (compound)
 labno	wolf	lan	狼		láng	wolf	
-lacpu	pull	la	拉		lā	to pull; to play (string instruments); to drag; to draw	
-lacri	rely	lai	賴	赖	lài	disclaim; rely; to blame	
-ladru	milk	ru	乳		rǔ	breast; milk	
-lafti	lift	ti	提		tí	to carry; to lift; to put forward; (upwards character stroke); lifting (brush stroke in painting); to mention	
-lakne	probable	kenen	可能		kě néng	might (happen); possible; probable; possibility; probability	
-lakse	wax	la	蠟	蜡	là	candle; wax	
+lacpu	pull	la	拉		lā	pull	
+lacri	rely	lai	賴	赖	lài	rely	
+ladru	milk	ru	乳		rǔ	milk	
+lafti	lift	ti	提		tí	lift	
+lakne	probable	kenen	可能		kě néng	probable	
+lakse	wax	la	蠟	蜡	là	wax	
 lalxu	lake	xu	湖		hú	lake	
-lamji	adjacent	linjin	鄰近	邻近	lín jìn	neighboring; adjacent; near; vicinity	
-lanbi	protein	danbai	蛋白		dàn bái	egg white; protein; albumen	
-lanci	flag	ci	旗		qí	banner; flag	cf. 旂 [qí] ``flag'' (variant)
-lanka	basket	lan	籃	篮	lán	basket; goal	
+lamji	adjacent	linjin	鄰近	邻近	lín jìn	adjacent	
+lanbi	protein	danbai	蛋白		dàn bái	protein	
+lanci	flag	ci	旗		qí	flag	cf. 旂 [qí] ``flag'' (variant)
+lanka	basket	lan	籃	篮	lán	basket	
 lanli	analyze	ianjieu	研究		yán jiū	research	
-lanme	sheep	ian	羊		yáng	(surname); sheep	
-lante	can	guanteu	罐頭	罐头	guàn tou	tin; can	
-lanxe	balance	pinxen	平衡		píng héng	balance; equilibrium	
-lanzu	family	zu	族		zú	race; nationality; ethnicity; clan	
+lanme	sheep	ian	羊		yáng	sheep	
+lante	can	guanteu	罐頭	罐头	guàn tou	can	
+lanxe	balance	pinxen	平衡		píng héng	balance	
+lanzu	family	zu	族		zú	clan	
 larcu	art	iicu	藝術	艺术	yì shù	art	
-lasna	fasten	lian	聯	联	lián	to ally; to unite; to join	``connect; join; ally'' (source: zhongwen.com); cf. 連 (连) [lián] ``(surname); even; as; join; to link; successively'' (variant); ``connect; join'' (source: zhongwen.com)
+lasna	fasten	lian	聯	联	lián	join	cf. 連 (连) [lián] ``join'' (variant)
 lastu	brass	xuantun	黃銅	黄铜	huáng tóng	brass	
 latna	lotus	lian	蓮	莲	lián	lotus	
 lazni	lazy	lan	懶	懒	lǎn	lazy	cf. 嬾 [lǎn] ``lazy'' (variant)
-lebna	take	na	拿		ná	to hold; to seize; to catch; to apprehend; to take	cf. 拏 [ná] ``apprehend; take'' (variant); cf. 挐 [ná] ``apprehend; take'' (variant)
+lebna	take	na	拿		ná	take	cf. 拏 [ná] ``take'' (variant); cf. 挐 [ná] ``take'' (variant)
 lenjo	lens	jin	鏡	镜	jìng	mirror	
-lenjo	lens	teujin	透鏡	透镜	tòu jìng	lens (optics)	
+lenjo	lens	teujin	透鏡	透镜	tòu jìng	lens	
 lenku	cold	len	冷		lěng	cold	
-lerci	late	ci	遲	迟	chí	late; delayed; slow	
-lerfu	letteral	fu	符		fú	mark; sign; talisman; to seal; to correspond (to); tally; symbol; written	
-lidne	leader	lin	領	领	lǐng	neck; collar; to lead; to receive	cf. 領先 (领先) [lǐng xiān] ``to lead; to be in front'' (compound); cf. 領袖 (领袖) [lǐng xiù] ``leader'' (compound)
-lifri	experience	li	歷	历	lì	to experience; to undergo; to pass through; all; each; every; calendar	cf. 經歷 (经历) [jīng lì] ``experience; go through'' (compound)
-lijda	religion	jiau	教		jiào	religion; teaching	
-limna	swim	iun	泳		yǒng	swimming; to swim	
-lindi	lightning	leidian	雷電	雷电	léi diàn	thunder and lightning	``Blitz und Donner (= lightning and thunder)'' (source: chinaboard.de)
-linji	line	ji	直		zhí	straight; vertical; frank; directly; straightly; upright	
-linsi	chain	lian	鏈	链	liàn	chain; lead or tin ore	
-linto	lightweight	cin	輕	轻	qīng	light; easy; gentle; soft; reckless; unimportant; frivolous; small in number; unstressed; neutral; soft	
+lerci	late	ci	遲	迟	chí	late	
+lerfu	letteral	fu	符		fú	symbol	
+lidne	leader	lin	領	领	lǐng	lead	cf. 領先 (领先) [lǐng xiān] ``lead'' (compound); cf. 領袖 (领袖) [lǐng xiù] ``leader'' (compound)
+lifri	experience	li	歷	历	lì	experience	cf. 經歷 (经历) [jīng lì] ``experience'' (compound)
+lijda	religion	jiau	教		jiào	religion	
+limna	swim	iun	泳		yǒng	swim	
+lindi	lightning	leidian	雷電	雷电	léi diàn	thunder and lightning	
+linji	line	ji	直		zhí	straight	
+linsi	chain	lian	鏈	链	liàn	chain	
+linto	lightweight	cin	輕	轻	qīng	light	
 lisri	story	lici	歷史	历史	lì shǐ	history	
-liste	list	lie	列		liè	to arrange; to line up; row; file; series	cf. 列表 [liè biǎo] ``list'' (compound)
-litce	liter	cen	升		shēng	to raise; to hoist; to promote; pint	cf. 公升 [gōng shēng] ``liter'' (compound)
+liste	list	lie	列		liè	series	cf. 列表 [liè biǎo] ``list'' (compound)
+litce	liter	cen	升		shēng	pint	cf. 公升 [gōng shēng] ``liter'' (compound)
 litki	liquid	ieti	液體	液体	yè tǐ	liquid	
-litru	travel	liu	旅		lǚ	trip; travel	
+litru	travel	liu	旅		lǚ	travel	
 livga	liver	gan	肝		gān	liver	
 livla	fuel	ranliau	燃料		rán liào	fuel	
 logji	logic	lueji	邏輯	逻辑	luó ji	logic	
-loldi	floor	di	地		dì	earth; ground; field; place; land	
+loldi	floor	di	地		dì	ground	
 lorxu	fox	xu	狐		hú	fox	
-lumci	wash	ci	洗		xǐ	to wash; to bathe	
+lumci	wash	ci	洗		xǐ	wash	
 lunbe	bare	lue	裸		luǒ	naked	cf. 臝 [luǒ] ``naked'' (variant)
-lunra	lunar	iue	月		yuè	moon; month	
+lunra	lunar	iue	月		yuè	moon	
 lunsa	condense	lu					FIXIT missing
-mabla	derogative	bian	貶	贬	biǎn	to diminish; to demote; reduce or devaluate; disparage; censure; depreciate	
-mabru	mammal	buru	哺乳		bǔ rǔ	breast-feed; suckle; nurse	cf. 哺乳動物 (哺乳动物) [bǔ rǔ dòng wù] ``mammal'' (compound)
-macnu	manual	ceugun	手工		shǒu gōng	handwork; manual	
-makcu	mature	cu	熟		shú	familiar; skilled; ripe; done; ripe; cooked	
-makfa	magic	fa	法		fǎ	law; method; way; Buddhist teaching; Legalist; France (abbrev.)	FIXIT dubious; cf. 法寶 [fǎ bǎo] ``magic sword'' (compound); cf. 變戲法 (变戏法) [biàn xì fǎ] ``to perform conjuring tricks'' (compound); cf. 沷 [fā] ``to remove evil; to cleanse; to wash away'' (variant)
-maksi	magnet	si	磁		cí	magnetic; magnetism; porcelain	
-malsi	temple	si	寺		sì	Buddhist temple	cf. 寺廟 (寺庙) [sì miào] ``temple; monastery; shrine'' (compound)
-mamta	mother	mama	媽媽	妈妈	mā ma	mama; mommy	
-mamta	mother	ma	媽	妈	mā	ma; mamma	cf. 嬤 (嬷) [mā] ``ma; mamma'' (variant)
-manci	wonder	ci	奇		qí	strange; odd; weird; wonderful	cf. 奇蹟 (奇迹) [qí jì] ``miracle; miraculous; wonder'' (compound)
-manfo	uniform	iiian	一元		yī yuán	uniform	``einheitlich (= uniform)'' (source: chinaboard.de); FIXIT correct transcription ``iiiuan''
-manku	dark	an	暗		àn	dark; gloomy; hidden; secret	
-manri	reference	an	按		àn	to press (with the hand); to push; to control; to restrain; to check; pressing down (brush movement in painting); according to; in the light of	
-mansa	satisfy	man	滿	满	mǎn	Manchurian; to fill; to fulfill; filled; packed	cf. 滿足 (满足) [mǎn zú] ``to satisfy; to meet (the needs of)'' (compound)
-manti	ant	maii	螞蟻	蚂蚁	mǎ yǐ	(n) ant	
-mapku	cap	mau	帽		mào	hat; cap	
+mabla	derogative	bian	貶	贬	biǎn	disparage	
+mabru	mammal	buru	哺乳		bǔ rǔ	breast-feed	cf. 哺乳動物 (哺乳动物) [bǔ rǔ dòng wù] ``mammal'' (compound)
+macnu	manual	ceugun	手工		shǒu gōng	manual	
+makcu	mature	cu	熟		shú	ripe	
+makfa	magic	fa	法		fǎ	method	FIXIT dubious; cf. 法寶 [fǎ bǎo] ``magic sword'' (compound); cf. 變戲法 (变戏法) [biàn xì fǎ] ``perform conjuring tricks'' (compound); cf. 沷 [fā] ``remove evil'' (variant)
+maksi	magnet	si	磁		cí	magnetic	
+malsi	temple	si	寺		sì	Buddhist temple	cf. 寺廟 (寺庙) [sì miào] ``temple'' (compound)
+mamta	mother	mama	媽媽	妈妈	mā ma	ma	
+mamta	mother	ma	媽	妈	mā	ma	cf. 嬤 (嬷) [mā] ``ma'' (variant)
+manci	wonder	ci	奇		qí	wonderful	cf. 奇蹟 (奇迹) [qí jì] ``wonder'' (compound)
+manfo	uniform	iiian	一元		yī yuán	uniform	FIXIT correct transcription ``iiiuan''
+manku	dark	an	暗		àn	dark	
+manri	reference	an	按		àn	according to	
+mansa	satisfy	man	滿	满	mǎn	fulfill	cf. 滿足 (满足) [mǎn zú] ``satisfy'' (compound)
+manti	ant	maii	螞蟻	蚂蚁	mǎ yǐ	ant	
+mapku	cap	mau	帽		mào	cap	
 mapni	cotton	mian	棉		mián	cotton	
-mapti	fit	pei	配		pèi	to join; to fit; to mate; to mix; to match; to deserve; to make up (a prescription)	
-marbi	shelter	bi	庇		bì	to protect; cover; shelter; hide or harbor	
-marce	vehicle	ce	車	车	chē	car; a vehicle; machine; to shape with a lathe	
-marde	morals	de	德		dé	Germany; virtue; goodness; morality; ethics; kindness; favor; character; kind	
+mapti	fit	pei	配		pèi	fit	
+marbi	shelter	bi	庇		bì	shelter	
+marce	vehicle	ce	車	车	chē	vehicle	
+marde	morals	de	德		dé	morality	
 margu	mercury	gun	汞		gǒng	mercury	
-marji	material	ji	質	质	zhì	hostage; substance; nature; quality	cf. 物質 (物质) [wù zhì] ``matter; substance; material; materialistic'' (compound)
-marna	hemp	ma	麻		má	(to have) pins and needles; tingling; hemp; numb; to bother	
-marxa	mash	iaxuai	壓懷	压怀	yā huái	mash	``zerdrücken (= to crush)'' (source: chinaboard.de)
+marji	material	ji	質	质	zhì	substance	cf. 物質 (物质) [wù zhì] ``material'' (compound)
+marna	hemp	ma	麻		má	hemp	
+marxa	mash	iaxuai	壓懷	压怀	yā huái	mash	
 masno	slow	man	慢		màn	slow	
-masti	month	iue	月		yuè	moon; month	
-matci	mat	ci	席		xí	banquet; woven mat; seat; place	cf. 蓆 (席) [xí] ``woven mat'' (variant)
-matli	linen	ma	麻		má	(to have) pins and needles; tingling; hemp; numb; to bother	cf. 亞麻布 (亚麻布) [yà má bù] ``linen'' (compound)
+masti	month	iue	月		yuè	month	
+matci	mat	ci	席		xí	woven mat	cf. 蓆 (席) [xí] ``woven mat'' (variant)
+matli	linen	ma	麻		má	hemp	cf. 亞麻布 (亚麻布) [yà má bù] ``linen'' (compound)
 matne	butter	xuanieu	黃油	黄油	huáng yóu	butter	
 matra	motor	mada	馬達	马达	mǎ dá	motor	
 mavji	oats	ianmai	燕麥	燕麦	yān mài	oat	
-maxri	wheat	mai	麥	麦	mài	(surname); wheat; barley; oats	
-mebri	brow	mei	眉		méi	eyebrow; upper margin	
-melbi	beautiful	mei	美		měi	America; beautiful	cf. 媄 [měi] ``beautiful'' (variant); cf. 媺 [měi] ``beautiful'' (variant)
-menli	mind	cinli	心理		xīn lǐ	mental; psychological	cf. 心裡 (心里) [xīn lǐ] ``(n) ones heart and mind'' (variant)
+maxri	wheat	mai	麥	麦	mài	wheat	
+mebri	brow	mei	眉		méi	eyebrow	
+melbi	beautiful	mei	美		měi	beautiful	cf. 媄 [měi] ``beautiful'' (variant); cf. 媺 [měi] ``beautiful'' (variant)
+menli	mind	cinli	心理		xīn lǐ	mental	cf. 心裡 (心里) [xīn lǐ] ``heart and mind'' (variant)
 mensi	sister	mei	妹		mèi	younger sister	
-mentu	minute	fen	分		fēn	to divide; minute; (a measure word); (a unit of length = 0.33 centimeter)	
-merli	measure	lian	量		liàng	capacity; quantity; amount; to estimate	
-midju	middle	jun	中		zhōng	within; among; in; middle; center; while (doing sth); during; China; Chinese	
-mifra	code	mima	密碼	密码	mì mǎ	(secret) code; password	
+mentu	minute	fen	分		fēn	minute	
+merli	measure	lian	量		liàng	quantity	
+midju	middle	jun	中		zhōng	middle	
+mifra	code	mima	密碼	密码	mì mǎ	code	
 mikce	doctor	iicen	醫生	医生	yī shēng	doctor	
-milxe	mild	xe	何		hé	carry; what; how; why; which	FIXIT missing
-minde	command	min	命		mìng	life; fate	``order, command'' (source: zhongwen.com)
-minji	machine	ji	機	机	jī	machine; opportunity; secret	cf. 機器 (机器) [jī qì] ``machine'' (compound); cf. 機械 (机械) [jī xiè] ``machine; mechanical'' (compound)
+milxe	mild	xe	何		hé	what	FIXIT missing
+minde	command	min	命		mìng	command	
+minji	machine	ji	機	机	jī	machine	cf. 機器 (机器) [jī qì] ``machine'' (compound); cf. 機械 (机械) [jī xiè] ``machine'' (compound)
 minli	mile	iinli	英里		yīng lǐ	mile	
-minra	reflect	iin	映		yìng	reflect; shine	
+minra	reflect	iin	映		yìng	reflect	
 minra	reflect	jin	鏡	镜	jìng	mirror	
-mintu	same	tun	同		tóng	like; same; similar; together; alike; with	cf. 仝 [tóng] ``together; same'' (variant)
-mipri	secret	mi	密		mì	secret; confidential; close; thick; dense	cf. 祕 (秘) [mì] ``secret'' (variant)
-mirli	deer	mi	麋		mí	(surname); moose; river bank	
-misno	famous	min	明		míng	clear; bright; to understand; next; the Ming dynasty	cf. 聞名 (闻名) [wén míng] ``well-known; famous; renowned; eminent'' (compound); cf. 有名 [yǒu míng] ``famous; well-known'' (compound)
-mitre	meter	mi	米		mǐ	(measure word) meter; rice	
-mixre	mixture	xue	和		huò	mix together; to blend	
-mlana	side	mian	面		miàn	fade; side; surface; aspect; top; face; flour; noodles	
-mlatu	cat	mau	貓	猫	māo	cat; pussy	
-mleca	less	cau	少		shǎo	few; little; lack	gismu generation note: ``ckamu [...] changed to mleca in 1990'', source words unchanged
-mledi	mold	mei	霉		méi	bacteria; fungi; moldy	cf. 黴 [méi] ``bacteria; fungi; moldy'' (variant)
-mluni	satellite	ueicin	衛星	卫星	wèi xīng	(space) satellite	
-mokca	point	ca	剎	刹	chà	Buddhist monastery or temple; a brief moment	cf. 剎那 (刹那) [chà nà] ``(n) an instant in time'' (compound)
-moklu	mouth	keu	口		kǒu	mouth; (a measure word)	
+mintu	same	tun	同		tóng	same	cf. 仝 [tóng] ``same'' (variant)
+mipri	secret	mi	密		mì	secret	cf. 祕 (秘) [mì] ``secret'' (variant)
+mirli	deer	mi	麋		mí	moose	
+misno	famous	min	明		míng	bright	cf. 聞名 (闻名) [wén míng] ``famous'' (compound); cf. 有名 [yǒu míng] ``famous'' (compound)
+mitre	meter	mi	米		mǐ	meter	
+mixre	mixture	xue	和		huò	mix	
+mlana	side	mian	面		miàn	side	
+mlatu	cat	mau	貓	猫	māo	cat	
+mleca	less	cau	少		shǎo	lack	
+mledi	mold	mei	霉		méi	moldy	cf. 黴 [méi] ``moldy'' (variant)
+mluni	satellite	ueicin	衛星	卫星	wèi xīng	satellite	
+mokca	point	ca	剎	刹	chà	moment	cf. 剎那 (刹那) [chà nà] ``instant in time'' (compound)
+moklu	mouth	keu	口		kǒu	mouth	
 molki	mill	mo	磨		mò	millstone	
-morji	remember	ji	記	记	jì	to remember; to note; mark; sign; to record	
-morna	pattern	mo	模		mó	imitate; model; norm; pattern	
-morsi	dead	si	死		sǐ	to die; inpassable; uncrossable; inflexible; rigid	
+morji	remember	ji	記	记	jì	remember	
+morna	pattern	mo	模		mó	pattern	
+morsi	dead	si	死		sǐ	die	
 mosra	friction	mosa	摩擦		mó cā	friction	cf. 磨擦 [mó cā] ``friction'' (variant)
 mraji	rye	xeimai	黑麥	黑麦	hēi mài	rye	source: chinaboard.de
-mrilu	mail	ieu	郵	邮	yóu	post (office); mail	
-mruli	hammer	cuei	槌		chuí	hammer; mallet; pestle	cf. 捶 [chuí] ``beat with the fist; to hammer; to cudgel'' (variant)
+mrilu	mail	ieu	郵	邮	yóu	mail	
+mruli	hammer	cuei	槌		chuí	hammer	cf. 捶 [chuí] ``beat with the fist; to hammer; to cudgel'' (variant)
 mucti	immaterial	uucin	無形	无形	wú xíng	invisible	
-mudri	wood	mu	木		mù	tree; wood	
-mukti	purpose	mudi	目的		mù dì	purpose; aim; goal; target; objective	
-mulno	complete	uan	完		wán	to finish; to be over; whole; complete; entire	
+mudri	wood	mu	木		mù	wood	
+mukti	purpose	mudi	目的		mù dì	purpose	
+mulno	complete	uan	完		wán	complete	
 munje	universe	iujen	宇宙		yǔ zhòu	universe	FIXIT correct transcription ``iujeu''
-mupli	example	li	例		lì	example; precedent; rule; case; instance	
-murse	glimmering	muse	暮色		mù sè	twilight	``(n) Dämmerung (= dawn; gloaming; twilight)'' (source: chinaboard.de)
-murta	curtain	mu	幕		mù	stage curtain; tent	
-mutce	much	cen	甚		shèn	very; extremely; more (than)	
-muvdu	move	dun	動	动	dòng	to use; to act; to move; to change	cf. 扽 [dùn] ``to move, to shake'' (variant)
+mupli	example	li	例		lì	example	
+murse	glimmering	muse	暮色		mù sè	twilight	
+murta	curtain	mu	幕		mù	stage curtain	
+mutce	much	cen	甚		shèn	very	
+muvdu	move	dun	動	动	dòng	move	cf. 扽 [dùn] ``move'' (variant)
 muzga	museum	bouuguan	博物館	博物馆	bó wù guǎn	museum	
 nabmi	problem	nanti	難題	难题	nán tí	difficult problem	
 nakni	male	nan	男		nán	male	
 nalci	wing	ci	翅		chì	wing	
-namcu	number	cu	數	数	shù	number; figure; to count; to calculate; several	
+namcu	number	cu	數	数	shù	number	
 nanba	bread	mianbau	麵包	面包	miàn bāo	bread	
 nanca	year	nian	年		nián	year	
-nandu	difficult	nan	難	难	nán	difficult (to...); problem; difficulty; difficult; not good	
+nandu	difficult	nan	難	难	nán	difficult	
 nanla	boy	nanxai	男孩		nán hái	boy	
 nanmu	man	nan	男		nán	male	
 narge	nut	jiangue	堅果	坚果	jiān guǒ	nut	
 narju	orange	juse	枸色		jǔ sè	citron color	FIXIT no reports; 512,000 Google hits; cf. 橙色 [chéng sè] ``color orange''
-natfe	deny	feu	否		fǒu	to negate; to deny; not	
-natmi	nation	min	民		mín	the people; nationality; citizen	
+natfe	deny	feu	否		fǒu	deny	
+natmi	nation	min	民		mín	people	
 navni	neon	nai	氖		nǎi	neon	
 naxle	canal	iuenxe	運河	运河	yùn hé	canal	
 nazbi	nose	bi	鼻		bí	nose	
-nejni	energy	nen	能		néng	can; may; capable; energy; able	cf. 能源 [néng yuán] ``energy; power source'' (compound)
-nelci	fond	ci	喜		xǐ	to be fond of; to like; to enjoy; to be happy; to feel pleased; happiness; delight; glad	
-nenri	in	nei	內	内	nèi	inside; inner; internal; within; interior	
-nibli	necessitate	cibicu	勢必需	势必需	shì bì xū	necessitate	FIXIT no reports; 526,000 (602,000) Google hits; cf. 勢必 (势必) [shì bì] ``is bound to (happen)'' (component); cf. 必需 [bì xū] ``essential; indispensable'' (component)
+nejni	energy	nen	能		néng	energy	cf. 能源 [néng yuán] ``energy'' (compound)
+nelci	fond	ci	喜		xǐ	fond	
+nenri	in	nei	內	内	nèi	interior	
+nibli	necessitate	cibicu	勢必需	势必需	shì bì xū	necessitate	FIXIT no reports; 526,000 (602,000) Google hits; cf. 勢必 (势必) [shì bì] ``bound to (happen)'' (component); cf. 必需 [bì xū] ``essential'' (component)
 nicte	night	ie	夜		yè	night	
 nikle	nickel	nie	鎳	镍	niè	nickel	
 nilce	furniture	cence	陳設	陈设	chén shè	furnishings	
 nimre	citrus	ninmen	檸檬	柠檬	níng méng	lemon	
-ninmu	woman	niu	女		nǚ	female; woman	
+ninmu	woman	niu	女		nǚ	woman	
 nirna	nerve	cenjin	神經	神经	shén jīng	nerve	
-nitcu	need	cu	需		xū	to require; to need; to want; necessity; need	
-nivji	knit	ji	織	织	zhī	weave	cf. 編織 (编织) [biān zhī] ``weave; knit; plait; braid'' (compound)
-nixli	girl	niuxai	女孩		nǚ hái	girl; lass	
-nobli	noble	gueizu	貴族	贵族	guì zú	lord; nobility; nobleman; noblewoman	
-notci	message	cin	信		xìn	letter; true; to believe; sign; evidence	cf. 信息 [xìn xī] ``information; news; message'' (compound); cf. 音信 [yīn xìn]  ``message'' (compound)
-nukni	magenta	ianxun	洋紅	洋红	yáng hóng	magenta	source: chinaboard.de
-nupre	promise	nue	諾	诺	nuò	to promise; to yes	
+nitcu	need	cu	需		xū	need	
+nivji	knit	ji	織	织	zhī	weave	cf. 編織 (编织) [biān zhī] ``knit'' (compound)
+nixli	girl	niuxai	女孩		nǚ hái	girl	
+nobli	noble	gueizu	貴族	贵族	guì zú	nobility	
+notci	message	cin	信		xìn	letter	cf. 信息 [xìn xī] ``message'' (compound); cf. 音信 [yīn xìn]  ``message'' (compound)
+nukni	magenta	ianxun	洋紅	洋红	yáng hóng	magenta	
+nupre	promise	nue	諾	诺	nuò	promise	
 nurma	rural	nun	農	农	nóng	agriculture	
 nutli	neutral	junli	中立		zhōng lì	neutral	
 nuzba	news	cinuen	新聞	新闻	xīn wén	news	
-pacna	hope	pan	盼		pàn	to hope for; to long for; to expect	
-pagbu	part	bu	部		bù	ministry; department; section; part; division; troops; board; (a measure word); (a measure word for works of literature, films, machines, etc.)	cf. 部分 [bù fen] ``part; share; section; piece'' (compound); cf. 局部 [jú bù] ``part'' (compound)
-pagre	pass	gue	過	过	guò	(experienced action marker); to cross; to go over; to pass (time); to celebrate (a holiday); to live; to get along; (surname); excessively; too-	cf. 度過 (度过) [dù guò] ``spend; pass'' (compound)
-pajni	judge	pan	判		pàn	to judge; to sentence; to discriminate; to discern	
-palci	evil	cie	邪		xié	demonical; iniquitous; nefarious	
-palku	pants	ku	褲	裤	kù	drawers; trousers; pants	
-palne	tray	pan	盤	盘	pán	dish; tray; to build; to check; to examine; to transfer; (a measure word used for dishes of food or coils of wire); to coil	
+pacna	hope	pan	盼		pàn	hope	
+pagbu	part	bu	部		bù	part	cf. 部分 [bù fen] ``part'' (compound); cf. 局部 [jú bù] ``part'' (compound)
+pagre	pass	gue	過	过	guò	pass	cf. 度過 (度过) [dù guò] ``pass'' (compound)
+pajni	judge	pan	判		pàn	judge	
+palci	evil	cie	邪		xié	demonical	
+palku	pants	ku	褲	裤	kù	pants	
+palne	tray	pan	盤	盘	pán	tray	
 palta	plate	pan	柈		pán	plate	
 pambe	pump	ben	泵		bèng	pump	
-panci	odor	ci	氣	气	qì	gas; air; smell; weather; vital breath; to make sb. angry; to get angry; to be enraged	cf. 氣味 (气味) [qì wèi] ``odor; scent'' (compound)
-pandi	punctuate	biaudian	標點	标点	biāo diǎn	punctuation; punctuate	
+panci	odor	ci	氣	气	qì	smell	cf. 氣味 (气味) [qì wèi] ``odor'' (compound)
+pandi	punctuate	biaudian	標點	标点	biāo diǎn	punctuate	
 panje	sponge	xaimian	海綿	海绵	hǎi mián	sponge	
-panka	park	iuan	苑		yuàn	(surname); park	
-panlo	slice	pian	片		piàn	a slice; piece; flake; thin; slice	
-panpi	peace	an	安		ān	content; calm; still; quiet; to pacify; peace	
+panka	park	iuan	苑		yuàn	park	
+panlo	slice	pian	片		piàn	slice	
+panpi	peace	an	安		ān	peace	
 panra	parallel	pincin	平行		píng xíng	parallel	
-pante	protest	kan	抗		kàng	to resist; to fight; to defy	
-panzi	offspring	zi	子		zǐ	11 p.m.-1 a.m.; 1st earthly branch; child; midnight; son; child; seed; egg; small thing	
-papri	page	mianr	麵兒	面儿	miànr	cover; outside	cf. 頁面 (页面) [yè miàn] ``page; web page'' (component)
-parbi	ratio	bi	比		bǐ	(particle used for comparison and "-er than"); to compare; to contrast; to gesture (with hands); ratio	
-pastu	robe	pau	袍		páo	gown (lined)	
+pante	protest	kan	抗		kàng	defy	
+panzi	offspring	zi	子		zǐ	child	
+papri	page	mianr	麵兒	面儿	miànr	cover	cf. 頁面 (页面) [yè miàn] ``page'' (component)
+parbi	ratio	bi	比		bǐ	ratio	
+pastu	robe	pau	袍		páo	gown	
 patfu	father	fu	父		fù	father	
 patlu	potato	malincu	馬鈴薯	马铃薯	mǎ líng shǔ	potato	
-patxu	pot	xu	壺	壶	hú	pot; (a measure word)	
+patxu	pot	xu	壺	壶	hú	pot	
 pelji	paper	ji	紙	纸	zhǐ	paper	
-pelxu	yellow	xuan	黃	黄	huáng	(surname); sulfur; yellow	
-pemci	poem	ci	詩	诗	shī	poem; poetry; verse	
-penbi	pen	bi	筆	笔	bǐ	pen; pencil; writing brush; to write or compose	
-pencu	touch	pen	碰		pèng	to touch; to meet with; to bump	
+pelxu	yellow	xuan	黃	黄	huáng	yellow	
+pemci	poem	ci	詩	诗	shī	poem	
+penbi	pen	bi	筆	笔	bǐ	pen	
+pencu	touch	pen	碰		pèng	touch	
 pendo	friend	pen	朋		péng	friend	
-penmi	meet	pen	碰		pèng	to touch; to meet with; to bump	cf. 掽 [pèng] ``meet with; to bump'' (variant)
-pensi	think	si	思		sī	to think; to consider	
+penmi	meet	pen	碰		pèng	meet	cf. 掽 [pèng] ``meet with; to bump'' (variant)
+pensi	think	si	思		sī	think	
 perli	pear	li	梨		lí	pear	
-pesxu	paste	xu	糊		hù	paste; cream	cf. 糊 [hú] ``muddled; paste; scorched'' (variant)
-pezli	leaf	iez	葉子	叶子	yè zi	foliage; leaf	
+pesxu	paste	xu	糊		hù	paste	cf. 糊 [hú] ``paste'' (variant)
+pezli	leaf	iez	葉子	叶子	yè zi	leaf	
 pijne	pin	biejen	別針	别针	bié zhēn	pin	
 pikci	beg	ci	乞		qǐ	beg	
-pikta	ticket	piau	票		piào	bank note; ticket	
-pilji	multiply	ji	積	积	jī	to amass; to accumulate; to store; old; long-standing	``Multiplikation (= multiplication)'' (source: chinaboard.de)
-pilka	crust	pi	皮		pí	leather; skin; fur	
-pilno	use	iun	用		yòng	to use	
-pimlu	feather	iumau	羽毛		yǔ máo	feather; plumage; plume	
-pinca	urine	niau	溺		niào	urinate; urine	
+pikta	ticket	piau	票		piào	ticket	
+pilji	multiply	ji	積	积	jī	multiplication	
+pilka	crust	pi	皮		pí	skin	
+pilno	use	iun	用		yòng	use	
+pimlu	feather	iumau	羽毛		yǔ máo	feather	
+pinca	urine	niau	溺		niào	urine	
 pindi	poor	pin	貧	贫	pín	poor	
 pinfu	prisoner	fu	俘		fú	prisoner of war	
 pinji	penis	iinjin	陰莖	阴茎	yīn jīng	penis	
-pinka	comment	pin	評	评	píng	to discuss; to comment; to criticize; to judge; to choose (by public appraisal)	
-pinsi	pencil	tcianbi	鉛筆	铅笔	qiān bǐ	lead pen; pencil	
-pinta	level	pin	平		píng	flat; level; equal; to make the same score; to tie; to draw; calm; peaceful	
-pinxe	drink	xe	喝		hē	my goodness; to drink	
+pinka	comment	pin	評	评	píng	comment	
+pinsi	pencil	tcianbi	鉛筆	铅笔	qiān bǐ	pencil	
+pinta	level	pin	平		píng	level	
+pinxe	drink	xe	喝		hē	drink	
 pipno	piano	jianpan	鍵盤	键盘	jiàn pán	keyboard	
-pixra	picture	xua	畫	画	huà	draw; picture; painting	
-plana	plump	pan	胖		pàng	fat; plump	
-platu	plan	tu	圖	图	tú	diagram; to plan; picture; drawing; chart	
-pleji	pay	ji	支		zhī	(a measure word); to support; to sustain; to erect; to raise; branch; division; to draw money	``pay'' (source: zhongwen.com); cf. 開支 (开支) [kāi zhī] ``expenditures; pay; expenses'' (compound)
-plibu	pubic	iinbu	陰部	阴部	yīn bù	vagina; private parts	cf. 陰毛 (阴毛) [yīn máo] ``pubic hair'' (component)
+pixra	picture	xua	畫	画	huà	picture	
+plana	plump	pan	胖		pàng	plump	
+platu	plan	tu	圖	图	tú	plan	
+pleji	pay	ji	支		zhī	pay	cf. 開支 (开支) [kāi zhī] ``pay'' (compound)
+plibu	pubic	iinbu	陰部	阴部	yīn bù	private parts	cf. 陰毛 (阴毛) [yīn máo] ``pubic hair'' (component)
 plini	planet	cincin	行星		xíng xīng	planet	
-plipe	leap	iue	躍	跃	yuè	to jump; to leap	
+plipe	leap	iue	躍	跃	yuè	leap	
 plise	apple	pingue	蘋果	苹果	píng guǒ	apple	
-plita	plane	pinmian	平面		píng miàn	(n) geometric plane surface; (n) type; category	
+plita	plane	pinmian	平面		píng miàn	plane	
 plixa	plow	li	犁		lí	plow	
-pluja	complicated	fuza	複雜	复杂	fù zá	complicated; complex	
-pluka	please	iukuai	愉快		yú kuài	cheerful; cheerily; delightful; pleasant; pleasantly; pleasing; happy; delighted	
-pluta	route	lu	路		lù	(surname); road; path; way	
-polje	fold	je	摺		zhé	folded document; to fold	cf. 折 [zhé] ``tenth (in price); to break; to fold; to turn'' (variant)
-ponse	possess	iunieu	擁有	拥有	yōng yǒu	to have; to possess	
-porpi	break	po	破		pò	to break; to split; broken; damaged; worn out	
-porsi	sequence	si	次		cì	nth; number (of times); order; sequence; next; second (ary); (measure word)	
-prali	profit	li	利		lì	advantage; benefit; profit; sharp	
+pluja	complicated	fuza	複雜	复杂	fù zá	complicated	
+pluka	please	iukuai	愉快		yú kuài	pleasant	
+pluta	route	lu	路		lù	path	
+polje	fold	je	摺		zhé	fold	cf. 折 [zhé] ``fold'' (variant)
+ponse	possess	iunieu	擁有	拥有	yōng yǒu	possess	
+porpi	break	po	破		pò	break	
+porsi	sequence	si	次		cì	sequence	
+prali	profit	li	利		lì	profit	
 prami	love	reai	熱愛	热爱	rè ài	ardently love	
-prane	perfect	uanmei	完美		wán měi	perfect; perfection; perfectly	
-preja	spread	jan	展		zhǎn	to use; to spread out; to postpone; to unfold	
-prenu	person	ren	人		rén	man; person; people	
-preti	question	uenti	問題	问题	wèn tí	problem; issue; topic	
-prije	wise	je	哲		zhé	philosophy; wise	
-prina	print	iin	印		yìn	stamp; seal; mark; print; India (abbrev.)	
+prane	perfect	uanmei	完美		wán měi	perfect	
+preja	spread	jan	展		zhǎn	spread	
+prenu	person	ren	人		rén	person	
+preti	question	uenti	問題	问题	wèn tí	problem	
+prije	wise	je	哲		zhé	wise	
+prina	print	iin	印		yìn	print	
 pritu	right	ieu	右		yòu	right (-hand)	
 prosa	prose	sanuen	散文		sǎn wén	prose	
-pruce	process	guecen	過程	过程	guò chéng	course of events; process	
-pruni	elastic	tancin	彈性	弹性	tán xìng	elasticity (physics); flexibility	
-pruxi	spirit	guei	鬼		guǐ	ghost; sly; crafty	
-pulce	dust	cen	塵	尘	chén	dust; dirt; earth	
-pulji	police	jin	警		jǐng	to alert; to warn	cf. 警察 [jǐng chá] ``police; policeman; policewoman'' (compound); cf. 警方 [jǐng fāng] ``police'' (compound)
+pruce	process	guecen	過程	过程	guò chéng	process	
+pruni	elastic	tancin	彈性	弹性	tán xìng	elasticity	
+pruxi	spirit	guei	鬼		guǐ	ghost	
+pulce	dust	cen	塵	尘	chén	dust	
+pulji	police	jin	警		jǐng	alert	cf. 警察 [jǐng chá] ``police'' (compound); cf. 警方 [jǐng fāng] ``police'' (compound)
 pulni	pulley	xualun	滑輪	滑轮	huá lún	block and tackle	
-punji	put	ji	置		zhì	to install; to place; to put	
+punji	put	ji	置		zhì	put	
 punli	swelling	jun	腫	肿	zhǒng	swollen	cf. 尰 [zhǒng] ``swell'' (variant)
-purci	past	ci	昔		xī	past; former	
-purdi	garden	pu	圃		pǔ	garden; orchard	
-purmo	powder	mo	磨		mó	to sharpen; to delay; hardship; to grind; to rub	FIXIT dubious
-racli	sane	xeli	合理		hé lǐ	rationale; reasonable	
+purci	past	ci	昔		xī	past	
+purdi	garden	pu	圃		pǔ	garden	
+purmo	powder	mo	磨		mó	grind	FIXIT dubious
+racli	sane	xeli	合理		hé lǐ	reasonable	
 ractu	rabbit	tu	兔		tù	rabbit	
-rafsi	affix	sijuei	詞綴	词缀	cí zhuì	affix	``Affix (= affix)'' (source: chinaboard.de)
-ragve	across	gue	過	过	guò	(experienced action marker); to cross; to go over; to pass (time); to celebrate (a holiday); to live; to get along; (surname); excessively; too-	
+rafsi	affix	sijuei	詞綴	词缀	cí zhuì	affix	
+ragve	across	gue	過	过	guò	cross	
 raktu	trouble	rau	擾	扰	rǎo	disturb	cf. 嬈 (娆) [rǎo] ``disturbance'' (variant)
 ralci	delicate	ci	緻	致	zhì	fine and close	
-ralju	principal	ju	主		zhǔ	to own; to host; master; lord; primary	
-ralte	retain	lieu	留		liú	leave (message); to retain; to stay; to remain; to keep; to preserve	
-randa	yield	cian	遷	迁	qiān	to move; to shift	cf. 遷就 (迁就) [qiān jiù] ``to yield; to adapt to; to accommodate to (sth)'' (compound)
-rango	organ	guan	官		guān	official; government; organ of body	
-ranji	continue	ji	繼	继	jì	to continue; to follow after; then; afterwards; to go on with; to succeed; to inherit	
+ralju	principal	ju	主		zhǔ	primary	
+ralte	retain	lieu	留		liú	retain	
+randa	yield	cian	遷	迁	qiān	shift	cf. 遷就 (迁就) [qiān jiù] ``yield'' (compound)
+rango	organ	guan	官		guān	organ of body	
+ranji	continue	ji	繼	继	jì	continue	
 ranmi	myth	cuanci	傳奇	传奇	chuán qí	legend	
 ransu	bronze	cintun	青銅	青铜	qīng tóng	bronze	
-ranti	soft	ruan	軟	软	ruǎn	soft; flexible	
-ranxi	irony	fanxua	反話	反话	fǎn huà	ironic; sarcastic; sarcasm	source: chinaboard.de; cf. 反語法 (反语法) [fǎn yǔ fǎ] ``irony'' (component)
+ranti	soft	ruan	軟	软	ruǎn	soft	
+ranxi	irony	fanxua	反話	反话	fǎn huà	ironic	cf. 反語法 (反语法) [fǎn yǔ fǎ] ``irony'' (component)
 rapli	repeat	liu	屢	屡	lǚ	time and again	
-rarna	natural	ziran	自然		zì rán	nature; natural; naturally	
-ratcu	rat	cu	鼠		shǔ	rat; mouse	
-ratni	atom	iuanzi	原子		yuán zǐ	atom; atomic	
+rarna	natural	ziran	自然		zì rán	natural	
+ratcu	rat	cu	鼠		shǔ	rat	
+ratni	atom	iuanzi	原子		yuán zǐ	atom	
 rebla	tail	ueiba	尾巴		wěi ba	tail	
-rectu	meat	reu	肉		ròu	meat; flesh	
-remna	human	ren	人		rén	man; person; people	
+rectu	meat	reu	肉		ròu	meat	
+remna	human	ren	人		rén	person	
 renro	throw	ren	扔		rēng	throw	
-renvi	survive	ren	忍		rěn	to beat; to endure; to tolerate	
-respa	reptile	pacun	爬蟲	爬虫	pá chóng	reptile (old or common word for 爬行動物 (爬行动物))	
+renvi	survive	ren	忍		rěn	endure	
+respa	reptile	pacun	爬蟲	爬虫	pá chóng	reptile	
 ricfu	rich	fu	富		fù	rich	
 rigni	disgust	ian	厭	厌	yàn	loathe	
 rijno	silver	iin	銀	银	yín	silver	
-rilti	rhythm	iuenliu	韻律	韵律	yùn lǜ	rhythm; meter	source: zhongwen.com
+rilti	rhythm	iuenliu	韻律	韵律	yùn lǜ	rhythm	
 rimni	rhyme	iun	韻	韵	yùn	rhyme	
 rinci	drain	paicie	排水		pái shuǐ	drain	
-rinju	restrain	ju	拘		jū	adhere; capture; restrain	
-rinka	cause	iin	因		yīn	cause; reason; because	
-rinsa	greet	iin	迎		yíng	to welcome	
-rirci	rare	ci	希		xī	rare; infrequent	
-rirni	parent	ianiu	養育	养育	yǎng yù	foster; rear	
+rinju	restrain	ju	拘		jū	restrain	
+rinka	cause	iin	因		yīn	cause	
+rinsa	greet	iin	迎		yíng	welcome	
+rirci	rare	ci	希		xī	rare	
+rirni	parent	ianiu	養育	养育	yǎng yù	rear	
 rirxe	river	xe	河		hé	river	
-rismi	rice	mi	米		mǐ	(measure word) meter; rice	
+rismi	rice	mi	米		mǐ	rice	
 risna	heart	cinzan	心臟	心脏	xīn zàng	heart	
-ritli	rite	li	禮	礼	lǐ	gift; propriety; rite	
-rivbi	avoid	bi	避		bì	avoid; shun; flee; escape; leave; to keep away; to leave; to hide	
-rokci	rock	ci	石		shí	rock; stone	
+ritli	rite	li	禮	礼	lǐ	rite	
+rivbi	avoid	bi	避		bì	avoid	
+rokci	rock	ci	石		shí	rock	
 romge	chrome	ge	鉻	铬	gè	chromium	
-rorci	procreate	cin	親	亲	qīn	dear; intimate; parent; relation; closely related	
-rotsu	thick	su	粗		cū	coarse; rough; thick; unfinished; vulgar; rude; crude	
-rozgu	rose	maiguei	玫瑰		méi guī	(n) rose flower	FIXIT correct transcription ``meiguei''
-ruble	weak	rue	弱		ruò	weak; feeble; young; inferior	
-rufsu	rough	su	粗		cū	coarse; rough; thick; unfinished; vulgar; rude; crude	cf. 麤 [cū] ``coarse; rough; rude'' (variant)
-runme	melt	run	融		róng	harmonious; melt; mild	
+rorci	procreate	cin	親	亲	qīn	parent	
+rotsu	thick	su	粗		cū	thick	
+rozgu	rose	maiguei	玫瑰		méi guī	rose flower	FIXIT correct transcription ``meiguei''
+ruble	weak	rue	弱		ruò	weak	
+rufsu	rough	su	粗		cū	rough	cf. 麤 [cū] ``rough'' (variant)
+runme	melt	run	融		róng	melt	
 runta	dissolve	run	溶		róng	dissolve	
-rupnu	dollar	iuan	元		yuán	(dynasty); dollar; primary; first	
-rutni	artifact	rengun	人工		rén gōng	artificial; manpower; manual work	
-sabji	provide	ji	給	给	jǐ	to supply; provide	
-sabnu	cabin	san	倉	仓	cāng	barn; granary; storehouse; cabin; hold (in ship)	cf. 艙 (舱) [cāng] ``cabin; the hold of a ship or airplane'' (variant)
+rupnu	dollar	iuan	元		yuán	yuan	
+rutni	artifact	rengun	人工		rén gōng	artificial	
+sabji	provide	ji	給	给	jǐ	provide	
+sabnu	cabin	san	倉	仓	cāng	cabin	cf. 艙 (舱) [cāng] ``cabin'' (variant)
 sacki	match	xuecai	火柴		huǒ chái	match	
-saclu	decimal	ciaucu	小數	小数	xiǎo shù	(n) decimal; decimal value	
-sakci	suck	ci	吸		xī	to breathe; to suck in; to absorb; to inhale	
-sakli	slide	lieu	溜		liū	slip away; to skate	
-sakta	sugar	tan	糖		táng	sugar; sweets; candy	
+saclu	decimal	ciaucu	小數	小数	xiǎo shù	decimal	
+sakci	suck	ci	吸		xī	suck	
+sakli	slide	lieu	溜		liū	slip	
+sakta	sugar	tan	糖		táng	sugar	
 salci	celebrate	cin	慶	庆	qìng	celebrate	
 salpo	slope	po	坡		pō	slope	
 salta	salad	sela	色拉		sè lā	salad	
-samcu	cassava	cu	薯		shǔ	potato; yam	cf. 藷 [shǔ] ``potato; yam'' (variant)
-sampu	simple	pu	樸	朴	pǔ	Pak or Park (Korean surname); plain and simple	
-sance	sound	cen	聲	声	shēng	sound; voice; (a measure word, used for sounds); tone; noise	
-sanga	sing	can	唱		chàng	sing; to call loudly; to chant	
-sanji	conscious	ji	知		zhī	to know; to be aware	
-sanli	stand	li	立		lì	set up; to stand	
-sanmi	meal	san	餐		cān	eat; meal	
-sanso	sauce	jian	醬	酱	jiàng	jam; thick sauce	
-santa	umbrella	san	傘	伞	sǎn	umbrella; parasol	cf. 繖 [sǎn] ``umbrella; parasol'' (variant)
-sarcu	necessary	cu	須	须	xū	beard; necessary; must	
-sarji	support	ji	支		zhī	(a measure word); to support; to sustain; to erect; to raise; branch; division; to draw money	
-sarlu	spiral	lue	螺		luó	screw; snail	cf. 螺線 (螺线) [luó xiàn] ``spiral'' (compound); cf. 螺旋形 [luó xuán xíng] ``spiral'' (compound)
+samcu	cassava	cu	薯		shǔ	yam	cf. 藷 [shǔ] ``yam'' (variant)
+sampu	simple	pu	樸	朴	pǔ	plain and simple	
+sance	sound	cen	聲	声	shēng	sound	
+sanga	sing	can	唱		chàng	sing	
+sanji	conscious	ji	知		zhī	aware	
+sanli	stand	li	立		lì	stand	
+sanmi	meal	san	餐		cān	meal	
+sanso	sauce	jian	醬	酱	jiàng	thick sauce	
+santa	umbrella	san	傘	伞	sǎn	umbrella	cf. 繖 [sǎn] ``umbrella'' (variant)
+sarcu	necessary	cu	須	须	xū	necessary	
+sarji	support	ji	支		zhī	support	
+sarlu	spiral	lue	螺		luó	screw	cf. 螺線 (螺线) [luó xiàn] ``spiral'' (compound); cf. 螺旋形 [luó xuán xíng] ``spiral'' (compound)
 sarxe	harmonious	xe	龢		hé	harmonious	
-saske	science	keciue	科學	科学	kē xué	science; scientific knowledge; scientific	
-satci	exact	cuecie	確切	确切	què qiè	definite; exact; precise	
-satre	stroke	sa	擦		cā	to wipe; to erase; rubbing (brush stroke in painting); to clean; to polish	
-savru	noise	sau	噪		zào	chirp; mixture of voices; noise; buzzing; clamor	FIXIT correct transcription ``zau''
-sazri	operate	sauzue	操作		cāo zuò	to operate	
-sefta	surface	se	側	侧	cè	the side; to incline towards; to lean; inclined; lateral; side	see gismu def. ``the surface of [a higher-dimension object] [on side] [with edges]''
+saske	science	keciue	科學	科学	kē xué	science	
+satci	exact	cuecie	確切	确切	què qiè	exact	
+satre	stroke	sa	擦		cā	wipe	
+savru	noise	sau	噪		zào	noise	FIXIT correct transcription ``zau''
+sazri	operate	sauzue	操作		cāo zuò	operate	
+sefta	surface	se	側	侧	cè	side	
 selci	cell	cibau	細胞	细胞	xì bāo	cell	
-selfu	serve	fu	服		fú	clothes; dress; garment; submit; take (medicine)	FIXIT dubious; ``etw. auf sich nehmen, übernehmen (= to assume)'' (source: chinaboard.de); cf. 服役 [fú yì] ``serve in the army; be in active service'' (compound)
+selfu	serve	fu	服		fú	assume a task	FIXIT dubious; cf. 服役 [fú yì] ``serve in the army'' (compound)
 senci	sneeze	penti	噴嚏	喷嚏	pēn tì	sneeze	
-senpi	doubt	iiuen	疑問	疑问	yí wèn	interrogation; interrogative; query	
-senta	layer	sen	層	层	céng	a measure word for layers; laminated; repeated; floor; story (of a building); layer; (math.) sheaf	
-senva	dream	men	夢	梦	mèng	to dream	
-sepli	apart	fenli	分離	分离	fēn lí	to separate	
+senpi	doubt	iiuen	疑問	疑问	yí wèn	query	
+senta	layer	sen	層	层	céng	layer	
+senva	dream	men	夢	梦	mèng	dream	
+sepli	apart	fenli	分離	分离	fēn lí	separate	
 serti	stairs	ti	梯		tī	ladder	
-setca	insert	ca	插		chā	insert; stick in; pierce; to take part in; to interfere; to interpose	
-sevzi	self	zi	自		zì	from; self; oneself; since	
-sfani	fly	saniin	蒼蠅	苍蝇	cāng ying	(n) house fly	
-sfasa	punish	fa	罰	罚	fá	to punish; to penalize	
+setca	insert	ca	插		chā	insert	
+sevzi	self	zi	自		zì	self	
+sfani	fly	saniin	蒼蠅	苍蝇	cāng ying	house fly	
+sfasa	punish	fa	罰	罚	fá	punish	
 sfofa	sofa	cafa	沙發	沙发	shā fā	sofa	
-sfubu	dive	fucun	俯衝	俯冲	fǔ chòng	(v) dive (through the air, down a slope, etc)	
-siclu	whistle	cau	嘯	啸	xiào	to hiss; to whistle	
+sfubu	dive	fucun	俯衝	俯冲	fǔ chòng	dive	
+siclu	whistle	cau	嘯	啸	xiào	whistle	
 sicni	coin	iinbi	硬幣	硬币	yìng bì	coin	
-sidbo	idea	si	思		sī	to think; to consider	
-sidju	help	ju	助		zhù	to help; to assist	
+sidbo	idea	si	思		sī	think	
+sidju	help	ju	助		zhù	help	
 sigja	cigar	ciuejia	雪茄		xuě jiā	cigar	
-silka	silk	si	絲	丝	sī	silk; thread; trace	
+silka	silk	si	絲	丝	sī	silk	
 silna	salt	ian	鹽	盐	yán	salt	
-simlu	seem	si	似		sì	to seem; to appear; similar; like; to resemble	
-simsa	similar	si	似		sì	to seem; to appear; similar; like; to resemble	
+simlu	seem	si	似		sì	seem	
+simsa	similar	si	似		sì	similar	
 simxu	mutual	xu	互		hù	mutual	
-since	snake	ce	蛇		shé	snake; serpent	
-sinma	esteem	jin	矜		jīn	boast; esteem; sympathize	
-sinxa	sign	xau	號	号	hào	day of a month; (suffix used after) name of a ship; (ordinal) number; bugle	``mark, sign'' (source: zhongwen.com); cf. 符號 (符号) [fú hào] ``symbol; mark; sign'' (compound)
+since	snake	ce	蛇		shé	snake	
+sinma	esteem	jin	矜		jīn	esteem	
+sinxa	sign	xau	號	号	hào	sign	cf. 符號 (符号) [fú hào] ``sign'' (compound)
 sipna	sleep	mian	眠		mián	sleep	
-sirji	straight	ji	直		zhí	straight; vertical; frank; directly; straightly; upright	
-sisku	seek	seu	搜		sōu	to search	
-sisti	cease	tin	停		tíng	to stop; to halt; to park (a car)	
-sitna	cite	iin	引		yǐn	to lead; to divert (water); to guide	``quote; cite'' (source: zhongwen.com); cf. 引用 [yǐn yòng] ``quote; cite'' (compound); cf. 援引 [yuán yǐn] ``quote; cite'' (compound)
-sivni	private	si	私		sī	personal; private; selfish	
+sirji	straight	ji	直		zhí	straight	
+sisku	seek	seu	搜		sōu	search	
+sisti	cease	tin	停		tíng	stop	
+sitna	cite	iin	引		yǐn	cite	cf. 引用 [yǐn yòng] ``cite'' (compound); cf. 援引 [yuán yǐn] ``cite'' (compound)
+sivni	private	si	私		sī	private	
 skaci	skirt	ciun	裙		qún	skirt	
-skami	computer	jisuanji	計算機	计算机	jì suàn jī	computer; calculator	
-skapi	pelt	pi	皮		pí	leather; skin; fur	
-skari	color	sai	彩		cǎi	(bright) color; variety; applause; applaud; (lottery) prize	cf. 綵 (彩) [cǎi] ``colored; variegated'' (variant)
-skicu	describe	miaucu	描述		miáo shù	to describe	
-skiji	ski	xuaciueji	滑雪		huá xuě	to ski; skiing	FIXIT missing component ``ji''
-skina	cinema	iin	影		yǐng	picture; image; reflection; shadow	cf. 電影院 (电影院) [diàn yǐng yuàn] ``cinema; movie theater'' (compound)
-skori	cord	suo	鎍		suǒ	chain; wire	
-skuro	groove	sau	槽		cáo	manger; trough; groove	
-slabu	old	lau	老		lǎo	numeral indicating the order of birth of the children in a family or to indicate affection or familiarity); old (of people); venerable (person)	cf. 古老 [gǔ lǎo] ``ancient; old; age-old'' (compound)
+skami	computer	jisuanji	計算機	计算机	jì suàn jī	computer	
+skapi	pelt	pi	皮		pí	skin	
+skari	color	sai	彩		cǎi	(bright) color	cf. 綵 (彩) [cǎi] ``colored'' (variant)
+skicu	describe	miaucu	描述		miáo shù	describe	
+skiji	ski	xuaciueji	滑雪		huá xuě	ski	FIXIT missing component ``ji''
+skina	cinema	iin	影		yǐng	picture	cf. 電影院 (电影院) [diàn yǐng yuàn] ``cinema'' (compound)
+skori	cord	suo	鎍		suǒ	wire	
+skuro	groove	sau	槽		cáo	groove	
+slabu	old	lau	老		lǎo	old (of people)	cf. 古老 [gǔ lǎo] ``old'' (compound)
 slaka	syllable	iinjie	音節	音节	yīn jié	syllable	
-slami	acid	suan	酸		suān	sour; sore; ache; acid	
-slanu	cylinder	iuanju	圓柱	圆柱	yuán zhù	column; cylinder	
-slari	sour	suan	酸		suān	sour; sore; ache; acid	
+slami	acid	suan	酸		suān	acid	
+slanu	cylinder	iuanju	圓柱	圆柱	yuán zhù	cylinder	
+slari	sour	suan	酸		suān	sour	
 slasi	plastic	suliau	塑料		sù liào	plastics	
-sligu	solid	gu	固		gù	hard; strong; solid; sure	
-slilu	oscillate	iau	搖	摇	yáo	shake; to rock	pretty unambiguous Lojbanised form, only pinyin match with related meaning
+sligu	solid	gu	固		gù	solid	
+slilu	oscillate	iau	搖	摇	yáo	shake	
 sliri	sulfur	lieu	硫		liú	sulfur	
-sluji	muscle	ji	肌		jī	flesh; muscle	
-sluni	onion	sun	蔥	葱	cōng	scallion; green onion	
-smacu	mouse	cu	鼠		shǔ	rat; mouse	
-smadi	guess	sai	猜		cāi	to guess	
-smaji	quiet	ji	寂		jì	lonesome	``silent'' (source: zhongwen.com); cf. 寂靜 (寂静) [jì jìng] ``quiet'' (compound)
-smani	monkey	iuan	猿		yuán	ape	cf. 猭 [yuán] ``ape; Hylobates agilis'' (variant); cf. 蝯 [yuán] ``ape'' (variant)
-smoka	sock	ua	襪	袜	wà	socks; stockings	
+sluji	muscle	ji	肌		jī	muscle	
+sluni	onion	sun	蔥	葱	cōng	scallion	
+smacu	mouse	cu	鼠		shǔ	mouse	
+smadi	guess	sai	猜		cāi	guess	
+smaji	quiet	ji	寂		jì	silent	cf. 寂靜 (寂静) [jì jìng] ``quiet'' (compound)
+smani	monkey	iuan	猿		yuán	ape	cf. 猭 [yuán] ``ape'' (variant); cf. 蝯 [yuán] ``ape'' (variant)
+smoka	sock	ua	襪	袜	wà	socks	
 smuci	spoon	ci	匙		chí	spoon	
-smuni	meaning	uei	為	为	wéi	act as; take...to be; to be; to do; to serve as; to become	``bedeuten (= to mean)'' (source: chinaboard.de)
-snada	succeed	da	達	达	dá	attain; pass through; achieve; reach; realize; clear; inform; notify; dignity	
+smuni	meaning	uei	為	为	wéi	mean	
+snada	succeed	da	達	达	dá	achieve	
 snanu	south	nan	南		nán	south	
-snidu	second	miau	秒		miǎo	(a measure word); second	
+snidu	second	miau	秒		miǎo	second	
 snime	snow	ciue	雪		xuě	snow	
 snipa	sticky	nian	粘		nián	sticky	cf. 黏 [nián] ``sticky'' (variant)
 snuji	sandwich	sanminji	三明治		sān míng zhì	sandwich	
-snura	secure	ancuan	安全		ān quán	safe; secure; safety; security	
+snura	secure	ancuan	安全		ān quán	secure	
 snuti	accidental	iiuai	意外		yì wài	unexpected	
-sobde	soya	deu	荳	豆	dòu	bean; peas	
+sobde	soya	deu	荳	豆	dòu	bean	
 sodna	sodium	na	鈉	钠	nà	sodium	
-sodva	soda	suda	苏打	蘇打	sū dǎ	soda	cf. 苏打水 (蘇打水) [sū dǎ shui] ``Mineralwasser (mit Kohlensäure) (= sparkling water)'' (compound) (source: chinaboard.de)
-solji	gold	jin	金		jīn	metal; money; gold	
-solri	solar	ri	日		rì	day; sun; date; day of the month; Japan (abbrev.)	
-sombo	sow	bo	播		bō	sow; scatter; spread; broadcast	
-sonci	soldier	ci	士		shì	scholar; warrior; knight	
-sorcu	store	cu	儲	储	chǔ	savings; to save; to deposit; to store; (a surname)	cf. 儲藏 (储藏) [chǔ cáng] ``store; deposit; (oil, mineral, etc) deposits'' (compound); cf. 短時儲 (短时储) [duǎn shí chǔ] ``short-term storage; store'' (compound); cf. 蓄 [xù] ``to store'' (variant); cf. 胥 [xū] ``all; assist; to store'' (variant)
+sodva	soda	suda	苏打	蘇打	sū dǎ	soda	cf. 苏打水 (蘇打水) [sū dǎ shui] ``sparkling water'' (compound)
+solji	gold	jin	金		jīn	gold	
+solri	solar	ri	日		rì	sun	
+sombo	sow	bo	播		bō	sow	
+sonci	soldier	ci	士		shì	warrior	
+sorcu	store	cu	儲	储	chǔ	store	cf. 儲藏 (储藏) [chǔ cáng] ``store'' (compound); cf. 短時儲 (短时储) [duǎn shí chǔ] ``store'' (compound); cf. 蓄 [xù] ``store'' (variant); cf. 胥 [xū] ``store'' (variant)
 sorgu	sorghum		粱		liáng	sorghum	FIXIT error in gismu generation: ``typo should have been sargu, loses all Chinese and Hindi''
-sovda	egg	dan	蛋		dàn	egg; oval shaped	
-spaji	surprise	jin	驚	惊	jīng	to start; to be frightened; to be scared; alarm	``startle; alarm'' (source: zhongwen.com)
-spali	polish	salian	擦亮		cā liàng	(vt) burnish	
-spati	plant	sai	菜		cài	dish (type of food); vegetables	``vegetable'' (source: zhongwen.com)
-speni	married	pei	配		pèi	to join; to fit; to mate; to mix; to match; to deserve; to make up (a prescription)	cf. 配偶 [pèi ǒu] ``consort; mate; spouse'' (compound)
-spisa	piece	pian	片		piàn	a slice; piece; flake; thin; slice	
+sovda	egg	dan	蛋		dàn	egg	
+spaji	surprise	jin	驚	惊	jīng	startle	
+spali	polish	salian	擦亮		cā liàng	burnish	
+spati	plant	sai	菜		cài	vegetable	
+speni	married	pei	配		pèi	mate	cf. 配偶 [pèi ǒu] ``spouse'' (compound)
+spisa	piece	pian	片		piàn	piece	
 spita	hospital	iiiuan	醫院	医院	yī yuàn	hospital	
-spofu	broken	po	破		pò	to break; to split; broken; damaged; worn out	
+spofu	broken	po	破		pò	broken	
 spoja	explode	ja	炸		zhà	explode	
-spuda	reply	da	答		dá	reply; answer; return; respond; echo	
-sputu	spit	tu	吐		tǔ	to spit	
-sraji	vertical	ji	直		zhí	straight; vertical; frank; directly; straightly; upright	
-sraku	scratch	sau	搔		sāo	disturb; to scratch	
-srana	pertain	guan	關	关	guān	(surname); mountain pass; to close; to shut; to turn off; to concern; to involve	
-srasu	grass	sau	草		cǎo	grass; straw; draft (of a document); careless; rough; manuscript; hasty	cf. 艸 [cǎo] ``grass'' (variant)
-srera	err	sue	蹉		cuō	error; slip; miss; err	
-sruma	assume	ru	如		rú	as (if); such as	FIXIT dubious; cf. 假如 [jiǎ rú] ``supposing'' (compound) (source: zhongwen.com)
-sruri	surround	uei	圍	围	wéi	to circle; to surround	
-stace	honest	cen	誠	诚	chéng	honest; sincere; true	
-stagi	vegetable	sai	菜		cài	dish (type of food); vegetables	
+spuda	reply	da	答		dá	reply	
+sputu	spit	tu	吐		tǔ	spit	
+sraji	vertical	ji	直		zhí	vertical	
+sraku	scratch	sau	搔		sāo	scratch	
+srana	pertain	guan	關	关	guān	concern	
+srasu	grass	sau	草		cǎo	grass	cf. 艸 [cǎo] ``grass'' (variant)
+srera	err	sue	蹉		cuō	err	
+sruma	assume	ru	如		rú	as if	FIXIT dubious; cf. 假如 [jiǎ rú] ``supposing'' (compound)
+sruri	surround	uei	圍	围	wéi	surround	
+stace	honest	cen	誠	诚	chéng	honest	
+stagi	vegetable	sai	菜		cài	vegetables	
 staku	ceramic	tau	匋		táo	pottery	
-stali	remain	lieu	留		liú	leave (message); to retain; to stay; to remain; to keep; to preserve	cf. 留下 [liú xià] ``remain'' (compound)
-stani	stalk	gan	干		gān	to concern; to interfere; shield; stem	
+stali	remain	lieu	留		liú	remain	cf. 留下 [liú xià] ``remain'' (compound)
+stani	stalk	gan	干		gān	stem	
 stapa	step	tabu	踏步		tà bù	step	FIXIT no reports; 4,020,000 Google hits; cf. 蹋步 [tà bù] ``step'' (variant), no reports
-stasu	soup	tan	湯	汤	tāng	(surname); soup	
-stati	talent	sai	才		cái	ability; talent; endowment; gift; an expert; only (then); only if; just	
-steba	frustration	suebai	挫敗	挫败	cuò bài	thwart; defeat; foil (someone's plans, etc)	
-steci	specific	te	特		tè	male animal; special (-ly)	
+stasu	soup	tan	湯	汤	tāng	soup	
+stati	talent	sai	才		cái	talent	
+steba	frustration	suebai	挫敗	挫败	cuò bài	thwart	
+steci	specific	te	特		tè	special	
 stedu	head	teu	頭	头	tóu	head	
-stela	lock	sue	鎖	锁	suǒ	to lock up; to lock	
+stela	lock	sue	鎖	锁	suǒ	lock	
 stici	west	ci	西		xī	west	
-stidi	suggest	tiii	提議	提议	tí yì	proposal; suggestion; to propose; to suggest	
-stika	adjust	tiaujen	調節	调节	tiáo jié	adjust; regulate	
+stidi	suggest	tiii	提議	提议	tí yì	suggest	
+stika	adjust	tiaujen	調節	调节	tiáo jié	adjust	
 stizu	chair	iiz	椅子		yǐ zi	chair	
-stodi	constant	din	定		dìng	to set; to fix; to determine; to decide; to order	cf. 固定 [gù dìng] ``konstant (= constant)'' (compound) (source: chinaboard.de); cf. 恆定 (恒定) [héng dìng] ``konstant (constant)'' (compound) (source: chinaboard.de)
+stodi	constant	din	定		dìng	fix	cf. 固定 [gù dìng] ``constant'' (compound); cf. 恆定 (恒定) [héng dìng] ``constant'' (compound)
 stuna	east	dun	東	东	dōng	east	
-stura	structure	geuzau	構造	构造	gòu zào	structure; composition	
-stuzi	site	uei	位		wèi	position; location; (measure word for persons); place; seat	
+stura	structure	geuzau	構造	构造	gòu zào	structure	
+stuzi	site	uei	位		wèi	location	
 sucta	abstract	ceucian	抽象		chōu xiàng	abstract	
-sudga	dry	gan	乾	干	gān	dry; clean	
-sufti	hoof	ti	蹄		tí	hoof; pork shoulder	cf. 啼 [tí] ``mourn; to cry; hoof'' (variant)
-suksa	sudden	su	速		sù	fast; rapid; quick	cf. 猝 [cù] ``abrupt; hurried'' (variant); cf. 卒 [cù] ``abruptly; hurriedly'' (variant)
-sumji	sum	jia	加		jiā	to add; plus	
-sumne	smell	uen	聞	闻	wén	(surname); hear; sniff at	
-sumti	argument	ti	題	题	tí	topic; subject; to inscribe; to superscribe	
+sudga	dry	gan	乾	干	gān	dry	
+sufti	hoof	ti	蹄		tí	hoof	cf. 啼 [tí] ``hoof'' (variant)
+suksa	sudden	su	速		sù	quick	cf. 猝 [cù] ``abrupt'' (variant); cf. 卒 [cù] ``abruptly'' (variant)
+sumji	sum	jia	加		jiā	plus	
+sumne	smell	uen	聞	闻	wén	sniff	
+sumti	argument	ti	題	题	tí	subject	
 sunga	garlic	suna	蒜		suàn	garlic	FIXIT correct transcription ``suan''
-sunla	wool	ianmau	羊毛		yáng máo	fleece; wool; woolen	
-surla	relax	sun	鬆	松	sōng	loose	cf. 放鬆 (放松) [fàng sōng] ``loosen; relax'' (compound)
-sutra	fast	su	速		sù	fast; rapid; quick	
-tabno	carbon	tan	炭		tàn	carbon; charcoal	cf. 碳 [tàn] ``carbon'' (variant)
-tabra	trumpet	laba	喇叭		lǎ ba	loudspeaker; trumpet	
-tadji	method	ji	制		zhì	system; to make; to manufacture; to control; to regulate	``Methode; System (= method; system)'' (source: chinaboard.de)
+sunla	wool	ianmau	羊毛		yáng máo	wool	
+surla	relax	sun	鬆	松	sōng	loose	cf. 放鬆 (放松) [fàng sōng] ``loosen'' (compound)
+sutra	fast	su	速		sù	fast	
+tabno	carbon	tan	炭		tàn	carbon	cf. 碳 [tàn] ``carbon'' (variant)
+tabra	trumpet	laba	喇叭		lǎ ba	trumpet	
+tadji	method	ji	制		zhì	method	
 tadni	study	ianjieu	研究		yán jiū	research	
-tagji	snug	jin	緊	紧	jǐn	tight; nervous; strict	
+tagji	snug	jin	緊	紧	jǐn	tight	
 talsa	challenge	tiaujan	挑戰	挑战	tiǎo zhàn	challenge	
-tamca	tomato	fancie	番茄		fān qié	(n) tomato	
+tamca	tomato	fancie	番茄		fān qié	tomato	
 tamji	thumb	muji	拇指		mǔ zhǐ	thumb	
-tamne	cousin	tan	堂		táng	(main) hall; large room	cf. 堂弟 [táng dì] ``jüngerer Cousin väterlicherseits (younger paternal cousin)'' (compound); cf. 堂姊妹 [táng jiě mèi] ``(n) Cousine (female cousin)'' (compound)
-tanbo	board	ban	板		bǎn	board; plank; plate; slab	
+tamne	cousin	tan	堂		táng	hall	cf. 堂弟 [táng dì] ``younger paternal cousin'' (compound); cf. 堂姊妹 [táng jiě mèi] ``female cousin'' (compound)
+tanbo	board	ban	板		bǎn	board	
 tance	tongue	ce	舌		shé	tongue	
-tanko	tobacco	ian	煙	烟	yān	cigarette; tobacco; smoke	cf. 菸 [yān] ``cigarette; tobacco'' (variant)
+tanko	tobacco	ian	煙	烟	yān	tobacco	cf. 菸 [yān] ``tobacco'' (variant)
 tanru	metaphor	iiniu	隱喻	隐喻	yǐn yù	metaphor	
-tansi	pan	uan	碗		wǎn	bowl; cup	
-tanxe	box	xe	盒		hé	small box; case	
-tapla	tile	uapian	瓦片		wǎ piàn	tile	source: zhongwen.com
-tarbi	embryo	tai	胎		tāi	fetus; litter	cf. 胚胎 [pēi tāi] ``embryo'' (compound)
-tarci	star	cin	星		xīng	star; satellite; small amount	
+tansi	pan	uan	碗		wǎn	bowl	
+tanxe	box	xe	盒		hé	small box	
+tapla	tile	uapian	瓦片		wǎ piàn	tile	
+tarbi	embryo	tai	胎		tāi	fetus	cf. 胚胎 [pēi tāi] ``embryo'' (compound)
+tarci	star	cin	星		xīng	star	
 tarla	tar	ta					FIXIT missing
-tarmi	shape	tai	態	态	tài	attitude	FIXIT dubious; cf. 形態 (形态) [xíng tài] ``shape; form; pattern'' (compound)
-tarti	behave	taidu	態度	态度	tài du	manner; bearing; attitude; approach	
+tarmi	shape	tai	態	态	tài	attitude	FIXIT dubious; cf. 形態 (形态) [xíng tài] ``shape'' (compound)
+tarti	behave	taidu	態度	态度	tài du	manner	
 taske	thirst	ke	渴		kě	thirsty	
 tatpi	tired	pi	疲		pí	weary	
-tatru	breast	ru	乳		rǔ	breast; milk	
-tavla	talk	tan	談	谈	tán	to speak; to talk; to converse; to chat; to discuss; (surname)	
-taxfu	garment	fu	服		fú	clothes; dress; garment; submit; take (medicine)	
-tcaci	custom	ci	習	习	xí	to practice; to study; habit	
-tcadu	city	du	都		dū	(surname); metropolis; capital city	
-tcana	station	jan	站		zhàn	station; to stand; to halt; to stop	
-tcati	tea	ca	茶		chá	tea; tea plant	
-tcena	stretch	cen	伸		shēn	to stretch; to extend	
-tcica	deceive	ci	諆		qī	deceive; contrive	
-tcidu	read	du	讀	读	dú	to read; to study	
-tcika	time	cike	時刻	时刻	shí kè	moment	``time; moment'' (source: zhongwen.com, chinaboard.de)
-tcila	detail	cian	詳	详	xiáng	detailed; comprehensive	``Einzelheit (= detail)'' (source: chinaboard.de)
-tcima	weather	ci	氣	气	qì	gas; air; smell; weather; vital breath; to make sb. angry; to get angry; to be enraged	
-tcini	situation	cin	情		qíng	feeling; emotion; passion; situation	cf. 情況 (情况) [qíng kuàng] ``circumstances; state of affairs; situation'' (compound); cf. 情形 [qíng xing] ``circumstances; situation'' (compound)
-tcita	label	biaucian	標籤	标签	biāo qiān	label; tag	
-temci	time	ci	時	时	shí	o'clock; time; when; hour; season; period	cf. 時辰 (时辰) [shí chen] ``time; one of the 12 two-hour periods of the day'' (compound); cf. 時候 (时候) [shí hou] ``time; length of time; moment; period'' (compound); cf. 時間 (时间) [shí jiān] ``time; period'' (compound); cf. 時節 (时节) [shí jié] ``season; time'' (compound)
+tatru	breast	ru	乳		rǔ	breast	
+tavla	talk	tan	談	谈	tán	talk	
+taxfu	garment	fu	服		fú	garment	
+tcaci	custom	ci	習	习	xí	habit	
+tcadu	city	du	都		dū	capital city	
+tcana	station	jan	站		zhàn	station	
+tcati	tea	ca	茶		chá	tea	
+tcena	stretch	cen	伸		shēn	stretch	
+tcica	deceive	ci	諆		qī	deceive	
+tcidu	read	du	讀	读	dú	read	
+tcika	time	cike	時刻	时刻	shí kè	time	
+tcila	detail	cian	詳	详	xiáng	detail	
+tcima	weather	ci	氣	气	qì	weather	
+tcini	situation	cin	情		qíng	situation	cf. 情況 (情况) [qíng kuàng] ``situation'' (compound); cf. 情形 [qíng xing] ``situation'' (compound)
+tcita	label	biaucian	標籤	标签	biāo qiān	label	
+temci	time	ci	時	时	shí	time	cf. 時辰 (时辰) [shí chen] ``time'' (compound); cf. 時候 (时候) [shí hou] ``time'' (compound); cf. 時間 (时间) [shí jiān] ``time'' (compound); cf. 時節 (时节) [shí jié] ``time'' (compound)
 tenfa	exponential	cenfan					FIXIT missing
-tengu	texture	jiegeu	結構	结构	jié gòu	structure; composition; makeup; architecture	
-terdi	earth	di	地		dì	earth; ground; field; place; land	
-terpa	fear	pa	怕		pà	to be afraid; to fear	
-tigni	perform	ian	演		yǎn	to develop; to evolve; to practice; to perform; to play; to act	
-tikpa	kick	ti	踢		tī	kick; play (football or soccer)	
-tilju	heavy	jun	重		zhòng	heavy; serious	
-tinbe	obey	tin	聽	听	tīng	listen; hear; obey	
+tengu	texture	jiegeu	結構	结构	jié gòu	structure	
+terdi	earth	di	地		dì	earth	
+terpa	fear	pa	怕		pà	fear	
+tigni	perform	ian	演		yǎn	perform	
+tikpa	kick	ti	踢		tī	kick	
+tilju	heavy	jun	重		zhòng	heavy	
+tinbe	obey	tin	聽	听	tīng	obey	
 tinci	tin	ci	錫	锡	xí	tin	
-tinsa	stiff	iin	硬		yìng	hard; stiff; strong; firm	
-tirna	hear	tin	聽	听	tīng	listen; hear; obey	
+tinsa	stiff	iin	硬		yìng	stiff	
+tirna	hear	tin	聽	听	tīng	hear	
 tirse	iron	tie	鐵	铁	tiě	iron	
 tirxu	tiger	xu	虎		hǔ	tiger	
-tisna	fill	tian	填		tián	to fill in	cf. 窴 [tián] ``fill in'' (variant); cf. 闐 (阗) [tián] ``fill up; rumbling sound'' (variant); cf. 添 [tiān] ``to add; to increase; to replenish'' (variant)
+tisna	fill	tian	填		tián	fill in	cf. 窴 [tián] ``fill in'' (variant); cf. 闐 (阗) [tián] ``fill up'' (variant); cf. 添 [tiān] ``replenish'' (variant)
 titla	sweet	tian	甜		tián	sweet	
-tivni	television	dianci	電視	电视	diàn shì	television; TV	
-tixnu	daughter	nu	女		nǚ	female; woman	
-toknu	oven	kaulu	烤爐	烤炉	kǎo lú	oven (PRC)	
+tivni	television	dianci	電視	电视	diàn shì	television	
+tixnu	daughter	nu	女		nǚ	female	
+toknu	oven	kaulu	烤爐	烤炉	kǎo lú	oven	
 toldi	butterfly	die	蝶		dié	butterfly	cf. 蝴蝶 [hú dié] ``butterfly'' (compound); cf. 蜨 [dié] ``butterfly'' (variant)
-tonga	tone	iingau	音高		yīn	gāo  pitch (music)	
-tordu	short	duan	短		duǎn	lack; short	
-torni	twist	nin	擰	拧	nǐng	mistake; to twist	
-torni	twist	niu	扭		niǔ	to turn; to twist; to grab; to wring	
-traji	superlative	ji	綦		qí	dark gray; superlative; variegated	
-trano	nitrogen	dan	氮		dàn	nitrogen	cf. 淡 [dàn] ``insipid; diluted; weak; light in color; tasteless; fresh; indifferent; nitrogen'' (variant)
-trati	taut	lajin	拉緊	拉紧	lā jǐn	strain; tense; tighten	
-trene	train	liece	列車	列车	liè chē	train (railway term)	
+tonga	tone	iingau	音高		yīn gāo	pitch	
+tordu	short	duan	短		duǎn	short	
+torni	twist	nin	擰	拧	nǐng	twist	
+torni	twist	niu	扭		niǔ	twist	
+traji	superlative	ji	綦		qí	superlative	
+trano	nitrogen	dan	氮		dàn	nitrogen	cf. 淡 [dàn] ``nitrogen'' (variant)
+trati	taut	lajin	拉緊	拉紧	lā jǐn	tense	
+trene	train	liece	列車	列车	liè chē	train	
 tricu	tree	cu	樹	树	shù	tree	
-trina	attract	iin	引		yǐn	to lead; to divert (water); to guide	
-trixe	behind	xeu	後	后	hòu	back; behind; rear; afterwards; after; later	
-troci	try	ci	試	试	shì	to test; to try; experiment; examination; test	
-tsali	strong	li	力		lì	power; force; strength	cf. 強有力 (强有力) [qiáng yǒu lì] ``strong; forceful'' (compound)
-tsani	sky	tian	天		tiān	day; sky; heaven	
-tsapi	seasoning	tiauueipin	調味品	调味品	tiáo wèi pǐn	seasoning	``Würze; Gewürz (= seasoning)'' (source: chinaboard.de)
-tsiju	seed	jun	種	种	zhǒng	kind; type; race; breed; seed; species (taxonomy)	
-tsina	stage	uutai	舞台		wǔ tái	(theatrical or political) stage; arena	
-tubnu	tube	guan	筦		guǎn	(surname); to control; tube; pipe	cf. 管 [guǎn] ``to take care (of); to control; to manage; to be in charge of; to look after; to run; tube; pipe'' (variant)
-tugni	agree	tunii	同意		tóng yì	to agree; to consent; to approve	
+trina	attract	iin	引		yǐn	lead	
+trixe	behind	xeu	後	后	hòu	behind	
+troci	try	ci	試	试	shì	try	
+tsali	strong	li	力		lì	strength	cf. 強有力 (强有力) [qiáng yǒu lì] ``strong'' (compound)
+tsani	sky	tian	天		tiān	sky	
+tsapi	seasoning	tiauueipin	調味品	调味品	tiáo wèi pǐn	seasoning	
+tsiju	seed	jun	種	种	zhǒng	seed	
+tsina	stage	uutai	舞台		wǔ tái	stage	
+tubnu	tube	guan	筦		guǎn	tube	cf. 管 [guǎn] ``tube'' (variant)
+tugni	agree	tunii	同意		tóng yì	agree	
 tujli	tulip	iujincian	鬱金香	郁金香	yù jīn xiāng	tulip	
-tumla	land	tu	土		tǔ	earth; dust	cf. 土地 [tǔ dì] ``land; territory'' (compound)
+tumla	land	tu	土		tǔ	earth	cf. 土地 [tǔ dì] ``land'' (compound)
 tunba	sibling	tunbau	同胞		tóng bāo	fellow citizen or countryman	cf. 同胞兄妹 [tóng bāo xiōng mèi] ``sibling'' (compound)
 tunka	copper	tun	銅	铜	tóng	copper	
-tunlo	swallow	tun	吞		tūn	to swallow; to take	
-tunta	poke	tun	捅		tǒng	poke through	
+tunlo	swallow	tun	吞		tūn	swallow	
+tunta	poke	tun	捅		tǒng	poke	
 tuple	leg	tuei	腿		tuǐ	leg	
-turni	govern	tunji	統治	统治	tǒng zhì	(political) rule (over); to rule; to dominate; rule; domination	
-tutci	tool	ci	器		qì	device; tool; utensil	
-tutra	territory	tu	土		tǔ	earth; dust	cf. 疆土 [jiāng tǔ] ``territory'' (compound); cf. 領土 (领土) [lǐng tǔ] ``territory'' (compound); cf. 土地 [tǔ dì] ``land; territory'' (compound)
+turni	govern	tunji	統治	统治	tǒng zhì	dominate	
+tutci	tool	ci	器		qì	tool	
+tutra	territory	tu	土		tǔ	earth	cf. 疆土 [jiāng tǔ] ``territory'' (compound); cf. 領土 (领土) [lǐng tǔ] ``territory'' (compound); cf. 土地 [tǔ dì] ``territory'' (compound)
 vacri	air	daci	大氣 	大气	dà qì	atmosphere	
-vajni	important	juniao	重要		zhòng yào	important; significant; major	
-valsi	word	si	詞	词	cí	works; phrases; classical Chinese poem; word; diction	
-vamji	value	ji	值		zhí	value; (to be) worth; to happen	
+vajni	important	juniao	重要		zhòng yào	important	
+valsi	word	si	詞	词	cí	word	
+vamji	value	ji	值		zhí	value	
 vamtu	vomit	tu	吐		tù	vomit	
-vanbi	environment	xuanjin	環境	环境	huán jìng	environment; circumstances; surroundings	
-vanci	evening	uan	晚		wǎn	evening; night; late	
-vanju	wine	taujieu	萄酒		táo jiǔ	wine	cf. 萄 [táo] ``grapes'' (component); cf. 酒 [jiǔ] ``wine; liquor; spirits'' (component); cf. 葡萄酒 [pú táo jiǔ] ``Wein (= wine)'' (compound) (source: chinaboard.de)
-vasru	contain	run	容		róng	to hold; to contain; to allow; appearance; look; countenance	
-vasxu	breathe	xu	呼		hū	to call; to cry; to shout; to breath out; to exhale	cf. 虖 [hū] ``exhale; scream of tiger; to call'' (variant)
-vecnu	sell	ceu	售		shòu	to sell	
-venfu	revenge	fu	復	复	fù	again; recover; reply to a letter; to repeat; to duplicate	cf. 報復 (报复) [bào fù] ``make reprisals; retaliate; revenge; retaliation'' (compound)
-vensa	spring	cuen	春		chūn	spring (time); gay; joyful; youthful; love; lust; life	
+vanbi	environment	xuanjin	環境	环境	huán jìng	environment	
+vanci	evening	uan	晚		wǎn	evening	
+vanju	wine	taujieu	萄酒		táo jiǔ	wine	cf. 萄 [táo] ``grapes'' (component); cf. 酒 [jiǔ] ``wine; liquor; spirits'' (component); cf. 葡萄酒 [pú táo jiǔ] ``wine'' (compound)
+vasru	contain	run	容		róng	contain	
+vasxu	breathe	xu	呼		hū	breath out	cf. 虖 [hū] ``exhale'' (variant)
+vecnu	sell	ceu	售		shòu	sell	
+venfu	revenge	fu	復	复	fù	reply to a letter	cf. 報復 (报复) [bào fù] ``revenge'' (compound)
+vensa	spring	cuen	春		chūn	spring	
 verba	child	er	兒	儿	ér	son	
-vibna	vagina	iindau	阴道		yīn dào	vagina; (curse) cunt	
+vibna	vagina	iindau	阴道		yīn dào	vagina	
 vidni	video	iincian	影像		yǐng xiàng	image	cf. 動態影像 (动态影像) [dòng tài yǐng xiàng] ``video'' (compound)
 vidru	virus	bindu	病毒		bìng dú	virus	
 vifne	fresh	cian	鮮	鲜	xiān	fresh	
-vikmi	excrete	mi	泌		mì	seep; secrete	source: zhongwen.com, chinaboard.de; cf. 泌溺 [mì niào] ``pee; urinate'' (compound)
-viknu	viscous	nun	濃	浓	nóng	concentrated; dense	
-vimcu	remove	cu	除		chú	remove; do away with; wipe out; divide; except	
-vindu	poison	du	毒		dú	poison; narcotics	
+vikmi	excrete	mi	泌		mì	secrete	cf. 泌溺 [mì niào] ``urinate'' (compound)
+viknu	viscous	nun	濃	浓	nóng	dense	
+vimcu	remove	cu	除		chú	remove	
+vindu	poison	du	毒		dú	poison	
 vinji	airplane	feiji	飛機	飞机	fēi jī	airplane	
-vipsi	deputy	si	次		cì	nth; number (of times); order; sequence; next; second(ary); (measure word)	FIXIT dubious; cf. 倅 [cuì] ``deputy; second; sub-'' (variant); correct transcription ``suei''
+vipsi	deputy	si	次		cì	secondary	FIXIT dubious; cf. 倅 [cuì] ``deputy'' (variant); correct transcription ``suei''
 virnu	brave	iun	勇		yǒng	brave	
-viska	see	kan	看		kān	to look after; to take care of; to watch; to guard	
-vitci	irregular	ieuci	有時	有时	yǒu shí	sometimes; now and then	
-vitke	guest	ke	客		kè	customer; visitor; guest	
-vitno	permanent	iun	永		yǒng	forever; always; perpetual (ly)	
+viska	see	kan	看		kān	watch	
+vitci	irregular	ieuci	有時	有时	yǒu shí	sometimes	
+vitke	guest	ke	客		kè	guest	
+vitno	permanent	iun	永		yǒng	forever	
 vlagi	vulva	uaiiin	外陰	外阴	wài yīn	outside + vagina	3,990,000 Google hits; should be 屄 [bī] ``vulva''
-vlile	violent	lie	烈		liè	ardent; intense; split; crack; rend	cf. 暴烈 [bào liè] ``violent; fierce'' (compound); cf. 劇烈 (剧烈) [jù liè] ``violent; acute; severe; fierce'' (compound)
-vlina	alternation	lian	兩	两	liǎng	both; two; ounce; some; a few; tael	FIXIT dubious
-vlipa	powerful	li	力		lì	power; force; strength	
-vofli	flight	fei	飛	飞	fēi	to fly	
-voksa	voice	san	嗓		sǎng	throat; voice	
-vorme	door	men	門	门	mén	entrance; door; gate	
+vlile	violent	lie	烈		liè	intense	cf. 暴烈 [bào liè] ``violent'' (compound); cf. 劇烈 (剧烈) [jù liè] ``violent'' (compound)
+vlina	alternation	lian	兩	两	liǎng	both	FIXIT dubious
+vlipa	powerful	li	力		lì	power	
+vofli	flight	fei	飛	飞	fēi	fly	
+voksa	voice	san	嗓		sǎng	voice	
+vorme	door	men	門	门	mén	door	
 vraga	lever	gangan	槓桿	槓杆	gàng gǎn	lever	
-vreji	record	ji	記	记	jì	to remember; to note; mark; sign; to record	cf. 記錄 (记录) [jì lù] ``record'' (compound); cf. 記載 (记载) [jì zǎi] ``write down; record; written account'' (compound); cf. 紀 (纪) [jì] ``discipline; age; era; period; order; record'' (variant); cf. 紀錄 (纪录) [jì lù] ``record'' (variant compound); cf. 籍 [jí] ``(surname); record; register; native place'' (variant)
-vreta	reclining	tan	躺		tǎng	to recline; to lie down	
+vreji	record	ji	記	记	jì	record	cf. 記錄 (记录) [jì lù] ``record'' (compound); cf. 記載 (记载) [jì zǎi] ``record'' (compound); cf. 紀 (纪) [jì] ``record'' (variant); cf. 紀錄 (纪录) [jì lù] ``record'' (variant compound); cf. 籍 [jí] ``record'' (variant)
+vreta	reclining	tan	躺		tǎng	recline	
 vrici	miscellaneous	ci					FIXIT missing
-vrude	virtue	de	德		dé	Germany; virtue; goodness; morality; ethics; kindness; favor; character; kind	
+vrude	virtue	de	德		dé	virtue	
 vrusi	taste	uei	味		wèi	taste	
-xabju	dwell	ju	住		zhù	to live; to dwell; to reside; to stop	
-xadba	half	ban	半		bàn	half; semi-; incomplete; (after a number) and a half; half	
+xabju	dwell	ju	住		zhù	dwell	
+xadba	half	ban	半		bàn	half	
 xadni	body	xai	骸		hái	bones of the body	FIXIT dubious
 xagji	hunger	ji	飢	饥	jī	hungry	cf. 饑 (饥) [jī] ``hungry'' (variant)
-xagri	reed	xuang	簧		huáng	metallic reed; spring of lock	
-xajmi	funny	xuaji	滑稽		huá ji	comical; funny; amusing	
-xaksu	use up	xau	耗		hào	mouse; new; to waste; to spend; to consume; to squander	
-xalbo	levity	bo	薄		bò	thin; slight; meagre; small; ungenerous; unkind; mean; frivolous; despise; belittle; to approach; to go near; peppermint	
+xagri	reed	xuang	簧		huáng	metallic reed	
+xajmi	funny	xuaji	滑稽		huá ji	funny	
+xaksu	use up	xau	耗		hào	consume	
+xalbo	levity	bo	薄		bò	frivolous	
 xalka	alcohol	jieujin	酒精		jiǔ jīng	alcohol	
 xalni	panic	jinxuan	驚慌	惊慌	jīng huāng	panic	
-xalni	panic	kunxuan	恐慌		kǒng huāng	panic; panicky; panic-stricken	
-xamgu	good	xau	好		hǎo	good; well	
-xamsi	sea	xai	海		hǎi	ocean; sea	
-xance	hand	ceu	手		shǒu	hand; convenient	
-xanka	nervous	xuan	慌		huāng	to get panicky; to lose one's head	``nervös (= nervous)'' (source: chinaboard.de)
+xalni	panic	kunxuan	恐慌		kǒng huāng	panic	
+xamgu	good	xau	好		hǎo	good	
+xamsi	sea	xai	海		hǎi	sea	
+xance	hand	ceu	手		shǒu	hand	
+xanka	nervous	xuan	慌		huāng	nervous	
 xanri	imaginary	xuan	幻		huàn	fantasy	
-xanto	elephant	cian	象		xiàng	shape; form; appearance; elephant; image under a map (math.)	
-xarci	weapon	uuci	武器		wǔ qì	weapon; arms	
-xarju	pig	ju	豬	猪	zhū	hog; pig; swine	
-xarnu	stubborn	uangu	頑固	顽固	wán gù	stubborn; obstinate	
+xanto	elephant	cian	象		xiàng	elephant	
+xarci	weapon	uuci	武器		wǔ qì	weapon	
+xarju	pig	ju	豬	猪	zhū	pig	
+xarnu	stubborn	uangu	頑固	顽固	wán gù	stubborn	
 xasli	donkey	liu	驢	驴	lǘ	donkey	
-xasne	sweat	xan	汗		hàn	perspiration; sweat	
-xatra	letter	xan	函		hán	envelope; case; letter	
-xebni	hate	xen	恨		hèn	to hate	
+xasne	sweat	xan	汗		hàn	sweat	
+xatra	letter	xan	函		hán	letter	
+xebni	hate	xen	恨		hèn	hate	
 xedja	jaw	xe	頜	颌	hé	maxilla and mandible	
-xekri	black	xei	黑		hēi	black; dark; Heilongjiang Province (abbrev.)	
-xendo	kind	xe	和		hé	and; together with; with; peace; harmony; union	cf. 和善 [hé shàn] ``good-natured'' (compound)
+xekri	black	xei	黑		hēi	black	
+xendo	kind	xe	和		hé	harmony	cf. 和善 [hé shàn] ``good-natured'' (compound)
 xenru	regret	xen	憾		hàn	regret	
-xinmo	ink	mo	墨		mò	China ink; ink stick; abbrev. for Mexico	
-xirma	horse	ma	馬	马	mǎ	horse; horse chess piece; Surname	
-xislu	wheel	luen	輪	轮	lún	wheel; gear; (by) turn; rotate	
-xlali	bad	xuai	壞	坏	huài	bad; evil; rotten; spoiled	
-xlura	influence	xua	化		huà	to make into; to change into; -ization; to ... -ize; to transform	FIXIT dubious
+xinmo	ink	mo	墨		mò	China ink	
+xirma	horse	ma	馬	马	mǎ	horse	
+xislu	wheel	luen	輪	轮	lún	wheel	
+xlali	bad	xuai	壞	坏	huài	bad	
+xlura	influence	xua	化		huà	transform	FIXIT dubious
 xotli	hotel	liuguan	旅館	旅馆	lǚ guǎn	hotel	
-xrani	injure	xai	害		hài	to do harm to; to cause trouble to; harm; evil; calamity	cf. 傷害 (伤害) [shāng hài] ``injure; harm'' (compound)
-xruba	buckwheat	daxuan	大黃	大黄	dà huáng	rhubarb	``Rhabarber (= rhubarb)'' (source: chinaboard.de)
-xruki	turkey	xueji	火雞	火鸡	huǒ jī	turkey (poultry)	
-xrula	flower	xua	花		huā	flower; blossom; to spend (money, time); fancy pattern	
-xruti	return	xuei	回		huí	(a measure word for matters or actions) a time; to circle; to go back; to turn around; to answer; to return; to revolve; Islam	cf. 重回 [chóng huí] ``return'' (compound); cf. 發回 (发回) [fā huí] ``send back; return'' (compound)
-xukmi	chemical	xua	化		huà	to make into; to change into; -ization; to ... -ize; to transform	FIXIT dubious; cf. 化學 (化学) [huà xué] ``chemistry; chemical'' (compound)
-xunre	red	xun	紅	红	hóng	bonus; popular; red; revolutionary	
-xusra	assert	xuan	宣		xuān	to declare (publicly); to announce	
-xutla	smooth	xua	滑		huá	comical; cunning; slippery; smooth	
-zabna	favorable	zan	贊	赞	zàn	to patronize; to support; to praise	cf. 讚 (赞) [zàn] ``to praise'' (variant)
+xrani	injure	xai	害		hài	harm	cf. 傷害 (伤害) [shāng hài] ``injure'' (compound)
+xruba	buckwheat	daxuan	大黃	大黄	dà huáng	rhubarb	
+xruki	turkey	xueji	火雞	火鸡	huǒ jī	turkey	
+xrula	flower	xua	花		huā	flower	
+xruti	return	xuei	回		huí	return	cf. 重回 [chóng huí] ``return'' (compound); cf. 發回 (发回) [fā huí] ``return'' (compound)
+xukmi	chemical	xua	化		huà	transform	FIXIT dubious; cf. 化學 (化学) [huà xué] ``chemistry'' (compound)
+xunre	red	xun	紅	红	hóng	red	
+xusra	assert	xuan	宣		xuān	declare	
+xutla	smooth	xua	滑		huá	smooth	
+zabna	favorable	zan	贊	赞	zàn	praise	cf. 讚 (赞) [zàn] ``praise'' (variant)
 zajba	gymnast	zaji	雜技	杂技	zá jì	acrobatics	
-zalvi	grind	za	砸		zá	smash; smashed	
-zanru	approve	zantun	贊同	赞同	zàn tóng	approve; endorse; (vote) in favor; assent	cf. 讚同 (赞同) [zàn tóng] ``approve; endorse; (vote) in favor; assent'' (variant)
-zarci	market	ci	市		shì	market; city	
-zargu	buttock	pigu	屁股		pì gu	buttocks; bottom; arse; end; butt	
+zalvi	grind	za	砸		zá	smash	
+zanru	approve	zantun	贊同	赞同	zàn tóng	approve	cf. 讚同 (赞同) [zàn tóng] ``approve'' (variant)
+zarci	market	ci	市		shì	market	
+zargu	buttock	pigu	屁股		pì gu	buttock	
 zasni	temporary	zan	暫	暂	zàn	temporarily	
-zasti	exist	zai	在		zài	(located) at; in; exist; (before verbs) immediately involved in; right in the middle of doing	
-zbabu	soap	zau	皂		zào	black; soap	
-zbani	bay	uan	灣	湾	wān	bay; gulf	
-zbasu	make	zau	造		zào	to make; to build; to invent; to manufacture	
-zbepi	pedestal	zue	座		zuò	seat; base; stand; measure word for large, solid things	cf. 台座 [tái zuò] ``pedestal'' (compound)
+zasti	exist	zai	在		zài	exist	
+zbabu	soap	zau	皂		zào	soap	
+zbani	bay	uan	灣	湾	wān	bay	
+zbasu	make	zau	造		zào	make	
+zbepi	pedestal	zue	座		zuò	stand	cf. 台座 [tái zuò] ``pedestal'' (compound)
 zdani	nest	fan	房		fáng	house	
 zdile	amusing	iule	娛樂	娱乐	yú lè	entertainment	
-zekri	crime	zuei	罪		zuì	guilt; crime; fault; blame; sin	
-zenba	increase	zen	增		zēng	to increase; to expand; to add	
-zgana	observe	guan	觀	观	guān	to look at; to watch; to observe; to behold	
-zgike	music	iue	樂	乐	yuè	(surname); music	
-zifre	free	zieu	自由		zì yóu	freedom; free; liberty	
+zekri	crime	zuei	罪		zuì	crime	
+zenba	increase	zen	增		zēng	increase	
+zgana	observe	guan	觀	观	guān	observe	
+zgike	music	iue	樂	乐	yuè	music	
+zifre	free	zieu	自由		zì yóu	free	
 zinki	zinc	cin	鋅	锌	xīn	zinc	
 zirpu	purple	zi	紫		zǐ	purple	
-zivle	invest	teuzi	投資	投资	tóu zī	investment; to invest	
-zmadu	more	due	多		duō	many; much; a lot of; numerous; multi-	
+zivle	invest	teuzi	投資	投资	tóu zī	invest	
+zmadu	more	due	多		duō	many	
 zmiku	automatic	zidun	自動	自动	zì dòng	automatic	
-zukte	act	zue	做		zuò	to do; to make; to produce	
-zumri	maize	iumi	玉米		yù mǐ	corn; maize	
-zungi	guilt	zuei	罪		zuì	guilt; crime; fault; blame; sin	
+zukte	act	zue	做		zuò	do	
+zumri	maize	iumi	玉米		yù mǐ	maize	
+zungi	guilt	zuei	罪		zuì	guilt	
 zunle	left	zue	左		zuǒ	left	
-zunti	interfere	zu	阻		zǔ	to hinder; to block; to obstruct	
-zutse	sit	zue	坐		zuò	to sit; to take a seat; to take (a bus, airplane etc.)	
-zvati	at	zai	在		zài	(located) at; in; exist; (before verbs) immediately involved in; right in the middle of doing	
+zunti	interfere	zu	阻		zǔ	hinder	
+zutse	sit	zue	坐		zuò	sit	
+zvati	at	zai	在		zài	at	
