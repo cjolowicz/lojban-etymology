@@ -1,1361 +1,1361 @@
-bacru	utter	ekspres	expresar	to express	
-bacru	utter	profer	proferir		
+bacru	utter	ekspres	expresar	express	
+bacru	utter	profer	proferir	utter	
 badna	banana	banan	banana	banana	
 badri	sad	trist	triste	sad	
-bajra	run	kor	correr	to run; to flow; to chase away; (reflexive) to walk away; (reflexive) to cop out, to shirk; to elapse (time); to go around (rumors); to rush; (reflexive) to have an orgasm	
-bakfu	bundle	fard	fardo		
-bakfu	bundle	paket	paquete	parcel; package; (Latin America) scrotum	
+bajra	run	kor	correr	run	
+bakfu	bundle	fard	fardo	bundle	
+bakfu	bundle	paket	paquete	package	
 bakni	bovine	vak	vaca	cow	
-bakri	chalk	klarion	clarión		
-baktu	bucket	bald	balde	bin bucket	
-balji	bulb	bulb	bulbo		
+bakri	chalk	klarion	clarión	chalk	
+baktu	bucket	bald	balde	bucket	
+balji	bulb	bulb	bulbo	bulb	
 balni	balcony	balkon	balcón	balcony	
 balre	blade	ox	hoja	leaf	
-balvi	future	futur	futuro	future; the future	
-bancu	beyond	sobre	sobre	over, above, on; about	
-bancu	beyond	super	super		
-bancu	beyond	tras	tras	after; beyond	
-bandu	defend	defend	defender	to defend (contra, de - against, from)	
-banfi	amphibian	anfibi	anfibio	amphibious, amphibian; amphibian	
-bangu	language	lengu	lengua	tongue; language	
-banli	great	gran	gran	(before the noun) apocopic form of grande; great	
-banro	grow	brot	brotar	to bud or sprout	
-banxa	bank	bank	banco	bank; bench; school of fish	
-banzu	suffice	bast	bastar	(intransitive) to be enough; to suffice	
+balvi	future	futur	futuro	future	
+bancu	beyond	sobre	sobre	over	
+bancu	beyond	super	super	super	
+bancu	beyond	tras	tras	beyond	
+bandu	defend	defend	defender	defend	
+banfi	amphibian	anfibi	anfibio	amphibian	
+bangu	language	lengu	lengua	language	
+banli	great	gran	gran	great	
+banro	grow	brot	brotar	sprout	
+banxa	bank	bank	banco	bank	
+banzu	suffice	bast	bastar	suffice	
 bapli	force	fors	fuerza	force	
-barda	big	grand	grande	(after the noun or predicatively): big; (before a plural noun): great; grandee	
-bargu	arch	arke	arquear	to arch	
-bargu	arch	bras	brazo	arm; branch	
-barja	bar	bar	bar	bar, pub	
-barna	mark	mark	marca	brand; mark	
+barda	big	grand	grande	big	
+bargu	arch	arke	arquear	arch	
+bargu	arch	bras	brazo	arm	
+barja	bar	bar	bar	bar	
+barna	mark	mark	marca	mark	
 bartu	out	for	fuera	outside	
-basna	emphasize	asent	acentuar	to accentuate, emphasize, distinguish, elevate	
-basti	replace	sustitu	sustituir	to replace	
-batci	bite	mord	morder	to bite, to nip; to gnaw; to grasp, to clutch; to wear away, to wear down; to eat into (as acid on metal); to criticize, to run down, to gossip about, to find fault with	
-batke	button	boton	botón	button (clothing, mechanical); key (on a musical instrument)	
+basna	emphasize	asent	acentuar	emphasize	
+basti	replace	sustitu	sustituir	replace	
+batci	bite	mord	morder	bite	
+batke	button	boton	botón	button	
 bavmi	barley	sebad	cebada	barley	
-bebna	foolish	bob	bobo	a stupid or naive person, a fool; stupid; naïve, naive	
-bende	orchestra	band	banda	band; gang or group; badge	
-benji	send	envi	enviar	to send	
-bersa	son	ix	hijo	son; child (when gender of the child is unknown)	
-berti	north	nort	norte	north; northern; north; goal; objective	
+bebna	foolish	bob	bobo	foolish	
+bende	orchestra	band	banda	band	
+benji	send	envi	enviar	send	
+bersa	son	ix	hijo	son	
+berti	north	nort	norte	north	
 besna	brain	ses	seso	brain	
 betfu	abdomen	vientr	vientre	abdomen	
 betri	tragedy	traxik	trágico	tragic	
-bevri	carry	iev	llevar	(transitive) take, carry; (transitive) to take; to lead; to bring; (transitive) to have spent time; (transitive)(reflexive) to wear	
+bevri	carry	iev	llevar	carry	
 bidju	bead	abalor	abalorio	glass beads	
 bifce	bee	abex	abeja	bee	
-bikla	whip	latig	látigo		
-bilga	obliged	oblig	obligado	committed; coerced, forced; past participle of obligar	
-bilma	ill	mal	mal	(before the noun) apocopic form of malo; bad; evil; badly; poorly; evil; harm; a bad thing or situation	
-bilni	military	militar	militar	soldier; to participate actively in a political organization, especially in the	
-binra	insure	asegur	asegurar	to maintain	
-binxo	become	asers	hacerse		
-binxo	become	konvertirs	convertirse		
+bikla	whip	latig	látigo	whip	
+bilga	obliged	oblig	obligado	obliged	
+bilma	ill	mal	mal	ill	
+bilni	military	militar	militar	military	
+binra	insure	asegur	asegurar	insure	
+binxo	become	asers	hacerse	become	
+binxo	become	konvertirs	convertirse	turn into	
 birje	beer	serves	cerveza	beer	
-birka	arm	bras	brazo	arm; branch	
-birti	certain	siert	cierto	certain; sure; true	
+birka	arm	bras	brazo	arm	
+birti	certain	siert	cierto	certain	
 bisli	ice	ial	hielo	ice	
 bitmu	wall	mur	muro	wall	
-blabi	white	blank	blanco	white; target	
-blaci	glass	kristal	cristal	crystal; glass, glasseware	
+blabi	white	blank	blanco	white	
+blaci	glass	kristal	cristal	glass	
 blaci	glass	vidri	vidrio	glass	
-blanu	blue	asul	azul	blue; blue	
-bliku	block	blok	bloque	bloc; block (street block or a piece of something)	
-bloti	boat	bot	bote	boat; vessel, container	
-bolci	ball	bol	bola	ball; (Dominican Republic, slang) hitchhiking, free ride; (full text)	
-bongu	bone	os	hueso	bone; (botany) a stone; the central part of some fruits, consisting of the seed	
+blanu	blue	asul	azul	blue	
+bliku	block	blok	bloque	block	
+bloti	boat	bot	bote	boat	
+bolci	ball	bol	bola	ball	
+bongu	bone	os	hueso	bone	
 botpi	bottle	botei	botella	bottle	
 boxfo	sheet	ox	hoja	leaf	
-boxna	wave	onda	onda	wave (on the surface of a liquid); any other wave (including technological use); (Chile) style, fashion; vibe or mood	
-bradi	enemy	adversari	adversario		
-bratu	hail	granis	granizo	(uncountable) hail; (countable) hailstone	
-bredi	ready	prepar	preparado	past participle of preparar	
-bridi	predicate	predikad	predicado		
+boxna	wave	onda	onda	wave	
+bradi	enemy	adversari	adversario	enemy	
+bratu	hail	granis	granizo	hail	
+bredi	ready	prepar	preparado	ready	
+bridi	predicate	predikad	predicado	predicate	
 brife	breeze	bris	brisa	breeze	
-briju	office	ofisin	oficina	office; workshop; laboratory	
-bruna	brother	erman	hermano	brother; sibling	
+briju	office	ofisin	oficina	office	
+bruna	brother	erman	hermano	brother	
 bukpu	cloth	pan	paño	cloth	
-bumru	fog	brum	bruma		
-bunda	pound	libr	libra	a pound	
-bunre	brown	kastan	castaño		
-burcu	brush	broc	brocha		
-burna	embarrassed	turb	turbado	past participle of turbar	
-cabna	now	aor	ahora	now; now	
-cabra	apparatus	aparat	aparato	apparatus; device; tool; instrument	
-cacra	hour	ora	hora	hour; time	
-cadzu	walk	and	andar	to walk, to go; to amble, to travel; to function, to work, to go; to pass, to go by, to elapse; to be, to feel; to be in a boyfriend/girlfriend relationship with someone; to go out with; walk, pace, gait; behavior, manner	
+bumru	fog	brum	bruma	fog	
+bunda	pound	libr	libra	pound	
+bunre	brown	kastan	castaño	brown	
+burcu	brush	broc	brocha	brush	
+burna	embarrassed	turb	turbado	embarrassed	
+cabna	now	aor	ahora	now	
+cabra	apparatus	aparat	aparato	apparatus	
+cacra	hour	ora	hora	hour	
+cadzu	walk	and	andar	walk	
 cafne	often	frekont	frecuente	frequent	
-cakla	chocolate	cokolat	chocolate	chocolate (food made from cocoa beans; confectionery); (slang) hash	
-calku	shell	kask	cáscara		
-canci	vanish	desvanes	desvanecer	to vanish	
+cakla	chocolate	cokolat	chocolate	chocolate	
+calku	shell	kask	cáscara	shell	
+canci	vanish	desvanes	desvanecer	vanish	
 cando	idle	osio	ocio	leisure	
 cando	idle	repos	reposo	repose	
-cange	farm	granx	granja	a farm	
-canja	exchange	kanxe	canjear	to exchange	
-canko	window	ventan	ventana	window; nostril; a small gap or opening	
+cange	farm	granx	granja	farm	
+canja	exchange	kanxe	canjear	exchange	
+canko	window	ventan	ventana	window	
 canlu	space	lugar	lugar	place	
-canpa	shovel	pal	pala	shovel, spade	
-canre	sand	aren	arena	sand, gravel; bullfight arena; boxing ring	
-canti	gut	entran	entrañas	entrails; insides; bowels	
-carce	cart	car	carro	a cart; an automobile (Latin America); a train car (Latin America); (uncountable) the Big Dipper constellation	
-carmi	intense	brii	brillar	to shine	
-carna	turn	gir	girar	to turn	
-carna	turn	rod	rotar	to spin	
-cartu	chart	kart	carta	letter (mail); document; map; menu	
+canpa	shovel	pal	pala	shovel	
+canre	sand	aren	arena	sand	
+canti	gut	entran	entrañas	entrails	
+carce	cart	car	carro	cart	
+carmi	intense	brii	brillar	shine	
+carna	turn	gir	girar	turn	
+carna	turn	rod	rotar	spin	
+cartu	chart	kart	carta	map	
 carvi	rain	iuvi	lluvia	rain	
-casnu	discuss	diskut	discutir	to discuss, to argue; to talk about; of a group, to examine some subject in detail	
-catke	shove	empux	empujar	to shove	
-catlu	look	mir	mirar	(transitive) to look at (something); (intransitive, of a structure) to face a certain direction	
-catlu	look	ve	ver	to see	
-catni	authority	autoriz	autorizar	to authorize	
-catra	kill	mat	matar	to put out; to kill; to butcher; to dull; to round off; to ruin	
-caxno	shallow	bax	bajo	under, in both literal and figurative senses; low, in both literal and figurative senses	
-cecla	launcher	ec	echar	to throw; to pour; to let out; to emit; to kick out; to miss someone or something	
+casnu	discuss	diskut	discutir	discuss	
+catke	shove	empux	empujar	shove	
+catlu	look	mir	mirar	look at	
+catlu	look	ve	ver	see	
+catni	authority	autoriz	autorizar	authorize	
+catra	kill	mat	matar	kill	
+caxno	shallow	bax	bajo	low	
+cecla	launcher	ec	echar	throw	
 cecmu	community	komunidad	comunidad	community	
 cedra	era	era	era	era	
-cenba	vary	kambi	cambiar	to change or modify	
-cenba	vary	mud	mudar	to change, to alter, to vary; to convert; to move, to relocate, to move to a new house; to shed, to molt; to change clothes	
-censa	holy	sak	sacro		
+cenba	vary	kambi	cambiar	vary	
+cenba	vary	mud	mudar	vary	
+censa	holy	sak	sacro	holy	
 cerda	heir	xered	heredero	heir	
-cerni	morning	manan	mañana	morning; tomorrow	
-certu	expert	ekspert	experto	expert; expert	
-cevni	god	divinidad	divinidad		
-cfari	initiate	prinsipi	principiar	to begin	
+cerni	morning	manan	mañana	morning	
+certu	expert	ekspert	experto	expert	
+cevni	god	divinidad	divinidad	divinity	
+cfari	initiate	prinsipi	principiar	begin	
 cfika	fiction	fiksion	ficción	fiction	
 cfika	fiction	fiktisi	ficticio	fictitious	
-cfila	flaw	falt	falta	lack	
-cfine	wedge	kun	cuña	die, wedge	
-cfipu	confuse	konfund	confundir	to confuse or confound	
+cfila	flaw	falt	falta	flaw	
+cfine	wedge	kun	cuña	wedge	
+cfipu	confuse	konfund	confundir	confuse	
 ciblu	blood	sangr	sangre	blood	
 cicna	cyan	sian	cian	cyan	
 cidja	food	komid	comida	food	
 cidni	knee	rodiia	rodilla	knee	
 cidro	hydrogen	idroxen	hidrógeno	hydrogen	
-cifnu	infant	infant	infante		
-cigla	gland	glandul	glándula		
+cifnu	infant	infant	infante	infant	
+cigla	gland	glandul	glándula	gland	
 cikna	awake	despiert	despierto	awake	
-cikre	repair	aregl	arreglar	to straighten; to adjust; to fix	
-ciksi	explain	eksplik	explicar	to explain	
-cilce	wild	silvestr	silvestre		
-cilmo	moist	mox	mojado	wet; (slang, pejorative) wetback; one who is said to swim across a border; past participle of mojar (to wet)	
-cilre	learn	aprend	aprender	to learn	
+cikre	repair	aregl	arreglar	repair	
+ciksi	explain	eksplik	explicar	explain	
+cilce	wild	silvestr	silvestre	wild	
+cilmo	moist	mox	mojado	wet	
+cilre	learn	aprend	aprender	learn	
 cilta	thread	il	hilo	thread	
 cimde	dimension	dimension	dimensión	dimension	
-cimni	infinite	infinit	infinito		
-cinba	kiss	bes	besar	to kiss	
+cimni	infinite	infinit	infinito	infinite	
+cinba	kiss	bes	besar	kiss	
 cindu	oak	robl	roble	oak	
-cinfo	lion	leon	león	a lion (Panthera leo); a brave person; an antlion (family Myrmeleontidae); (Central America, Colombia, Peru, Venezuela) a cougar/puma/mountain lion/	
-cinje	wrinkle	arug	arruga		
+cinfo	lion	leon	león	lion	
+cinje	wrinkle	arug	arruga	wrinkle	
 cinki	insect	insekt	insecto	insect	
-cinla	thin	flak	flaco	thin, skinny; a (or the) thin man; # (informal, euphemism) urine; urination; number two	
-cinmo	emotion	sent	sentir	to feel; to regret; to hear	
+cinla	thin	flak	flaco	thin	
+cinmo	emotion	sent	sentir	feel	
 cinri	interesting	interes	interesante	interesting	
-cinse	sexual	seks	sexo	gender; sex (the act); sex organ	
+cinse	sexual	seks	sexo	sex	
 cinta	paint	pintur	pintura	painting	
-cinza	tongs	pins	pinzas		
-cipni	bird	av	ave	bird; fowl	
-cipra	test	prob	prueba	proof; evidence; an examination, test or quiz; a trial; an ordeal	
-cirko	lose	perd	perder	to lose	
+cinza	tongs	pins	pinzas	pincers	
+cipni	bird	av	ave	bird	
+cipra	test	prob	prueba	test	
+cirko	lose	perd	perder	lose	
 cirla	cheese	kes	queso	cheese	
-ciska	write	eskrib	escribir	to write; to spell; (reflexive) to correspond	
-cisma	smile	rison	sonrisa	a smile	FIXIT correct transcription ``sonris'' not ``rison''
-ciste	system	sistem	sistema	a system	
-citka	eat	kom	comer	to eat; to corrode	
-citno	young	xoven	joven	young, youthful; young person	
-citri	history	istori	historia	history; story	
-citsi	season	esatsion	estación	station; season (of the year)	
-civla	louse	piox	piojo	a louse; a kind of parasitic insect	
-cizra	strange	rar	raro	strange or odd; rare	
+ciska	write	eskrib	escribir	write	
+cisma	smile	rison	sonrisa	smile	FIXIT correct transcription ``sonris'' not ``rison''
+ciste	system	sistem	sistema	system	
+citka	eat	kom	comer	eat	
+citno	young	xoven	joven	young	
+citri	history	istori	historia	history	
+citsi	season	esatsion	estación	season	
+civla	louse	piox	piojo	louse	
+cizra	strange	rar	raro	strange	
 ckabu	rubber	kauc	caucho	rubber	
-ckafi	coffee	cafe	café	coffee; café, coffee-shop	
+ckafi	coffee	cafe	café	coffee	
 ckaji	quality	kalidad	calidad	quality	
 ckana	bed	kam	cama	bed	
 ckape	peril	peligr	peligro	danger	
-ckasu	ridicule	eskarnes	escarnecer		
-ckeji	ashamed	avergons	avergonzado	ashamed; past participle of avergonzar	
-ckiku	key	iav	llave	key; spanner, wrench; valve, faucet; curly bracket	
-ckilu	scale	eskal	escala	scale; stopover	
-ckini	related	parent	parentela	kinfolk, relatives, relations	
-ckire	grateful	rekonos	reconocible		
+ckasu	ridicule	eskarnes	escarnecer	ridicule	
+ckeji	ashamed	avergons	avergonzado	ashamed	
+ckiku	key	iav	llave	key	
+ckilu	scale	eskal	escala	scale	
+ckini	related	parent	parentela	relatives	
+ckire	grateful	rekonos	reconocible	grateful	
 ckule	school	eskol	escuela	school	
 ckunu	conifer	kon	cono	cone	
-cladu	loud	for	fuerte	strong; loud; fort, stronghold	
+cladu	loud	for	fuerte	loud	
 clani	long	larg	largo	long	
 claxu	without	sin	sin	without	
-clika	mossy	liken	liquen		
-clira	early	tempraner	temprano	early; early	
-clite	polite	kortes	cortés	politely, with courtesy	
-cliva	leave	va	va	he/she/it goes	third-person singular present indicative of ir (to go); cf. ``irse'' (to go away; to leave; to depart); if endings are removed from ``irse'' nothing remains
-clupa	loop	las	lazo	ribbon; lasso; bow (type of knot); link; bond	
-cmaci	mathematics	matematik	matemáticas	mathematics (study of numbers, shapes, structure and change and the; plural form of matemática; plural form of matemática	
-cmalu	small	peken	pequeño	small; little	
-cmalu	small	poko	poco	little; little, not much; little, not much	
-cmana	mountain	mont	monte	mountain, mount	
+clika	mossy	liken	liquen	lichen	
+clira	early	tempraner	temprano	early	
+clite	polite	kortes	cortés	politely	
+cliva	leave	va	va	he/she/it goes	cf. irse ``leave''
+clupa	loop	las	lazo	loop	
+cmaci	mathematics	matematik	matemáticas	mathematics	
+cmalu	small	peken	pequeño	small	
+cmalu	small	poko	poco	little	
+cmana	mountain	mont	monte	mountain	
 cmana	mountain	montan	montaña	mountain	
 cmene	name	monbre	nombre	name	correct transcription ``nombre''
 cmene	name	nombre	nombre	name	
-cmila	laugh	re	reír	to laugh	
-cmima	member	miembr	miembro	member, limb	
-cmoni	moan	gem	gemir	to groan	
-cmoni	moan	kex	queja	complaint	
-cnano	norm	noral	normal	normal, standard, regular	correct transcription ``normal''
+cmila	laugh	re	reír	laugh	
+cmima	member	miembr	miembro	member	
+cmoni	moan	gem	gemir	moan	
+cmoni	moan	kex	queja	moan	
+cnano	norm	noral	normal	normal	correct transcription ``normal''
 cnebo	neck	koi	cuello	neck	
-cnemu	reward	premi	premiar	to reward	
-cnici	orderly	ase	aseado	past participle of asear	
+cnemu	reward	premi	premiar	reward	
+cnici	orderly	ase	aseado	orderly	
 cnino	new	nov	nuevo	new	
-cnisa	lead	plom	plomo	lead; (color) grey	
+cnisa	lead	plom	plomo	lead	
 cnita	beneath	abax	abajo	down	
-cokcu	soak	cup	chupar	to suck; to absorb	
-condi	deep	ond	hondo	deep; profound; deeply	
+cokcu	soak	cup	chupar	suck	
+condi	deep	ond	hondo	deep	
 cortu	pain	dolor	dolor	pain	
-cpacu	get	konseg	conseguir	to achieve; to get or acquire	
-cpacu	get	obten	obtener	to obtain	
-cpana	upon	en	en	in, at, on; in (a time); in (a language); (used after some verbs and translated by various prepositions in English); in (used in various expressions)	
+cpacu	get	konseg	conseguir	get	
+cpacu	get	obten	obtener	obtain	
+cpana	upon	en	en	in, on	
 cpana	upon	ensima	encima	on top	
-cpana	upon	sobre	sobre	over, above, on; about	
-cpare	climb	trep	trepar	to climb	
-cpedu	request	ped	pedir	to ask for something; to request someone else to do something	
-cpina	pungent	pikante	picante	(of food) hot and spicy	
-cradi	radio	radio	radio	radio; (anatomy) radius; (chemistry) radium	
-crane	front	frent	frente	forehead; front	
+cpana	upon	sobre	sobre	over	
+cpare	climb	trep	trepar	climb	
+cpedu	request	ped	pedir	request	
+cpina	pungent	pikante	picante	spicy	
+cradi	radio	radio	radio	radio	
+crane	front	frent	frente	front	
 creka	shirt	kamis	camisa	shirt	
-crepu	harvest	rekox	recoger	to collect; to gather; to pick up something previously left behind	
+crepu	harvest	rekox	recoger	harvest	
 cribe	bear	os	oso	bear	
 crida	fairy	ada	hada	fairy	
-crino	green	verd	verde	green in colour; unripe; inexperienced; naïve; risqué; unwell; sick; dirty, coarse; the colour green	
+crino	green	verd	verde	green	
 cripu	bridge	pont	puente	bridge	
 crisa	summer	veran	verano	summer	
-critu	autumn	oton	otoño	autumn, fall	
+critu	autumn	oton	otoño	autumn	
 ctaru	tide	mare	marea	tide	
 ctebi	lip	labi	labio	lip	
-cteki	tax	impost	impuesto	tax; past participle of imponer	
-ctile	petroleum	petrole	petróleo	petroleum, oil	
-ctino	shadow	sombr	sombra	shade; shadow	
-ctuca	teach	enseni	enseñar	to teach	
+cteki	tax	impost	impuesto	tax	
+ctile	petroleum	petrole	petróleo	petroleum	
+ctino	shadow	sombr	sombra	shadow	
+ctuca	teach	enseni	enseñar	teach	
 cukla	round	redond	redondo	round	
 cukta	book	libr	libro	book	
 culno	full	ien	lleno	full	
 cumki	possible	posible	posible	possible	
 cumla	humble	umild	humilde	humble	
-cunmi	millet	mix	mijo	(botany) millet	
-cunso	random	fortun	fortuna	fortune; wealth; luck	
-cuntu	affair	asunt	asunto	matter; issue; affair; business	
-cupra	produce	produs	producir	to produce	
-curmi	let	permit	permitir	to allow, to permit	
-curnu	worm	gusan	gusano	a worm; an insect larva, such as a grub or caterpillar; a maggot	
-curnu	worm	lombris	lombriz	a worm	
-curve	pure	pur	puro	pure, clear; cigar, puro	
-cusku	express	des	decir	to say; to tell; to speak; to show; to demonstrate; to call; to name	
+cunmi	millet	mix	mijo	millet	
+cunso	random	fortun	fortuna	luck	
+cuntu	affair	asunt	asunto	affair	
+cupra	produce	produs	producir	produce	
+curmi	let	permit	permitir	permit	
+curnu	worm	gusan	gusano	worm	
+curnu	worm	lombris	lombriz	worm	
+curve	pure	pur	puro	pure	
+cusku	express	des	decir	say	
 cutci	shoe	sapat	zapato	shoe	
-cutne	chest	pec	pecho	chest; breast	
-cuxna	choose	escox	escoger	(transitive) to choose, select, pick	
+cutne	chest	pec	pecho	chest	
+cuxna	choose	escox	escoger	choose	
 dacru	drawer	kaxon	cajón	drawer	
 dacti	object	obxet	objeto	object	
 dakfu	knife	kotcii	cuchillo	knife	
-dakli	sack	sak	saco	bag; sack; (Latin America) jacket	
-damba	fight	kombat	combatir	to combat or fight	
+dakli	sack	sak	saco	sack	
+damba	fight	kombat	combatir	combat	
 damri	drum	tambor	tambor	drum	
-dandu	hang	pend	pender	to hang, to dangle; to be pending, to be undecided	
-danfu	answer	kontest	contestar	to rejoin or reply; to answer	
+dandu	hang	pend	pender	hang	
+danfu	answer	kontest	contestar	answer	
 danfu	answer	respond	respuesta	reply	
 danlu	animal	animal	animal	animal	
-danmo	smoke	um	humo	smoke; fume	
+danmo	smoke	um	humo	smoke	
 danre	pressure	presion	presión	pressure	
 dansu	dance	dans	danza	dance	
-danti	projectile	balistik	balístico		
+danti	projectile	balistik	balístico	ballistic	
 daplu	island	isl	isla	island	
-dapma	curse	maldes	maldecir	to damn, to curse	
+dapma	curse	maldes	maldecir	curse	
 dargu	road	kareter	carretera	highway	
-darlu	argue	argumant	argumentar	to dispute	
-darno	far	lexan	lejano	far, faraway	
+darlu	argue	argumant	argumentar	argue	
+darno	far	lexan	lejano	far	
 darno	far	lexos	lejos	far	
-darsi	audacity	audas	audacia		
-darxi	hit	golpe	golpe	hit; knock	
+darsi	audacity	audas	audacia	audacity	
+darxi	hit	golpe	golpe	hit	
 daski	pocket	bolsii	bolsillo	pocket	
-dasni	wear	iev	llevar	(transitive) take, carry; (transitive) to take; to lead; to bring; (transitive) to have spent time; (transitive)(reflexive) to wear	
-dasni	wear	vest	vestir	to dress, to clothe, to attire; to wear; to adorn, to bedeck, to embellish; to disguise, to cover up; to make clothes for, to dress	
-daspo	destroy	destru	destruir	to destroy	
-dasri	ribbon	sint	cinta	ribbon, worn by girls in the hair; tape	
-dasri	ribbon	xiron	jirón	rag; shred	
-datka	duck	pat	pato	duck, drake; (vulgar, slang) homosexual, faggot	
-datni	data	estadistik	estadística	statistics (the mathematical science)	
-degji	finger	ded	dedo	finger, toe, digit	
-dejni	owe	deb	deber	(transitive) to owe; (transitive) should; (transitive) must	
-dekpu	gallon	arob	arroba	an ancient unit of measure of weight or volume, still used in some contexts;1 liters as measure of wine; the @ symbol, used to signify this unit	``An arroba was a Spanish and Portuguese unit of weight, mass or volume. In weight it is equal to about 25 pounds. The word arroba has its origin in Arabic ar-rubʿ, the fourth part (of a quintal).'' (source: en.wikipedia.org)
-dekpu	gallon	faneg	fanega		source: http://www.unc.edu/~rowlett/units/
-dekpu	gallon	kantar	cántara	old Spanish volume unit equivalant to 16.13 liters	see http://www.zingzang.org/historiaviva/cocina/medidas_v2-ing.shtml
-dekpu	gallon	kuartii	cuartillo		source: http://www.unc.edu/~rowlett/units/
-dembi	bean	abicol	habichuela	bean (plant or seed)	
-denci	tooth	dient	diente	tooth; clove (of garlic)	
-denmi	dense	dens	denso		
-denpa	wait	paus	pausar		
-dertu	dirt	tier	tierra	land, as opposed to the sea; soil, earth; a nation or province	
-derxi	heap	rimer	rimero		
-desku	shake	sakud	sacudir	to shake off	
-detri	date	fec	fecha	date (time)	
-dicra	interrupt	interump	interrumpir	to interrupt	
-dikca	electric	elektrik	eléctrico	electric, electrical	
-diklo	local	lokal	local	the premises	
-dikni	regular	siklik	cíclico		
+dasni	wear	iev	llevar	wear	
+dasni	wear	vest	vestir	wear	
+daspo	destroy	destru	destruir	destroy	
+dasri	ribbon	sint	cinta	ribbon	
+dasri	ribbon	xiron	jirón	rag	
+datka	duck	pat	pato	duck	
+datni	data	estadistik	estadística	statistics	
+degji	finger	ded	dedo	finger	
+dejni	owe	deb	deber	owe	
+dekpu	gallon	arob	arroba	Spanish unit of weight ~ 11.50 kg	
+dekpu	gallon	faneg	fanega	Spanish unit of volume ~ 55.50 liters	
+dekpu	gallon	kantar	cántara	Spanish unit of volume ~ 16.13 liters	
+dekpu	gallon	kuartii	cuartillo	Spanish unit of volume ~  1.16 liters	
+dembi	bean	abicol	habichuela	bean	
+denci	tooth	dient	diente	tooth	
+denmi	dense	dens	denso	dense	
+denpa	wait	paus	pausar	wait	
+dertu	dirt	tier	tierra	earth	
+derxi	heap	rimer	rimero	heap	
+desku	shake	sakud	sacudir	shake	
+detri	date	fec	fecha	date	
+dicra	interrupt	interump	interrumpir	interrupt	
+dikca	electric	elektrik	eléctrico	electric	
+diklo	local	lokal	local	local	
+dikni	regular	siklik	cíclico	cyclic	
 dilcu	quotient	division	división	division	
-dilnu	cloud	nub	nube	a cloud; a multitude, or crowd, of people	
-dimna	fate	destin	destino	destiny, fate; destination; position, post	
+dilnu	cloud	nub	nube	cloud	
+dimna	fate	destin	destino	fate	
 dinju	building	edifisi	edificio	building	
-dinko	nail	klav	clavo	nail, spike; clove	
-dirba	dear	kerid	querido	dear; sweatheart; past participle of querer	
+dinko	nail	klav	clavo	nail	
+dirba	dear	kerid	querido	dear	
 dirce	radiate	radi	radiar	radiate	
-dirgo	drop	got	gota	a drop	
-dizlo	low	baxo	bajo	under, in both literal and figurative senses; low, in both literal and figurative senses	
+dirgo	drop	got	gota	drop	
+dizlo	low	baxo	bajo	low	
 djacu	water	agu	agua	water	
-djedi	day	di	día	period of daylight: day; period of rotation of a planet: day (especially Earth's 24 hours day)	
-djica	desire	dese	desear	to wish	
-djica	desire	ker	querer	to desire; to want; to love; to be fond of; (an indication of a request)	
-djine	ring	ar	aro		
-djuno	know	konos	conocer	to know (a person), to be familiar with	
-donri	daytime	di	día	period of daylight: day; period of rotation of a planet: day (especially	
+djedi	day	di	día	day	
+djica	desire	dese	desear	desire	
+djica	desire	ker	querer	desire	
+djine	ring	ar	aro	ring	
+djuno	know	konos	conocer	know	
+donri	daytime	di	día	day	
 draci	drama	dram	drama	drama	
-drani	correct	korekt	correcto	correct; well-behaved	
-drani	correct	xust	justo	right; exactly; tightly; just	
-drata	other	otr	otro	other, another; not again! or What, again?	
+drani	correct	korekt	correcto	correct	
+drani	correct	xust	justo	right	
+drata	other	otr	otro	other	
 drudi	roof	tec	techo	ceiling	
-drudi	roof	texod	tejado		correct transcription ``texad''
-dugri	logarithm	logaritmik	logaritmica		
+drudi	roof	texod	tejado	roof	correct transcription ``texad''
+dugri	logarithm	logaritmik	logaritmico	logarithmic	
 dukse	excess	ekses	exceso	excess	
-dukti	opposite	kontrari	contrario	contrary, opposite; opposed, against	
-dunda	give	dar	dar	(transitive) to give; (transitive) to hand over; (transitive) to hit; (transitive) to emit; (transitive) to produce; (transitive) to perform; (transitive) to consider; (transitive) to overlook; (transitive) to encounter; to run into; (transitive) to hit upon; (transitive) to give; to stretch; (reflexive) to occur; (reflexive) to grow; (reflexive) to hit oneself against; (reflexive) to realize or notice something; to brag or boast about; (reflexive) to surrender; (reflexive) + por to assume	
-dunda	give	don	donar		
-dunja	freeze	el	helar	to freeze	
-dunja	freeze	konxel	congelar	to freeze	
+dukti	opposite	kontrari	contrario	contrary	
+dunda	give	dar	dar	give	
+dunda	give	don	donar	donate	
+dunja	freeze	el	helar	freeze	
+dunja	freeze	konxel	congelar	freeze	
 dunku	anguish	angusti	angustia	anguish	
 dunli	equal	igual	igual	equal	
 dunra	winter	inviern	invierno	winter	
 dzena	ancestor	abol	abolengo	ancestry	
-dzena	ancestor	maior	mayor	bigger; comparative form of grande; older; in this sense, comparative form of viejo, vieja; superlative forms of (1) and (2); the biggest, the oldest	
-facki	discover	deskubr	descubrir	to discover; to reveal; to invent	
+dzena	ancestor	maior	mayor	elder, senior	
+facki	discover	deskubr	descubrir	discover	
 fadni	ordinary	ordinari	ordinario	ordinary	
 fagri	fire	fog	fuego	fire	
-falnu	sail	val	vela	candle; sail; wakefulness	FIXIT correct transcription ``vel''
-famti	aunt	ti	tía	feminine form of tío; aunt; the sister of any of both parents; (colloquial, Spain) woman	
-fancu	function	funsion	función	function; (theater) showing	
+falnu	sail	val	vela	sail	FIXIT correct transcription ``vel''
+famti	aunt	ti	tía	aunt	
+fancu	function	funsion	función	function	
 fange	alien	ekstranxer	extranjero	foreign	
-fanmo	end	fin	fin	end; purpose	
+fanmo	end	fin	fin	end	
 fanri	factory	fabrik	fábrica	factory	
-fanta	prevent	evit	evitar	to avoid	
-fanta	prevent	imped	impedir	to impede, hinder	
-fanva	translate	tradukt	traductor	translating; translator	
-fanva	translate	tradus	traducir	to translate	
-fanza	annoy	enox	enojar	to anger	
-fapro	oppose	opon	oponer	(transitive) to pit (one thing against another); to set in opposition; (transitive) to put up (resistance etc;); (reflexive) to be opposed, to be in opposition	
+fanta	prevent	evit	evitar	avoid	
+fanta	prevent	imped	impedir	impede	
+fanva	translate	tradukt	traductor	translator	
+fanva	translate	tradus	traducir	translate	
+fanza	annoy	enox	enojar	annoy	
+fapro	oppose	opon	oponer	oppose	
 farlu	fall	ka	caer	fall	
-farna	direction	direksion	dirección	address; direction; management, or running of a business or organisation	
-farvi	develop	desaroi	desarollar	to develop	
-fasnu	event	okur	ocurrir	to happen, to occur	
-fasnu	event	suses	suceso	event, happening	
-fatci	fact	ec	hecho	past participle of hacer	
-fatci	fact	reali	realidad	reality; commodity	
-fatne	reverse	invert	invertir	to invert; to invest	
-fatne	reverse	revers	reverso		
-fatri	distribute	distrib	distribuir	to distribute	
-febvi	boil	erv	hervir	to boil	
-fendi	divide	divid	dividir	to divide	
-fengu	angry	enoxad	enojado	past participle of enojar	
-fenki	crazy	dement	demente		
-fenra	crack	rax	raja	slit, crack, gash; slice, splinter; (vulgar, slang) cunt	
-fenso	sew	kos	coser	to sew	
-fepni	cent	sentim	céntimo	a monetary subdivision, equivalent to a 1/100th of a Costa Rican colón; a monetary subdivision, equivalent to a 1/100th of a Peruvian nuevo sol; a monetary subdivision, equivalent to a 1/100th of a Philippine peso; a monetary subdivision, equivalent to a 1/100th of a Bolivian peseta; a former monetary subdivision, equivalent to a 1/100th of a Spanish peseta; a former monetary subdivision, equivalent to a 1/100th of a Mozambican	
+farna	direction	direksion	dirección	direction	
+farvi	develop	desaroi	desarollar	develop	
+fasnu	event	okur	ocurrir	occur	
+fasnu	event	suses	suceso	event	
+fatci	fact	ec	hecho	fact	
+fatci	fact	reali	realidad	reality	
+fatne	reverse	invert	invertir	invert	
+fatne	reverse	revers	reverso	reverse	
+fatri	distribute	distrib	distribuir	distribute	
+febvi	boil	erv	hervir	boil	
+fendi	divide	divid	dividir	divide	
+fengu	angry	enoxad	enojado	angry	
+fenki	crazy	dement	demente	crazy	
+fenra	crack	rax	raja	crack	
+fenso	sew	kos	coser	sew	
+fepni	cent	sentim	céntimo	monetary subdivision ~ 0.01 peso/peseta	
 fepri	lung	pulmon	pulmón	lung	
-ferti	fertile	fertil	fértil		
+ferti	fertile	fertil	fértil	fertile	
 festi	waste	desperdik	desperdicio	waste	FIXIT correct transcription ``desperdisi''
-festi	waste	malgast	malgastar	to waste	
-fetsi	female	feminin	feminino		
-figre	fig	xig	higo	fig (fruit)	
-finpe	fish	pes	pez	pitch, tar; fish, especially while alive	
-finti	invent	invent	inventar	to invent; to feign	
-flalu	law	legal	legal	Legal	
-flani	flute	flaut	flauta	flute; a popular dessert	
-flecu	flow	flu	fluir	to flow	
-fliba	fail	fai	fallar	to fail	
-flira	face	kara	cara	face f; feminine of caro	
-foldi	field	kamp	campo	countryside, country	
+festi	waste	malgast	malgastar	waste	
+fetsi	female	feminin	feminino	female	
+figre	fig	xig	higo	fig	
+finpe	fish	pes	pez	fish	
+finti	invent	invent	inventar	invent	
+flalu	law	legal	legal	legal	
+flani	flute	flaut	flauta	flute	
+flecu	flow	flu	fluir	flow	
+fliba	fail	fai	fallar	fail	
+flira	face	kara	cara	face	
+foldi	field	kamp	campo	field	
 fonmo	foam	espum	espuma	foam	
-fonxa	telephone	telefon	teléfono	telephone, phone	
-forca	fork	ork	horquilla		
+fonxa	telephone	telefon	teléfono	telephone	
+forca	fork	ork	horquilla	fork	
 frati	react	reaksion	reacción	reaction	
-fraxu	forgive	perdon	perdonar	to pardon or excuse	
-frica	differ	difer	diferir	to differ	
+fraxu	forgive	perdon	perdonar	pardon	
+frica	differ	difer	diferir	differ	
 frili	easy	fasil	fácil	easy	
 frinu	fraction	fraksion	fracción	fraction	
-friti	offer	ofres	ofrecer	to offer	
-frumu	frown	fruns	fruncir		
-fukpi	copy	kopi	copiar	to copy	
-fulta	float	flot	flotar	to float	
-funca	luck	fortun	fortuna	fortune; wealth; luck	
-fusra	rotten	pudr	pudrir	to rot	
+friti	offer	ofres	ofrecer	offer	
+frumu	frown	fruns	fruncir	frown	
+fukpi	copy	kopi	copiar	copy	
+fulta	float	flot	flotar	float	
+funca	luck	fortun	fortuna	luck	
+fusra	rotten	pudr	pudrir	rot	
 fuzme	responsible	responsabl	responsable	responsible	
-gacri	cover	kubr	cubrir	(transitive) to cover; (reflexive) to cover oneself	
+gacri	cover	kubr	cubrir	cover	
 gadri	article	artikul	artículo	article	
-galfi	modify	modifik	modificar	to modify	
-galtu	high	alt	alto	high; tall; loud; stop!	
-galxe	throat	gasnat	gaznate		
-ganlo	closed	ser	cerrado	Shut; closed	
-ganra	broad	anc	ancho	wide; broad; width	
-ganse	sense	sentid	sentido	deeply felt, heartfelt; sense; meaning; direction; feeling; past participle of sentir	
-ganti	testicle	test	testículo	(anatomy) testicle	
-ganti	testicle	testikul	testículo	(anatomy) testicle	
+galfi	modify	modifik	modificar	modify	
+galtu	high	alt	alto	high	
+galxe	throat	gasnat	gaznate	gullet	
+ganlo	closed	ser	cerrado	closed	
+ganra	broad	anc	ancho	broad	
+ganse	sense	sentid	sentido	sense	
+ganti	testicle	test	testículo	testicle	
+ganti	testicle	testikul	testículo	testicle	
 ganxo	anus	an	ano	anus	
-ganzu	organize	organis	organizar	to organize	
+ganzu	organize	organis	organizar	organize	
 gapci	gas	gas	gas	gas	
-gapru	above	ariba	arriba	above, over	
+gapru	above	ariba	arriba	above	
 gapru	above	ensima	encima	on top	
-gapru	above	superior	superior	upper, higher; better; superior; boss	
-garna	rail	bar	barra	bar; slash (/ symbol)	
-gasnu	do	as	hacer	do, make	
-gasta	steel	aser	acero	steel; (figuratively) sword, weapon; (in plural) arms; tincture of steel; I steel, I turn into steel, I mix with tincture of steel, I plate with	
+gapru	above	superior	superior	upper	
+garna	rail	bar	barra	bar	
+gasnu	do	as	hacer	do	
+gasta	steel	aser	acero	steel	
 genja	root	rais	raíz	root	
-genxu	hook	ganc	gancho	hook, peg; difficult situation	
-gerku	dog	per	perro	a dog	
-gerna	grammar	gramatik	gramática		
-gidva	guide	gi	guiar	to guide; to lead, to conduct; to show the way; to drive, to steer; to train (plants); to advise, to counsel, to guide; to sprout (of plants)	
+genxu	hook	ganc	gancho	hook	
+gerku	dog	per	perro	dog	
+gerna	grammar	gramatik	gramática	grammar	
+gidva	guide	gi	guiar	guide	
 ginka	camp	kampament	campamento	camp	
 girzu	group	grup	grupo	group	
 gismu	primitive	rais	raíz	root	
-glare	hot	kaluros	caluroso	very hot, but to a greater extent than caliente	
-gleki	happy	alegr	alegre	happy; joyful; a bit drunk (colloquial)	
-gleki	happy	felis	feliz	happy; pleased; innocent	
-gletu	copulate	koit	coito	sexual intercourse	
-gletu	copulate	kopul	copular	to copulate	
-gluta	glove	guant	guante	Glove (hand-wear)	
-gradu	unit	grad	grado	degree; grade; step	
+glare	hot	kaluros	caluroso	hot	
+gleki	happy	alegr	alegre	happy	
+gleki	happy	felis	feliz	happy	
+gletu	copulate	koit	coito	coitus	
+gletu	copulate	kopul	copular	copulate	
+gluta	glove	guant	guante	glove	
+gradu	unit	grad	grado	degree	
 grake	gram	gram	gramo	gram	
-grana	rod	vara	vara	a stick or pole or rod; a staff of office; (obsolete) a unit of length, about;836 metre; half a braza	
-grasu	grease	gras	grasa	fat or grease used in cooking; nutritional fat	
+grana	rod	vara	vara	rod	
+grasu	grease	gras	grasa	grease	
 greku	frame	estruktur	estructura	structure	
-grusi	gray	gris	gris	grey, gray	
-grute	fruit	frut	fruta	an edible fruit	
-gubni	public	publik	público	public; audience; public	
+grusi	gray	gris	gris	gray	
+grute	fruit	frut	fruta	fruit	
+gubni	public	publik	público	public	
 gugde	country	pais	país	country	
 gundi	industry	industri	industria	industry	
-gunka	work	obr	obra	work, usually literary or artistic; construction	
+gunka	work	obr	obra	work	
 gunka	work	trabax	trabajo	work	
 gunma	jointly	mas	masa	dough	
-gunro	roll	rod	rodar	roll; film	
+gunro	roll	rod	rodar	roll	
 gunse	goose	gans	ganso	goose	
-gunta	attack	atak	atacar	to attack	
+gunta	attack	atak	atacar	attack	
 gurni	grain	gran	grano	grain	
-guska	scrape	rask	rascar	to scratch	
+guska	scrape	rask	rascar	scratch	
 gusni	illumine	lus	luz	light	
 gusta	restaurant	restaurant	restaurante	restaurant	
-gutci	cubit	pie	pie	foot	source: http://www.unc.edu/~rowlett/units/
-gutci	cubit	var	vara	a stick or pole or rod; a staff of office; (obsolete) a unit of length, about;836 metre; half a braza	source: http://www.unc.edu/~rowlett/units/
-gutra	womb	uter	útero	uterus; womb	
+gutci	cubit	pie	pie	Spanish foot ~ 27.86 cm	
+gutci	cubit	var	vara	Spanish unit of distance ~ 83.59 cm	
+gutra	womb	uter	útero	uterus	
 guzme	melon	melon	melón	melon	
-jabre	brake	fren	frenar	to restrain	
-jadni	adorn	adorn	adornar	to adorn	
-jakne	rocket	koet	cohete	a rocket; (San Antonio) a pistol	
+jabre	brake	fren	frenar	restrain	
+jadni	adorn	adorn	adornar	adorn	
+jakne	rocket	koet	cohete	rocket	
 jalge	result	result	resultado	result	
 jalna	starch	almidon	almidón	starch	
 jalra	cockroach	kukarac	cucaracha	cockroach	
 jamfu	foot	pie	pie	foot	
-jamna	war	ger	guerra	war, warfare	
+jamna	war	ger	guerra	war	
 janbe	bell	kampan	campana	bell	
 janco	shoulder	ombr	hombro	shoulder	
-janli	collide	cok	chocar	(intransitive) and (transitive) to crash; (intransitive) to collide (with); (intransitive) to shock or scandalize	
-janli	collide	top	topar		
+janli	collide	cok	chocar	collide	
+janli	collide	top	topar	run into	
 jansu	diplomat	konsul	cónsul	consul	
-janta	account	kont	cuenta	bill; account; report	
-jarbu	suburb	arrabal	arrabal		
-jarco	show	eksib	exhibir	to show	
+janta	account	kont	cuenta	account	
+jarbu	suburb	arrabal	arrabal	suburb	
+jarco	show	eksib	exhibir	show	
 jarki	narrow	angost	angosto	narrow	
 jaspu	passport	pasaport	pasaporte	passport	
 jatna	captain	kapitan	capitán	captain	
-javni	rule	regl	regla	rule; ruler; menstruation	
-jbama	bomb	bomb	bomba	bomb; pump	
-jbari	berry	bai	baya	berry (a small fruit)	
-jbena	born	nas	nacer	to be born	
+javni	rule	regl	regla	rule	
+jbama	bomb	bomb	bomba	bomb	
+jbari	berry	bai	baya	berry	
+jbena	born	nas	nacer	be born	
 jbera	borrow				Spanish source word missing in the original gismu etymology file
-jbini	between	entr	entre	between, among	
-jdari	firm	dur	duro	hard; firm, solid; tough, resilient, strong; cruel, severe, harsh; unbearable, offensive; mean, stingy, ungenerous; rough, uncouth	
-jdice	decide	desid	decidir	to decide	
-jdika	decrease	dekres	decrecer	to decrease	
+jbini	between	entr	entre	between	
+jdari	firm	dur	duro	firm	
+jdice	decide	desid	decidir	decide	
+jdika	decrease	dekres	decrecer	decrease	
 jdima	price	kost	costo	cost	
-jdini	money	diner	dinero	money; wealth	
+jdini	money	diner	dinero	money	
 jduli	jelly	xale	jalea	jelly	
 jecta	polity	estad	estado	state	
-jeftu	week	seman	semana	week (7 days)	
-jelca	burn	kem	quemar	(transitive) to burn; (transitive) to scorch; (transitive) to tan; (intransitive) to be very hot	
-jemna	gem	xem	gema		
-jenca	shock	cok	choque	collision, accident	
-jendu	axle	arbol	árbol	tree	
+jeftu	week	seman	semana	week	
+jelca	burn	kem	quemar	burn	
+jemna	gem	xem	gema	gem	
+jenca	shock	cok	choque	shock	
+jendu	axle	arbol	árbol	axle	
 jendu	axle	exe	eje	axis	
 jenmi	army	exercit	ejército	army	
-jerna	earn	gan	ganar	(transitive) to gain; (transitive) to earn; (sports) to win; (transitive) to defeat, to beat; (transitive) to reach; to attain	
-jersi	chase	perseg	perseguir	to pursue	
-jesni	needle	agux	aguja	needle; hand (of a clock); (military) firing pin; (architecture) spire, steeple	
-jetce	jet	cor	chorro	flow; jet; (Mex, familiar) ton, tons; bunch; pile	
+jerna	earn	gan	ganar	earn	
+jersi	chase	perseg	perseguir	pursue	
+jesni	needle	agux	aguja	needle	
+jetce	jet	cor	chorro	jet	
 jetnu	true	verdad	verdad	truth	
-jgalu	claw	gar	garra	claw, talon; (figuratively) clutches	
-jganu	angle	angul	ángulo	(geometry) angle	
-jgari	grasp	agar	agarrar	to grab or take hold of	
+jgalu	claw	gar	garra	claw	
+jganu	angle	angul	ángulo	angle	
+jgari	grasp	agar	agarrar	grab	
 jgena	knot	nud	nudo	knot	
 jgina	gene	xen	gen	gene	
-jgira	pride	enorguies	enorgullecerse		
+jgira	pride	enorguies	enorgullecerse	pride oneself	
 jgira	pride	orgui	orgullo	pride	
-jgita	guitar	gitarist	guitarrista	guitarist, guitar player	
-jibni	near	serk	cerca	close; near; around; fence	
+jgita	guitar	gitarist	guitarrista	guitarist	
+jibni	near	serk	cerca	near	
 jibri	job	emple	empleo	employment	
 jibri	job	trabax	trabajo	work	
-jicla	stir	atis	atizar		
-jicla	stir	axit	agitar	to shake; to wave	
-jicla	stir	revolv	revolver	to stir, to mix; to jumble up, to disarrange; to turn over, to poke about, to rummage around in; to consider, to turn over, to ponder; to disturb, to stir up, to upset; to swing around; to wrap, to wrap up; to turn 360 degrees, to revolve	
-jicmu	basis	bas	base	base; basis; grounding; foundation	
-jijnu	intuit	intu	intuir		
+jicla	stir	atis	atizar	stir	
+jicla	stir	axit	agitar	agitate	
+jicla	stir	revolv	revolver	revolve	
+jicmu	basis	bas	base	base	
+jijnu	intuit	intu	intuir	intuit	
 jikca	socialize	sosial	social	social	
 jikru	liquor	likor	licor	liqueur	
 jilka	alkali	alkalin	alcalino	alkaline	
-jilra	jealous	envidi	envidiar	to envy	
+jilra	jealous	envidi	envidiar	envy	
 jimca	branch	ram	rama	branch	
-jimpe	understand	komprend	comprender	to understand, to comprehend	
+jimpe	understand	komprend	comprender	comprehend	
 jimte	limit	limit	límite	limit	
-jinci	shears	tixer	tijeras	plural form of tijera	
-jinga	win	gan	ganar	(transitive) to gain; (transitive) to earn; (sports) to win; (transitive) to defeat, to beat; (transitive) to reach; to attain	
-jinku	vaccine	inokulasion	inoculación		
+jinci	shears	tixer	tijeras	scissors	
+jinga	win	gan	ganar	win	
+jinku	vaccine	inokulasion	inoculación	inoculation	
 jinme	metal	metal	metal	metal	
-jinru	immerse	inmersion	inmersión		
+jinru	immerse	inmersion	inmersión	immersion	
 jinsa	clean	limpi	limpio	clean	
-jinto	well	font	fuente	spring(water), fountain; source	
-jinvi	opine	opin	opinar	to think; to be of the opinion; to express	
-jinzi	innate	inat	innato		
-jipci	chicken	poi	pollo	chicken; a Mexican paying to be smuggled illegally into the United States of	
-jipno	tip	ekstrem	extremo	butt; end; extreme; outermost; tip	
-jipno	tip	konter	contera		
-jipno	tip	punt	punta	end	
-jirna	horn	korn	cuerno	horn; croissant; (usually in plural, colloquial) sexual or marital infidelity	
-jisra	juice	sum	zumo	juice; profit, gain	
-jisra	juice	xug	jugo	juice; substance	
-jitfa	false	fals	falso	false; untrue; fake; counterfeit	
-jitro	control	kontrol	controlar	to control	
-jivbu	weave	tex	tejer	to knit; to weave; to spin (a web, a tale)	
-jivna	compete	kompet	competir	(intransitive) to compete	
+jinto	well	font	fuente	fountain	
+jinvi	opine	opin	opinar	opine	
+jinzi	innate	inat	innato	innate	
+jipci	chicken	poi	pollo	chicken	
+jipno	tip	ekstrem	extremo	extreme	
+jipno	tip	konter	contera	tip	
+jipno	tip	punt	punta	point	
+jirna	horn	korn	cuerno	horn	
+jisra	juice	sum	zumo	juice	
+jisra	juice	xug	jugo	juice	
+jitfa	false	fals	falso	false	
+jitro	control	kontrol	controlar	control	
+jivbu	weave	tex	tejer	weave	
+jivna	compete	kompet	competir	compete	
 jmaji	gather	amas			missing; possible confusion with ``amass'' != ``amasar''; cf. ``juntarse, reunirse, congregarse''
-jmifa	shoal	bax	bajo	under, in both literal and figurative senses; low, in both literal and figurative senses	FIXIT dubious
+jmifa	shoal	bax	bajo	low	FIXIT dubious
 jmifa	shoal	baxi	bajío		
-jmina	add	anad	añadir	augment; add	
-jmive	live	viv	vivir	life; lifestyle; (intransitive) to live; to be alive; (intransitive) to make a living; (intransitive) to reside; to inhabit	
-jorne	joined	conekt	conectado	past participle of conectar	
-jubme	table	mes	mesa	table; flat area of land raised above other land, like the surface of a table is	
-judri	address	direksion	dirección	address; direction; management, or running of a business or organisation	
-jufra	sentence	fras	frase	sentence; phrase	
-jukni	spider	araknid	arácnido		
-jukpa	cook	kos	cocer	to boil	
-jukpa	cook	kosin	cocinar	to cook	
-julne	net	red	red	web, mesh; trap, snare; net, network; (computing) web, Internet	
-jundi	attentive	atend	atender	(transitive) to pay attention to (something); to attend to (something); (transitive) to care for (someone, especially the ill); (transitive) to comply with (some rule); (intransitive) to pay attention; to mind	
-junla	clock	relo	reloj	a clock; a watch, wristwatch	correct transcription ``relox''
-junri	serious	seri	serio	serious; true	
+jmina	add	anad	añadir	augment	
+jmive	live	viv	vivir	live	
+jorne	joined	conekt	conectado	connected	
+jubme	table	mes	mesa	table	
+judri	address	direksion	dirección	address	
+jufra	sentence	fras	frase	phrase	
+jukni	spider	araknid	arácnido	spider	
+jukpa	cook	kos	cocer	cook	
+jukpa	cook	kosin	cocinar	cook	
+julne	net	red	red	net	
+jundi	attentive	atend	atender	pay attention	
+junla	clock	relo	reloj	clock	correct transcription ``relox''
+junri	serious	seri	serio	serious	
 junta	weight	pesantes	pesantez	heaviness	correct transcription ``pesant''
-jurme	germ	xermen	germen		
-jursa	severe	rigures	riguroso		FIXIT correct transcription ``riguros''
-jutsi	species	espesi	especie	species; type, sort, kind	
-juxre	clumsy	desman	desmañado		
-juxre	clumsy	torp	torpe	clumsy; dishonest; ugly	
-jvinu	view	vist	vista	sight; view	
-kabri	cup	kop	copa	cup, goblet, stemmed glass, glass; (figuratively) cocktail, drink; cup (sports competition); crown (of a tree, of a hat); (card games) heart (a card of the hearts suit; on Spanish cards, the symbol	
-kabri	cup	tas	taza	cup, mug	
-kacma	camera	kamar	cámara	room; chamber; legislature; camera	
+jurme	germ	xermen	germen	germ	
+jursa	severe	rigures	riguroso	rigurous	FIXIT correct transcription ``riguros''
+jutsi	species	espesi	especie	species	
+juxre	clumsy	desman	desmañado	clumsy	
+juxre	clumsy	torp	torpe	clumsy	
+jvinu	view	vist	vista	view	
+kabri	cup	kop	copa	cup	
+kabri	cup	tas	taza	cup	
+kacma	camera	kamar	cámara	camera	
 kafke	cough	tos	tos	cough	
-kagni	company	korporasion	corporación	council; guild	
-kajde	warn	advert	advertir	to warn	
+kagni	company	korporasion	corporación	corporation	
+kajde	warn	advert	advertir	warn	
 kajna	shelf	anakel	anaquel	shelf	
-kakne	able	kapas	capaz	able, capable	
-kakpa	dig	kav	cavar	(transitive)to excavate, to dig; (intransitive) to penetrate into	
+kakne	able	kapas	capaz	able	
+kakpa	dig	kav	cavar	dig	
 kalci	feces	eses	heces	feces	
-kalci	feces	mierd	mierda	(vulgar) shit	
-kalri	open	abr	abrir	to open; to unlock; to turn on	
+kalci	feces	mierd	mierda	shit	
+kalri	open	abr	abrir	open	
 kalsa	chaotic	kaos	caos	chaos	
-kalte	hunt	kas	cazar	to hunt	
-kamju	column	kolumn	columna	a column; in architecture, a circular support	
+kalte	hunt	kas	cazar	hunt	
+kamju	column	kolumn	columna	column	
 kamni	committee	komite	comité	committee	
-kampu	common	komun	común	common, ordinary; common, joint; usual	
+kampu	common	komun	común	common	
 kanba	goat	kabr	cabra	goat	
-kancu	count	kont	contar	to count; to tell (a story); narrate; to rely on (contar con); to have available	
-kandi	dim	mortesin	mortecino		
-kandi	dim	opskur	obscuro		
-kanji	calculate	kalkul	calcular	to calculate	
-kanla	eye	ox	ojo	Eye; look! watch out!	
-kanro	healthy	san	sano	healthy, sound	
+kancu	count	kont	contar	count	
+kandi	dim	mortesin	mortecino	dim	
+kandi	dim	opskur	obscuro	obscure	
+kanji	calculate	kalkul	calcular	calculate	
+kanla	eye	ox	ojo	eye	
+kanro	healthy	san	sano	healthy	
 kansa	with	kon	con	with	
-kantu	quantum	kuant	cuanto	whatever quantity, as much, however much; (in “en cuanto a...”) however much concern; “regard”; (in “en cuanto”) as much time; “the moment”; “the meantime”; as much [of]; as many; however much; however many; (used in plural) as many things or people, all; (after “unos”) few; quite a few; a handful; (with comparatives) however much; however many; (constructing parallel; as much; however much; in whatever quantity; (physics) quantum	
-kanxe	conjunction	konjunsion	conjunción		
-karbi	compare	kompar	comparar	to compare	
-karce	car	automovil	automóvil	an automobile; a car	
+kantu	quantum	kuant	cuanto	quantum	
+kanxe	conjunction	konjunsion	conjunción	conjunction	
+karbi	compare	kompar	comparar	compare	
+karce	car	automovil	automóvil	automobile	
 karce	car	koc	coche	car	
-karda	card	kart	carta	letter (mail); document; map; menu	
-kargu	costly	kar	caro	dear; expensive	
-karli	collar	koi	cuello	neck	
-karni	journal	diari	diario	daily; diary, journal	
-katna	cut	kort	cortar	to cut	
-kavbu	capture	kaptur	capturar	to capture	
-kecti	pity	sent	sentir	to feel; to regret; to hear	
-kelci	play	xug	jugar	to play (games or sports)	
+karda	card	kart	carta	card	
+kargu	costly	kar	caro	expensive	
+karli	collar	koi	cuello	collar	
+karni	journal	diari	diario	journal	
+katna	cut	kort	cortar	cut	
+kavbu	capture	kaptur	capturar	capture	
+kecti	pity	sent	sentir	regret	
+kelci	play	xug	jugar	play	
 kenra	cancer	kanser	cáncer	cancer	
-kensa	outer	espase	espacio	space	
-kerfa	hair	pel	pelo	hair (a single hair); all the hair on the head	
+kensa	outer space	espase	espacio	space	
+kerfa	hair	pel	pelo	hair	
 kerlo	ear	orex	oreja	ear	
 kevna	cavity	kov	cueva	cave	
 kicne	cushion	koxin	cojín	cushion	
 kijno	oxygen	oksixen	oxígeno	oxygen	
-kinli	sharp	agud	agudo	(grammatical) having the voiced accent on the last syllable	
+kinli	sharp	agud	agudo	sharp	
 klaji	street	kai	calle	street	
-klaku	weep	ior	llorar	to cry	
-klama	come	ven	venir	to come	
-klani	quantity	kantidad	cantidad	amount; quantity; figure	
-klesi	class	klas	clase	class; kind	
-klina	clear	klar	claro	light, bright; clear	
+klaku	weep	ior	llorar	weep	
+klama	come	ven	venir	come	
+klani	quantity	kantidad	cantidad	quantity	
+klesi	class	klas	clase	class	
+klina	clear	klar	claro	clear	
 kliru	chlorine	klor	cloro	chlorine	
 kliti	clay	arsii	arcilla	clay	
-kliti	clay	bar	barro	mud; clay	
-klupe	screw	tornii	tornillo		
-kluza	loose	blus	blusa		
+kliti	clay	bar	barro	clay	
+klupe	screw	tornii	tornillo	screw	
+kluza	loose	blus	blusa	blouse	
 kobli	cabbage	kol	col	cabbage	
-kojna	corner	rinkon	rincón	corner (inside), angle; nook, cosy corner; haven, retreat; patch, small piece (of land); bit, end	
-kolme	coal	karbon	carbón	coal; charcoal	
+kojna	corner	rinkon	rincón	corner	
+kolme	coal	karbon	carbón	coal	
 komcu	comb	pein	peine	comb	
 konju	cone	kon	cono	cone	
-korbi	edge	orii	orilla	edge; shore	
-korcu	bent	torsid	torcido	torqued; twisted; winding	
+korbi	edge	orii	orilla	edge	
+korcu	bent	torsid	torcido	bent	
 korka	cork	korc	corcho	cork	
-kosta	coat	kasak	casaca		
-kramu	acre	are	área	an area; (unit of area) are	
-krasi	source	inisi	inicio	start, initiation	
-krati	represent	represent	representar	to represent	
-krefu	recur	rekur	recurrir	to resort to	
-krici	believe	kre	creer	to believe; to think or be of the opinion	
-krili	crystal	kristal	cristal	crystal; glass, glasseware	
-krinu	reason	rason	razón	reason; reasoning; correctness, rectitude; ratio	
-krinu	reason	xustifik	justificar	to justify	
-krixa	cry	grit	gritar	to shout, to scream, to cry out, to call out; to jeer at	
-kruca	intersect	krus	cruzar	to cross; to exchange (words)	
-kruji	cream	krem	crema	creme (cosmetic product); (Latin America) creme (dairy product); (Latin America, colloquial) mess (disorder)	
-kruvi	curve	kurv	curva	a curve; curved (curvo)	
-kubli	cube	kub	cubo		
-kucli	curious	kurios	curioso	curious (person); interesting; strange	
-kufra	comfort	konfort	confort		
-kukte	delicious	gustos	gustoso		
+kosta	coat	kasak	casaca	coat	
+kramu	acre	are	área	are	
+krasi	source	inisi	inicio	beginning	
+krati	represent	represent	representar	represent	
+krefu	recur	rekur	recurrir	recur	
+krici	believe	kre	creer	believe	
+krili	crystal	kristal	cristal	crystal	
+krinu	reason	rason	razón	reason	
+krinu	reason	xustifik	justificar	justify	
+krixa	cry	grit	gritar	shout	
+kruca	intersect	krus	cruzar	cross	
+kruji	cream	krem	crema	cream	
+kruvi	curve	kurv	curva	curve	
+kubli	cube	kub	cubo	cube	
+kucli	curious	kurios	curioso	curious	
+kufra	comfort	konfort	confort	comfort	
+kukte	delicious	gustos	gustoso	delicious	
 kulnu	culture	kultur	cultura	culture	
-kumfa	room	kuart	cuarto	fourth; fourth in a series; quarter; the fourth equal part; part of an animal, as forequarter or hindquarter; room, enclosed section of a structure; (Dominican Republic, slang) money	
+kumfa	room	kuart	cuarto	room	
 kumte	camel	kamei	camello	camel	
-kunra	mineral	mineral	mineral		
-kunti	empty	vakant	vacante	vacant; empty; vacancy; opening (as for a job)	
-kurfa	square	kuadrad	cuadrado	(geometry) square (shape); (mathematics) square (product)	
-kurji	take care	kuid	cuidar	to take care of; to pay attention	
-kurki	bitter	amarg	amargo		
-kuspe	range	abark	abarcar	to embrace, to encompass; to comprise, to make up, to contain, to include; to take in; to clasp; to undertake, to embark upon; to monopolize, to corner	
-kuspe	range	alkans	alcance	reach, range, scope	
+kunra	mineral	mineral	mineral	mineral	
+kunti	empty	vakant	vacante	vacant	
+kurfa	square	kuadrad	cuadrado	square	
+kurji	take care	kuid	cuidar	take care	
+kurki	bitter	amarg	amargo	bitter	
+kuspe	range	abark	abarcar	span	
+kuspe	range	alkans	alcance	range	
 kusru	cruel	kruel	cruel	cruel	
-labno	wolf	lob	lobo	wolf (a large wild canid, closely related to, and at times consanguineous	
-lacpu	pull	tir	tirar	(transitive) to throw; (transitive) to throw out; (transitive) to shoot; to launch; (transitive) to take (a photograph); (transitive) to print; (transitive) to knock over; to knock down; (Spain) (vulg) to fuck; (intransitive) to pull; (intransitive) to shoot; (intransitive) to manage; to get by; (intransitive) to attract; (intransitive) to be somewhat; (reflexive) to throw oneself; (reflexive) (colloquial) to spend time	
-lacri	rely	depend	depender	to depend, to be subject to	
-ladru	milk	lec	leche	milk; (vulgar, Spain) cum, come; (vulgar, Spain) shit	
-lafti	lift	levant	levantar	to lift	
-lakne	probable	probabl	probable	Probable; likely	
-lakse	wax	ser	cera		
+labno	wolf	lob	lobo	wolf	
+lacpu	pull	tir	tirar	pull	
+lacri	rely	depend	depender	depend	
+ladru	milk	lec	leche	milk	
+lafti	lift	levant	levantar	lift	
+lakne	probable	probabl	probable	probable	
+lakse	wax	ser	cera	wax	
 lalxu	lake	lag	lago	lake	
-lamji	adjacent	lad	lado	side; face	
+lamji	adjacent	lad	lado	side	
 lanbi	protein	albumin	albúmina	albumin	
-lanci	flag	bander	bandera	flag; banner	
-lanka	basket	kanast	canasta	a basket	
-lanli	analyze	analiz	analizar	to analyze	
-lanme	sheep	karner	carnero		
-lante	can	lat	lata	can, tin (UK, Australia)	
-lanxe	balance	balans	balance		
+lanci	flag	bander	bandera	banner	
+lanka	basket	kanast	canasta	basket	
+lanli	analyze	analiz	analizar	analyze	
+lanme	sheep	karner	carnero	ram	
+lante	can	lat	lata	can	
+lanxe	balance	balans	balance	balance	
 lanzu	family	famili	familia	family	
-larcu	art	art	arte	art; skill	
-lasna	fasten	asegur	asegurar	to maintain	
+larcu	art	art	arte	art	
+lasna	fasten	asegur	asegurar	fasten	
 lastu	brass	laton	latón	brass	
 latna	lotus	lot	loto	lotus	
-lazni	lazy	peres	perezoso		
-lebna	take	tom	tomar	to take; to drink, esp; an alcoholic beverage; to travel by means of	
+lazni	lazy	peres	perezoso	lazy	
+lebna	take	tom	tomar	take	
 lenjo	lens	lent	lente	lens	
-lenku	cold	fir	frío	cold, coldness; cold	correct transcription ``fri''
-lerci	late	avans	avanzado	advanced; past participle of avanzar	
-lerci	late	tard	tarde	afternoon; evening	
-lerfu	letteral	letr	letra	a letter (symbol); handwriting; (plural) lyrics	
+lenku	cold	fir	frío	cold	correct transcription ``fri''
+lerci	late	avans	avanzado	advanced	
+lerci	late	tard	tarde	late	
+lerfu	letteral	letr	letra	letter	
 lidne	leader	lider	líder	leader	
-lifri	experience	sufr	sufrir	to suffer	
+lifri	experience	sufr	sufrir	suffer	
 lijda	religion	relixio	religión	religion	
-limna	swim	nad	nadar	(intransitive) to swim; (intransitive) to be swimming in; (transitive) to swim	
-lindi	lightning	relampag	relámpago	lightning, bolt; flash, glance, sparkle	
-linji	line	line	línea	line (mathematics, art, electricity or telephone); individual script, dialogue for each actor (theatre and TV); command, order (government and enterprises); government policy, government action (e;g; línea dura = hard or strict; a thin, long dose of cacaine (slang)	
-linsi	chain	kaden	cadena	chain; a network, as of radio stations, etc	
-linto	lightweight	livian	liviano		
-lisri	story	istori	historia	history; story	
-liste	list	list	lista	a list, roll; a stripe; feminine of listo	
+limna	swim	nad	nadar	swim	
+lindi	lightning	relampag	relámpago	lightning	
+linji	line	line	línea	line	
+linsi	chain	kaden	cadena	chain	
+linto	lightweight	livian	liviano	lightweight	
+lisri	story	istori	historia	history, story	
+liste	list	list	lista	list	
 litce	liter	litr	litro	litre	
-litki	liquid	likid	líquido	liquid; liquid	
-litru	travel	viax	viajar	to travel, to journey	
+litki	liquid	likid	líquido	liquid	
+litru	travel	viax	viajar	travel	
 livga	liver	igad	hígado	liver	
-livla	fuel	kombustibl	combustible	combustible; fuel	
+livla	fuel	kombustibl	combustible	combustible	
 logji	logic	loxik	lógica	logic	
-loldi	floor	sol	suelo	ground, floor, soil	
-lorxu	fox	zor	zorro	fox (carnivore); fox (sly or cunning person); (Argentine Spanish) a device used to raise and (temporarily) support a; clever; crafty; sly	
-lumci	wash	limpi	limpiar	to clean; to wash	
-lunbe	bare	desnudo	desnudo	naked, nude, undressed; bare; dispossessed, destitute; plain, clear, manifest	
+loldi	floor	sol	suelo	soil	
+lorxu	fox	zor	zorro	fox	
+lumci	wash	limpi	limpiar	wash	
+lunbe	bare	desnudo	desnudo	naked	
 lunra	lunar	lun	luna	moon	
-lunsa	condense	kondens	condensar	to condense	
-mabla	derogative	mal	mal	(before the noun) apocopic form of malo; bad; evil; badly; poorly; evil; harm; a bad thing or situation	
-mabru	mammal	mamifer	mamífero	mammalian; mammal	
+lunsa	condense	kondens	condensar	condense	
+mabla	derogative	mal	mal	bad	
+mabru	mammal	mamifer	mamífero	mammal	
 macnu	manual	manual	manual	manual	
-makcu	mature	madur	maduro	ripe; (said of people) of relatively old age	
-makfa	magic	maxi	magia	magic; spell, charm, conjuration	
-maksi	magnet	iman	imán	magnet; attraction, charm; imam	
+makcu	mature	madur	maduro	mature	
+makfa	magic	maxi	magia	magic	
+maksi	magnet	iman	imán	magnet	
 malsi	temple	iglesi	iglesia	church	
-mamta	mother	mam	mamá	mum, mom (USA)	
-manci	wonder	maravii	maravilla	wonder, marvel	
-manfo	uniform	uniform	uniforme	uniform, even; uniform, dress uniform	
-manku	dark	oskur	oscuro	dark	
-manri	reference	kriteri	criterio		
-mansa	satisfy	satisfas	satisfacer	to satisfy, fulfil / fulfill	
+mamta	mother	mam	mamá	mum	
+manci	wonder	maravii	maravilla	marvel	
+manfo	uniform	uniform	uniforme	uniform	
+manku	dark	oskur	oscuro	obscure	
+manri	reference	kriteri	criterio	criterion	
+mansa	satisfy	satisfas	satisfacer	satisfy	
 manti	ant	ormig	hormiga	ant	
-mapku	cap	gor	gorra	baseball cap	
+mapku	cap	gor	gorra	cap	
 mapku	cap	sombrer	sombrero	hat	
 mapni	cotton	algodon	algodón	cotton	
-mapti	fit	apt	apto		
-marbi	shelter	ampar	amparo	shelter, sanctuary; protection; aid, relief; exemption, pardon	
+mapti	fit	apt	apto	apt	
+marbi	shelter	ampar	amparo	shelter	
 marce	vehicle	veikul	vehículo	vehicle	
-marde	morals	moral	moral		
+marde	morals	moral	moral	moral	
 margu	mercury	merkuri	mercurio	mercury	
-marji	material	materi	material	material; material	
+marji	material	materi	material	material	
 marna	hemp	kaniam	cáñamo	hemp	
-marna	hemp	mariguan	marijuana		
-marxa	mash	max	majar	to crush; to pound; to grind	
-masno	slow	despasi	despacioso		
+marna	hemp	mariguan	marijuana	marihuana	
+marxa	mash	max	majar	crush	
+masno	slow	despasi	despacioso	slow	
 masti	month	mes	mes	month	
-matci	mat	almoadii	almohadilla		
+matci	mat	almoadii	almohadilla	pad, pillow	
 matli	linen	lin	lino	linen	
 matne	butter	mantekii	mantequilla	butter	
-matra	motor	motor	motor	engine	
+matra	motor	motor	motor	motor	
 mavji	oats	aven	avena	oats	
 maxri	wheat	trig	trigo	wheat	
-mebri	brow	frent	frente	forehead; front	
+mebri	brow	frent	frente	forehead	
 melbi	beautiful	bel	bello	beautiful	
-menli	mind	ment	mente	mind, intellect	
-mensi	sister	erman	hermana	feminine form of hermano; sister	
-mentu	minute	minut	minuto	minute (60 seconds)	
-merli	measure	med	medir	to measure	
-midju	middle	medi	medio	half, half a/an; middle, mid; mid, in the middle of; mean, average; a bit of a, somewhat of a; middle, center; half; medium (spiritualism); method, way; (plural) means; channel, vehicle, medium; (plural) media; (plural) resources, funds, means; environment, surroundings, medium, milieu; society; habitat; (soccer) halfback; middle course; (Mexico) medio (an ancient coin); (Peru, Cuba) five cents; half, partly; I get halfway, I am halfway, I am in the middle, I am half-finished; I intervene, I intercede, I come between	
-mifra	code	sifr	cifra		
-mikce	doctor	medik	médico	physician; medical	
-milxe	mild	duls	dulce	sweet; sweet food; dessert	
+menli	mind	ment	mente	mind	
+mensi	sister	erman	hermana	sister	
+mentu	minute	minut	minuto	minute	
+merli	measure	med	medir	measure	
+midju	middle	medi	medio	middle	
+mifra	code	sifr	cifra	cipher	
+mikce	doctor	medik	médico	doctor	
+milxe	mild	duls	dulce	sweet	
 milxe	mild	suav	suave	suave	
-minde	command	mand	mandar	to send; to order	
+minde	command	mand	mandar	order	
 minji	machine	makin	máquina	machine	
-minli	mile	mii	milla	Mile	
+minli	mile	mii	milla	mile	
 minra	reflect	espex	espejo	mirror	
-minra	reflect	reflekt	reflectar		
-minra	reflect	reflex	reflejar	to reflect	
-mintu	same	mism	mismo	same; self	
-mipri	secret	sekret	secreto	a secret; secrecy	
+minra	reflect	reflekt	reflectar	reflect	
+minra	reflect	reflex	reflejar	reflect	
+mintu	same	mism	mismo	same	
+mipri	secret	sekret	secreto	secret	
 mirli	deer	als	alce	elk	
-mirli	deer	ant	ante	in front of, before; suede	
-mirli	deer	sierv	ciervo	Deer	
+mirli	deer	ant	ante	elk	
+mirli	deer	sierv	ciervo	deer	
 misno	famous	famos	famoso	famous	
-mitre	meter	metr	metro	meter; metro	
-mixre	mixture	mikstur	mixtura		
-mlana	side	lad	lado	side; face	
+mitre	meter	metr	metro	meter	
+mixre	mixture	mikstur	mixtura	mixture	
+mlana	side	lad	lado	side	
 mlatu	cat	gat	gato	cat	
-mleca	less	menos	menos	less; minus	
-mledi	mold	mo	moho	mildew, mold	
-mledi	mold	ong	hongo	mushroom; fungus; bowler hat, or (US) derby	
+mleca	less	menos	menos	less	
+mledi	mold	mo	moho	mold	
+mledi	mold	ong	hongo	mushroom	
 mluni	satellite	lun	luna	moon	
-mokca	point	moment	momento	moment, instant	
-moklu	mouth	bok	boca	mouth; oral cavity	
-molki	mill	molin	molino	a mill	
-morji	remember	rekord	recordar	to remember	
-morna	pattern	dibux	dibujo	drawing	
-morna	pattern	disen	diseño	a design; Spanish and Mexican land grants made in Alta California prior to the	
-morsi	dead	mor	morir	to die	
-mosra	friction	ros	roce		
-mraji	rye	senten	centeno		
+mokca	point	moment	momento	moment	
+moklu	mouth	bok	boca	mouth	
+molki	mill	molin	molino	mill	
+morji	remember	rekord	recordar	remember	
+morna	pattern	dibux	dibujo	pattern	
+morna	pattern	disen	diseño	pattern	
+morsi	dead	mor	morir	die	
+mosra	friction	ros	roce	friction	
+mraji	rye	senten	centeno	rye	
 mrilu	mail	kore	correo	mail	
-mruli	hammer	martii	martillo	hammer; (anatomy) malleus; auction house	
-mucti	immaterial	inmaterial	inmaterial		
+mruli	hammer	martii	martillo	hammer	
+mucti	immaterial	inmaterial	inmaterial	immaterial	
 mudri	wood	mader	madera	wood	
-mukti	purpose	motiv	motivo	reason, ground, motive	
-mulno	complete	komplet	completo	full, complete; completed; (Chile) hot dog	
+mukti	purpose	motiv	motivo	motive	
+mulno	complete	komplet	completo	complete	
 munje	universe	univers	universo	universe	
-mupli	example	exempl	ejemplo	example; instance	
-murse	glimmering	penumbr	penumbra		
+mupli	example	exempl	ejemplo	example	
+murse	glimmering	penumbr	penumbra	twilight	
 murta	curtain	kortin	cortina	curtain	
-mutce	much	muc	mucho	a lot of; many; much; much; a lot; long; long time; a lot; many	
-muvdu	move	mud	mudarse	(Reflexive form of mudar;) to move (change	
+mutce	much	muc	mucho	much	
+muvdu	move	mud	mudarse	move	
 muzga	museum	muse	museo	museum	
 nabmi	problem	problem	problema	problem	
 nakni	male	maskulin	masculino	masculine	
 nalci	wing	al	ala	wing	
-namcu	number	numer	número	number (counting); musical number	
+namcu	number	numer	número	number	
 nanba	bread	pan	pan	bread	
 nanca	year	an	año	year	
-nandu	difficult	ardu	arduo		
-nanla	boy	nin	niño	Boy; child	
-nanmu	man	ombr	hombre	man; (colloquial) husband; a top in male-male sex; man!	
-narge	nut	nos	nuez	walnut (nut)	
-narju	orange	naranx	naranja	orange (fruit of an orange tree); orange (colour of a ripe orange fruit)	
-natfe	deny	net	negar	to deny	correct transcription ``neg''
+nandu	difficult	ardu	arduo	arduous	
+nanla	boy	nin	niño	boy	
+nanmu	man	ombr	hombre	man	
+narge	nut	nos	nuez	nut	
+narju	orange	naranx	naranja	orange	
+natfe	deny	net	negar	deny	correct transcription ``neg''
 natmi	nation	nasion	nación	nation	
 navni	neon	neon	neón	neon	
-naxle	canal	kanal	canal	canal (waterway); channel (of television); (communication) channel; (chemistry) channel; cleavage	
+naxle	canal	kanal	canal	canal	
 nazbi	nose	naris	nariz	nose	
-nejni	energy	enerxi	energía	(physics) energy	
-nelci	fond	gust	gustar	to please; to be pleasing; (intransitive) to taste	
-nenri	in	en	en	in, at, on; in (a time); in (a language); (used after some verbs and translated by various prepositions in English); in (used in various expressions)	
-nibli	necessitate	implik	implicar	to imply	
-nicte	night	noc	noche	Night (time)	
+nejni	energy	enerxi	energía	energy	
+nelci	fond	gust	gustar	like	
+nenri	in	en	en	in	
+nibli	necessitate	implik	implicar	imply	
+nicte	night	noc	noche	night	
 nikle	nickel	nikel	níquel	nickel	
-nilce	furniture	mobiliari	mobiliario	a set of furniture	
-nimre	citrus	sidr	cidro		
-ninmu	woman	muxer	mujer	woman; wife	
+nilce	furniture	mobiliari	mobiliario	furniture	
+nimre	citrus	sidr	cidro	citron	
+ninmu	woman	muxer	mujer	woman	
 nirna	nerve	nerv	nervio	nerve	
-nitcu	need	nesesit	necesitar	to need	
-nivji	knit	tex	tejer	to knit; to weave; to spin (a web, a tale)	
-nixli	girl	nin	niña	feminine form of niño; girl	
+nitcu	need	nesesit	necesitar	need	
+nivji	knit	tex	tejer	knit	
+nixli	girl	nin	niña	girl	
 nobli	noble	noble	noble	noble	
-notci	message	not	nota	a note	
-nukni	magenta	fuksi	fucsia		
-nupre	promise	promet	prometer	to promise	
+notci	message	not	nota	note	
+nukni	magenta	fuksi	fucsia	fuchsia	
+nupre	promise	promet	prometer	promise	
 nurma	rural	rural	rural	rural	
-nutli	neutral	neutral	neutral		
-nuzba	news	novas	nuevas		
-pacna	hope	esper	esperar	to hope to (with subjunctive verb form); to wait to	
-pagbu	part	part	parte	part, section, portion; message, report, dispatch; traffic ticket, sticker	
-pagre	pass	pas	pasar	to pass; (intransitive) to happen; (transitive) to spend time; (intransitive) to enter a room; (reflexive) to go too far, to exaggerate; (reflexive) to ripen too much, to become rotten, off (food); (transitive) to pass (filter); to have a good time;	
-pajni	judge	xusg	juzgar	(transitive) to judge; (transitive) to try (a case); (transitive) to consider; (transitive) to pass judgment	
-palci	evil	mal	mal	(before the noun) apocopic form of malo; bad; evil; badly; poorly; evil; harm; a bad thing or situation	
-palku	pants	pantalon	pantalón	trousers	
+nutli	neutral	neutral	neutral	neutral	
+nuzba	news	novas	nuevas	news	
+pacna	hope	esper	esperar	hope	
+pagbu	part	part	parte	part	
+pagre	pass	pas	pasar	pass	
+pajni	judge	xusg	juzgar	judge	
+palci	evil	mal	mal	evil	
+palku	pants	pantalon	pantalón	pants	
 palne	tray	bandex	bandeja	tray	
-palta	plate	plat	plato	plate, dish	
-pambe	pump	bomb	bomba	bomb; pump	
-panci	odor	fragrans	fragancia		
-pandi	punctuate	puntu	puntuar	to punctuate; to score or gain points	
+palta	plate	plat	plato	plate	
+pambe	pump	bomb	bomba	bomb	
+panci	odor	fragrans	fragancia	fragrance	
+pandi	punctuate	puntu	puntuar	punctuate	
 panje	sponge	esponx	esponja	sponge	
 panka	park	park	parque	park	
-panlo	slice	rebanad	rebanada		
+panlo	slice	rebanad	rebanada	slice	
 panpi	peace	pas	paz	peace	
-panra	parallel	paralel	paralelo		
-pante	protest	protest	protestar	to protest	
-panzi	offspring	proxeni	progenie		
+panra	parallel	paralel	paralelo	parallel	
+pante	protest	protest	protestar	protest	
+panzi	offspring	proxeni	progenie	progeny	
 papri	page	paxin	página	page	
 parbi	ratio	proporsion	proporción	proportion	
-pastu	robe	tunik	túnica		
+pastu	robe	tunik	túnica	tunic	
 patfu	father	pap	papá	dad	
-patlu	potato	pap	papa	pope; potato (Latin America)	
-patxu	pot	pot	pote		
-pelji	paper	papel	papel	paper; role	
-pelxu	yellow	amarii	amarillo	yellow or golden coloured; jaundice	
+patlu	potato	pap	papa	potato	
+patxu	pot	pot	pote	pot	
+pelji	paper	papel	papel	paper	
+pelxu	yellow	amarii	amarillo	yellow	
 pemci	poem	poem	poema	poem	
-penbi	pen	plum	pluma	feather; pen	
-pencu	touch	toc	tocar	to touch; to play (a musical instrument); (impersonal pronominal form) to be the next; (impersonal pronominal form) to be someone’s time or turn	FIXIT correct transcription ``tok''
+penbi	pen	plum	pluma	pen	
+pencu	touch	toc	tocar	touch	FIXIT correct transcription ``tok''
 pendo	friend	amig	amigo	friend	
-penmi	meet	enkontr	encontrar	meet; find; (reflexive) to be located	
-pensi	think	pens	pensar	to think; to reflect upon a situation; to intend; to try; to think about	
+penmi	meet	enkontr	encontrar	meet	
+pensi	think	pens	pensar	think	
 perli	pear	per	pera	pear	
-pesxu	paste	past	pasta	paste, dough; (Spain, slang) money	
+pesxu	paste	past	pasta	paste	
 pezli	leaf	ox	hoja	leaf	
 pijne	pin	alfiler	alfiler	pin	
-pikci	beg	suplik	suplicar	to beg, supplicate	
-pikta	ticket	biiet	billete	ticket; bank note	
-pilji	multiply	multiplik	multiplicar		
+pikci	beg	suplik	suplicar	beg	
+pikta	ticket	biiet	billete	ticket	
+pilji	multiply	multiplik	multiplicar	multiply	
 pilka	crust	piel	piel	skin	
-pilno	use	us	usar	(transitive) to use; (transitive) to wear; (transitive) to consume; (reflexive) to be used; (reflexive) to be fashionable	
-pimlu	feather	plum	pluma	feather; pen	
+pilno	use	us	usar	use	
+pimlu	feather	plum	pluma	feather	
 pinca	urine	orin	orina	urine	
-pindi	poor	indixent	indigente		
+pindi	poor	indixent	indigente	indigent	
 pinfu	prisoner	prisioner	prisionero	prisoner	
 pinji	penis	pen	pene	penis	
 pinka	comment	glos	glosa	gloss	
-pinka	comment	koment	comentar	to comment	
+pinka	comment	koment	comentar	comment	
 pinsi	pencil	lapis	lápiz	pencil	
-pinta	level	orizontal	horizontal		
-pinxe	drink	beb	beber	to drink	
+pinta	level	orizontal	horizontal	horizontal	
+pinxe	drink	beb	beber	drink	
 pipno	piano	pian	piano	piano	
 pixra	picture	pintur	pintura	painting	
-plana	plump	gord	gordo	fat; a (or the) fat man; the grand prize in a lottery; (informal, euphemism) feces; the act of defecation; number two	
-plana	plump	gros	grueso	thick; fat	
-plana	plump	obes	obeso		
-platu	plan	plane	planear	to plan	
-pleji	pay	pag	pagar	to pay	
-plibu	pubic	pubis	pubis		
-plibu	pubic	xenital	genital		
-plini	planet	planet	planeta	a planet	
-plipe	leap	salt	saltar	to jump	
-plise	apple	mansan	manzana	apple; city block	
-plita	plane	plan	plano		
-plixa	plow	arad	arado	past participle of arar	
-pluja	complicated	komplex	complexo		
-pluka	please	plas	placer	(literary) to please (somebody); pleasure; something done to please; (geology, mining) placer; (nautical) sandbank	
+plana	plump	gord	gordo	fat	
+plana	plump	gros	grueso	fat	
+plana	plump	obes	obeso	obese	
+platu	plan	plane	planear	plan	
+pleji	pay	pag	pagar	pay	
+plibu	pubic	pubis	pubis	pubis	
+plibu	pubic	xenital	genital	genital	
+plini	planet	planet	planeta	planet	
+plipe	leap	salt	saltar	jump	
+plise	apple	mansan	manzana	apple	
+plita	plane	plan	plano	plane	
+plixa	plow	arad	arado	plow	
+pluja	complicated	komplex	complejo	complex	
+pluka	please	plas	placer	please	
 pluta	route	rut	ruta	route	
-polje	fold	pleg	plegar		
-ponse	possess	pose	poseer	to possess, to own, to hold; to know perfectly, to master (a language)	
-porpi	break	romp	romper	to break	
+polje	fold	pleg	plegar	pleat	
+ponse	possess	pose	poseer	possess	
+porpi	break	romp	romper	break	
 porsi	sequence	orden	orden	order	
 prali	profit	gananci	ganancia	profit	FIXIT correct transcription ``ganansi''
-prami	love	am	amar	to love, have great affection for, care about	
+prami	love	am	amar	love	
 prane	perfect	perfekt	perfecto	perfect	
-preja	spread	propag	propagar	to propagate	
+preja	spread	propag	propagar	propagate	
 prenu	person	person	persona	person	
 preti	question	pregunt	pregunta	question	
-prije	wise	sabi	sabio	learned; prudent; wise; learned person; wise person	
-prije	wise	sagas	sagaz		
-prina	print	imprim	imprimir	to print	
-pritu	right	derec	derecha	the right	
+prije	wise	sabi	sabio	wise	
+prije	wise	sagas	sagaz	sagacious	
+prina	print	imprim	imprimir	print	
+pritu	right	derec	derecha	right	
 prosa	prose	pros	prosa	prose	
-pruce	process	proses	proceso	lawsuit; process; trial	
-pruni	elastic	moi	muelle	soft, mild; wharf, quay	
-pruni	elastic	resort	resorte	spring (device made of flexible material)	
-pruxi	spirit	espiritu	espíritu	mind; spirit, soul	
-pulce	dust	polv	polvo	dust; powder	
-pulji	police	polisi	policía	police officer; normally policeman; police department, or police force	
-pulni	pulley	pole	polea		
-punji	put	pon	poner	to put	
-punli	swelling	protuberansi	protuberancia		
+pruce	process	proses	proceso	process	
+pruni	elastic	moi	muelle	spring	
+pruni	elastic	resort	resorte	spring	
+pruxi	spirit	espiritu	espíritu	spirit	
+pulce	dust	polv	polvo	dust	
+pulji	police	polisi	policía	police	
+pulni	pulley	pole	polea	pulley	
+punji	put	pon	poner	put	
+punli	swelling	protuberansi	protuberancia	protuberance	
 purci	past	antes	antes	before	
-purci	past	pasad	pasado	past; the past participle form of the verb pasar; past; former	
+purci	past	pasad	pasado	past	
 purdi	garden	xardin	jardín	garden	
-purmo	powder	polv	polvo	dust; powder	
-racli	sane	rasional	racional		
-ractu	rabbit	konex	conejo	rabbit; (Central America) detective; (vulgar, slang) cunt	
-ractu	rabbit	liebr	liebre		
+purmo	powder	polv	polvo	powder	
+racli	sane	rasional	racional	rational	
+ractu	rabbit	konex	conejo	rabbit	
+ractu	rabbit	liebr	liebre	hare	
 rafsi	affix	afix	afijo	affix	
-ragve	across	traves	a través	across; transversely	
-raktu	trouble	disturb	disturbar		
+ragve	across	traves	a través	across	
+raktu	trouble	disturb	disturbar	disturb	
 ralci	delicate	fraxil	frágil	fragile	
-ralju	principal	prinsipal	principal	main, most important; essential; chief, boss	
-ralte	retain	ten	tener	(transitive) to have, possess an object; (transitive) to possess a condition or quality; (transitive) to hold, grasp; (transitive) to contain; (transitive) to feel (internally); (transitive) to make to feel; (transitive) to be of a measure or age	
-randa	yield	rend	rendir	to conquer; to surrender; to exhaust; to produce; to vomit	
+ralju	principal	prinsipal	principal	principal	
+ralte	retain	ten	tener	retain	
+randa	yield	rend	rendir	yield	
 rango	organ	organ	órgano	organ	
-ranji	continue	kontinu	continuar	to continue	
+ranji	continue	kontinu	continuar	continue	
 ranmi	myth	mit	mito	myth	
-ransu	bronze	brons	bronce		
-ranti	soft	bland	blando		
+ransu	bronze	brons	bronce	bronze	
+ranti	soft	bland	blando	bland	
 ranxi	irony	ironi	ironía	irony	
-rapli	repeat	repet	repetir	(transitive) to repeat; to take seconds (meal); (reflexive) to repeat oneself	
+rapli	repeat	repet	repetir	repeat	
 rarna	natural	natural	natural	natural	
-ratcu	rat	rat	rata	a rat	
+ratcu	rat	rat	rata	rat	
 ratni	atom	atom	átomo	atom	
 rebla	tail	rab	rabo	tail	
-rectu	meat	karn	carne	flesh, the soft part of a body which covers the bones; an animal’s meat, or by extension the edible “fleshy” part of a fruit or	
-remna	human	uman	humano	human; human, human being	
-renro	throw	arox	arrojar	to emit; to erupt; to fling or hurl; to shed; to yield	
-renvi	survive	sobreviv	sobrevivir	to survive	
-respa	reptile	reptil	reptil		
-ricfu	rich	rik	rico	rich; luxurious; tasty	
-rigni	disgust	repugnansi	repugnancia		
+rectu	meat	karn	carne	meat	
+remna	human	uman	humano	human	
+renro	throw	arox	arrojar	throw	
+renvi	survive	sobreviv	sobrevivir	survive	
+respa	reptile	reptil	reptil	reptile	
+ricfu	rich	rik	rico	rich	
+rigni	disgust	repugnansi	repugnancia	repugnance	
 rijno	silver	arxentos	argentoso	containing silver	
 rilti	rhythm	ritm	ritmo	rhythm	
-rimni	rhyme	rim	rima	rhyme; consonance; (plural) poems, poetry; heap, pile	
-rinci	drain	desagu	desaguar		
-rinci	drain	eskur	escurrir	to wring	
-rinju	restrain	refren	refrenar	to rein in	
-rinka	cause	kaus	causa	cause; lawsuit	
-rinsa	greet	salud	saludar	to greet	
-rirci	rare	rar	raro	strange or odd; rare	
-rirni	parent	kri	criar	to raise	
+rimni	rhyme	rim	rima	rhyme	
+rinci	drain	desagu	desaguar	drain	
+rinci	drain	eskur	escurrir	wring	
+rinju	restrain	refren	refrenar	restrain	
+rinka	cause	kaus	causa	cause	
+rinsa	greet	salud	saludar	greet	
+rirci	rare	rar	raro	rare	
+rirni	parent	kri	criar	raise	
 rirxe	river	ri	río	river	
 rismi	rice	aros	arroz	rice	
 risna	heart	korason	corazón	heart	
-ritli	rite	rit	rito	rite, ritual	
-rivbi	avoid	eskiv	esquivar	to dodge	
+ritli	rite	rit	rito	rite	
+rivbi	avoid	eskiv	esquivar	avoid	
 rokci	rock	rok	roca	rock	
-romge	chrome	krom	cromo	chromium	
-rorci	procreate	prokre	procrear	to procreate	
-rotsu	thick	gros	grueso	thick; fat	
-rozgu	rose	ros	rosa	a rose; colour pink	
-ruble	weak	endebl	endeble		
+romge	chrome	krom	cromo	chrome	
+rorci	procreate	prokre	procrear	procreate	
+rotsu	thick	gros	grueso	thick	
+rozgu	rose	ros	rosa	rose	
+ruble	weak	endebl	endeble	weak	
 rufsu	rough	asper	áspero	rough	
-rufsu	rough	tosk	tosco		
-runme	melt	fund	fundir	to smelt	
-runta	dissolve	disolv	disolver	to dissolve	
-rupnu	dollar	peso	peso	weight; currency of some countries: peso	
-rutni	artifact	artifisial	artificial		
-sabji	provide	abastes	abastecer	to supply [with]	
+rufsu	rough	tosk	tosco	coarse	
+runme	melt	fund	fundir	melt	
+runta	dissolve	disolv	disolver	dissolve	
+rupnu	dollar	peso	peso	major monetary unit	
+rutni	artifact	artifisial	artificial	artificial	
+sabji	provide	abastes	abastecer	supply	
 sabnu	cabin	kabin	cabina	cabin	
-sacki	match	fosfor	fósforo	phosphorus; match (stick)	
-sacki	match	serii	cerilla		
-saclu	decimal	desimal	decimal		
-sakci	suck	suksion	succión		
-sakli	slide	resbal	resbalar	to slide	
+sacki	match	fosfor	fósforo	match	
+sacki	match	serii	cerilla	match	
+saclu	decimal	desimal	decimal	decimal	
+sakci	suck	suksion	succión	suction	
+sakli	slide	resbal	resbalar	slide	
 sakta	sugar	asukar	azúcar	sugar	
-salci	celebrate	solemnis	solemnizar		
-salpo	slope	inklin	inclinar	to tilt	
-salpo	slope	sesg	sesga		
+salci	celebrate	solemnis	solemnizar	celebrate	
+salpo	slope	inklin	inclinar	incline	
+salpo	slope	sesg	sesga	slope	
 salta	salad	ensalad	ensalada	salad	
 samcu	cassava	niam	ñame	yam	
-sampu	simple	simpl	simple	simple; mere, uncomplicated, easy; single; insipid; simpleton, fool; (pharmacology, masculine) simple	
-sance	sound	son	son	sound; rumour	
-sanga	sing	kant	cantar	to sing	
+sampu	simple	simpl	simple	simple	
+sance	sound	son	son	sound	
+sanga	sing	kant	cantar	sing	
 sanji	conscious	konsient	consciente	conscious	
-sanli	stand	levant	levantado	past participle of levantar	
-sanmi	meal	sen	cena	supper, dinner	
-sanso	sauce	sals	salsa	sauce; a type of sauce flavored with chili and tomatoes that is popular in Latin; salsa (a type of music); salsa (a type of dance)	
+sanli	stand	levant	levantado	up, astir	
+sanmi	meal	sen	cena	supper	
+sanso	sauce	sals	salsa	sauce	
 santa	umbrella	paraguas	paraguas	umbrella	
 sarcu	necessary	nesesari	necesario	necessary	
-sarji	support	soport	soportar	to support a weight or load; to put up with	
-sarji	support	sosten	sostener	to hold, sustain	
-sarlu	spiral	espiral	espiral		
-sarxe	harmonious	armonios	armonioso		
+sarji	support	soport	soportar	support	
+sarji	support	sosten	sostener	sustain	
+sarlu	spiral	espiral	espiral	spiral	
+sarxe	harmonious	armonios	armonioso	harmonious	
 saske	science	siensi	ciencia	science	
 satci	exact	eksakt	exacto	exact	
-satre	stroke	estreg	estregar	to rub, scrub, scour	
-savru	noise	ruid	ruido	sound; noise	
-sazri	operate	dirix	dirigir	to direct	
-sefta	surface	kostad	costado	side; past participle of costar	
+satre	stroke	estreg	estregar	rub	
+savru	noise	ruid	ruido	noise	
+sazri	operate	dirix	dirigir	drive	
+sefta	surface	kostad	costado	broadside	
 selci	cell	selul	célula	cell	
-selfu	serve	serv	servir	to serve	
-senci	sneeze	estornud	estornudar	to sneeze	
-senpi	doubt	eseptik	escéptico		
-senta	layer	estrat	estrato	layer; stratum	
-senva	dream	son	soñar	to dream	
-sepli	apart	seperad	separado	past participle of separar	
-serti	stairs	eskaler	escalera	stairs; ladder; (poker) straight	
-setca	insert	insert	insertar	to insert	
-sevzi	self	si	sí	himself/herself/itself	third person reflexive pronoun
+selfu	serve	serv	servir	serve	
+senci	sneeze	estornud	estornudar	sneeze	
+senpi	doubt	eseptik	escéptico	sceptic	
+senta	layer	estrat	estrato	layer	
+senva	dream	son	soñar	dream	
+sepli	apart	seperad	separado	separate	
+serti	stairs	eskaler	escalera	stairs	
+setca	insert	insert	insertar	insert	
+sevzi	self	si	sí	himself/herself/itself	
 sfani	fly	mosk	mosca	fly	
-sfasa	punish	kastig	castigar	to punish, castigate	
+sfasa	punish	kastig	castigar	castigate	
 sfofa	sofa	sof	sofá	sofa	
-sfubu	dive	buse	bucear	to dive, to swim under water; to snorkel; to work as a diver; (figuratively) to delve into	
-siclu	whistle	silb	silbar		
-sicni	coin	fic	ficha	file; chip; record; token	
+sfubu	dive	buse	bucear	dive	
+siclu	whistle	silb	silbar	whistle	
+sicni	coin	fic	ficha	token	
 sidbo	idea	ide	idea	idea	
 sidju	help	aiud	ayuda	help	
 sigja	cigar	sigar	cigarro	cigar	
 silka	silk	sed	seda	silk	
 silna	salt	sal	sal	salt	
-simlu	seem	pares	parecer	to seem; to believe (pronominal use); to think (pronominal use); appearance, seem	
-simsa	similar	similar	similar		
-simxu	mutual	resiprok	recíproco		
-since	snake	sierp	sierpe	large serpent, snake; (figuratively) wriggler, anything that wriggles; (figuratively) ugly person, angry person, dangerous person; (botany) sprout, shoot, sucker	
-sinma	esteem	estim	estimar	to esteem; to estimate; to think, to believe	
+simlu	seem	pares	parecer	appear	
+simsa	similar	similar	similar	similar	
+simxu	mutual	resiprok	recíproco	reciprocal	
+since	snake	sierp	sierpe	serpent	
+sinma	esteem	estim	estimar	esteem	
 sinxa	sign	sen	señal	sign	
-sipna	sleep	dorm	dormir	to sleep; (reflexive) to fall asleep	
-sirji	straight	direkt	directo	Direct	
-sisku	seek	busk	buscar	to seek, to search for, to look for	
-sisti	cease	ses	cesar	to cease	
-sitna	cite	sit	citar	to cite	
-sivni	private	privad	privado	past participle of privar	
-skaci	skirt	sai	saya	(archaic) a woman’s skirt	
+sipna	sleep	dorm	dormir	sleep	
+sirji	straight	direkt	directo	direct	
+sisku	seek	busk	buscar	seek	
+sisti	cease	ses	cesar	cease	
+sitna	cite	sit	citar	cite	
+sivni	private	privad	privado	private	
+skaci	skirt	sai	saya	skirt	
 skami	computer	kalkulador	calculador	calculator	
 skapi	pelt	piel	piel	skin	
-skari	color	kolor	color	color, hue; rouge (cosmetics); pretext, motive, reason; character; side, party, faction; race, ethnicity; (poker) flush	
-skicu	describe	deskrib	describir	to describe	
+skari	color	kolor	color	color	
+skicu	describe	deskrib	describir	describe	
 skiji	ski	eski	esquí	ski	
-skina	cinema	sine	cine	cinema, moviehouse	
-skori	cord	kord	cordón	lace, string	
-skuro	groove	surk	surco		
-slabu	old	viex	viejo	an old person; an old item; old	
+skina	cinema	sine	cine	cinema	
+skori	cord	kord	cordón	cord	
+skuro	groove	surk	surco	furrow	
+slabu	old	viex	viejo	old	
 slaka	syllable	silab	sílaba	syllable	
-slami	acid	asid	ácido	sharp, tart; acidic; harsh; acid	
-slanu	cylinder	silindr	cilindro		
+slami	acid	asid	ácido	acid	
+slanu	cylinder	silindr	cilindro	cylinder	
 slari	sour	agri	agrio	sour	
-slasi	plastic	plastik	plástico	plastic (a stiff but usually slightly flexible synthetic material)	
-sligu	solid	solid	sólido	solid; strong, firm	
-slilu	oscillate	osil	oscilar	to oscillate	
-sliri	sulfur	sulfur	sulfuro		
-sluji	muscle	muskul	músculo	(uncountable) muscle tissue; (countable) muscle (organ)	
+slasi	plastic	plastik	plástico	plastic	
+sligu	solid	solid	sólido	solid	
+slilu	oscillate	osil	oscilar	oscillate	
+sliri	sulfur	sulfur	sulfuro	sulfur	
+sluji	muscle	muskul	músculo	muscle	
 sluni	onion	por	puerro	leek	
 sluni	onion	seboi	cebolla	onion	
 smacu	mouse	raton	ratón	mouse	
-smadi	guess	adivin	adivinar	to divine or foretell	
-smaji	quiet	kaiad	callado	past participle of callar	
-smaji	quiet	silensios	silencioso	silent; quiet	
-smani	monkey	simi	simio		
+smadi	guess	adivin	adivinar	divine	
+smaji	quiet	kaiad	callado	quiet	
+smaji	quiet	silensios	silencioso	silent	
+smani	monkey	simi	simio	monkey	
 smoka	sock	kalsetin	calcetín	sock	
 smuci	spoon	kucar	cuchara	spoon	
-smuni	meaning	signifik	significado	meaning; significance	
-snada	succeed	konseg	conseguir	to achieve; to get or acquire	
-snanu	south	sud	sud		
+smuni	meaning	signifik	significado	meaning	
+snada	succeed	konseg	conseguir	achieve	
+snanu	south	sud	sud	south	
 snanu	south	sur	sur	south	
-snidu	second	segund	segundo	second (after the first); a second (time)	
+snidu	second	segund	segundo	second	
 snime	snow	niev	nieve	snow	
-snipa	sticky	pegadiso	pegadizo		
-snuji	sandwich	sanduic	sandwich		
-snura	secure	segur	seguro	secure, safe (free from danger); certain (correct); certain (firm)	
-snuti	accidental	aksidental	accidental		
+snipa	sticky	pegadiso	pegadizo	sticky	
+snuji	sandwich	sanduic	sandwich	sandwich	
+snura	secure	segur	seguro	secure	
+snuti	accidental	aksidental	accidental	accidental	
 sobde	soya	soi	soya	soya	
-sobde	soya	sox	soja	soya, soybean; soy (soy sauce)	
+sobde	soya	sox	soja	soya	
 sodna	sodium	sod	sodio	sodium	FIXIT correct transcription ``sodi''
-sodva	soda	sod	soda		
+sodva	soda	sod	soda	soda	
 solji	gold	or	oro	gold	
 solri	solar	sol	sol	sun	
-sombo	sow	sembr	sembrar	plant (place a seed or plant in soil or other substrate in order that it; seed	
-sonci	soldier	soldad	soldado	soldier; past participle of soldar	
-sorcu	store	surt	surtir	to provide; to furnish, to stock; to spurt, to shoot up	
-sorgu	sorghum		sorgo		FIXIT Spanish source word missing in the original gismu etymology file ``typo should have been sargu, loses all Chinese and Hindi''
-sovda	egg	ov	huevo	egg; spawn	
-spaji	surprise	sorprend	sorprender	to surprise	
-spali	polish	pul	pulir	to polish	
+sombo	sow	sembr	sembrar	seed	
+sonci	soldier	soldad	soldado	soldier	
+sorcu	store	surt	surtir	stock	
+sorgu	sorghum		sorgo	sorgum	FIXIT Spanish source word missing in the original gismu etymology file ``typo should have been sargu, loses all Chinese and Hindi''
+sovda	egg	ov	huevo	egg	
+spaji	surprise	sorprend	sorprender	surprise	
+spali	polish	pul	pulir	polish	
 spati	plant	plant	planta	plant	
 speni	married	espos	esposo	husband	
-spisa	piece	pies	pieza	piece, part	
+spisa	piece	pies	pieza	piece	
 spita	hospital	ospital	hospital	hospital	
-spofu	broken	rot	roto	broken; corrupt, rotten	
-spoja	explode	eksplo	explotar	to explode	correct transcription ``eksplot''
-spuda	reply	respond	responder	to answer	
-sputu	spit	esput	esputar	to expectorate; to spit	
-sraji	vertical	derec	derecho	right, right-hand; straight, upright; correct, appropriate; right (direction, entitlement); law; path, road; right side; duties, taxes, fees, charges	
-sraji	vertical	vertikal	vertical		
-sraku	scratch	rask	rascar	to scratch	
-srana	pertain	konsern	concernir	to concern	
-srasu	grass	ierb	hierba	herb; grass; (slang) marijuana	
-srera	err	ier	yerro	error; blunder	
-sruma	assume	asum	asumir	(said of a duty or position) to assume	
-sruri	surround	sirkund	circundar	to surround	
+spofu	broken	rot	roto	broken	
+spoja	explode	eksplo	explotar	explode	correct transcription ``eksplot''
+spuda	reply	respond	responder	respond	
+sputu	spit	esput	esputar	spit	
+sraji	vertical	derec	derecho	upright	
+sraji	vertical	vertikal	vertical	vertical	
+sraku	scratch	rask	rascar	scratch	
+srana	pertain	konsern	concernir	concern	
+srasu	grass	ierb	hierba	herb	
+srera	err	ier	yerro	error	
+sruma	assume	asum	asumir	assume	
+sruri	surround	sirkund	circundar	surround	
 stace	honest	onest	honesto	honest	
-stagi	vegetable	ortalis	hortaliza		
-staku	ceramic	seramik	cerámica	Basic pottery, roof tiles, etc	
-stali	remain	rest	restar	to subtract; to reduce; to remain	
-stani	stalk	tai	tallo	stalk, stem	
-stapa	step	pas	paso	a step or pace walking; a step in a set of instructions	
-stasu	soup	sop	sopa	Soup	
+stagi	vegetable	ortalis	hortaliza	vegetable	
+staku	ceramic	seramik	cerámica	ceramic	
+stali	remain	rest	restar	remain	
+stani	stalk	tai	tallo	stalk	
+stapa	step	pas	paso	step	
+stasu	soup	sop	sopa	soup	
 stati	talent	talent	talento	talent	
 steba	frustration	frustrasion	frustración	frustration	
 steci	specific	espesial	especial	special	
 stedu	head	kabes	cabeza	head	
 stela	lock	seradur	cerradura	lock	
-stici	west	oest	oeste	west; west; western; westerly	
-stidi	suggest	indik	indicar	to indicate	
-stika	adjust	axust	ajustar	to adjust	
+stici	west	oest	oeste	west	
+stidi	suggest	indik	indicar	indicate	
+stika	adjust	axust	ajustar	adjust	
 stizu	chair	sii	silla	chair	
-stodi	constant	konstant	constante		
+stodi	constant	konstant	constante	constant	
 stuna	east	est	este	east	
 stura	structure	estruktur	estructura	structure	
-stuzi	site	siti	sitio	place	
+stuzi	site	siti	sitio	site	
 sucta	abstract	apstrakt	abstracto	abstract	
 sudga	dry	sek	seco	dry	
-sufti	hoof	pesuni	pezuña		
+sufti	hoof	pesuni	pezuña	hoof	
 suksa	sudden	subit	súbito	suddenly	
-sumji	sum	sum	suma	addition; summation	
-sumne	smell	ol	oler	to smell	
-sumne	smell	olfate	olfatear	to sniff	
-sumti	argument	suxet	sujeto	subject of a sentence	
+sumji	sum	sum	suma	sum	
+sumne	smell	ol	oler	smell	
+sumne	smell	olfate	olfatear	sniff	
+sumti	argument	suxet	sujeto	subject	
 sunga	garlic	axo	ajo	garlic	
-sunla	wool	lan	lana	wool; (slang) cash, money	
-surla	relax	relax	relajar	to relax	
-sutra	fast	rapid	rápido	rapid, quick; rapidly	
-tabno	carbon	karbon	carbón	coal; charcoal	
+sunla	wool	lan	lana	wool	
+surla	relax	relax	relajar	relax	
+sutra	fast	rapid	rápido	rapid	
+tabno	carbon	karbon	carbón	carbon	
 tabra	trumpet	metales	metales	brass	
 tadji	method	metod	método	method	
-tadni	study	estudi	estudiar	to study	
-tagji	snug	apret	apretado		
-tagji	snug	estrec	estrecho	Narrow; tight; strait	
+tadni	study	estudi	estudiar	study	
+tagji	snug	apret	apretado	tight	
+tagji	snug	estrec	estrecho	tight	
 talsa	challenge	desafi	desafiar	challenge	
-tamca	tomato	tomat	tomate	tomato (plant); tomato (fruit); (in Mexico) tomatillo (Physalis ixocarpa)	
-tamji	thumb	pulgar	pulgar	thumb, big toe	
+tamca	tomato	tomat	tomate	tomato	
+tamji	thumb	pulgar	pulgar	thumb	
 tamne	cousin	prim	primo	cousin	
 tanbo	board	tabl	tabla	table	
-tance	tongue	lengu	lengua	tongue; language	
+tance	tongue	lengu	lengua	tongue	
 tanko	tobacco	tabak	tabaco	tobacco	
-tanru	metaphor	metafor	metáfora		
-tansi	pan	basi	bacía		
+tanru	metaphor	metafor	metáfora	metaphor	
+tansi	pan	basi	bacía	basin	
 tanxe	box	trank			FIXIT missing; confusion with English source word ``trunk''?; ``tronco'' means ``tree-trunk'' and has wrong transcription
-tapla	tile	asulex	azulejo	tile; (ornithology) indigo bunting	
-tapla	tile	baldus	baldosa		
-tapla	tile	tex	teja	tile; type of noodle; a type of chocolate from Peru	
+tapla	tile	asulex	azulejo	tile	
+tapla	tile	baldus	baldosa	tile	
+tapla	tile	tex	teja	tile	
 tarbi	embryo	fet	feto	fetus	
 tarci	star	estrei	estrella	star	
-tarla	tar	brea	brea	tar, pitch; tarpaulin	
-tarmi	shape	form	forma	shape; form	
-tarti	behave	komport	comportarse		
+tarla	tar	brea	brea	tar	
+tarmi	shape	form	forma	form	
+tarti	behave	komport	comportarse	behave	
 taske	thirst	sed	sed	thirst	
-tatpi	tired	fatig	fatigado		
+tatpi	tired	fatig	fatigado	tired	
 tatru	breast	tet	teta	breast	
-tavla	talk	abl	hablar	(intransitive) to talk; to speak; to communicate using words; (transitive) to speak (a language)	
-taxfu	garment	trax	traje	suit, dress	
-tcaci	custom	kostumbr	costumbre	habit	
-tcaci	custom	us	uso	use; usage; habit; wear (degradation)	
-tcadu	city	siudad	ciudad	city, large town	
-tcana	station	estasion	estación	station; season (of the year)	
+tavla	talk	abl	hablar	talk	
+taxfu	garment	trax	traje	dress	
+tcaci	custom	kostumbr	costumbre	custom	
+tcaci	custom	us	uso	use	
+tcadu	city	siudad	ciudad	city	
+tcana	station	estasion	estación	station	
 tcana	station	parad	parada	stop	
 tcati	tea	te	té	tea	
-tcena	stretch	ekstend	extender	to extend	
-tcica	deceive	embauk	embaucar		
-tcica	deceive	engan	engañar	to trick or deceive	
-tcidu	read	le	leer	to read	
-tcika	time	or	hora	hour; time	
+tcena	stretch	ekstend	extender	extend	
+tcica	deceive	embauk	embaucar	deceive	
+tcica	deceive	engan	engañar	deceive	
+tcidu	read	le	leer	read	
+tcika	time	or	hora	hour	
 tcila	detail	detai	detalle	detail	
-tcima	weather	tiemp	tiempo	time; tense; weather	
+tcima	weather	tiemp	tiempo	weather	
 tcini	situation	situasion	situación	situation	
 tcita	label	etiket	etiqueta	label	
-temci	time	tiemp	tiempo	time; tense; weather	
-tenfa	exponential	eksponent	exponente		
-tengu	texture	tekstur	textura		
-terdi	earth	tier	tierra	land, as opposed to the sea; soil, earth; a nation or province	
-terpa	fear	teror	terror	horror; terror	
+temci	time	tiemp	tiempo	time	
+tenfa	exponential	eksponent	exponente	exponent	
+tengu	texture	tekstur	textura	texture	
+terdi	earth	tier	tierra	earth	
+terpa	fear	teror	terror	terror	
 tigni	perform	artist	artista	artist	
-tikpa	kick	pate	patear	to kick	
-tilju	heavy	pesad	pesado	heavy in weight; annoying; boring; serious	
-tinbe	obey	obedes	obedecer	to obey; to be because of	
+tikpa	kick	pate	patear	kick	
+tilju	heavy	pesad	pesado	heavy	
+tinbe	obey	obedes	obedecer	obey	
 tinci	tin	estan	estaño	tin	
-tinsa	stiff	ties	tieso		
-tirna	hear	oient	oiente		
+tinsa	stiff	ties	tieso	stiff	
+tirna	hear	oient	oyente	listener	
 tirse	iron	iero	hierro	iron	
 tirxu	tiger	tigr	tigre	tiger	
-tisna	fill	ien	llenar	to fill something up; to complete a group	
-titla	sweet	duls	dulce	sweet; sweet food; dessert	
+tisna	fill	ien	llenar	fill	
+titla	sweet	duls	dulce	sweet	
 tivni	television	television	televisión	television	
-tixnu	daughter	ix	hija	daughter; feminine form of hijo	
-toknu	oven	orn	horno	oven; furnace	
+tixnu	daughter	ix	hija	daughter	
+toknu	oven	orn	horno	oven	
 toldi	butterfly	polii	polilla	moth	
 tonga	tone	ton	tono	tone	
-tordu	short	kort	corto	short (length)	cf. cortar ``to cut'' (variant)
-torni	twist	tors	torcer	to twist; to bend	
-traji	superlative	ekstrem	extremo	butt; end; extreme; outermost; tip	
-trano	nitrogen	nitr	nitro-		
-trati	taut	tirant	tirante	strap	
+tordu	short	kort	corto	short	
+torni	twist	tors	torcer	twist	
+traji	superlative	ekstrem	extremo	extreme	
+trano	nitrogen	nitr	nitro-	nitro-	
+trati	taut	tirant	tirante	taut	
 trene	train	tren	tren	train	
 tricu	tree	arbol	árbol	tree	
-trina	attract	atra	atraer	to attract, to lure	
-trixe	behind	tras	tras	after; beyond	
-trixe	behind	traser	trasero	back, back-side, rear-side; (slang) butt	
-troci	try	prob	probar	to prove: No puedes probarlo (you can’t prove it); to taste:	
-tsali	strong	fort	fuerte	strong; loud; fort, stronghold	
-tsani	sky	siel	cielo	sky; heaven	
-tsapi	seasoning	alin	aliño		
-tsiju	seed	simient	simiente	semen; (botany, biology) germ; (botany) seed	
-tsina	stage	esen	escena	scene; stage	
+trina	attract	atra	atraer	attract	
+trixe	behind	tras	tras	after	
+trixe	behind	traser	trasero	back	
+troci	try	prob	probar	try	
+tsali	strong	fort	fuerte	strong	
+tsani	sky	siel	cielo	sky	
+tsapi	seasoning	alin	aliño	seasoning	
+tsiju	seed	simient	simiente	seed	
+tsina	stage	esen	escena	scene	
 tubnu	tube	tub	tubo	tube	
-tugni	agree	asent	asentir	to nod, assent	
-tugni	agree	konkord	concordar	to agree	
-tujli	tulip	tulipan	tulipán	a tulip	
-tumla	land	tier	tierra	land, as opposed to the sea; soil, earth; a nation or province	
-tunba	sibling	emparentad	emparentado		
+tugni	agree	asent	asentir	assent	
+tugni	agree	konkord	concordar	agree	
+tujli	tulip	tulipan	tulipán	tulip	
+tumla	land	tier	tierra	land	
+tunba	sibling	emparentad	emparentado	kindred	
 tunka	copper	kobr	cobre	copper	
-tunlo	swallow	deglut	deglutir		
-tunlo	swallow	trag	tragar	(transitive) and (reflexive) to gulp; (transitive) and (reflexive) to swallow	
-tunta	poke	apunal	apuñalar	to stab	
-tunta	poke	puns	punzar		
+tunlo	swallow	deglut	deglutir	swallow	
+tunlo	swallow	trag	tragar	swallow	
+tunta	poke	apunal	apuñalar	stab	
+tunta	poke	puns	punzar	prod	
 tuple	leg	piern	pierna	leg	
-turni	govern	govern	gobernar	to govern	
-tutci	tool	utensili	utensilio	utensil; tool; implement	
+turni	govern	govern	gobernar	govern	
+tutci	tool	utensili	utensilio	tool	
 tutra	territory	teritori	territorio	territory	
 vacri	air	air	aire	air	
-vajni	important	signifik	significar	to mean	
-valsi	word	vokabl	vocablo		
-vamji	value	valu	valuar		
-vamtu	vomit	vomit	vomitar	to vomit, to be sick	
-vanbi	environment	ambient	ambiente	atmosphere; environment	
-vanci	evening	anoceser	anochecer	dusk, nightfall; to become night, get dark, be somewhere by dark	
+vajni	important	signifik	significante	significant	
+valsi	word	vokabl	vocablo	word	
+vamji	value	valu	valuar	value	
+vamtu	vomit	vomit	vomitar	vomit	
+vanbi	environment	ambient	ambiente	environment	
+vanci	evening	anoceser	anochecer	dusk	
 vanju	wine	vin	vino	wine	
 vasru	contain	vasix	vasija	vessel	
-vasxu	breathe	respir	respirar	to breathe	
-vecnu	sell	vend	vender	(transitive) to sell	
-venfu	revenge	veng	vengar	to take revenge	
-vensa	spring	primaver	primavera	spring, the season	
-verba	child	xoven	joven	young, youthful; young person	
-vibna	vagina	vaxin	vagina		
-vidni	video	video	video	(Latin America) video tape; (Latin America) movie that is stored on VHS tape or DVD; (Latin America) video store	
+vasxu	breathe	respir	respirar	breathe	
+vecnu	sell	vend	vender	sell	
+venfu	revenge	veng	vengar	avenge	
+vensa	spring	primaver	primavera	spring	
+verba	child	xoven	joven	juvenile	
+vibna	vagina	vaxin	vagina	vagina	
+vidni	video	video	video	video	
 vidru	virus	virus	virus	virus	
-vifne	fresh	fresk	fresco	fresh; cool (temperature); cheeky	
-vikmi	excrete	ekskret	excretar	to excrete	
+vifne	fresh	fresk	fresco	fresh	
+vikmi	excrete	ekskret	excretar	excrete	
 viknu	viscous	viskos	viscoso	viscous	
-vimcu	remove	kit	quitar	(transitive) to remove; (transitive) to get rid of; (transitive) to take off (as clothes); (reflexive) to leave; (reflexive) to disrobe	
-vimcu	remove	sak	sacar	(transitive) to remove; (transitive) to obtain; (transitive) to stick out; (transitive) to take (as in a photograph); (transitive) to make (as in a copy); (sports) to serve; (soccer, soccer) to kick off	
-vimcu	remove	sustra	substraer	subtract (to remove or reduce)	
+vimcu	remove	kit	quitar	remove	
+vimcu	remove	sak	sacar	remove	
+vimcu	remove	sustra	substraer	subtract	
 vindu	poison	venen	veneno	venom	
-vinji	airplane	avion	avión	aeroplane, airplane, plane; martin, swallow	
-vipsi	deputy	vis	vice		
-virnu	brave	valient	valiente	valiant, brave, courageous	
-viska	see	vist	vista	sight; view	
+vinji	airplane	avion	avión	airplane	
+vipsi	deputy	vis	vice	vice	
+virnu	brave	valient	valiente	valiant	
+viska	see	vist	vista	sight	
 vitci	irregular	intermitent	intermitente	intermittent	
-vitke	guest	visit	visitar	to visit	
+vitke	guest	visit	visitar	visit	
 vitno	permanent	eterno	eterno	eternal	correct transcription ``etern''
-vlagi	vulva	vulva	vulva		
+vlagi	vulva	vulva	vulva	vulva	
 vlile	violent	violent	violento	violent	
-vlina	alternation	alternativ	alternativa	an alternative, option; alternation	
-vlipa	powerful	poder	poder	power, reign; authorization; to be able, can	correct transcription ``pod''
+vlina	alternation	alternativ	alternativa	alternative	
+vlipa	powerful	poder	poder	power	correct transcription ``pod''
 vlipa	powerful	potensi	potencia	power	
 vofli	flight	vol	vuelo	flight	
 voksa	voice	vos	voz	voice	
 vorme	door	port	puerta	door	
 vraga	lever	palank	palanca	lever	
-vreji	record	rexistr	registrar	to register, to record; to examine, to inspect, to search	
-vreta	reclining	rekost	recostar		
-vrici	miscellaneous	varios	varios	various, several	
+vreji	record	rexistr	registrar	register	
+vreta	reclining	rekost	recostar	repose	
+vrici	miscellaneous	varios	varios	various	
 vrude	virtue	virtud	virtud	virtue	
-vrusi	taste	gust	gusto	esthetic taste; taste (flavour); pleasure; fancy, whim	
-xabju	dwell	xabit	habitar	to inhabit	
+vrusi	taste	gust	gusto	taste	
+xabju	dwell	xabit	habitar	inhabit	
 xadba	half	mitad	mitad	half	
-xadni	body	korp	cuerpo	body; object	
+xadni	body	korp	cuerpo	body	
 xagji	hunger	ambr	hambre	hunger	
-xagri	reed	lenguet	lengüeta		
-xagri	reed	obo	oboe		
+xagri	reed	lenguet	lengüeta	reed	
+xagri	reed	obo	oboe	oboe	
 xajmi	funny	komik	cómico	funny	
 xaksu	use up	konsum	consumo	consumption	
-xalbo	levity	lixer	ligero	light, not heavy	
+xalbo	levity	lixer	ligero	light	
 xalka	alcohol	alkol	alcohol	alcohol	
 xalni	panic	panik	pánico	panic	
-xamgu	good	bon	bueno	good; fine; okay; fine; (used at the start of a phrase) well; a short pause in a sentence; (interrogatively, Mexico) expression used when answering the phone	
-xamsi	sea	mar	mar	sea; seaside	
-xance	hand	man	mano	(of a person) hand; (of an animal) front foot; (in a game) round; hand; (of paint) coat; (of a clock) hand	
+xamgu	good	bon	bueno	good	
+xamsi	sea	mar	mar	sea	
+xance	hand	man	mano	hand	
 xanka	nervous	nervios	nervioso	nervous	
-xanri	imaginary	imaxinari	imaginario		
+xanri	imaginary	imaxinari	imaginario	imaginary	
 xanto	elephant	elefant	elefante	elephant	
 xarci	weapon	arm	arma	weapon	
-xarju	pig	maran	marrano		
-xarnu	stubborn	testarud	testarudo		
-xasli	donkey	asn	asno	donkey; (slang) dumbass	
-xasne	sweat	sud	sudar	to sweat	
+xarju	pig	maran	marrano	pig	
+xarnu	stubborn	testarud	testarudo	stubborn	
+xasli	donkey	asn	asno	donkey	
+xasne	sweat	sud	sudar	sweat	
 xasne	sweat	sudor	sudor	sweat	
-xatra	letter	kart	carta	letter (mail); document; map; menu	
-xebni	hate	abores	aborrecer	to hate, detest	
-xebni	hate	detest	detestar	to detest, to loathe, to abominate	
-xebni	hate	odi	odiar	to hate	
+xatra	letter	kart	carta	letter	
+xebni	hate	abores	aborrecer	abhor	
+xebni	hate	detest	detestar	detest	
+xebni	hate	odi	odiar	hate	
 xedja	jaw	kixad	quijada	jaw	
-xekri	black	negr	negro	the black colour; the black ethnicity; black (color, not ethnicity)	
-xendo	kind	benevol	benévolo		
-xenru	regret	sent	sentir	to feel; to regret; to hear	
-xinmo	ink	tint	tinta	feminine form of tinto; ink	
-xirma	horse	kabai	caballo	horse; knight (chess)	
+xekri	black	negr	negro	black	
+xendo	kind	benevol	benévolo	benevolent	
+xenru	regret	sent	sentir	regret	
+xinmo	ink	tint	tinta	ink	
+xirma	horse	kabai	caballo	horse	
 xislu	wheel	rod	rueda	wheel	
-xlali	bad	mal	malo	bad; evil; sick	
-xlura	influence	influ	influir	to influence; to have influence on	
+xlali	bad	mal	malo	bad	
+xlura	influence	influ	influir	influence	
 xotli	hotel	otel	hotel	hotel	
-xrani	injure	dan	dañar	(transitive) to damage	
-xruba	buckwheat	ruibarb	ruibarbo		
-xruki	turkey	pav	pavo	turkey; peacock	
+xrani	injure	dan	dañar	harm	
+xruba	buckwheat	ruibarb	ruibarbo	rhubarb	
+xruki	turkey	pav	pavo	turkey	
 xrula	flower	flor	flor	flower	
-xruti	return	retorn	retornar	to return	
-xukmi	chemical	kimik	químico	chemist; chemical	
-xunre	red	rox	rojo	having the colour red; the colour red	
-xusra	assert	deklar	declarar	to declare, to state	
-xutla	smooth	plan	plano		
-zabna	favorable	bien	bien-		
-zajba	gymnast	akrobat	acróbata		
-zalvi	grind	pulveris	pulverizar	to pulverize, atomize	
-zanru	approve	aprob	aprobar	to approve	
-zarci	market	bazar	bazar		
-zargu	buttock	nalg	nalga	buttock, each cheek of the bottom	
-zasni	temporary	pasaxer	pasajero	passing; fleeting	
-zasti	exist	eksist	existir	to exist	
+xruti	return	retorn	retornar	return	
+xukmi	chemical	kimik	químico	chemical	
+xunre	red	rox	rojo	red	
+xusra	assert	deklar	declarar	declare	
+xutla	smooth	plan	plano	plain	
+zabna	favorable	bien	bien	good	
+zajba	gymnast	akrobat	acróbata	acrobat	
+zalvi	grind	pulveris	pulverizar	pulverize	
+zanru	approve	aprob	aprobar	approve	
+zarci	market	bazar	bazar	bazaar	
+zargu	buttock	nalg	nalga	buttock	
+zasni	temporary	pasaxer	pasajero	passing	
+zasti	exist	eksist	existir	exist	
 zbabu	soap	xabon	jabón	soap	
-zbani	bay	bai	bayo		
-zbasu	make	as	hacer	do, make	
-zbepi	pedestal	pedestal	pedestal		
+zbani	bay	bai	bayo	bay	
+zbasu	make	as	hacer	make	
+zbepi	pedestal	pedestal	pedestal	pedestal	
 zdani	nest	nid	nido	nest	
-zdile	amusing	divert	divertir	(transitive) to entertain; (reflexive) to amuse oneself, have fun	
+zdile	amusing	divert	divertir	amuse	
 zekri	crime	krimen	crimen	crime	
-zenba	increase	aument	aumentar	increase; grow	
-zgana	observe	opserv	observar	to observe	
+zenba	increase	aument	aumentar	augment	
+zgana	observe	opserv	observar	observe	
 zgike	music	musik	música	music	
-zifre	free	libr	libre	free, clear, at liberty	
-zinki	zinc	zink	zinc		
-zirpu	purple	purpur	púrpura		
-zivle	invest	invert	invertir	to invert; to invest	
-zmadu	more	mas	más	more; most	
-zmiku	automatic	automatik	automático		
+zifre	free	libr	libre	free	
+zinki	zinc	zink	zinc	zinc	
+zirpu	purple	purpur	púrpura	purple	
+zivle	invest	invert	invertir	invest	
+zmadu	more	mas	más	more	
+zmiku	automatic	automatik	automático	automatic	
 zukte	act	akt	acto	act	
-zumri	maize	mais	maiz	corn, maize	
-zungi	guilt	kompunx	compungir		
-zunle	left	izkier	izquierda	the left	
-zunti	interfere	interfer	interferir	to interfere	
-zutse	sit	sent	sentar	to seat; to set, to establish; to settle down; to assert; to suit, to fit; to set well; to report	
-zvati	at	asist	asistir	to attend	
+zumri	maize	mais	maiz	maize	
+zungi	guilt	kompunx	compungir	make remorseful	
+zunle	left	izkier	izquierda	left	
+zunti	interfere	interfer	interferir	interfere	
+zutse	sit	sent	sentar	sit	
+zvati	at	asist	asistir	attend	
