@@ -1,86 +1,41 @@
-/*
- *  General
- */
-* { 
-    padding: 0; 
-    margin: 0 
-}
-body { 
-    width: 100%; 
-    background-color: #fef0c9; 
-    font-serif; /* family: verdana, arial, sans-serif; */
-}
-ul, ol { 
-    list-style: none;
-}
-
-/* 
- *  Headings
- */
-h1 { 
-    font-family: serif;
-    text-align: center; 
-}
-#version { 
-    font-size: 40%; 
-}
-h3.initial { 
-    border-bottom: thin solid grey; 
-    font-size: xx-large; 
-    font-variant: small-caps; 
-    margin-bottom: 1em; 
-    margin-top: 2em; 
-}
-
-
-/* 
- *  Index
- */
-div.index { 
-    text-align: center;
-    margin-bottom: 3em; 
-    padding-top: .3em;
-    padding-bottom: .3em; 
-}
-div.index a {
-    text-decoration: none;
-    font-variant: small-caps;
-    padding-left: .2em;
-    padding-right: .2em;
-}
-div.index a:hover { text-decoration: underline; }
-div.index a:focus { text-decoration: underline; }
-
-.entry { margin-top: 1em; text-indent: -1.5em; margin-left: 1.5em; }
-.gismu { font-weight: bold; font-family: serif; }
-.rafsilist {}
-.gismudef { font-style: italic; }
-.lang { font-size: small; font-variant: small-caps; text-transform: lowercase; color: grey; }
-.content { width: 500px; }
-.place {  font-weight: bold; } 
-.comment { vertical-align: super; font-size: xx-small; }
+/* general */
+* { padding: 0; margin: 0 }
+body { width: 100%; background-color: #fef0c9; font-family: Palatino, "New Century Schoolbook", serif; }
+ul, ol { list-style: none; }
+.content { width: 700px; padding-top: 50px; padding-left: 20px; margin-left: 200px; }
+a { text-decoration: none; }
+a:hover, a:focus { text-decoration: underline; }
+/* headings, index */
+h1 { text-align: center; color: green; }
+#version { font-size: 40%; }
+h3.initial { border-bottom: thin solid grey; font-size: xx-large; font-variant: small-caps; margin-bottom: 1em; margin-top: 2em; color: #cd0000; }
+div.index { text-align: center; margin-top: 1.5em; margin-bottom: 3em; padding-top: .3em; padding-bottom: .3em; }
+div.index a { font-variant: small-caps; padding-left: .2em; padding-right: .2em; color: #cd0000; }
+/* content */
+.main {}
+.entry { position: relative; margin-top: 1em; text-indent: -1.5em; margin-left: 1.5em; margin-bottom: 3em; }
+.gismu { font-weight: bold; color: green; font-size: larger; }
+.rafsilist { margin-left: .3em; color: grey; }
+.rafsi {}
+.gismudef { margin-left: .6em; font-style: italic; }
 .sumti { color: blue; }
-.sourcewordnumber { vertical-align: super; font-size: xx-small; font-weight: bold; padding-right: .3em; }
-.gismudef { }
-
-/*
-div.entries {}
-div.entry { margin-bottom: 3em; }
-.gismu { display: block; font-family: serif; font-size: large; font-weight: bold; color: green; }
-.gismudef { display: block; margin-left: 1em; margin-top: 1.5em; margin-bottom: .5em; font-style: italic; font-size: smaller; }
-.rafsilist { display: block; }
-.rafsi { font-family: sans-serif; }
-.keywords { display: block; margin-left: 1em; margin-top: 1em; margin-bottom: 1em; }
-.keywordentry { display: block; padding-left: 0; font-family: serif; font-size: smaller; }
-.place { font-weight: bold; }
-.keyword { font-style: italic; }
-.etymology { display: block; margin-left: 1em; margin-top: .5em; }
-.langetymology { display: block; padding: 0; padding-left: 0; }
-.sourcewordentries { padding: 0; }
-.sourcewordentry { padding-right: .5em; }
-.sourceword { font-size: large; font-family: serif; }
-.simplified { padding-left: .5em; }
-.transcription { font-family: serif; font-style: italic; font-size: smaller; }
-.transliteration { font-family: sans-serif; padding-left: .5em; }
-.translation { font-family: serif; font-style: italic; padding-left: .5em; }
-*/
+.keywords { display: block; text-indent: 0; }
+.keywordentry { font-style: italic; margin-right: .3em; }
+.place { font-weight: bold; } 
+.keyword {}
+.etymology { display: block; padding-top: .6em; padding-bottom: .6em; }
+.langetymology { display: block; text-indent: 0; }
+.lang { font-size: small; font-variant: small-caps; text-transform: lowercase; color: grey; }
+.sourcewordentries { padding-left: .3em; }
+.sourcewordentry {}
+.sourcewordnumber { vertical-align: super; font-size: xx-small; font-weight: bold; padding-left: .3em; }
+.sourceword {}
+.simplified { padding-left: .3em; }
+.transcription {}
+.transliteration { padding-left: .3em; font-family: Helvetica, Arial, sans-serif; }
+.translation { padding-left: .3em; font-style: italic; }
+.comment { vertical-align: super; font-size: xx-small; }
+.remark { position: absolute; top: 0; left: -200px; width: 150px; 
+    display: block; text-indent: 0; margin-top: .6em; font-size: smaller; }
+.references { display: block; text-indent: 0; margin-top: .6em; /*font-size: smaller;*/ }
+.gismuref { color: green; }
